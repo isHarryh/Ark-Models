@@ -6,7 +6,7 @@ Arknights Spine Models (Excerpt)
 This project only supports Chinese docs. If you are an English user, feel free to contact us.
 
 ## 介绍 <sub>Intro</sub>
-> 当前更新至：活动 **“好久不见”故事集** 新增的干员和皮肤。  
+> 当前更新至：主线 **淬火尘霾** 新增的干员和皮肤。  
 > 本仓库为不定期更新，欢迎提交PR来完善仓库。  
 
 此仓库收集了《明日方舟》中的部分Spine模型文件，包括：
