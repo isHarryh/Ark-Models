@@ -2,7 +2,7 @@
     "storageDirectory": {
         "Operator": "models"
     },
-    "gameDataVersionDescription": "Stream://torappu-data/v034/rel34.0\nChange:39207 on 2022/12/31\nVersionControl:34.4.0\n",
+    "gameDataVersionDescription": "Stream://torappu-data/v035/rel35.0\nChange:40296 on 2023/01/17\nVersionControl:35.0.0\n",
     "gameDataServerRegion": "zh_CN",
     "data": {
         "285_medic2": {
@@ -1653,6 +1653,20 @@
                 ".skel": "6f184fd5a41d1600463252327721da39"
             }
         },
+        "4078_bdhkgt": {
+            "assetId": "build_char_4078_bdhkgt",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "截云",
+            "appellation": "Jieyun",
+            "skinGroupId": "ILLUST",
+            "skinGroupName": "默认服装",
+            "checksum": {
+                ".atlas": "5ce455fc92f1778c56ffc428d1b30c8e",
+                ".png": "392fc3693588ef28c4542d2ff664d7a5",
+                ".skel": "22c5b49030d01bf9b0600a0192cbe619"
+            }
+        },
         "279_excu": {
             "assetId": "build_char_279_excu",
             "type": "Operator",
@@ -2339,6 +2353,20 @@
                 ".atlas": "fe46dcdef5ed47a02a7705697e9728d2",
                 ".png": "767e7230162d308bc827862a1246d404",
                 ".skel": "c55143f4fb8556815597d597a3d0091c"
+            }
+        },
+        "493_firwhl": {
+            "assetId": "build_char_493_firwhl",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "火哨",
+            "appellation": "Firewhistle",
+            "skinGroupId": "ILLUST",
+            "skinGroupName": "默认服装",
+            "checksum": {
+                ".atlas": "5902acecebdfbf44f1391102acc4fba3",
+                ".png": "611e2050c5af5f8cf9410ffc65cad5d9",
+                ".skel": "ff69bb6bd36f569b6162901d9fba6cfa"
             }
         },
         "422_aurora": {
@@ -3083,6 +3111,20 @@
                 ".skel": "c0d88c90097e131de6e01ae5526b2696"
             }
         },
+        "4080_lin": {
+            "assetId": "build_char_4080_lin",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "林",
+            "appellation": "Lin",
+            "skinGroupId": "ILLUST",
+            "skinGroupName": "默认服装",
+            "checksum": {
+                ".atlas": "157528ff4403aa84722e0509b97d64dc",
+                ".png": "4a5ef89de12bfdaea07437e5dabfdfc6",
+                ".skel": "673028fdb121cd84776e552aecdaabf4"
+            }
+        },
         "377_gdglow": {
             "assetId": "build_char_377_gdglow",
             "type": "Operator",
@@ -3529,6 +3571,20 @@
                 ".atlas": "ae34a4d7580fd06ba41f3af37118076a",
                 ".png": "f342ffd33a98cf03794f867ac03b1e15",
                 ".skel": "463ad4d3ecc8ddcdb7b4b57ffd4a5ead"
+            }
+        },
+        "2024_chyue": {
+            "assetId": "build_char_2024_chyue",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "重岳",
+            "appellation": "Chongyue",
+            "skinGroupId": "ILLUST",
+            "skinGroupName": "默认服装",
+            "checksum": {
+                ".atlas": "36553ad4ad918fe580b5838cf5dcf953",
+                ".png": "2197429d3fbf87a9ebfda3e6866b1546",
+                ".skel": "35b94589b42c328b0ad9987ab5d7fd51"
             }
         },
         "172_svrash": {
@@ -4687,6 +4743,62 @@
                 ".atlas": "0012f90bb42bf0d155f70d881b0eb16c",
                 ".png": "0b0856e306da0932fb3156ae4945a329",
                 ".skel": "59b75626937490783127fee73307381d"
+            }
+        },
+        "476_blkngt_nian#8": {
+            "assetId": "build_char_476_blkngt_nian#8",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "夜半",
+            "appellation": "Blacknight",
+            "skinGroupId": "2023#nian",
+            "skinGroupName": "0011制造/VII",
+            "checksum": {
+                ".atlas": "4e5e90f84a74da8149a7bf5ac562efa1",
+                ".png": "79872707d5a339f5492c12a766fba77b",
+                ".skel": "9f7acb47ffc725a55dad5f61a3dcb8e1"
+            }
+        },
+        "2023_ling_nian#9": {
+            "assetId": "build_char_2023_ling_nian#9",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "令",
+            "appellation": "Ling",
+            "skinGroupId": "2023#nian#2",
+            "skinGroupName": "0011制造/VIII",
+            "checksum": {
+                ".atlas": "681132db557618c02a702e7056713a3e",
+                ".png": "6aa88c3e6decce13d82d2f4cfcad418d",
+                ".skel": "cc7a8bf106b70e1e20f638109adce806"
+            }
+        },
+        "497_ctable_nian#9": {
+            "assetId": "build_char_497_ctable_nian#9",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "晓歌",
+            "appellation": "Cantabile",
+            "skinGroupId": "2023#nian#2",
+            "skinGroupName": "0011制造/VIII",
+            "checksum": {
+                ".atlas": "25d5bcc83effd2f1bd9455c7ed6d0eb6",
+                ".png": "7a9c8f5d2bfe31e2e2e1ff58e310ff7e",
+                ".skel": "29e7e67a3304d78721540f9c5bc739ae"
+            }
+        },
+        "473_mberry_nian#9": {
+            "assetId": "build_char_473_mberry_nian#9",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "桑葚",
+            "appellation": "Mulberry",
+            "skinGroupId": "2023#nian#2",
+            "skinGroupName": "0011制造/VIII",
+            "checksum": {
+                ".atlas": "b79a8bd06f4f836eb6edaf3562da32ef",
+                ".png": "84603e781a4cf45b886b9d9e39e9e5e1",
+                ".skel": "9d42d9f186ad3cd9cc8025615ef7c98b"
             }
         },
         "136_hsguma_nian#3": {
