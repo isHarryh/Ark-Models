@@ -2,7 +2,7 @@
     "storageDirectory": {
         "Operator": "models"
     },
-    "gameDataVersionDescription": "Stream://torappu-data/v035/rel35.0\nChange:40296 on 2023/01/17\nVersionControl:35.0.0\n",
+    "gameDataVersionDescription": "Stream://torappu-data/v035/rel35.0\nChange:40426 on 2023/01/27\nVersionControl:35.3.0\n",
     "gameDataServerRegion": "zh_CN",
     "data": {
         "285_medic2": {
@@ -1662,8 +1662,8 @@
             "skinGroupId": "ILLUST",
             "skinGroupName": "默认服装",
             "checksum": {
-                ".atlas": "5ce455fc92f1778c56ffc428d1b30c8e",
-                ".png": "392fc3693588ef28c4542d2ff664d7a5",
+                ".atlas": "b5ecfda40209ee2c180b5e7f1e672c87",
+                ".png": "34ad7db4dec8525b022978275fe93923",
                 ".skel": "22c5b49030d01bf9b0600a0192cbe619"
             }
         },
@@ -2364,8 +2364,8 @@
             "skinGroupId": "ILLUST",
             "skinGroupName": "默认服装",
             "checksum": {
-                ".atlas": "5902acecebdfbf44f1391102acc4fba3",
-                ".png": "611e2050c5af5f8cf9410ffc65cad5d9",
+                ".atlas": "34d02001042dce7c8f995075fb145506",
+                ".png": "9fc2deb77fa5ef1fe1a9bf52d0229bf4",
                 ".skel": "ff69bb6bd36f569b6162901d9fba6cfa"
             }
         },
@@ -3120,8 +3120,8 @@
             "skinGroupId": "ILLUST",
             "skinGroupName": "默认服装",
             "checksum": {
-                ".atlas": "157528ff4403aa84722e0509b97d64dc",
-                ".png": "4a5ef89de12bfdaea07437e5dabfdfc6",
+                ".atlas": "64b0ed1dde09ed928190367de5859a03",
+                ".png": "d49ee9151ca4b1f6f380e3d4c0c262f3",
                 ".skel": "673028fdb121cd84776e552aecdaabf4"
             }
         },
@@ -3582,8 +3582,8 @@
             "skinGroupId": "ILLUST",
             "skinGroupName": "默认服装",
             "checksum": {
-                ".atlas": "36553ad4ad918fe580b5838cf5dcf953",
-                ".png": "2197429d3fbf87a9ebfda3e6866b1546",
+                ".atlas": "81844896644cd75e32feed6c21cdaeb1",
+                ".png": "cd01c76a90674c1f118a4dae8ac87fb4",
                 ".skel": "35b94589b42c328b0ad9987ab5d7fd51"
             }
         },
@@ -4521,6 +4521,16 @@
                 ".skel": "401530d4bc5d2214b9374241459ea2a9"
             }
         },
+        "485_pallas_epoque#19": {
+            "assetId": "build_char_485_pallas_epoque#19",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "帕拉斯",
+            "appellation": "Pallas",
+            "skinGroupId": "2023#epoque",
+            "skinGroupName": "时代/XIX",
+            "checksum": null
+        },
         "120_hibisc_nian#1": {
             "assetId": "build_char_120_hibisc_nian#1",
             "type": "Operator",
@@ -4754,8 +4764,8 @@
             "skinGroupId": "2023#nian",
             "skinGroupName": "0011制造/VII",
             "checksum": {
-                ".atlas": "4e5e90f84a74da8149a7bf5ac562efa1",
-                ".png": "79872707d5a339f5492c12a766fba77b",
+                ".atlas": "2e8043b7972d1d009c39c117a6890d4b",
+                ".png": "d61aa84abc71c9ca4a08f3d5d8003ec6",
                 ".skel": "9f7acb47ffc725a55dad5f61a3dcb8e1"
             }
         },
@@ -4768,8 +4778,8 @@
             "skinGroupId": "2023#nian#2",
             "skinGroupName": "0011制造/VIII",
             "checksum": {
-                ".atlas": "681132db557618c02a702e7056713a3e",
-                ".png": "6aa88c3e6decce13d82d2f4cfcad418d",
+                ".atlas": "23e7dfec966252990985139b85531c2b",
+                ".png": "dca676da3061115890169826c57a61b3",
                 ".skel": "cc7a8bf106b70e1e20f638109adce806"
             }
         },
@@ -4782,8 +4792,8 @@
             "skinGroupId": "2023#nian#2",
             "skinGroupName": "0011制造/VIII",
             "checksum": {
-                ".atlas": "25d5bcc83effd2f1bd9455c7ed6d0eb6",
-                ".png": "7a9c8f5d2bfe31e2e2e1ff58e310ff7e",
+                ".atlas": "b045276b6bc3f94c768a799e46a80880",
+                ".png": "afd95e1e38357ea88bd17a1dab7193c4",
                 ".skel": "29e7e67a3304d78721540f9c5bc739ae"
             }
         },
@@ -4796,8 +4806,8 @@
             "skinGroupId": "2023#nian#2",
             "skinGroupName": "0011制造/VIII",
             "checksum": {
-                ".atlas": "b79a8bd06f4f836eb6edaf3562da32ef",
-                ".png": "84603e781a4cf45b886b9d9e39e9e5e1",
+                ".atlas": "8d9e6c7c0b6db441b42dfda7ad63d1c4",
+                ".png": "1788f6b0e05d1ec73f4f775b435eb892",
                 ".skel": "9d42d9f186ad3cd9cc8025615ef7c98b"
             }
         },
