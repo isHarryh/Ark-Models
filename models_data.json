@@ -2,7 +2,7 @@
     "storageDirectory": {
         "Operator": "models"
     },
-    "gameDataVersionDescription": "Stream://torappu-data/v035/rel35.0\nChange:40426 on 2023/01/27\nVersionControl:35.3.0\n",
+    "gameDataVersionDescription": "Stream://torappu-data/v035/rel35.0\nChange:40566 on 2023/01/30\nVersionControl:35.3.0\n",
     "gameDataServerRegion": "zh_CN",
     "data": {
         "285_medic2": {
@@ -4529,7 +4529,11 @@
             "appellation": "Pallas",
             "skinGroupId": "2023#epoque",
             "skinGroupName": "时代/XIX",
-            "checksum": null
+            "checksum": {
+                ".atlas": "5abc20fe42c21b780a7cc1d4c2221259",
+                ".png": "38b8e1c35921a5aeebe70744e78b5505",
+                ".skel": "954473343fcb4a41e4237cc53842bc78"
+            }
         },
         "120_hibisc_nian#1": {
             "assetId": "build_char_120_hibisc_nian#1",
