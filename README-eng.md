@@ -7,7 +7,7 @@ Arknights Spine Models (Excerpt)
 
 ## Introduction
 Current update progress:
-- The new operators and skins that published in the [ *Reclamation Algorithm* **Fire within the Sand** ] were added to the repository.
+- The new operators and skins that published in the [ *Activity* **A Death in Chunfen** ] were added to the repository.
 
 The repository collected some Spine models of the game Arknights (CN server), includes:
 1. Building Spine of operators with default skins

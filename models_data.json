@@ -2,7 +2,7 @@
     "storageDirectory": {
         "Operator": "models"
     },
-    "gameDataVersionDescription": "Stream://torappu-data/v035/rel35.0\nChange:40566 on 2023/01/30\nVersionControl:35.3.0\n",
+    "gameDataVersionDescription": "Stream://torappu-data/v035/rel35.0\nChange:41091 on 2023/02/08\nVersionControl:35.5.0\n",
     "gameDataServerRegion": "zh_CN",
     "data": {
         "285_medic2": {
@@ -1403,6 +1403,20 @@
                 ".atlas": "d4e44da9bd82793718262b44aa681040",
                 ".png": "9951b9e89d66c01812f6e096a194f994",
                 ".skel": "70ae7781c093c43a0212012864b5dba4"
+            }
+        },
+        "4083_chimes": {
+            "assetId": "build_char_4083_chimes",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "铎铃",
+            "appellation": "Wind Chimes",
+            "skinGroupId": "ILLUST",
+            "skinGroupName": "默认服装",
+            "checksum": {
+                ".atlas": "5d2dd777de931a28aa0b9fd5293fa1cf",
+                ".png": "dcac50f39f7629f30c9d8c53f61f2511",
+                ".skel": "9a3552fae41bcb84edcee9c54d79d970"
             }
         },
         "252_bibeak": {
@@ -3615,6 +3629,20 @@
                 ".skel": "8a66a88443119e981cc4c01120fbd6d8"
             }
         },
+        "4082_qiubai": {
+            "assetId": "build_char_4082_qiubai",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "仇白",
+            "appellation": "Qiubai",
+            "skinGroupId": "ILLUST",
+            "skinGroupName": "默认服装",
+            "checksum": {
+                ".atlas": "bad93fffc79471834bfa828686e1a3a2",
+                ".png": "ecb55f329630558db9c9d6bf87e204d9",
+                ".skel": "2cd77c449bd3b4e07991166beb236f69"
+            }
+        },
         "010_chen": {
             "assetId": "build_char_010_chen",
             "type": "Operator",
@@ -4533,6 +4561,20 @@
                 ".atlas": "5abc20fe42c21b780a7cc1d4c2221259",
                 ".png": "38b8e1c35921a5aeebe70744e78b5505",
                 ".skel": "954473343fcb4a41e4237cc53842bc78"
+            }
+        },
+        "215_mantic_epoque#19": {
+            "assetId": "build_char_215_mantic_epoque#19",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "狮蝎",
+            "appellation": "Manticore",
+            "skinGroupId": "2023#epoque#2",
+            "skinGroupName": "时代/XX",
+            "checksum": {
+                ".atlas": "5242162acec9ecae1f36779e5d33545c",
+                ".png": "d6a170cd381345b1b95e67ad34255e0c",
+                ".skel": "41c298250391fdfeae7b0b22c0d12cc6"
             }
         },
         "120_hibisc_nian#1": {
@@ -5697,6 +5739,20 @@
                 ".skel": "ee4b0ef49ad6ae5d3156e8ea45d8266a"
             }
         },
+        "110_deepcl_winter#3": {
+            "assetId": "build_char_110_deepcl_winter#3",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "深海色",
+            "appellation": "Deepcolor",
+            "skinGroupId": "2023#winter",
+            "skinGroupName": "寒武纪/III",
+            "checksum": {
+                ".atlas": "bdf5d270ee14834bb42fbbd517ec2909",
+                ".png": "6f96ced2188d2817d04abde0ae8d6003",
+                ".skel": "92e2d9696b4c7e6419970f0b2948b0b2"
+            }
+        },
         "340_shwaz_snow#1": {
             "assetId": "build_char_340_shwaz_snow#1",
             "type": "Operator",
@@ -6083,6 +6139,48 @@
                 ".atlas": "2932ff13687296df3ea8732339282d28",
                 ".png": "2739014ebb111d8eb4ebc0670fffccb7",
                 ".skel": "daf5480315ed6acc84db88874b9d76bb"
+            }
+        },
+        "4055_bgsnow_wild#7": {
+            "assetId": "build_char_4055_bgsnow_wild#7",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "鸿雪",
+            "appellation": "Позёмка",
+            "skinGroupId": "2023#wild",
+            "skinGroupName": "生命之地/VII",
+            "checksum": {
+                ".atlas": "f307ff1af02f8fcc2ab50f3f6fd6b00e",
+                ".png": "003f810ce2b9e1e2fe3df38ae7156d9c",
+                ".skel": "9f50b017a1484cb12f77dac46992df94"
+            }
+        },
+        "4032_provs_wild#7": {
+            "assetId": "build_char_4032_provs_wild#7",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "但书",
+            "appellation": "Proviso",
+            "skinGroupId": "2023#wild",
+            "skinGroupName": "生命之地/VII",
+            "checksum": {
+                ".atlas": "f72c4a20a7706f6c19b4ea75d65b87c9",
+                ".png": "3c6f6dab4fc59d44c7c1969579412c44",
+                ".skel": "b1dc58a66cb0e4dbb2fc4fe900bbaea6"
+            }
+        },
+        "185_frncat_wild#7": {
+            "assetId": "build_char_185_frncat_wild#7",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "慕斯",
+            "appellation": "Mousse",
+            "skinGroupId": "2023#wild",
+            "skinGroupName": "生命之地/VII",
+            "checksum": {
+                ".atlas": "5f4028efb6c09d11967de1e8cf5ad3f2",
+                ".png": "7272a9ed78b1e936fa793549e1fa2e9a",
+                ".skel": "3ae075b366010bcc9365ef1fcfdd3694"
             }
         },
         "219_meteo_sweep#1": {
