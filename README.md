@@ -19,7 +19,7 @@ Arknights Spine Models (Excerpt)
 可以通过点击页面右上角绿色的`Code`按钮选择`Download ZIP`来下载本仓库。  
 当然GitHub的下载比较慢，可以尝试更换线路下载：  
 - [线路一:GitHub](https://github.com/isHarryh/Ark-Models/archive/refs/heads/main.zip)
-- [线路二:91chi](https://github.91chi.fun/https://github.com/isHarryh/Ark-Models/archive/refs/heads/main.zip)
+- [线路二:GHProxy](https://ghproxy.com/?q=https%3A%2F%2Fgithub.com%2FisHarryh%2FArk-Models%2Farchive%2Frefs%2Fheads%2Fmain.zip)
 
 ## 注意
 本仓库中所有素材其版权归属 **上海鹰角网络有限公司** 所有，请在合理的范围内使用这些素材。
