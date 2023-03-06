@@ -2,7 +2,7 @@
     "storageDirectory": {
         "Operator": "models"
     },
-    "gameDataVersionDescription": "Stream://torappu-data/v035/rel35.0\nChange:41389 on 2023/02/16\nVersionControl:35.7.0\n",
+    "gameDataVersionDescription": "Stream://torappu-data/v035/rel35.0\nChange:41389 on 2023/02/16\nVersionControl:35.9.0\n",
     "gameDataServerRegion": "zh_CN",
     "data": {
         "285_medic2": {
@@ -6833,8 +6833,8 @@
                 ".skel": "1c34db3c1e9cf57e5bf620cd364411ac"
             }
         },
-        "311_mudrok_ambienceSynesthesia#2": {
-            "assetId": "build_char_311_mudrok_ambienceSynesthesia#2",
+        "311_mudrok_ambiencesynesthesia#2": {
+            "assetId": "build_char_311_mudrok_ambiencesynesthesia#2",
             "type": "Operator",
             "style": "BuildingSkin",
             "name": "泥岩",
@@ -6847,8 +6847,8 @@
                 ".skel": "c74a5595df25034bf48535dd890bae56"
             }
         },
-        "486_takila_ambienceSynesthesia#2": {
-            "assetId": "build_char_486_takila_ambienceSynesthesia#2",
+        "486_takila_ambiencesynesthesia#2": {
+            "assetId": "build_char_486_takila_ambiencesynesthesia#2",
             "type": "Operator",
             "style": "BuildingSkin",
             "name": "龙舌兰",
@@ -6861,8 +6861,8 @@
                 ".skel": "d5000ee53f28cba070904a0e9c82d7f1"
             }
         },
-        "261_sddrag_ambienceSynesthesia#2": {
-            "assetId": "build_char_261_sddrag_ambienceSynesthesia#2",
+        "261_sddrag_ambiencesynesthesia#2": {
+            "assetId": "build_char_261_sddrag_ambiencesynesthesia#2",
             "type": "Operator",
             "style": "BuildingSkin",
             "name": "苇草",
