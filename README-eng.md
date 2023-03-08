@@ -7,7 +7,7 @@ Arknights Spine Models (Excerpt)
 
 ## Introduction
 Current update progress:
-- The new operators and skins that published in the [ *Activity* **Guiding Ahead (in retrospect)** ] were added to the repository.
+- The new operators and skins that published in the [ *Activity* **Sharpened by Flame** ] were added to the repository.
 
 The repository collected some Spine models of the game Arknights (CN server), includes:
 1. Building Spine of operators with default skins
