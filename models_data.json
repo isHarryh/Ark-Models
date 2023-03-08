@@ -2,7 +2,7 @@
     "storageDirectory": {
         "Operator": "models"
     },
-    "gameDataVersionDescription": "Stream://torappu-data/v035/rel35.0\nChange:41389 on 2023/02/16\nVersionControl:35.9.0\n",
+    "gameDataVersionDescription": "Stream://torappu-data/v036/rel36.0\nChange:42010 on 2023/03/04\nVersionControl:36.0.1\n",
     "gameDataServerRegion": "zh_CN",
     "data": {
         "285_medic2": {
@@ -59,6 +59,20 @@
                 ".atlas": "89b3e04657df3d35e20be0f01d80bd72",
                 ".png": "a52f37588c2ea1bd5380141a1845e702",
                 ".skel": "600fb95933e916498bc3e04c24718296"
+            }
+        },
+        "4077_palico": {
+            "assetId": "build_char_4077_palico",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "泰拉大陆调查团",
+            "appellation": "Terra Research Commission",
+            "skinGroupId": "ILLUST",
+            "skinGroupName": "默认服装",
+            "checksum": {
+                ".atlas": "1f91e3471cae372ffe5291c99fa2668b",
+                ".png": "4c165521875b4b8ccc0f37de1f3e82d3",
+                ".skel": "1c06eeef0c299f9dfbafbfa6ddc69239"
             }
         },
         "502_nblade": {
@@ -1515,6 +1529,20 @@
                 ".atlas": "14240f380e8c96bd1831a65df3123567",
                 ".png": "27c901e198d8fdd952f646fa7b1f45ee",
                 ".skel": "104c1c87b7726648999fd8d605e624f9"
+            }
+        },
+        "1030_noirc2": {
+            "assetId": "build_char_1030_noirc2",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "火龙S黑角",
+            "appellation": "Rathalos S Noir Corne",
+            "skinGroupId": "ILLUST",
+            "skinGroupName": "默认服装",
+            "checksum": {
+                ".atlas": "1ccd09cb58111efd060258550d3bf7f2",
+                ".png": "9bd08283a0b603ee6e550fced2043dc4",
+                ".skel": "e422acf3c1d32f455a05414647d3ea88"
             }
         },
         "421_crow": {
@@ -3293,6 +3321,20 @@
                 ".skel": "2a5013b4192e2c7c2d1001308b46cbbe"
             }
         },
+        "1029_yato2": {
+            "assetId": "build_char_1029_yato2",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "麒麟X夜刀",
+            "appellation": "Kirin X Yato",
+            "skinGroupId": "ILLUST",
+            "skinGroupName": "默认服装",
+            "checksum": {
+                ".atlas": "1cf2c41fbdf4e3e6a3e235c009208af9",
+                ".png": "c218b210c3707907e2bfb092e9588083",
+                ".skel": "954c3fe93b8e538e5da83cd5bdc389b4"
+            }
+        },
         "322_lmlee": {
             "assetId": "build_char_322_lmlee",
             "type": "Operator",
@@ -4603,6 +4645,48 @@
                 ".atlas": "5ff864fed77f1ff81ea8bebb9b8dc8b8",
                 ".png": "4dff570176e549f8111187e02c3fe51e",
                 ".skel": "aa481ad7087096d1f70d0fc95a6bbf7a"
+            }
+        },
+        "358_lisa_epoque#22": {
+            "assetId": "build_char_358_lisa_epoque#22",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "铃兰",
+            "appellation": "Suzuran",
+            "skinGroupId": "2023#epoque#4",
+            "skinGroupName": "时代/XXII",
+            "checksum": {
+                ".atlas": "a6bb6861c2238b6096562cd544c5995c",
+                ".png": "1ef91b1b2a2e03f0516a165c23587584",
+                ".skel": "5955012d125d9cf2843a70317394b2bb"
+            }
+        },
+        "388_mint_epoque#22": {
+            "assetId": "build_char_388_mint_epoque#22",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "薄绿",
+            "appellation": "Mint",
+            "skinGroupId": "2023#epoque#4",
+            "skinGroupName": "时代/XXII",
+            "checksum": {
+                ".atlas": "80b3071787acddf4472172ca0b4fecf1",
+                ".png": "3299f978d1bb8523b09a135b39ec512f",
+                ".skel": "cfea02522176521113efe5693eca1da1"
+            }
+        },
+        "336_folivo_epoque#22": {
+            "assetId": "build_char_336_folivo_epoque#22",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "稀音",
+            "appellation": "Scene",
+            "skinGroupId": "2023#epoque#4",
+            "skinGroupName": "时代/XXII",
+            "checksum": {
+                ".atlas": "36bb29ff4f81bee3024db46f89b180bf",
+                ".png": "57fe377a0cf21c0dbe5283ae2491d11d",
+                ".skel": "5f762b1e990ef170872b71746d5a30d3"
             }
         },
         "120_hibisc_nian#1": {
@@ -6943,6 +7027,20 @@
                 ".atlas": "949544b51d91fa7ded114573143d9a1c",
                 ".png": "427f9799b5837385b5f22970f1323118",
                 ".skel": "aab3f5f74860a935a1d511fc34da9b78"
+            }
+        },
+        "4077_palico_mh#1": {
+            "assetId": "build_char_4077_palico_mh#1",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "泰拉大陆调查团",
+            "appellation": "Terra Research Commission",
+            "skinGroupId": "2023#mh",
+            "skinGroupName": "怪物猎人",
+            "checksum": {
+                ".atlas": "c4ed0bb7c024832cb013bdf2b97cee17",
+                ".png": "76c4abd85590365888d10c8e4db4247b",
+                ".skel": "3f30903c183c0278929ee3d3fb9bd21f"
             }
         },
         "332_archet_shining#1": {
