@@ -1,5 +1,5 @@
 # Enforce line endings
-* text=auto eol=crlf
+* text=auto eol=lf
 
 # Isolate binary files
 *.{png,skel} binary
