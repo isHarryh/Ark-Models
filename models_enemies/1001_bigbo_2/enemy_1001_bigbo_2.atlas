@@ -1,0 +1,181 @@
+
+enemy_1001_bigbo_2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Armor
+  rotate: false
+  xy: 120, 262
+  size: 42, 59
+  orig: 42, 59
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 323
+  size: 132, 187
+  orig: 132, 187
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 83, 153
+  size: 66, 57
+  orig: 66, 57
+  offset: 0, 0
+  index: -1
+Hood_A
+  rotate: true
+  xy: 164, 270
+  size: 59, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1
+Hood_B
+  rotate: false
+  xy: 341, 428
+  size: 80, 48
+  orig: 80, 48
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: false
+  xy: 142, 166
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+L_Foot_A
+  rotate: false
+  xy: 205, 368
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+L_Foot_B
+  rotate: false
+  xy: 377, 399
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: false
+  xy: 209, 395
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+L_Kneecap_A
+  rotate: true
+  xy: 2, 2
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+L_Kneecap_B
+  rotate: false
+  xy: 334, 403
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: false
+  xy: 136, 331
+  size: 67, 76
+  orig: 67, 76
+  offset: 0, 0
+  index: -1
+Plastron_A
+  rotate: false
+  xy: 209, 423
+  size: 70, 87
+  orig: 70, 87
+  offset: 0, 0
+  index: -1
+Plastron_B
+  rotate: false
+  xy: 136, 409
+  size: 71, 101
+  orig: 71, 101
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: false
+  xy: 2, 49
+  size: 70, 98
+  orig: 70, 98
+  offset: 0, 0
+  index: -1
+R_Foot_A
+  rotate: true
+  xy: 249, 385
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+R_Foot_B
+  rotate: true
+  xy: 205, 331
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 120, 221
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+R_Kneecap_A
+  rotate: false
+  xy: 281, 403
+  size: 51, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+R_Kneecap_B
+  rotate: true
+  xy: 37, 2
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: false
+  xy: 281, 437
+  size: 58, 73
+  orig: 58, 73
+  offset: 0, 0
+  index: -1
+Strap
+  rotate: true
+  xy: 442, 452
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: true
+  xy: 2, 149
+  size: 172, 79
+  orig: 172, 79
+  offset: 0, 0
+  index: -1
+Weapon_A
+  rotate: false
+  xy: 341, 478
+  size: 99, 32
+  orig: 99, 32
+  offset: 0, 0
+  index: -1
+Weapon_B
+  rotate: true
+  xy: 83, 221
+  size: 100, 35
+  orig: 100, 35
+  offset: 0, 0
+  index: -1

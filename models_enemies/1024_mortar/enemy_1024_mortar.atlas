@@ -1,0 +1,209 @@
+
+enemy_1024_mortar.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_L_arm_A
+  rotate: false
+  xy: 159, 63
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+C_L_arm_B
+  rotate: false
+  xy: 131, 66
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+C_L_fingers
+  rotate: false
+  xy: 203, 100
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+C_L_hand
+  rotate: false
+  xy: 180, 124
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+C_L_kneepad
+  rotate: true
+  xy: 183, 67
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+C_L_shin
+  rotate: false
+  xy: 61, 98
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+C_L_shoes
+  rotate: false
+  xy: 141, 124
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+C_L_thigh
+  rotate: false
+  xy: 175, 92
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+C_R_arm_A
+  rotate: false
+  xy: 72, 69
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+C_R_arm_B
+  rotate: false
+  xy: 72, 43
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+C_R_hand_1
+  rotate: true
+  xy: 33, 2
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+C_R_hand_2
+  rotate: false
+  xy: 2, 2
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+C_R_kneepad
+  rotate: true
+  xy: 213, 124
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+C_R_shin
+  rotate: false
+  xy: 190, 153
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+C_R_shoes
+  rotate: true
+  xy: 141, 91
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+C_R_thigh
+  rotate: false
+  xy: 100, 68
+  size: 18, 33
+  orig: 18, 33
+  offset: 0, 0
+  index: -1
+C_clothes_A
+  rotate: true
+  xy: 99, 103
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+C_clothes_B
+  rotate: false
+  xy: 73, 189
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+C_head
+  rotate: false
+  xy: 125, 198
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+C_hood_A
+  rotate: false
+  xy: 2, 92
+  size: 57, 65
+  orig: 57, 65
+  offset: 0, 0
+  index: -1
+C_hood_B
+  rotate: false
+  xy: 2, 32
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+C_scarf
+  rotate: true
+  xy: 229, 200
+  size: 54, 22
+  orig: 54, 22
+  offset: 0, 0
+  index: -1
+C_straps
+  rotate: false
+  xy: 139, 155
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+C_weapon_A
+  rotate: false
+  xy: 59, 42
+  size: 11, 48
+  orig: 11, 48
+  offset: 0, 0
+  index: -1
+C_weapon_B
+  rotate: false
+  xy: 229, 148
+  size: 18, 50
+  orig: 18, 50
+  offset: 0, 0
+  index: -1
+C_weapon_C
+  rotate: false
+  xy: 120, 66
+  size: 9, 35
+  orig: 9, 35
+  offset: 0, 0
+  index: -1
+C_weapon_D
+  rotate: true
+  xy: 73, 147
+  size: 40, 64
+  orig: 40, 64
+  offset: 0, 0
+  index: -1
+C_weapon_E
+  rotate: false
+  xy: 2, 159
+  size: 69, 95
+  orig: 69, 95
+  offset: 0, 0
+  index: -1
+C_weapon_F
+  rotate: false
+  xy: 177, 198
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+enemy_1087_ltwolf.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_BL_Foot
+  rotate: false
+  xy: 29, 125
+  size: 42, 68
+  orig: 42, 68
+  offset: 0, 0
+  index: -1
+C_BR_Foot
+  rotate: true
+  xy: 173, 189
+  size: 31, 64
+  orig: 31, 64
+  offset: 0, 0
+  index: -1
+C_Bandage_I
+  rotate: true
+  xy: 73, 128
+  size: 65, 40
+  orig: 65, 40
+  offset: 0, 0
+  index: -1
+C_Bandage_II
+  rotate: true
+  xy: 2, 84
+  size: 109, 25
+  orig: 109, 25
+  offset: 0, 0
+  index: -1
+C_Bandage_III
+  rotate: false
+  xy: 161, 140
+  size: 52, 17
+  orig: 52, 17
+  offset: 0, 0
+  index: -1
+C_Bandage_IV
+  rotate: true
+  xy: 37, 34
+  size: 48, 20
+  orig: 48, 20
+  offset: 0, 0
+  index: -1
+C_Bandage_V
+  rotate: false
+  xy: 81, 99
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+C_Bandage_VI
+  rotate: false
+  xy: 161, 159
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+C_Bandage_VII
+  rotate: false
+  xy: 115, 122
+  size: 45, 16
+  orig: 45, 16
+  offset: 0, 0
+  index: -1
+C_Belt_I
+  rotate: true
+  xy: 227, 150
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+C_Belt_II
+  rotate: true
+  xy: 162, 110
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+C_Belt_III
+  rotate: true
+  xy: 115, 104
+  size: 16, 41
+  orig: 16, 41
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: false
+  xy: 2, 195
+  size: 101, 59
+  orig: 101, 59
+  offset: 0, 0
+  index: -1
+C_Ear_L
+  rotate: false
+  xy: 54, 88
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+C_Ear_R
+  rotate: false
+  xy: 59, 48
+  size: 14, 38
+  orig: 14, 38
+  offset: 0, 0
+  index: -1
+C_FL_Foot
+  rotate: true
+  xy: 173, 222
+  size: 32, 77
+  orig: 32, 77
+  offset: 0, 0
+  index: -1
+C_FR_Foot
+  rotate: false
+  xy: 2, 8
+  size: 33, 74
+  orig: 33, 74
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 105, 205
+  size: 66, 49
+  orig: 66, 49
+  offset: 0, 0
+  index: -1
+C_Mouth
+  rotate: true
+  xy: 29, 84
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: false
+  xy: 115, 140
+  size: 44, 63
+  orig: 44, 63
+  offset: 0, 0
+  index: -1
+C_Tongue
+  rotate: true
+  xy: 37, 3
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1

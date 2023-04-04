@@ -1,0 +1,97 @@
+
+enemy_1234_dsubrl.png
+size: 274,274
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Ball_1
+  rotate: false
+  xy: 2, 5
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+C_Ball_2
+  rotate: false
+  xy: 43, 5
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+C_Ball_3
+  rotate: false
+  xy: 84, 5
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+C_Ball_4
+  rotate: false
+  xy: 125, 5
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: true
+  xy: 2, 46
+  size: 116, 142
+  orig: 116, 142
+  offset: 0, 0
+  index: -1
+C_Coral_1
+  rotate: false
+  xy: 247, 183
+  size: 25, 89
+  orig: 25, 89
+  offset: 0, 0
+  index: -1
+C_Coral_2
+  rotate: false
+  xy: 182, 183
+  size: 63, 89
+  orig: 63, 89
+  offset: 0, 0
+  index: -1
+C_Coral_3
+  rotate: false
+  xy: 146, 59
+  size: 34, 103
+  orig: 34, 103
+  offset: 0, 0
+  index: -1
+C_Coral_4
+  rotate: true
+  xy: 198, 2
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+C_Gold_1
+  rotate: false
+  xy: 233, 37
+  size: 32, 144
+  orig: 32, 144
+  offset: 0, 0
+  index: -1
+C_Gold_2
+  rotate: false
+  xy: 182, 35
+  size: 14, 146
+  orig: 14, 146
+  offset: 0, 0
+  index: -1
+C_Gold_3
+  rotate: false
+  xy: 198, 36
+  size: 33, 145
+  orig: 33, 146
+  offset: 0, 0
+  index: -1
+C_Hat
+  rotate: false
+  xy: 2, 164
+  size: 178, 108
+  orig: 178, 186
+  offset: 0, 78
+  index: -1

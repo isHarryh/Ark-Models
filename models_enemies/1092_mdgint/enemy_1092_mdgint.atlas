@@ -1,0 +1,111 @@
+
+enemy_1092_mdgint.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chest
+  rotate: false
+  xy: 2, 388
+  size: 113, 119
+  orig: 113, 119
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 207
+  size: 74, 82
+  orig: 74, 82
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: false
+  xy: 188, 439
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: false
+  xy: 117, 414
+  size: 69, 93
+  orig: 69, 93
+  offset: 0, 0
+  index: -1
+L_Calf
+  rotate: false
+  xy: 2, 2
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+L_Foot
+  rotate: false
+  xy: 117, 388
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+L_Forearm
+  rotate: true
+  xy: 330, 449
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: false
+  xy: 2, 144
+  size: 65, 61
+  orig: 65, 61
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: false
+  xy: 2, 30
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: false
+  xy: 2, 291
+  size: 75, 95
+  orig: 75, 95
+  offset: 0, 0
+  index: -1
+R_Calf
+  rotate: false
+  xy: 393, 481
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+R_Foot
+  rotate: false
+  xy: 188, 414
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+R_Forearm
+  rotate: false
+  xy: 2, 76
+  size: 54, 66
+  orig: 54, 66
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 261, 449
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: false
+  xy: 79, 337
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1

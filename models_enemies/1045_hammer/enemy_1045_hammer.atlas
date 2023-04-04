@@ -1,0 +1,265 @@
+
+enemy_1045_hammer.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_ArmorBand
+  rotate: false
+  xy: 2, 161
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+C_Armor_I
+  rotate: false
+  xy: 2, 229
+  size: 70, 87
+  orig: 70, 87
+  offset: 0, 0
+  index: -1
+C_Armor_II
+  rotate: false
+  xy: 192, 449
+  size: 70, 61
+  orig: 70, 61
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: false
+  xy: 84, 402
+  size: 106, 108
+  orig: 106, 108
+  offset: 0, 0
+  index: -1
+C_Chain
+  rotate: false
+  xy: 228, 359
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+C_Chain_I
+  rotate: false
+  xy: 54, 2
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+C_Chain_II
+  rotate: false
+  xy: 54, 2
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+C_Chain_III
+  rotate: false
+  xy: 54, 2
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+C_Chain_IV
+  rotate: false
+  xy: 54, 2
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+C_Chain_V
+  rotate: false
+  xy: 54, 2
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+C_Collar_I
+  rotate: false
+  xy: 167, 361
+  size: 59, 39
+  orig: 59, 39
+  offset: 0, 0
+  index: -1
+C_Collar_II
+  rotate: false
+  xy: 84, 345
+  size: 81, 55
+  orig: 81, 55
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 84, 306
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: true
+  xy: 63, 95
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+C_L_Calf
+  rotate: true
+  xy: 402, 461
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+C_L_Finger_A
+  rotate: false
+  xy: 56, 39
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+C_L_Finger_B
+  rotate: true
+  xy: 122, 273
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+C_L_Foot_I
+  rotate: true
+  xy: 2, 2
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+C_L_Foot_II
+  rotate: true
+  xy: 140, 305
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: false
+  xy: 457, 461
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 56, 60
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+C_L_Kneepad_I
+  rotate: false
+  xy: 276, 428
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+C_L_Kneepad_II
+  rotate: false
+  xy: 276, 404
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: false
+  xy: 74, 259
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+C_Mask
+  rotate: false
+  xy: 332, 461
+  size: 68, 49
+  orig: 68, 49
+  offset: 0, 0
+  index: -1
+C_PadBand
+  rotate: false
+  xy: 74, 219
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: false
+  xy: 2, 96
+  size: 59, 63
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+C_R_Calf
+  rotate: false
+  xy: 2, 39
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+C_R_Foot_I
+  rotate: true
+  xy: 140, 267
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+C_R_Foot_II
+  rotate: true
+  xy: 29, 2
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: true
+  xy: 264, 453
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: false
+  xy: 63, 131
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+C_R_Kneepad_I
+  rotate: true
+  xy: 109, 176
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+C_R_Kneepad_II
+  rotate: true
+  xy: 248, 406
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: false
+  xy: 62, 174
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+C_ShoulderPad
+  rotate: true
+  xy: 192, 402
+  size: 45, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1
+C_Weapon
+  rotate: false
+  xy: 2, 318
+  size: 80, 192
+  orig: 80, 192
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+enemy_1008_ghost.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Head
+  rotate: false
+  xy: 145, 212
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+Helmet
+  rotate: false
+  xy: 86, 202
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+Helmet_2
+  rotate: false
+  xy: 2, 202
+  size: 82, 52
+  orig: 82, 52
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: true
+  xy: 191, 224
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+L_Finger
+  rotate: false
+  xy: 36, 36
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+L_Finger_A
+  rotate: true
+  xy: 236, 231
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+L_Finger_B
+  rotate: false
+  xy: 117, 150
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+L_Foot
+  rotate: true
+  xy: 36, 57
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: true
+  xy: 174, 187
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: false
+  xy: 2, 120
+  size: 32, 80
+  orig: 32, 80
+  offset: 0, 0
+  index: -1
+Masks
+  rotate: true
+  xy: 36, 91
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: false
+  xy: 82, 152
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+R_Foot
+  rotate: true
+  xy: 117, 171
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 145, 182
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+R_Hand_B
+  rotate: false
+  xy: 2, 5
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: false
+  xy: 2, 42
+  size: 32, 76
+  orig: 32, 76
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: false
+  xy: 36, 147
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+Wristband
+  rotate: false
+  xy: 236, 216
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1

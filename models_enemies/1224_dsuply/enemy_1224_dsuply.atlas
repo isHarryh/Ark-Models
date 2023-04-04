@@ -1,0 +1,265 @@
+
+enemy_1224_dsuply.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lower baffle
+  rotate: false
+  xy: 2, 347
+  size: 198, 24
+  orig: 198, 24
+  offset: 0, 0
+  index: -1
+Lower baffle2
+  rotate: true
+  xy: 430, 412
+  size: 87, 24
+  orig: 87, 24
+  offset: 0, 0
+  index: -1
+b7
+  rotate: false
+  xy: 185, 373
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 373
+  size: 188, 126
+  orig: 188, 126
+  offset: 0, 0
+  index: -1
+cs_1
+  rotate: false
+  xy: 98, 399
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+cs_10
+  rotate: false
+  xy: 2, 330
+  size: 97, 15
+  orig: 118, 19
+  offset: 21, 0
+  index: -1
+cs_11
+  rotate: true
+  xy: 247, 318
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+cs_13
+  rotate: 270
+  xy: 192, 456
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+cs_14
+  rotate: false
+  xy: 62, 295
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+cs_15
+  rotate: 180
+  xy: 223, 300
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+cs_16
+  rotate: true
+  xy: 175, 296
+  size: 50, 50
+  orig: 50, 51
+  offset: 0, 1
+  index: -1
+cs_17
+  rotate: 270
+  xy: 318, 293
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+cs_18
+  rotate: false
+  xy: 2, 305
+  size: 59, 25
+  orig: 59, 25
+  offset: 0, 0
+  index: -1
+cs_2
+  rotate: false
+  xy: 2, 408
+  size: 10, 31
+  orig: 10, 31
+  offset: 0, 0
+  index: -1
+cs_3
+  rotate: false
+  xy: 34, 294
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+cs_4
+  rotate: false
+  xy: 322, 353
+  size: 93, 74
+  orig: 93, 74
+  offset: 0, 0
+  index: -1
+cs_5
+  rotate: true
+  xy: 295, 323
+  size: 42, 72
+  orig: 42, 72
+  offset: 0, 0
+  index: -1
+cs_6
+  rotate: false
+  xy: 103, 294
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+cs_7
+  rotate: 270
+  xy: 378, 310
+  size: 44, 50
+  orig: 48, 50
+  offset: 2, 0
+  index: -1
+cs_8
+  rotate: false
+  xy: 119, 385
+  size: 63, 49
+  orig: 63, 49
+  offset: 0, 0
+  index: -1
+cs_9
+  rotate: true
+  xy: 467, 308
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+front wheel
+  rotate: false
+  xy: 99, 312
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+front wheel_4
+  rotate: false
+  xy: 99, 312
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+ladder
+  rotate: false
+  xy: 202, 335
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+ladder2
+  rotate: false
+  xy: 465, 345
+  size: 29, 65
+  orig: 29, 65
+  offset: 0, 0
+  index: -1
+ladder3
+  rotate: false
+  xy: 456, 412
+  size: 29, 68
+  orig: 29, 68
+  offset: 0, 0
+  index: -1
+r_front wheel
+  rotate: false
+  xy: 137, 312
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+r_front wheel_12
+  rotate: true
+  xy: 255, 428
+  size: 71, 65
+  orig: 71, 65
+  offset: 0, 0
+  index: -1
+r_front wheel_4
+  rotate: false
+  xy: 429, 310
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+r_front wheel_8
+  rotate: true
+  xy: 255, 355
+  size: 71, 65
+  orig: 71, 65
+  offset: 0, 0
+  index: -1
+rear wheel
+  rotate: true
+  xy: 322, 428
+  size: 71, 65
+  orig: 71, 65
+  offset: 0, 0
+  index: -1
+rear wheel_1
+  rotate: false
+  xy: 73, 315
+  size: 15, 11
+  orig: 18, 15
+  offset: 3, 4
+  index: -1
+rear wheel_2
+  rotate: false
+  xy: 2, 376
+  size: 15, 18
+  orig: 21, 18
+  offset: 6, 0
+  index: -1
+rear wheel_3
+  rotate: false
+  xy: 98, 376
+  size: 19, 16
+  orig: 25, 16
+  offset: 6, 0
+  index: -1
+rear wheel_4
+  rotate: false
+  xy: 2, 389
+  size: 23, 9
+  orig: 29, 9
+  offset: 6, 0
+  index: -1
+rear wheel_5
+  rotate: false
+  xy: 389, 395
+  size: 39, 64
+  orig: 39, 64
+  offset: 0, 0
+  index: -1
+rear wheel_6
+  rotate: false
+  xy: 430, 347
+  size: 33, 63
+  orig: 33, 63
+  offset: 0, 0
+  index: -1

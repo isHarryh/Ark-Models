@@ -1,0 +1,48 @@
+
+enemy_1152_dsurch.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 234
+  size: 166, 196
+  orig: 166, 196
+  offset: 0, 0
+  index: -1
+C_Leg_01
+  rotate: false
+  xy: 2, 2
+  size: 58, 101
+  orig: 58, 101
+  offset: 0, 0
+  index: -1
+C_Leg_02
+  rotate: false
+  xy: 85, 149
+  size: 75, 83
+  orig: 75, 83
+  offset: 0, 0
+  index: -1
+C_Leg_03
+  rotate: false
+  xy: 170, 338
+  size: 75, 92
+  orig: 75, 92
+  offset: 0, 0
+  index: -1
+C_Leg_04
+  rotate: false
+  xy: 2, 105
+  size: 81, 127
+  orig: 81, 127
+  offset: 0, 0
+  index: -1
+C_Leg_05
+  rotate: false
+  xy: 170, 247
+  size: 58, 89
+  orig: 58, 89
+  offset: 0, 0
+  index: -1

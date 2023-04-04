@@ -1,0 +1,76 @@
+
+enemy_1125_spshld_2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_L_Foot
+  rotate: false
+  xy: 81, 131
+  size: 58, 34
+  orig: 58, 34
+  offset: 0, 0
+  index: -1
+F_L_Leg
+  rotate: false
+  xy: 2, 19
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+F_R_Foot
+  rotate: false
+  xy: 268, 305
+  size: 61, 45
+  orig: 61, 45
+  offset: 0, 0
+  index: -1
+F_R_Leg
+  rotate: false
+  xy: 347, 400
+  size: 82, 74
+  orig: 82, 74
+  offset: 0, 0
+  index: -1
+F_Shell
+  rotate: false
+  xy: 2, 285
+  size: 264, 189
+  orig: 264, 189
+  offset: 0, 0
+  index: -1
+F_Tail
+  rotate: false
+  xy: 2, 167
+  size: 244, 116
+  orig: 244, 116
+  offset: 0, 0
+  index: -1
+F_head
+  rotate: false
+  xy: 268, 352
+  size: 77, 122
+  orig: 77, 122
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 74
+  size: 77, 91
+  orig: 77, 91
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: true
+  xy: 347, 361
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+head_2_1
+  rotate: false
+  xy: 431, 450
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1

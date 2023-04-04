@@ -1,0 +1,132 @@
+
+enemy_1307_mhrhcr_2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: true
+  xy: 136, 205
+  size: 132, 100
+  orig: 132, 100
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: true
+  xy: 236, 206
+  size: 74, 64
+  orig: 74, 65
+  offset: 0, 1
+  index: -1
+C_L_Arm
+  rotate: 270
+  xy: 2, 191
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+C_L_Ears
+  rotate: true
+  xy: 41, 168
+  size: 32, 60
+  orig: 32, 60
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: false
+  xy: 37, 321
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: false
+  xy: 37, 321
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: 270
+  xy: 108, 180
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 2, 170
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: false
+  xy: 293, 282
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: false
+  xy: 293, 282
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+C_L_Thigh
+  rotate: false
+  xy: 302, 214
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: 270
+  xy: 159, 167
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: true
+  xy: 309, 170
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: false
+  xy: 2, 326
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+C_R_Thigh
+  rotate: true
+  xy: 199, 167
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: true
+  xy: 245, 169
+  size: 45, 71
+  orig: 45, 71
+  offset: 0, 0
+  index: -1
+C_lower jaw
+  rotate: false
+  xy: 238, 282
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+C_ox horn
+  rotate: false
+  xy: 2, 202
+  size: 151, 139
+  orig: 151, 139
+  offset: 0, 0
+  index: -1

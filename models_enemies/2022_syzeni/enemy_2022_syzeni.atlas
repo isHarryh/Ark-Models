@@ -1,0 +1,83 @@
+
+enemy_2022_syzeni.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body_01
+  rotate: false
+  xy: 2, 341
+  size: 99, 118
+  orig: 107, 126
+  offset: 0, 8
+  index: -1
+C_Body_02
+  rotate: false
+  xy: 2, 207
+  size: 79, 62
+  orig: 79, 62
+  offset: 0, 0
+  index: -1
+C_Head_01
+  rotate: true
+  xy: 62, 2
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+C_Head_02
+  rotate: false
+  xy: 2, 146
+  size: 75, 59
+  orig: 76, 59
+  offset: 0, 0
+  index: -1
+C_Head_03
+  rotate: false
+  xy: 2, 271
+  size: 90, 68
+  orig: 90, 68
+  offset: 0, 0
+  index: -1
+C_L_Foot_01
+  rotate: false
+  xy: 79, 131
+  size: 22, 74
+  orig: 22, 76
+  offset: 0, 0
+  index: -1
+C_L_Foot_02
+  rotate: true
+  xy: 2, 106
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+C_L_Pincers_01
+  rotate: true
+  xy: 2, 65
+  size: 39, 57
+  orig: 39, 58
+  offset: 0, 1
+  index: -1
+C_L_Pincers_02
+  rotate: false
+  xy: 72, 106
+  size: 25, 22
+  orig: 25, 23
+  offset: 0, 1
+  index: -1
+C_R_Foot_01
+  rotate: true
+  xy: 2, 17
+  size: 35, 58
+  orig: 36, 58
+  offset: 0, 0
+  index: -1
+C_R_Pincers_01
+  rotate: false
+  xy: 61, 54
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+enemy_1053_norgst.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Head
+  rotate: false
+  xy: 2, 163
+  size: 67, 72
+  orig: 67, 72
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: false
+  xy: 2, 47
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: false
+  xy: 36, 135
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: true
+  xy: 36, 81
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 36, 105
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: true
+  xy: 71, 203
+  size: 32, 76
+  orig: 32, 76
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: false
+  xy: 2, 17
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+C_R_Finger
+  rotate: true
+  xy: 126, 177
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: false
+  xy: 149, 209
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: false
+  xy: 183, 209
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: false
+  xy: 30, 60
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: false
+  xy: 2, 81
+  size: 32, 80
+  orig: 32, 80
+  offset: 0, 0
+  index: -1
+C_Waist
+  rotate: true
+  xy: 71, 156
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+C_Wristband
+  rotate: false
+  xy: 2, 2
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1

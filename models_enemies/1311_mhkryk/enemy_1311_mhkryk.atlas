@@ -1,0 +1,160 @@
+
+enemy_1311_mhkryk.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: 270
+  xy: 194, 409
+  size: 101, 96
+  orig: 101, 96
+  offset: 0, 0
+  index: -1
+C_Finger
+  rotate: false
+  xy: 97, 486
+  size: 16, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 375, 433
+  size: 84, 78
+  orig: 84, 78
+  offset: 0, 0
+  index: -1
+C_Hip
+  rotate: true
+  xy: 97, 407
+  size: 104, 100
+  orig: 104, 100
+  offset: 0, 0
+  index: -1
+C_Jaw
+  rotate: 270
+  xy: 134, 345
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: false
+  xy: 451, 367
+  size: 49, 58
+  orig: 51, 58
+  offset: 2, 0
+  index: -1
+C_L_Calf
+  rotate: false
+  xy: 334, 376
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: false
+  xy: 2, 357
+  size: 68, 29
+  orig: 68, 29
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: false
+  xy: 160, 366
+  size: 71, 46
+  orig: 71, 46
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 225, 350
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: false
+  xy: 446, 427
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+C_Neck
+  rotate: 270
+  xy: 312, 424
+  size: 87, 72
+  orig: 91, 75
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: false
+  xy: 97, 349
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+C_R_Calf
+  rotate: false
+  xy: 424, 354
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: 180
+  xy: 308, 350
+  size: 68, 23
+  orig: 68, 23
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: false
+  xy: 51, 348
+  size: 46, 27
+  orig: 46, 27
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: false
+  xy: 377, 353
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: false
+  xy: 387, 384
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+C_Shield
+  rotate: false
+  xy: 2, 388
+  size: 93, 122
+  orig: 93, 122
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: 180
+  xy: 261, 348
+  size: 71, 162
+  orig: 71, 162
+  offset: 0, 0
+  index: -1
+C_Tongue
+  rotate: false
+  xy: 205, 347
+  size: 19, 40
+  orig: 19, 40
+  offset: 0, 0
+  index: -1
+C_Touth
+  rotate: false
+  xy: 115, 499
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1

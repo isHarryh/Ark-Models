@@ -1,0 +1,160 @@
+
+enemy_1009_lurker.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bag
+  rotate: false
+  xy: 204, 193
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+Collar
+  rotate: false
+  xy: 204, 222
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 2, 164
+  size: 95, 90
+  orig: 95, 90
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: false
+  xy: 99, 138
+  size: 82, 65
+  orig: 82, 65
+  offset: 0, 0
+  index: -1
+Hat_A
+  rotate: false
+  xy: 61, 84
+  size: 72, 52
+  orig: 72, 52
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 183, 130
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: false
+  xy: 65, 2
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+L_Ear
+  rotate: false
+  xy: 65, 45
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+L_Finger_A
+  rotate: false
+  xy: 167, 2
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+L_Finger_B
+  rotate: false
+  xy: 61, 145
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+L_Foot
+  rotate: true
+  xy: 112, 42
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: true
+  xy: 177, 20
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: false
+  xy: 2, 3
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: false
+  xy: 135, 89
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+R_Ear
+  rotate: true
+  xy: 147, 39
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+R_Foot
+  rotate: false
+  xy: 177, 51
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 211, 52
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+R_Hand_A
+  rotate: false
+  xy: 99, 2
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: true
+  xy: 183, 85
+  size: 43, 61
+  orig: 43, 61
+  offset: 0, 0
+  index: -1
+R_Streamer
+  rotate: false
+  xy: 132, 9
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: true
+  xy: 99, 205
+  size: 49, 103
+  orig: 49, 103
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: true
+  xy: 2, 63
+  size: 99, 57
+  orig: 99, 57
+  offset: 0, 0
+  index: -1

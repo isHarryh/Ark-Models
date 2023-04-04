@@ -1,0 +1,181 @@
+
+enemy_1071_dftman_2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chest
+  rotate: false
+  xy: 82, 150
+  size: 41, 54
+  orig: 41, 54
+  offset: 0, 0
+  index: -1
+Collar
+  rotate: true
+  xy: 199, 163
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+Ear
+  rotate: true
+  xy: 113, 60
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 136
+  size: 78, 68
+  orig: 78, 68
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: true
+  xy: 84, 60
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: false
+  xy: 84, 105
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+L_Calf
+  rotate: false
+  xy: 164, 166
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+L_Coat
+  rotate: true
+  xy: 159, 230
+  size: 24, 82
+  orig: 24, 82
+  offset: 0, 0
+  index: -1
+L_Finger
+  rotate: true
+  xy: 164, 140
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+L_Foot
+  rotate: false
+  xy: 2, 2
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+L_Forearm
+  rotate: true
+  xy: 44, 2
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: false
+  xy: 132, 87
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: false
+  xy: 84, 20
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+L_Rope
+  rotate: false
+  xy: 124, 91
+  size: 6, 57
+  orig: 6, 57
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: false
+  xy: 125, 158
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+R_Calf
+  rotate: false
+  xy: 44, 25
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+R_Coat
+  rotate: false
+  xy: 2, 38
+  size: 40, 96
+  orig: 40, 96
+  offset: 0, 0
+  index: -1
+R_Foot
+  rotate: false
+  xy: 132, 55
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+R_Forearm
+  rotate: false
+  xy: 119, 20
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: true
+  xy: 145, 26
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: false
+  xy: 132, 115
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+R_Rope
+  rotate: false
+  xy: 115, 95
+  size: 7, 53
+  orig: 7, 53
+  offset: 0, 0
+  index: -1
+Ribbon
+  rotate: true
+  xy: 159, 213
+  size: 15, 71
+  orig: 15, 71
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: true
+  xy: 44, 80
+  size: 54, 38
+  orig: 54, 38
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 2, 206
+  size: 155, 48
+  orig: 155, 48
+  offset: 0, 0
+  index: -1

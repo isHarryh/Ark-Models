@@ -1,0 +1,41 @@
+
+enemy_1137_plasm.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Foot_B
+  rotate: false
+  xy: 2, 98
+  size: 128, 62
+  orig: 128, 62
+  offset: 0, 0
+  index: -1
+Shell_B
+  rotate: false
+  xy: 2, 38
+  size: 107, 58
+  orig: 107, 58
+  offset: 0, 0
+  index: -1
+Stone_Ba
+  rotate: false
+  xy: 2, 8
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+Stone_Bb
+  rotate: false
+  xy: 132, 134
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+Stone_Bc
+  rotate: false
+  xy: 111, 80
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+enemy_1304_mhwolf_2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 121, 103
+  size: 121, 71
+  orig: 121, 71
+  offset: 0, 0
+  index: -1
+C_Ear_A
+  rotate: false
+  xy: 2, 224
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 2, 147
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+C_Horn_A
+  rotate: false
+  xy: 28, 223
+  size: 51, 19
+  orig: 51, 19
+  offset: 0, 0
+  index: -1
+C_Horn_B
+  rotate: false
+  xy: 81, 222
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+C_Leg_A
+  rotate: true
+  xy: 194, 212
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+C_Leg_Aa
+  rotate: true
+  xy: 2, 190
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+C_Leg_B
+  rotate: false
+  xy: 41, 190
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+C_Leg_Ba
+  rotate: true
+  xy: 80, 189
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+C_Leg_C
+  rotate: true
+  xy: 126, 216
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+C_Leg_Ca
+  rotate: true
+  xy: 161, 213
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+C_Leg_D
+  rotate: true
+  xy: 121, 183
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+C_Leg_Da
+  rotate: true
+  xy: 159, 178
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+C_Mouth
+  rotate: false
+  xy: 195, 176
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: false
+  xy: 54, 133
+  size: 65, 54
+  orig: 65, 54
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+enemy_2025_syufo.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Ball_01
+  rotate: true
+  xy: 121, 387
+  size: 123, 122
+  orig: 123, 122
+  offset: 0, 0
+  index: -1
+C_Body_01
+  rotate: false
+  xy: 363, 322
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1
+C_L_Claw_01
+  rotate: false
+  xy: 2, 362
+  size: 117, 148
+  orig: 117, 148
+  offset: 0, 0
+  index: -1
+C_L_Wing_01
+  rotate: false
+  xy: 245, 429
+  size: 221, 82
+  orig: 221, 82
+  offset: 0, 0
+  index: -1
+C_R_Claw_01
+  rotate: true
+  xy: 121, 323
+  size: 62, 145
+  orig: 62, 145
+  offset: 0, 0
+  index: -1
+C_R_Wing_01
+  rotate: false
+  xy: 2, 270
+  size: 205, 73
+  orig: 205, 73
+  offset: 0, 0
+  index: -1
+C_Tail_01
+  rotate: true
+  xy: 268, 267
+  size: 159, 130
+  orig: 159, 130
+  offset: 0, 0
+  index: -1

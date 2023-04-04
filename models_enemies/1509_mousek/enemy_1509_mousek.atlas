@@ -1,0 +1,216 @@
+
+enemy_1509_mousek.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm_01
+  rotate: false
+  xy: 259, 268
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1
+L_arm_02
+  rotate: false
+  xy: 2, 249
+  size: 114, 129
+  orig: 114, 129
+  offset: 0, 0
+  index: -1
+L_belt
+  rotate: false
+  xy: 92, 151
+  size: 16, 96
+  orig: 16, 96
+  offset: 0, 0
+  index: -1
+L_coat
+  rotate: false
+  xy: 118, 262
+  size: 101, 107
+  orig: 101, 107
+  offset: 0, 0
+  index: -1
+L_collar
+  rotate: true
+  xy: 434, 443
+  size: 67, 71
+  orig: 67, 71
+  offset: 0, 0
+  index: -1
+L_ear
+  rotate: true
+  xy: 85, 51
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: true
+  xy: 92, 116
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+L_leg_01
+  rotate: true
+  xy: 169, 218
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+L_leg_02
+  rotate: true
+  xy: 473, 392
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+L_leg_03
+  rotate: false
+  xy: 110, 154
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+L_sleeve
+  rotate: false
+  xy: 2, 29
+  size: 81, 87
+  orig: 81, 87
+  offset: 0, 0
+  index: -1
+Moustache
+  rotate: true
+  xy: 2, 2
+  size: 25, 71
+  orig: 25, 71
+  offset: 0, 0
+  index: -1
+R_arm_01
+  rotate: false
+  xy: 327, 308
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1
+R_arm_02
+  rotate: false
+  xy: 2, 380
+  size: 114, 130
+  orig: 114, 130
+  offset: 0, 0
+  index: -1
+R_belt
+  rotate: false
+  xy: 221, 282
+  size: 36, 138
+  orig: 36, 138
+  offset: 0, 0
+  index: -1
+R_coat
+  rotate: false
+  xy: 2, 118
+  size: 88, 129
+  orig: 88, 129
+  offset: 0, 0
+  index: -1
+R_collar
+  rotate: false
+  xy: 404, 375
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+R_ear
+  rotate: false
+  xy: 75, 2
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 110, 187
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+R_leg_01
+  rotate: true
+  xy: 118, 218
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+R_leg_02
+  rotate: false
+  xy: 154, 196
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+R_leg_03
+  rotate: false
+  xy: 85, 79
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+R_sleeve
+  rotate: false
+  xy: 221, 422
+  size: 93, 88
+  orig: 93, 88
+  offset: 0, 0
+  index: -1
+clothes
+  rotate: false
+  xy: 118, 371
+  size: 101, 139
+  orig: 101, 139
+  offset: 0, 0
+  index: -1
+crutch
+  rotate: true
+  xy: 316, 456
+  size: 54, 116
+  orig: 54, 116
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 327, 248
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 259, 334
+  size: 86, 64
+  orig: 86, 64
+  offset: 0, 0
+  index: -1
+stick
+  rotate: false
+  xy: 85, 32
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 325, 374
+  size: 77, 80
+  orig: 77, 80
+  offset: 0, 0
+  index: -1
+tie
+  rotate: true
+  xy: 221, 266
+  size: 14, 36
+  orig: 14, 36
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,209 @@
+
+enemy_2008_flking.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cartridge
+  rotate: false
+  xy: 410, 425
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+Cloak
+  rotate: false
+  xy: 2, 368
+  size: 171, 141
+  orig: 171, 141
+  offset: 0, 0
+  index: -1
+F_Chest
+  rotate: false
+  xy: 2, 2
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+F_Hip
+  rotate: false
+  xy: 175, 374
+  size: 69, 56
+  orig: 69, 56
+  offset: 0, 0
+  index: -1
+F_L_Arm
+  rotate: false
+  xy: 212, 346
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+F_L_Calf
+  rotate: false
+  xy: 396, 455
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+F_L_Foot
+  rotate: false
+  xy: 246, 375
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+F_L_Forearm
+  rotate: false
+  xy: 125, 195
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+F_L_Hand_A
+  rotate: false
+  xy: 342, 414
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+F_L_Hand_B
+  rotate: false
+  xy: 378, 414
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+F_L_Leg
+  rotate: false
+  xy: 125, 231
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+F_R_Arm
+  rotate: false
+  xy: 128, 126
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+F_R_Calf
+  rotate: false
+  xy: 455, 462
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+F_R_Foot
+  rotate: false
+  xy: 43, 132
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+F_R_Forearm
+  rotate: true
+  xy: 128, 157
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+F_R_Hand
+  rotate: false
+  xy: 373, 381
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+F_R_Hand_A
+  rotate: true
+  xy: 342, 376
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+F_R_Hand_B
+  rotate: false
+  xy: 181, 345
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+F_R_Leg
+  rotate: false
+  xy: 94, 138
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+Head_N
+  rotate: false
+  xy: 333, 447
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+Hood_A
+  rotate: false
+  xy: 43, 184
+  size: 80, 90
+  orig: 80, 90
+  offset: 0, 0
+  index: -1
+Hood_B
+  rotate: false
+  xy: 43, 276
+  size: 106, 90
+  orig: 106, 90
+  offset: 0, 0
+  index: -1
+Miter
+  rotate: false
+  xy: 165, 327
+  size: 14, 39
+  orig: 14, 39
+  offset: 0, 0
+  index: -1
+Tape_A
+  rotate: false
+  xy: 151, 297
+  size: 12, 69
+  orig: 12, 69
+  offset: 0, 0
+  index: -1
+Tape_N
+  rotate: false
+  xy: 151, 276
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+Tape_N1
+  rotate: false
+  xy: 2, 54
+  size: 35, 75
+  orig: 35, 75
+  offset: 0, 0
+  index: -1
+Visor
+  rotate: true
+  xy: 305, 374
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1
+Weapon_A
+  rotate: false
+  xy: 175, 432
+  size: 156, 77
+  orig: 156, 77
+  offset: 0, 0
+  index: -1
+Weapon_B
+  rotate: false
+  xy: 2, 131
+  size: 39, 235
+  orig: 39, 235
+  offset: 0, 0
+  index: -1

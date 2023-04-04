@@ -1,0 +1,90 @@
+
+enemy_1272_nhtank.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Chariot_01
+  rotate: false
+  xy: 2, 242
+  size: 157, 147
+  orig: 157, 147
+  offset: 0, 0
+  index: -1
+C_Chariot_02
+  rotate: false
+  xy: 65, 94
+  size: 53, 146
+  orig: 53, 146
+  offset: 0, 0
+  index: -1
+C_Weapon_01
+  rotate: false
+  xy: 161, 160
+  size: 52, 152
+  orig: 52, 152
+  offset: 0, 0
+  index: -1
+C_Weapon_02
+  rotate: false
+  xy: 2, 2
+  size: 49, 100
+  orig: 49, 100
+  offset: 0, 0
+  index: -1
+C_Weapon_03
+  rotate: false
+  xy: 161, 314
+  size: 65, 75
+  orig: 65, 75
+  offset: 0, 0
+  index: -1
+C_Wheel_A_01
+  rotate: true
+  xy: 2, 172
+  size: 68, 61
+  orig: 68, 61
+  offset: 0, 0
+  index: -1
+C_Wheel_A_010
+  rotate: true
+  xy: 120, 197
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+C_Wheel_A_011
+  rotate: true
+  xy: 2, 104
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+C_Wheel_A_02
+  rotate: false
+  xy: 120, 185
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+C_Wheel_A_03
+  rotate: true
+  xy: 53, 88
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+C_Wheel_C_01
+  rotate: false
+  xy: 120, 211
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+C_Wheel_D_01
+  rotate: false
+  xy: 120, 211
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1

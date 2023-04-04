@@ -1,0 +1,118 @@
+
+enemy_1123_spsbr_2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 258
+  size: 151, 131
+  orig: 151, 131
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 2, 157
+  size: 139, 99
+  orig: 139, 99
+  offset: 0, 0
+  index: -1
+C_Head_0pen
+  rotate: false
+  xy: 2, 391
+  size: 176, 119
+  orig: 176, 119
+  offset: 0, 0
+  index: -1
+C_Head_Close
+  rotate: false
+  xy: 180, 407
+  size: 164, 103
+  orig: 164, 103
+  offset: 0, 0
+  index: -1
+C_L_Back_Leg
+  rotate: false
+  xy: 485, 473
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+C_L_Fire
+  rotate: false
+  xy: 203, 358
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+C_L_Front_Leg
+  rotate: false
+  xy: 90, 7
+  size: 38, 80
+  orig: 38, 80
+  offset: 0, 0
+  index: -1
+C_Mouth
+  rotate: true
+  xy: 2, 2
+  size: 85, 55
+  orig: 85, 55
+  offset: 0, 0
+  index: -1
+C_Mouth_Close
+  rotate: false
+  xy: 346, 422
+  size: 137, 88
+  orig: 137, 88
+  offset: 0, 0
+  index: -1
+C_Mouth_Open
+  rotate: false
+  xy: 2, 89
+  size: 112, 66
+  orig: 112, 66
+  offset: 0, 0
+  index: -1
+C_R_Back_Leg
+  rotate: false
+  xy: 116, 119
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+C_R_Fire
+  rotate: false
+  xy: 203, 305
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+C_R_Front_Leg
+  rotate: false
+  xy: 59, 2
+  size: 29, 85
+  orig: 29, 85
+  offset: 0, 0
+  index: -1
+C_Slaver_01
+  rotate: false
+  xy: 143, 237
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+C_Slaver_02
+  rotate: true
+  xy: 155, 260
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+C_Tongue
+  rotate: true
+  xy: 155, 282
+  size: 107, 46
+  orig: 107, 46
+  offset: 0, 0
+  index: -1

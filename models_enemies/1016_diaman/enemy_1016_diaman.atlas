@@ -1,0 +1,69 @@
+
+enemy_1016_diaman.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_head
+  rotate: false
+  xy: 84, 161
+  size: 75, 69
+  orig: 75, 69
+  offset: 0, 0
+  index: -1
+C_leg_1
+  rotate: false
+  xy: 45, 90
+  size: 37, 140
+  orig: 37, 140
+  offset: 0, 0
+  index: -1
+C_leg_2
+  rotate: false
+  xy: 2, 86
+  size: 41, 144
+  orig: 41, 144
+  offset: 0, 0
+  index: -1
+C_leg_3
+  rotate: true
+  xy: 84, 108
+  size: 21, 108
+  orig: 21, 108
+  offset: 0, 0
+  index: -1
+C_leg_4
+  rotate: true
+  xy: 84, 131
+  size: 28, 115
+  orig: 28, 115
+  offset: 0, 0
+  index: -1
+C_thigh_1
+  rotate: false
+  xy: 161, 208
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+C_thigh_2
+  rotate: true
+  xy: 2, 2
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
+C_thigh_3
+  rotate: false
+  xy: 161, 183
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+C_thigh_4
+  rotate: true
+  xy: 2, 40
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1

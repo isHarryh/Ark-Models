@@ -1,0 +1,223 @@
+
+enemy_1014_rogue.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_L_arm_A
+  rotate: true
+  xy: 143, 424
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+C_L_arm_B
+  rotate: true
+  xy: 102, 366
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+C_L_hand
+  rotate: false
+  xy: 252, 428
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+C_L_kneepad
+  rotate: false
+  xy: 134, 368
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+C_L_kneepad_B
+  rotate: false
+  xy: 78, 245
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+C_L_shin
+  rotate: true
+  xy: 334, 473
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+C_L_shoes
+  rotate: false
+  xy: 459, 481
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+C_L_shoes_B
+  rotate: false
+  xy: 103, 425
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+C_L_thigh
+  rotate: false
+  xy: 70, 329
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+C_R_arm_A
+  rotate: true
+  xy: 139, 393
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+C_R_arm_B
+  rotate: false
+  xy: 384, 475
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+C_R_hand
+  rotate: false
+  xy: 78, 296
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+C_R_kneepad
+  rotate: true
+  xy: 78, 263
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+C_R_kneepad_B
+  rotate: false
+  xy: 74, 227
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+C_R_shin
+  rotate: false
+  xy: 2, 2
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+C_R_shoes
+  rotate: false
+  xy: 102, 394
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+C_R_shoes_B
+  rotate: false
+  xy: 180, 425
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+C_R_thigh
+  rotate: true
+  xy: 420, 479
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+C_body
+  rotate: true
+  xy: 272, 465
+  size: 45, 60
+  orig: 45, 60
+  offset: 0, 0
+  index: -1
+C_cloak
+  rotate: false
+  xy: 2, 433
+  size: 99, 77
+  orig: 99, 77
+  offset: 0, 0
+  index: -1
+C_cloak_B
+  rotate: true
+  xy: 2, 326
+  size: 105, 66
+  orig: 105, 66
+  offset: 0, 0
+  index: -1
+C_decorate_1
+  rotate: true
+  xy: 217, 428
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+C_decorate_2
+  rotate: false
+  xy: 101, 334
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+C_decorate_3
+  rotate: true
+  xy: 39, 12
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+C_head
+  rotate: false
+  xy: 214, 458
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: -1
+C_hood_A
+  rotate: false
+  xy: 2, 171
+  size: 70, 74
+  orig: 70, 74
+  offset: 0, 0
+  index: -1
+C_hood_A_B
+  rotate: false
+  xy: 2, 247
+  size: 74, 77
+  orig: 74, 77
+  offset: 0, 0
+  index: -1
+C_hood_B
+  rotate: false
+  xy: 2, 103
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+C_jacket
+  rotate: false
+  xy: 2, 51
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+C_pants
+  rotate: true
+  xy: 70, 374
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+C_weapon
+  rotate: true
+  xy: 103, 456
+  size: 54, 109
+  orig: 54, 109
+  offset: 0, 0
+  index: -1

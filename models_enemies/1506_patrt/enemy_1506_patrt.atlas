@@ -1,0 +1,230 @@
+
+enemy_1506_patrt.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: true
+  xy: 41, 228
+  size: 109, 152
+  orig: 109, 152
+  offset: 0, 0
+  index: -1
+C_Cape_B
+  rotate: true
+  xy: 204, 331
+  size: 112, 143
+  orig: 112, 143
+  offset: 0, 0
+  index: -1
+C_Cloth
+  rotate: false
+  xy: 424, 353
+  size: 57, 96
+  orig: 57, 96
+  offset: 0, 0
+  index: -1
+C_Cuirass
+  rotate: false
+  xy: 49, 111
+  size: 57, 49
+  orig: 57, 49
+  offset: 0, 0
+  index: -1
+C_Eye_A
+  rotate: false
+  xy: 497, 503
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+C_Eye_B
+  rotate: true
+  xy: 177, 181
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: true
+  xy: 349, 350
+  size: 93, 73
+  orig: 93, 73
+  offset: 0, 0
+  index: -1
+C_L_Arm_A
+  rotate: false
+  xy: 2, 96
+  size: 45, 110
+  orig: 45, 110
+  offset: 0, 0
+  index: -1
+C_L_Arm_B
+  rotate: false
+  xy: 483, 395
+  size: 27, 54
+  orig: 27, 54
+  offset: 0, 0
+  index: -1
+C_L_Calf
+  rotate: true
+  xy: 349, 314
+  size: 34, 61
+  orig: 34, 61
+  offset: 0, 0
+  index: -1
+C_L_Finger_A
+  rotate: false
+  xy: 177, 201
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+C_L_Finger_B
+  rotate: false
+  xy: 227, 195
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+C_L_Finger_C
+  rotate: false
+  xy: 396, 294
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: false
+  xy: 41, 47
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 195, 186
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+C_L_Horn
+  rotate: false
+  xy: 49, 162
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: false
+  xy: 312, 193
+  size: 31, 52
+  orig: 31, 52
+  offset: 0, 0
+  index: -1
+C_R_Calf
+  rotate: true
+  xy: 255, 207
+  size: 33, 55
+  orig: 33, 55
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: false
+  xy: 49, 79
+  size: 55, 30
+  orig: 55, 30
+  offset: 0, 0
+  index: -1
+C_R_Horn
+  rotate: false
+  xy: 419, 451
+  size: 76, 59
+  orig: 76, 59
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: true
+  xy: 41, 15
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+C_Scarf
+  rotate: true
+  xy: 2, 14
+  size: 80, 37
+  orig: 80, 37
+  offset: 0, 0
+  index: -1
+C_Scarlet_A
+  rotate: true
+  xy: 483, 359
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+C_Scarlet_B
+  rotate: false
+  xy: 204, 445
+  size: 213, 65
+  orig: 213, 65
+  offset: 0, 0
+  index: -1
+C_Scarlet_C
+  rotate: false
+  xy: 195, 218
+  size: 58, 22
+  orig: 58, 22
+  offset: 0, 0
+  index: -1
+C_Scarlet_D
+  rotate: false
+  xy: 195, 242
+  size: 115, 87
+  orig: 115, 87
+  offset: 0, 0
+  index: -1
+C_Scarlet_E
+  rotate: true
+  xy: 312, 247
+  size: 82, 33
+  orig: 82, 33
+  offset: 0, 0
+  index: -1
+C_Shield
+  rotate: false
+  xy: 41, 339
+  size: 161, 171
+  orig: 161, 171
+  offset: 0, 0
+  index: -1
+C_Shoulder
+  rotate: false
+  xy: 110, 176
+  size: 65, 50
+  orig: 65, 50
+  offset: 0, 0
+  index: -1
+C_Tube
+  rotate: false
+  xy: 347, 261
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+C_Weapon
+  rotate: false
+  xy: 2, 208
+  size: 37, 302
+  orig: 37, 302
+  offset: 0, 0
+  index: -1
+new
+  rotate: false
+  xy: 396, 276
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1

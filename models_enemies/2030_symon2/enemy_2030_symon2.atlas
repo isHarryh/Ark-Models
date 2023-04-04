@@ -1,0 +1,104 @@
+
+enemy_2030_symon2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 180
+  size: 122, 89
+  orig: 122, 89
+  offset: 0, 0
+  index: -1
+C_Hair_01
+  rotate: false
+  xy: 113, 73
+  size: 27, 84
+  orig: 27, 84
+  offset: 0, 0
+  index: -1
+C_Hair_02
+  rotate: false
+  xy: 108, 307
+  size: 42, 82
+  orig: 43, 82
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 2, 270
+  size: 98, 74
+  orig: 98, 74
+  offset: 0, 0
+  index: -1
+C_Leg_01
+  rotate: true
+  xy: 2, 37
+  size: 45, 94
+  orig: 45, 94
+  offset: 0, 0
+  index: -1
+C_Leg_02
+  rotate: 180
+  xy: 91, 282
+  size: 35, 97
+  orig: 35, 97
+  offset: 0, 0
+  index: -1
+C_Leg_03
+  rotate: 270
+  xy: 41, 2
+  size: 51, 86
+  orig: 51, 86
+  offset: 0, 0
+  index: -1
+C_Leg_04
+  rotate: false
+  xy: 68, 57
+  size: 57, 93
+  orig: 57, 93
+  offset: 0, 0
+  index: -1
+C_Leg_05
+  rotate: 180
+  xy: 102, 149
+  size: 42, 84
+  orig: 42, 84
+  offset: 0, 0
+  index: -1
+C_Leg_L_01
+  rotate: true
+  xy: 2, 128
+  size: 50, 98
+  orig: 50, 98
+  offset: 0, 0
+  index: -1
+C_Leg_L_02
+  rotate: false
+  xy: 106, 246
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+C_Leg_R_01
+  rotate: true
+  xy: 2, 87
+  size: 40, 103
+  orig: 40, 103
+  offset: 0, 0
+  index: -1
+C_Leg_R_02
+  rotate: true
+  xy: 106, 434
+  size: 47, 25
+  orig: 47, 25
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: false
+  xy: 2, 346
+  size: 115, 165
+  orig: 115, 165
+  offset: 0, 0
+  index: -1

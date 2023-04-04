@@ -1,0 +1,286 @@
+
+enemy_1102_sdkght.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Belt
+  rotate: true
+  xy: 2, 97
+  size: 81, 15
+  orig: 81, 15
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: false
+  xy: 82, 414
+  size: 93, 96
+  orig: 93, 96
+  offset: 0, 0
+  index: -1
+C_Body_B
+  rotate: false
+  xy: 275, 490
+  size: 83, 20
+  orig: 83, 20
+  offset: 0, 0
+  index: -1
+C_Breastplate
+  rotate: true
+  xy: 2, 278
+  size: 85, 65
+  orig: 85, 65
+  offset: 0, 0
+  index: -1
+C_Breastplate_B
+  rotate: true
+  xy: 209, 335
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+C_F_Skirt
+  rotate: false
+  xy: 283, 435
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+C_F_Skirt_B
+  rotate: false
+  xy: 177, 472
+  size: 96, 38
+  orig: 96, 38
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 82, 358
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+C_Head Red
+  rotate: false
+  xy: 177, 338
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: false
+  xy: 141, 367
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+C_L_Bag
+  rotate: false
+  xy: 126, 313
+  size: 13, 43
+  orig: 13, 43
+  offset: 0, 0
+  index: -1
+C_L_Calf
+  rotate: false
+  xy: 19, 124
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+C_L_Finger
+  rotate: true
+  xy: 395, 410
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: false
+  xy: 62, 131
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+C_L_Foot_B
+  rotate: false
+  xy: 471, 486
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: true
+  xy: 468, 398
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 468, 435
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+C_L_Knee Pads
+  rotate: false
+  xy: 19, 92
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: true
+  xy: 68, 167
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+C_L_Pauldrons
+  rotate: false
+  xy: 70, 254
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+C_L_Skirt
+  rotate: true
+  xy: 418, 413
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: true
+  xy: 177, 357
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+C_R_Bag
+  rotate: false
+  xy: 35, 216
+  size: 33, 60
+  orig: 33, 60
+  offset: 0, 0
+  index: -1
+C_R_Bag_B
+  rotate: false
+  xy: 391, 442
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+C_R_Calf
+  rotate: true
+  xy: 70, 209
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: false
+  xy: 420, 478
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+C_R_Foot_B
+  rotate: false
+  xy: 141, 342
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: true
+  xy: 340, 399
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: false
+  xy: 340, 442
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+C_R_Knee Pads
+  rotate: false
+  xy: 62, 99
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: true
+  xy: 418, 434
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+C_R_Pauldrons
+  rotate: false
+  xy: 69, 299
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+C_R_Skirt
+  rotate: true
+  xy: 242, 412
+  size: 58, 39
+  orig: 58, 39
+  offset: 0, 0
+  index: -1
+C_Shield
+  rotate: false
+  xy: 2, 365
+  size: 78, 145
+  orig: 78, 145
+  offset: 0, 0
+  index: -1
+C_Signet
+  rotate: false
+  xy: 141, 313
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+C_Signet_Belt_A
+  rotate: true
+  xy: 35, 170
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+C_Signet_Belt_B
+  rotate: false
+  xy: 283, 406
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+C_Signet_Belt_C
+  rotate: true
+  xy: 360, 490
+  size: 20, 58
+  orig: 20, 58
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: true
+  xy: 177, 410
+  size: 60, 63
+  orig: 60, 63
+  offset: 0, 0
+  index: -1
+C_Weapon
+  rotate: true
+  xy: 2, 180
+  size: 96, 31
+  orig: 96, 31
+  offset: 0, 0
+  index: -1

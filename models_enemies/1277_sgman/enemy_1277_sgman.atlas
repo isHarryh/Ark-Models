@@ -1,0 +1,258 @@
+
+enemy_1277_sgman.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_Coat
+  rotate: false
+  xy: 2, 194
+  size: 79, 60
+  orig: 79, 60
+  offset: 0, 0
+  index: -1
+B_Hair
+  rotate: false
+  xy: 169, 76
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+B_Sleeve
+  rotate: true
+  xy: 182, 29
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Chest
+  rotate: true
+  xy: 83, 115
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+Collar_S
+  rotate: true
+  xy: 219, 41
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Ear
+  rotate: true
+  xy: 43, 126
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+F_Hair
+  rotate: false
+  xy: 158, 121
+  size: 9, 31
+  orig: 9, 31
+  offset: 0, 0
+  index: -1
+F_L_Coat
+  rotate: false
+  xy: 225, 69
+  size: 29, 68
+  orig: 29, 68
+  offset: 0, 0
+  index: -1
+F_R_Coat
+  rotate: true
+  xy: 83, 164
+  size: 39, 75
+  orig: 39, 75
+  offset: 0, 0
+  index: -1
+F_Sleeve
+  rotate: false
+  xy: 112, 17
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 2, 142
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: false
+  xy: 83, 205
+  size: 89, 49
+  orig: 89, 49
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: true
+  xy: 232, 139
+  size: 47, 19
+  orig: 47, 19
+  offset: 0, 0
+  index: -1
+InnerSleeve
+  rotate: false
+  xy: 138, 115
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+L_Collar
+  rotate: false
+  xy: 213, 146
+  size: 17, 55
+  orig: 17, 55
+  offset: 0, 0
+  index: -1
+L_Finger
+  rotate: false
+  xy: 61, 123
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+L_Forearm
+  rotate: true
+  xy: 138, 138
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: false
+  xy: 31, 11
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+L_Shank
+  rotate: false
+  xy: 2, 18
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+L_Shank_T
+  rotate: true
+  xy: 112, 48
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+L_Suspender
+  rotate: false
+  xy: 213, 98
+  size: 10, 46
+  orig: 10, 46
+  offset: 0, 0
+  index: -1
+L_Thigh
+  rotate: true
+  xy: 2, 65
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+L_Upperarm
+  rotate: false
+  xy: 43, 81
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+L_shoe
+  rotate: false
+  xy: 182, 53
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+R_Collar
+  rotate: false
+  xy: 237, 188
+  size: 16, 66
+  orig: 16, 66
+  offset: 0, 0
+  index: -1
+R_Forearm
+  rotate: false
+  xy: 76, 44
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 149, 42
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+R_Shank
+  rotate: true
+  xy: 78, 82
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+R_Shank_T
+  rotate: true
+  xy: 2, 102
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+R_Suspender
+  rotate: false
+  xy: 160, 154
+  size: 11, 49
+  orig: 11, 49
+  offset: 0, 0
+  index: -1
+R_Thigh
+  rotate: false
+  xy: 40, 42
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+R_Upperarm
+  rotate: true
+  xy: 118, 83
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+R_shoe
+  rotate: true
+  xy: 76, 6
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 174, 203
+  size: 61, 51
+  orig: 61, 51
+  offset: 0, 0
+  index: -1
+Tie
+  rotate: false
+  xy: 61, 151
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 173, 125
+  size: 38, 76
+  orig: 38, 76
+  offset: 0, 0
+  index: -1

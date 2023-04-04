@@ -1,0 +1,160 @@
+
+enemy_1068_snmage_2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Chest
+  rotate: false
+  xy: 342, 412
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+C_Cloak_L
+  rotate: false
+  xy: 2, 232
+  size: 86, 109
+  orig: 86, 109
+  offset: 0, 0
+  index: -1
+C_Cloak_R
+  rotate: false
+  xy: 130, 274
+  size: 29, 68
+  orig: 29, 68
+  offset: 0, 0
+  index: -1
+C_Hat_A
+  rotate: false
+  xy: 130, 344
+  size: 93, 97
+  orig: 93, 97
+  offset: 0, 0
+  index: -1
+C_Hat_B
+  rotate: false
+  xy: 225, 385
+  size: 66, 56
+  orig: 66, 56
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: false
+  xy: 422, 416
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+C_L_Calf
+  rotate: true
+  xy: 225, 344
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: false
+  xy: 20, 69
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: false
+  xy: 83, 197
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 20, 101
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+C_L_Thigh
+  rotate: true
+  xy: 196, 292
+  size: 18, 38
+  orig: 18, 38
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: false
+  xy: 236, 312
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+C_R_Calf
+  rotate: false
+  xy: 293, 393
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: false
+  xy: 385, 412
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: false
+  xy: 83, 174
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: false
+  xy: 196, 312
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+C_R_Thigh
+  rotate: true
+  xy: 90, 232
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+C_Scarf
+  rotate: true
+  xy: 90, 260
+  size: 81, 38
+  orig: 81, 38
+  offset: 0, 0
+  index: -1
+C_Scarf_II
+  rotate: false
+  xy: 2, 54
+  size: 16, 80
+  orig: 16, 80
+  offset: 0, 0
+  index: -1
+C_Skirt_B
+  rotate: false
+  xy: 2, 343
+  size: 126, 98
+  orig: 126, 98
+  offset: 0, 0
+  index: -1
+C_Skirt_M
+  rotate: false
+  xy: 161, 290
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+C_Waist
+  rotate: true
+  xy: 2, 136
+  size: 94, 79
+  orig: 94, 79
+  offset: 0, 0
+  index: -1

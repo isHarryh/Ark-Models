@@ -1,0 +1,125 @@
+
+enemy_1051_norwiz_2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Collar
+  rotate: true
+  xy: 46, 59
+  size: 61, 30
+  orig: 61, 30
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 2, 192
+  size: 67, 62
+  orig: 67, 62
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: false
+  xy: 53, 14
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: false
+  xy: 70, 135
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 201, 173
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: false
+  xy: 2, 48
+  size: 42, 72
+  orig: 42, 72
+  offset: 0, 0
+  index: -1
+C_L_Skirt
+  rotate: false
+  xy: 2, 122
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+C_M_Skirt
+  rotate: true
+  xy: 2, 15
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: true
+  xy: 138, 179
+  size: 22, 41
+  orig: 22, 41
+  offset: 0, 0
+  index: -1
+C_R_Finger1
+  rotate: false
+  xy: 2, 2
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+C_R_Fingers
+  rotate: true
+  xy: 181, 181
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: false
+  xy: 71, 165
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: false
+  xy: 106, 171
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: true
+  xy: 71, 195
+  size: 59, 65
+  orig: 59, 65
+  offset: 0, 0
+  index: -1
+C_R_Skirt
+  rotate: true
+  xy: 138, 203
+  size: 51, 61
+  orig: 51, 61
+  offset: 0, 0
+  index: -1
+C_Waist
+  rotate: false
+  xy: 201, 207
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+C_Weapon
+  rotate: true
+  xy: 61, 133
+  size: 57, 7
+  orig: 57, 7
+  offset: 0, 0
+  index: -1

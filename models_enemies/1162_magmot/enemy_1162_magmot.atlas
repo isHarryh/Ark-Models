@@ -1,0 +1,293 @@
+
+enemy_1162_magmot.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 49, 232
+  size: 76, 105
+  orig: 76, 105
+  offset: 0, 0
+  index: -1
+C_Car_Annex_1
+  rotate: true
+  xy: 2, 10
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+C_Car_Annex_2
+  rotate: true
+  xy: 250, 336
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+C_Car_Annex_3
+  rotate: true
+  xy: 226, 335
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+C_Car_Annex_4
+  rotate: false
+  xy: 102, 2
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+C_Car_Annex_5
+  rotate: false
+  xy: 307, 412
+  size: 43, 11
+  orig: 43, 11
+  offset: 0, 0
+  index: -1
+C_Car_Belly
+  rotate: true
+  xy: 2, 97
+  size: 87, 39
+  orig: 87, 39
+  offset: 0, 0
+  index: -1
+C_Car_Head
+  rotate: true
+  xy: 150, 335
+  size: 100, 74
+  orig: 100, 74
+  offset: 0, 0
+  index: -1
+C_Hat
+  rotate: true
+  xy: 127, 234
+  size: 99, 76
+  orig: 99, 76
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: true
+  xy: 49, 160
+  size: 70, 73
+  orig: 70, 73
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: true
+  xy: 464, 412
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+C_L_Calf
+  rotate: false
+  xy: 205, 231
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+C_L_Cloth
+  rotate: false
+  xy: 464, 443
+  size: 46, 67
+  orig: 46, 67
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: false
+  xy: 397, 431
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: false
+  xy: 259, 355
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+C_L_Hand_Open
+  rotate: false
+  xy: 307, 425
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: false
+  xy: 264, 417
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+C_L_Wheel
+  rotate: false
+  xy: 209, 465
+  size: 151, 45
+  orig: 151, 45
+  offset: 0, 0
+  index: -1
+C_L_Wheel_Annex_1
+  rotate: false
+  xy: 90, 46
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+C_L_Wheel_Annex_1_b
+  rotate: false
+  xy: 128, 48
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+C_L_Wheel_Annex_2_b
+  rotate: false
+  xy: 128, 48
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+C_L_Wheel_Annex_3_b
+  rotate: false
+  xy: 128, 48
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+C_L_Wheel_Annex_1_c
+  rotate: false
+  xy: 226, 409
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+C_L_Wheel_Annex_2_c
+  rotate: false
+  xy: 226, 409
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+C_L_Wheel_Annex_3_c
+  rotate: false
+  xy: 226, 409
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+C_L_Wheel_Annex_2
+  rotate: false
+  xy: 205, 279
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+C_L_Wheel_Annex_3
+  rotate: false
+  xy: 111, 104
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+C_Propeller car
+  rotate: false
+  xy: 2, 437
+  size: 205, 73
+  orig: 205, 73
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: true
+  xy: 307, 381
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+C_R_Calf
+  rotate: false
+  xy: 226, 360
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+C_R_Cloth
+  rotate: false
+  xy: 2, 339
+  size: 146, 96
+  orig: 146, 96
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: false
+  xy: 264, 384
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: true
+  xy: 440, 426
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+C_R_Hand_Open
+  rotate: false
+  xy: 355, 427
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+C_R_Hat
+  rotate: true
+  xy: 43, 102
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: false
+  xy: 133, 2
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+C_R_Wheel
+  rotate: true
+  xy: 2, 186
+  size: 151, 45
+  orig: 151, 45
+  offset: 0, 0
+  index: -1
+C_R_Wheel_Annex_1
+  rotate: false
+  xy: 2, 41
+  size: 42, 54
+  orig: 42, 54
+  offset: 0, 0
+  index: -1
+C_R_Wheel_Annex_2
+  rotate: false
+  xy: 46, 46
+  size: 42, 54
+  orig: 42, 54
+  offset: 0, 0
+  index: -1
+C_R_Wheel_Annex_3
+  rotate: true
+  xy: 46, 2
+  size: 42, 54
+  orig: 42, 54
+  offset: 0, 0
+  index: -1
+C_Scarf
+  rotate: false
+  xy: 362, 464
+  size: 100, 46
+  orig: 100, 46
+  offset: 0, 0
+  index: -1

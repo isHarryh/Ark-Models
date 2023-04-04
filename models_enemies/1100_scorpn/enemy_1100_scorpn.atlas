@@ -1,0 +1,146 @@
+
+enemy_1100_scorpn.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body_01
+  rotate: false
+  xy: 2, 105
+  size: 83, 79
+  orig: 83, 79
+  offset: 0, 0
+  index: -1
+C_Claws_A_01
+  rotate: true
+  xy: 121, 211
+  size: 43, 105
+  orig: 43, 105
+  offset: 0, 0
+  index: -1
+C_Claws_A_02
+  rotate: true
+  xy: 162, 142
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+C_Claws_A_03
+  rotate: true
+  xy: 226, 174
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+C_Claws_B_01
+  rotate: true
+  xy: 121, 173
+  size: 36, 103
+  orig: 36, 103
+  offset: 0, 0
+  index: -1
+C_Claws_B_02
+  rotate: true
+  xy: 87, 153
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+C_Claws_B_03
+  rotate: true
+  xy: 199, 139
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+C_Head_01
+  rotate: false
+  xy: 2, 186
+  size: 117, 68
+  orig: 117, 68
+  offset: 0, 0
+  index: -1
+C_Leg_A_01
+  rotate: false
+  xy: 16, 3
+  size: 13, 29
+  orig: 13, 29
+  offset: 0, 0
+  index: -1
+C_Leg_A_02
+  rotate: false
+  xy: 29, 38
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+C_Leg_A_03
+  rotate: true
+  xy: 54, 45
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+C_Leg_B_01
+  rotate: false
+  xy: 31, 5
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1
+C_Leg_B_02
+  rotate: false
+  xy: 2, 34
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+C_Leg_B_03
+  rotate: false
+  xy: 2, 79
+  size: 47, 24
+  orig: 47, 24
+  offset: 0, 0
+  index: -1
+C_Leg_C_01
+  rotate: false
+  xy: 2, 2
+  size: 12, 30
+  orig: 12, 30
+  offset: 0, 0
+  index: -1
+C_Leg_C_02
+  rotate: true
+  xy: 121, 148
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+C_Leg_C_03
+  rotate: false
+  xy: 51, 80
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+C_Leg_D_04
+  rotate: false
+  xy: 78, 47
+  size: 12, 31
+  orig: 12, 31
+  offset: 0, 0
+  index: -1
+C_Leg_D_05
+  rotate: false
+  xy: 87, 107
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+C_Leg_D_06
+  rotate: true
+  xy: 228, 208
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1

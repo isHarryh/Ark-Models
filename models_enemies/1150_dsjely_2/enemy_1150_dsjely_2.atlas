@@ -1,0 +1,55 @@
+
+enemy_1150_dsjely_2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 240
+  size: 137, 70
+  orig: 137, 70
+  offset: 0, 0
+  index: -1
+Shell_A
+  rotate: false
+  xy: 2, 312
+  size: 251, 94
+  orig: 251, 94
+  offset: 0, 0
+  index: -1
+Shell_B
+  rotate: false
+  xy: 255, 354
+  size: 151, 52
+  orig: 151, 52
+  offset: 0, 0
+  index: -1
+Tentacle_A
+  rotate: true
+  xy: 48, 92
+  size: 146, 54
+  orig: 146, 54
+  offset: 0, 0
+  index: -1
+Tentacle_B
+  rotate: true
+  xy: 2, 79
+  size: 159, 44
+  orig: 159, 44
+  offset: 0, 0
+  index: -1
+Tentacle_C
+  rotate: false
+  xy: 141, 240
+  size: 109, 70
+  orig: 109, 70
+  offset: 0, 0
+  index: -1
+Tentacle_D
+  rotate: false
+  xy: 104, 185
+  size: 130, 53
+  orig: 130, 53
+  offset: 0, 0
+  index: -1

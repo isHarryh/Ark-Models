@@ -1,0 +1,118 @@
+
+enemy_1108_uterer_2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 151
+  size: 132, 103
+  orig: 132, 103
+  offset: 0, 0
+  index: -1
+C_Cam
+  rotate: false
+  xy: 136, 201
+  size: 83, 53
+  orig: 83, 53
+  offset: 0, 0
+  index: -1
+C_Cam_Annex
+  rotate: false
+  xy: 221, 235
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 2, 68
+  size: 71, 81
+  orig: 71, 81
+  offset: 0, 0
+  index: -1
+C_Jaw
+  rotate: true
+  xy: 221, 195
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+C_L_Back_Crus
+  rotate: false
+  xy: 157, 96
+  size: 51, 60
+  orig: 51, 60
+  offset: 0, 0
+  index: -1
+C_L_Back_Leg
+  rotate: true
+  xy: 136, 158
+  size: 41, 72
+  orig: 41, 72
+  offset: 0, 0
+  index: -1
+C_L_Front_Annex
+  rotate: false
+  xy: 210, 106
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+C_L_Front_Crus
+  rotate: false
+  xy: 210, 144
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+C_L_Front_Leg
+  rotate: false
+  xy: 118, 87
+  size: 37, 62
+  orig: 37, 62
+  offset: 0, 0
+  index: -1
+C_R_Back_Crus
+  rotate: false
+  xy: 75, 76
+  size: 41, 73
+  orig: 41, 73
+  offset: 0, 0
+  index: -1
+C_R_Back_Leg
+  rotate: false
+  xy: 2, 6
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+C_R_Front_Annex
+  rotate: true
+  xy: 157, 69
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+C_R_Front_Crus
+  rotate: false
+  xy: 93, 27
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+C_R_Front_Leg
+  rotate: false
+  xy: 56, 7
+  size: 35, 59
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+C_Water
+  rotate: true
+  xy: 93, 2
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1

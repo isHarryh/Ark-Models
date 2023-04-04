@@ -1,0 +1,111 @@
+
+enemy_1112_emppnt_2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body_Back
+  rotate: false
+  xy: 2, 423
+  size: 338, 69
+  orig: 338, 69
+  offset: 0, 0
+  index: -1
+C_Body_Front
+  rotate: false
+  xy: 2, 374
+  size: 326, 47
+  orig: 326, 47
+  offset: 0, 0
+  index: -1
+C_Body_Mid
+  rotate: false
+  xy: 2, 262
+  size: 99, 110
+  orig: 99, 110
+  offset: 0, 0
+  index: -1
+C_L_Light
+  rotate: false
+  xy: 2, 146
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+C_L_Support
+  rotate: false
+  xy: 2, 224
+  size: 99, 36
+  orig: 99, 36
+  offset: 0, 0
+  index: -1
+C_L_Support_Down
+  rotate: true
+  xy: 55, 150
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+C_L_propeller
+  rotate: false
+  xy: 2, 198
+  size: 92, 24
+  orig: 92, 24
+  offset: 0, 0
+  index: -1
+C_M_Light
+  rotate: false
+  xy: 103, 251
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+C_M_Support
+  rotate: true
+  xy: 203, 354
+  size: 18, 40
+  orig: 18, 40
+  offset: 0, 0
+  index: -1
+C_M_propeller
+  rotate: false
+  xy: 342, 430
+  size: 98, 24
+  orig: 98, 24
+  offset: 0, 0
+  index: -1
+C_R_Light
+  rotate: false
+  xy: 2, 94
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+C_R_Support
+  rotate: false
+  xy: 342, 456
+  size: 103, 36
+  orig: 103, 36
+  offset: 0, 0
+  index: -1
+C_R_Support_Down
+  rotate: false
+  xy: 103, 303
+  size: 65, 42
+  orig: 65, 42
+  offset: 0, 0
+  index: -1
+C_R_propeller
+  rotate: false
+  xy: 103, 347
+  size: 98, 25
+  orig: 98, 25
+  offset: 0, 0
+  index: -1
+C_T_Support
+  rotate: false
+  xy: 447, 478
+  size: 45, 14
+  orig: 45, 14
+  offset: 0, 0
+  index: -1

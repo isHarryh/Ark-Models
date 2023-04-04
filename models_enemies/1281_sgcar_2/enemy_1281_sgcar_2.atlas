@@ -1,0 +1,104 @@
+
+enemy_1281_sgcar_2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Car
+  rotate: true
+  xy: 193, 182
+  size: 186, 139
+  orig: 186, 139
+  offset: 0, 0
+  index: -1
+Car_In
+  rotate: true
+  xy: 2, 130
+  size: 145, 90
+  orig: 145, 90
+  offset: 0, 0
+  index: -1
+Car_Lm
+  rotate: true
+  xy: 158, 242
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+Car_Logo
+  rotate: true
+  xy: 158, 215
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+Car_Rm
+  rotate: true
+  xy: 94, 132
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+Car_T
+  rotate: true
+  xy: 128, 63
+  size: 86, 27
+  orig: 86, 27
+  offset: 0, 0
+  index: -1
+Door_Back
+  rotate: false
+  xy: 94, 151
+  size: 62, 124
+  orig: 62, 124
+  offset: 0, 0
+  index: -1
+Door_F
+  rotate: true
+  xy: 158, 122
+  size: 58, 128
+  orig: 58, 128
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 277
+  size: 189, 91
+  orig: 189, 91
+  offset: 0, 0
+  index: -1
+Wheel_A
+  rotate: true
+  xy: 2, 56
+  size: 72, 61
+  orig: 72, 61
+  offset: 0, 0
+  index: -1
+Wheel_Aa
+  rotate: false
+  xy: 334, 326
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+Wheel_Ab
+  rotate: true
+  xy: 158, 194
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+Wheel_B
+  rotate: true
+  xy: 65, 56
+  size: 72, 61
+  orig: 72, 61
+  offset: 0, 0
+  index: -1
+Wheel_C
+  rotate: true
+  xy: 288, 126
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+enemy_1048_hirman.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 259
+  size: 94, 98
+  orig: 94, 98
+  offset: 0, 0
+  index: -1
+C_Collar_B
+  rotate: false
+  xy: 216, 411
+  size: 77, 33
+  orig: 77, 33
+  offset: 0, 0
+  index: -1
+C_Hair
+  rotate: false
+  xy: 2, 2
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 2, 210
+  size: 59, 47
+  orig: 59, 47
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: true
+  xy: 295, 411
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+C_L_Armor
+  rotate: true
+  xy: 199, 318
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+C_L_Calf
+  rotate: true
+  xy: 2, 66
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+C_L_Finger
+  rotate: false
+  xy: 262, 346
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: true
+  xy: 63, 210
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: false
+  xy: 262, 373
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 300, 387
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: false
+  xy: 216, 359
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+C_L_ShoulderArmor
+  rotate: false
+  xy: 370, 425
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+C_M_Armor
+  rotate: false
+  xy: 98, 314
+  size: 53, 43
+  orig: 53, 43
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: false
+  xy: 153, 317
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+C_R_Armor
+  rotate: false
+  xy: 2, 114
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+C_R_Calf
+  rotate: false
+  xy: 98, 278
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: true
+  xy: 50, 162
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: true
+  xy: 2, 27
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: false
+  xy: 339, 418
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: false
+  xy: 2, 160
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+C_R_ShoulderArmor
+  rotate: true
+  xy: 242, 318
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+C_Weapon
+  rotate: false
+  xy: 2, 359
+  size: 212, 85
+  orig: 212, 85
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+enemy_1227_dair.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Cola
+  rotate: false
+  xy: 2, 181
+  size: 42, 110
+  orig: 42, 110
+  offset: 0, 0
+  index: -1
+C_L_Propeller_1
+  rotate: true
+  xy: 97, 125
+  size: 72, 25
+  orig: 72, 25
+  offset: 0, 0
+  index: -1
+C_L_Propeller_2
+  rotate: true
+  xy: 2, 60
+  size: 65, 23
+  orig: 65, 23
+  offset: 0, 0
+  index: -1
+C_R_Propeller_2
+  rotate: true
+  xy: 2, 60
+  size: 65, 23
+  orig: 65, 23
+  offset: 0, 0
+  index: -1
+C_L_Support_1
+  rotate: false
+  xy: 2, 30
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1
+C_L_Support_2
+  rotate: false
+  xy: 48, 10
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+C_R_Propeller_1
+  rotate: false
+  xy: 2, 127
+  size: 73, 25
+  orig: 73, 25
+  offset: 0, 0
+  index: -1
+C_R_Support_1
+  rotate: true
+  xy: 95, 33
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1
+C_R_Support_2
+  rotate: false
+  xy: 84, 4
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+C_Sausage_1
+  rotate: true
+  xy: 46, 199
+  size: 92, 64
+  orig: 92, 64
+  offset: 0, 0
+  index: -1
+C_Sausage_2
+  rotate: 270
+  xy: 46, 154
+  size: 68, 49
+  orig: 68, 49
+  offset: 0, 0
+  index: -1
+C_Sausage_3
+  rotate: false
+  xy: 33, 78
+  size: 61, 85
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+C_Sausage_4
+  rotate: false
+  xy: 2, 5
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+C_Sausage_5
+  rotate: false
+  xy: 80, 80
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+C_Sausage_6
+  rotate: 270
+  xy: 31, 39
+  size: 42, 63
+  orig: 42, 63
+  offset: 0, 0
+  index: -1
