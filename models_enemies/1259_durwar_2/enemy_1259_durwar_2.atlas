@@ -1,0 +1,146 @@
+
+enemy_1259_durwar_2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Chest
+  rotate: false
+  xy: 85, 213
+  size: 33, 39
+  orig: 34, 39
+  offset: 1, 0
+  index: -1
+C_Hair
+  rotate: false
+  xy: 157, 217
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+C_Hair_1
+  rotate: true
+  xy: 64, 99
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+C_Hair_2
+  rotate: true
+  xy: 25, 98
+  size: 14, 34
+  orig: 14, 34
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 2, 158
+  size: 81, 94
+  orig: 81, 94
+  offset: 0, 0
+  index: -1
+C_Hip
+  rotate: true
+  xy: 2, 2
+  size: 46, 28
+  orig: 48, 29
+  offset: 0, 1
+  index: -1
+C_L_Arm
+  rotate: false
+  xy: 124, 177
+  size: 34, 35
+  orig: 36, 36
+  offset: 0, 1
+  index: -1
+C_L_Foot
+  rotate: true
+  xy: 64, 116
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: true
+  xy: 114, 135
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: true
+  xy: 85, 173
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: false
+  xy: 25, 114
+  size: 37, 42
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+C_L_Thigh
+  rotate: false
+  xy: 38, 55
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+C_Life buoy
+  rotate: true
+  xy: 2, 98
+  size: 58, 21
+  orig: 58, 21
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: true
+  xy: 98, 102
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: true
+  xy: 81, 57
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: true
+  xy: 91, 134
+  size: 37, 21
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: true
+  xy: 77, 12
+  size: 41, 39
+  orig: 78, 39
+  offset: 37, 0
+  index: -1
+C_R_Leg
+  rotate: false
+  xy: 2, 50
+  size: 34, 46
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+C_R_Thigh
+  rotate: false
+  xy: 32, 3
+  size: 43, 45
+  orig: 44, 47
+  offset: 1, 2
+  index: -1
+C_Waist
+  rotate: false
+  xy: 120, 214
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1

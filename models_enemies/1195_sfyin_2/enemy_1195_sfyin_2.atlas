@@ -1,0 +1,146 @@
+
+enemy_1195_sfyin_2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_body
+  rotate: true
+  xy: 2, 78
+  size: 99, 54
+  orig: 99, 54
+  offset: 0, 0
+  index: -1
+C_cirrus_L
+  rotate: false
+  xy: 2, 179
+  size: 91, 75
+  orig: 91, 75
+  offset: 0, 0
+  index: -1
+C_cirrus_R
+  rotate: true
+  xy: 121, 107
+  size: 70, 38
+  orig: 70, 38
+  offset: 0, 0
+  index: -1
+C_ear_L
+  rotate: false
+  xy: 226, 160
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+C_ear_R
+  rotate: false
+  xy: 93, 23
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+C_fire
+  rotate: false
+  xy: 41, 5
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+C_foot_A
+  rotate: false
+  xy: 2, 2
+  size: 37, 74
+  orig: 37, 74
+  offset: 0, 0
+  index: -1
+C_foot_B
+  rotate: false
+  xy: 161, 115
+  size: 32, 73
+  orig: 32, 73
+  offset: 0, 0
+  index: -1
+C_foot_C
+  rotate: false
+  xy: 162, 48
+  size: 32, 65
+  orig: 32, 65
+  offset: 0, 0
+  index: -1
+C_foot_D
+  rotate: false
+  xy: 195, 117
+  size: 29, 71
+  orig: 29, 71
+  offset: 0, 0
+  index: -1
+C_head
+  rotate: false
+  xy: 208, 202
+  size: 46, 52
+  orig: 46, 52
+  offset: 0, 0
+  index: -1
+C_horn_A
+  rotate: true
+  xy: 196, 68
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
+C_horn_B
+  rotate: false
+  xy: 115, 24
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+C_mouth
+  rotate: true
+  xy: 226, 127
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+C_neck_A
+  rotate: false
+  xy: 159, 190
+  size: 47, 64
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+C_neck_B
+  rotate: false
+  xy: 196, 33
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+C_neck_C
+  rotate: false
+  xy: 58, 110
+  size: 61, 67
+  orig: 61, 67
+  offset: 0, 0
+  index: -1
+C_neck_D
+  rotate: false
+  xy: 58, 60
+  size: 57, 48
+  orig: 57, 48
+  offset: 0, 0
+  index: -1
+C_saddle
+  rotate: true
+  xy: 117, 58
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+C_tail
+  rotate: false
+  xy: 95, 179
+  size: 62, 75
+  orig: 62, 75
+  offset: 0, 0
+  index: -1

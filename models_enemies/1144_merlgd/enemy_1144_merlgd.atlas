@@ -1,0 +1,251 @@
+
+enemy_1144_merlgd.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Buckles
+  rotate: false
+  xy: 87, 270
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+C_Chest
+  rotate: false
+  xy: 193, 378
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+C_Earphone
+  rotate: true
+  xy: 348, 329
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+C_Earphone_Back
+  rotate: true
+  xy: 108, 206
+  size: 11, 26
+  orig: 11, 26
+  offset: 0, 0
+  index: -1
+C_Earphone_Front
+  rotate: false
+  xy: 275, 342
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+C_Eye
+  rotate: true
+  xy: 239, 311
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 322, 396
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+C_Helmet_Back
+  rotate: false
+  xy: 68, 150
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+C_Helmet_Front
+  rotate: false
+  xy: 184, 321
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+C_Interphone
+  rotate: true
+  xy: 245, 464
+  size: 46, 136
+  orig: 46, 136
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: false
+  xy: 108, 219
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+C_L_Bandage_1
+  rotate: false
+  xy: 262, 381
+  size: 46, 13
+  orig: 46, 13
+  offset: 0, 0
+  index: -1
+C_L_Bandage_2
+  rotate: true
+  xy: 81, 62
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+C_L_Calf
+  rotate: false
+  xy: 87, 311
+  size: 50, 68
+  orig: 50, 68
+  offset: 0, 0
+  index: -1
+C_L_Cape
+  rotate: false
+  xy: 2, 403
+  size: 106, 107
+  orig: 106, 107
+  offset: 0, 0
+  index: -1
+C_L_Cloth
+  rotate: false
+  xy: 2, 279
+  size: 83, 122
+  orig: 83, 122
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: false
+  xy: 239, 333
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 68, 2
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: true
+  xy: 2, 2
+  size: 37, 64
+  orig: 37, 64
+  offset: 0, 0
+  index: -1
+C_L_Ribbon_1
+  rotate: true
+  xy: 2, 41
+  size: 101, 77
+  orig: 101, 77
+  offset: 0, 0
+  index: -1
+C_L_Ribbon_2
+  rotate: true
+  xy: 110, 381
+  size: 63, 81
+  orig: 63, 81
+  offset: 0, 0
+  index: -1
+C_L_Weapon
+  rotate: false
+  xy: 110, 446
+  size: 133, 64
+  orig: 133, 64
+  offset: 0, 0
+  index: -1
+C_Line_Back
+  rotate: false
+  xy: 81, 104
+  size: 20, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1
+C_Line_Front
+  rotate: true
+  xy: 310, 329
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: false
+  xy: 145, 222
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+C_R_Bandage_1
+  rotate: true
+  xy: 105, 64
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+C_R_Bandage_2
+  rotate: true
+  xy: 103, 104
+  size: 44, 15
+  orig: 44, 15
+  offset: 0, 0
+  index: -1
+C_R_Calf
+  rotate: false
+  xy: 262, 396
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+C_R_Cape
+  rotate: false
+  xy: 68, 206
+  size: 38, 62
+  orig: 38, 62
+  offset: 0, 0
+  index: -1
+C_R_Cloth
+  rotate: true
+  xy: 383, 465
+  size: 45, 120
+  orig: 45, 120
+  offset: 0, 0
+  index: -1
+C_R_Finger
+  rotate: false
+  xy: 310, 357
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: false
+  xy: 141, 274
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: true
+  xy: 348, 359
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: false
+  xy: 139, 317
+  size: 43, 62
+  orig: 43, 62
+  offset: 0, 0
+  index: -1
+C_R_Weapon
+  rotate: true
+  xy: 2, 144
+  size: 133, 64
+  orig: 133, 64
+  offset: 0, 0
+  index: -1

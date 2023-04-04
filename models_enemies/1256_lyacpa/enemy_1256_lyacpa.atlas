@@ -1,0 +1,244 @@
+
+enemy_1256_lyacpa.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_Body_I
+  rotate: false
+  xy: 2, 138
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+F_Body_II
+  rotate: true
+  xy: 118, 57
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+F_Body_III
+  rotate: false
+  xy: 2, 267
+  size: 91, 92
+  orig: 91, 92
+  offset: 0, 0
+  index: -1
+F_Cannon
+  rotate: true
+  xy: 92, 195
+  size: 165, 40
+  orig: 166, 40
+  offset: 0, 0
+  index: -1
+F_Head
+  rotate: false
+  xy: 2, 194
+  size: 79, 71
+  orig: 79, 71
+  offset: 0, 0
+  index: -1
+F_Head_II
+  rotate: false
+  xy: 216, 211
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+F_Hip
+  rotate: false
+  xy: 62, 158
+  size: 88, 35
+  orig: 88, 35
+  offset: 0, 0
+  index: -1
+F_L_Arm_I
+  rotate: false
+  xy: 177, 234
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+F_L_Arm_II
+  rotate: true
+  xy: 176, 189
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+F_L_Arm_III
+  rotate: 270
+  xy: 152, 3
+  size: 23, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+F_L_Body
+  rotate: true
+  xy: 214, 244
+  size: 56, 24
+  orig: 56, 24
+  offset: 0, 0
+  index: -1
+F_L_Claf_I
+  rotate: true
+  xy: 178, 279
+  size: 57, 31
+  orig: 57, 31
+  offset: 0, 0
+  index: -1
+F_L_Claf_II
+  rotate: true
+  xy: 133, 188
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+F_L_Claf_III
+  rotate: false
+  xy: 43, 12
+  size: 28, 11
+  orig: 28, 11
+  offset: 0, 0
+  index: -1
+F_L_Foot
+  rotate: false
+  xy: 54, 28
+  size: 67, 28
+  orig: 67, 28
+  offset: 0, 0
+  index: -1
+F_L_Froearm_I
+  rotate: false
+  xy: 209, 154
+  size: 31, 57
+  orig: 31, 57
+  offset: 0, 0
+  index: -1
+F_L_Froearm_II
+  rotate: true
+  xy: 210, 78
+  size: 17, 33
+  orig: 17, 33
+  offset: 0, 0
+  index: -1
+F_L_Froearm_III
+  rotate: false
+  xy: 78, 264
+  size: 12, 22
+  orig: 12, 22
+  offset: 0, 0
+  index: -1
+F_L_Froearm_IV
+  rotate: true
+  xy: 189, 11
+  size: 22, 43
+  orig: 22, 44
+  offset: 0, 0
+  index: -1
+F_L_Froearm_V
+  rotate: false
+  xy: 133, 243
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1
+F_L_Hand
+  rotate: false
+  xy: 169, 57
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+F_L_Leg_I
+  rotate: true
+  xy: 65, 61
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+F_L_Leg_II
+  rotate: 180
+  xy: 118, 98
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+F_R_Arm_II
+  rotate: true
+  xy: 55, 102
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+F_R_Body
+  rotate: false
+  xy: 2, 17
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+F_R_Claf_I
+  rotate: true
+  xy: 204, 97
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1
+F_R_Claf_II
+  rotate: true
+  xy: 134, 297
+  size: 51, 43
+  orig: 51, 43
+  offset: 0, 0
+  index: -1
+F_R_Claf_III
+  rotate: false
+  xy: 73, 14
+  size: 28, 11
+  orig: 28, 11
+  offset: 0, 0
+  index: -1
+F_R_Foot
+  rotate: false
+  xy: 122, 28
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+F_R_Froearm
+  rotate: 180
+  xy: 158, 130
+  size: 45, 58
+  orig: 45, 58
+  offset: 0, 0
+  index: -1
+F_R_Froearm_II
+  rotate: false
+  xy: 205, 301
+  size: 31, 59
+  orig: 31, 59
+  offset: 0, 0
+  index: -1
+F_R_Hand
+  rotate: 270
+  xy: 198, 26
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+F_R_Leg_I
+  rotate: true
+  xy: 2, 44
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+F_R_Leg_II
+  rotate: 270
+  xy: 2, 84
+  size: 43, 62
+  orig: 43, 62
+  offset: 0, 0
+  index: -1

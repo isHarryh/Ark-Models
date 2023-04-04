@@ -1,0 +1,83 @@
+
+enemy_1308_mheagl.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Ball
+  rotate: false
+  xy: 2, 97
+  size: 63, 67
+  orig: 63, 67
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: false
+  xy: 2, 166
+  size: 124, 88
+  orig: 124, 88
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 215, 127
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+C_Horn_a
+  rotate: false
+  xy: 96, 97
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+C_Horn_b
+  rotate: true
+  xy: 235, 233
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 215, 82
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+C_L_Wing_a
+  rotate: false
+  xy: 128, 182
+  size: 105, 72
+  orig: 105, 72
+  offset: 0, 0
+  index: -1
+C_L_Wing_b
+  rotate: false
+  xy: 2, 20
+  size: 104, 60
+  orig: 104, 60
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: true
+  xy: 67, 82
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+C_R_Wing_a
+  rotate: false
+  xy: 128, 101
+  size: 85, 79
+  orig: 85, 79
+  offset: 0, 0
+  index: -1
+C_R_Wing_b
+  rotate: true
+  xy: 67, 120
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1

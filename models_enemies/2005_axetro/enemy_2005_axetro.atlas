@@ -1,0 +1,139 @@
+
+enemy_2005_axetro.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chest
+  rotate: true
+  xy: 2, 93
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 382
+  size: 115, 124
+  orig: 115, 124
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: false
+  xy: 210, 472
+  size: 58, 34
+  orig: 58, 34
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: true
+  xy: 2, 2
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+L_Bullet
+  rotate: false
+  xy: 2, 148
+  size: 51, 70
+  orig: 51, 70
+  offset: 0, 0
+  index: -1
+L_Calf
+  rotate: false
+  xy: 69, 327
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1
+L_Foot
+  rotate: true
+  xy: 178, 408
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+L_Forearm
+  rotate: false
+  xy: 2, 289
+  size: 65, 91
+  orig: 65, 91
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: true
+  xy: 69, 286
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+L_Shoulder
+  rotate: false
+  xy: 68, 220
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: false
+  xy: 68, 243
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+R_Calf
+  rotate: false
+  xy: 2, 38
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+R_Foot
+  rotate: false
+  xy: 404, 480
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+R_Forearm
+  rotate: false
+  xy: 119, 384
+  size: 57, 70
+  orig: 57, 70
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 362, 467
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: true
+  xy: 270, 474
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+R_Shoulder
+  rotate: true
+  xy: 315, 477
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 119, 456
+  size: 89, 50
+  orig: 89, 50
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: true
+  xy: 2, 220
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1

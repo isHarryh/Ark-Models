@@ -1,0 +1,97 @@
+
+enemy_1067_snslime_2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 153
+  size: 150, 101
+  orig: 150, 101
+  offset: 0, 0
+  index: -1
+C_Leg_A_1
+  rotate: false
+  xy: 116, 133
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+C_Leg_A_2
+  rotate: false
+  xy: 154, 195
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+C_Leg_B_1
+  rotate: true
+  xy: 232, 189
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+C_Leg_B_2
+  rotate: false
+  xy: 2, 8
+  size: 21, 63
+  orig: 21, 63
+  offset: 0, 0
+  index: -1
+C_Leg_C_1
+  rotate: false
+  xy: 32, 107
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+C_Leg_C_2
+  rotate: false
+  xy: 2, 73
+  size: 28, 78
+  orig: 28, 78
+  offset: 0, 0
+  index: -1
+C_Leg_D_1
+  rotate: true
+  xy: 32, 81
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+C_Leg_D_2
+  rotate: false
+  xy: 154, 159
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+C_Leg_E_1
+  rotate: false
+  xy: 232, 211
+  size: 22, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1
+C_Leg_E_2
+  rotate: true
+  xy: 68, 103
+  size: 18, 51
+  orig: 18, 51
+  offset: 0, 0
+  index: -1
+C_Leg_F_1
+  rotate: false
+  xy: 200, 209
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+C_Leg_F_2
+  rotate: true
+  xy: 68, 123
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1

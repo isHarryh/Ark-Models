@@ -1,0 +1,174 @@
+
+enemy_1052_noramr.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Armor
+  rotate: true
+  xy: 146, 218
+  size: 36, 77
+  orig: 36, 77
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: true
+  xy: 2, 77
+  size: 85, 68
+  orig: 85, 68
+  offset: 0, 0
+  index: -1
+C_Hip
+  rotate: true
+  xy: 54, 25
+  size: 50, 21
+  orig: 50, 21
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: false
+  xy: 135, 108
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+C_L_Belt
+  rotate: false
+  xy: 54, 2
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+C_L_Calf
+  rotate: true
+  xy: 146, 179
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: true
+  xy: 104, 108
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: false
+  xy: 77, 50
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 225, 175
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+C_L_Kneepad
+  rotate: false
+  xy: 195, 193
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+C_L_Tape
+  rotate: false
+  xy: 195, 170
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+C_L_Thigh
+  rotate: false
+  xy: 225, 212
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: false
+  xy: 225, 139
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+C_R_Belt
+  rotate: false
+  xy: 72, 81
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+C_R_Calf
+  rotate: true
+  xy: 86, 145
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: false
+  xy: 136, 144
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: true
+  xy: 178, 143
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: false
+  xy: 170, 114
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+C_R_Kneepad
+  rotate: false
+  xy: 197, 117
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+C_R_Tape
+  rotate: false
+  xy: 207, 150
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+C_R_Thigh
+  rotate: false
+  xy: 72, 101
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+C_Shield
+  rotate: false
+  xy: 2, 13
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+C_Waist
+  rotate: false
+  xy: 86, 179
+  size: 58, 75
+  orig: 58, 75
+  offset: 0, 0
+  index: -1
+C_Weapon
+  rotate: false
+  xy: 2, 164
+  size: 82, 90
+  orig: 82, 90
+  offset: 0, 0
+  index: -1

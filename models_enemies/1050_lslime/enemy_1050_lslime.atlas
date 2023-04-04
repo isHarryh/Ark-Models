@@ -1,0 +1,41 @@
+
+enemy_1050_lslime.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: true
+  xy: 229, 163
+  size: 304, 116
+  orig: 304, 116
+  offset: 0, 0
+  index: -1
+C_Fort_A
+  rotate: true
+  xy: 2, 2
+  size: 53, 107
+  orig: 53, 107
+  offset: 0, 0
+  index: -1
+C_Fort_B
+  rotate: false
+  xy: 229, 87
+  size: 58, 74
+  orig: 58, 74
+  offset: 0, 0
+  index: -1
+C_Stone
+  rotate: false
+  xy: 2, 263
+  size: 225, 204
+  orig: 225, 204
+  offset: 0, 0
+  index: -1
+C_Stone_Add
+  rotate: false
+  xy: 2, 57
+  size: 225, 204
+  orig: 225, 204
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,314 @@
+
+enemy_2014_csicer.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Weapon_b
+  rotate: false
+  xy: 2, 301
+  size: 68, 209
+  orig: 68, 209
+  offset: 0, 0
+  index: -1
+C_Weapon_g
+  rotate: false
+  xy: 72, 309
+  size: 6, 201
+  orig: 6, 201
+  offset: 0, 0
+  index: -1
+C_chilun
+  rotate: false
+  xy: 379, 410
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+C_daizi
+  rotate: true
+  xy: 163, 250
+  size: 16, 56
+  orig: 16, 56
+  offset: 0, 0
+  index: -1
+C_daizi_1
+  rotate: true
+  xy: 204, 199
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+C_liantiao
+  rotate: false
+  xy: 112, 194
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+C_liantiao_1
+  rotate: false
+  xy: 112, 238
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+C_mao
+  rotate: false
+  xy: 2, 108
+  size: 26, 191
+  orig: 26, 191
+  offset: 0, 0
+  index: -1
+C_pijian
+  rotate: true
+  xy: 166, 437
+  size: 73, 119
+  orig: 73, 119
+  offset: 0, 0
+  index: -1
+F_B_Hair
+  rotate: false
+  xy: 270, 347
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+F_Chest
+  rotate: false
+  xy: 292, 400
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+F_Head
+  rotate: false
+  xy: 163, 268
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+F_J_1
+  rotate: false
+  xy: 80, 293
+  size: 81, 106
+  orig: 81, 106
+  offset: 0, 0
+  index: -1
+F_J_2
+  rotate: false
+  xy: 407, 399
+  size: 81, 111
+  orig: 81, 111
+  offset: 0, 0
+  index: -1
+F_J_3
+  rotate: false
+  xy: 30, 167
+  size: 13, 132
+  orig: 13, 132
+  offset: 0, 0
+  index: -1
+F_J_4
+  rotate: true
+  xy: 287, 440
+  size: 70, 118
+  orig: 70, 118
+  offset: 0, 0
+  index: -1
+F_J_5
+  rotate: false
+  xy: 80, 401
+  size: 84, 109
+  orig: 84, 109
+  offset: 0, 0
+  index: -1
+F_L_Arm
+  rotate: false
+  xy: 108, 127
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+F_L_Ear
+  rotate: true
+  xy: 490, 481
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+F_L_Ear_1
+  rotate: false
+  xy: 2, 35
+  size: 44, 71
+  orig: 44, 71
+  offset: 0, 0
+  index: -1
+F_L_Foot
+  rotate: true
+  xy: 87, 123
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+F_L_Foot_j
+  rotate: true
+  xy: 490, 451
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+F_L_Forearm
+  rotate: true
+  xy: 30, 121
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+F_L_Hand
+  rotate: false
+  xy: 195, 220
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+F_L_Leg
+  rotate: false
+  xy: 226, 265
+  size: 44, 62
+  orig: 44, 62
+  offset: 0, 0
+  index: -1
+F_L_Thigh
+  rotate: true
+  xy: 2, 5
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+F_L_m_Hair
+  rotate: false
+  xy: 223, 329
+  size: 28, 63
+  orig: 28, 63
+  offset: 0, 0
+  index: -1
+F_R_Arm
+  rotate: false
+  xy: 164, 216
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+F_R_Ear
+  rotate: true
+  xy: 490, 395
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+F_R_Ear_1
+  rotate: true
+  xy: 45, 163
+  size: 36, 59
+  orig: 36, 59
+  offset: 0, 0
+  index: -1
+F_R_Finger
+  rotate: false
+  xy: 171, 170
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+F_R_Foot
+  rotate: false
+  xy: 164, 195
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+F_R_Foot_j
+  rotate: true
+  xy: 490, 421
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+F_R_Forearm
+  rotate: false
+  xy: 294, 358
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+F_R_Leg
+  rotate: true
+  xy: 45, 201
+  size: 37, 65
+  orig: 37, 65
+  offset: 0, 0
+  index: -1
+F_R_Plam
+  rotate: false
+  xy: 146, 168
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+F_R_Thigh
+  rotate: true
+  xy: 106, 164
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+F_R_m_Hair
+  rotate: false
+  xy: 253, 330
+  size: 15, 62
+  orig: 15, 62
+  offset: 0, 0
+  index: -1
+F_Waist
+  rotate: true
+  xy: 252, 394
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+F_bu
+  rotate: true
+  xy: 166, 394
+  size: 41, 84
+  orig: 41, 84
+  offset: 0, 0
+  index: -1
+F_dm
+  rotate: true
+  xy: 294, 344
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+F_hujia
+  rotate: true
+  xy: 333, 405
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+F_mj
+  rotate: false
+  xy: 163, 329
+  size: 58, 63
+  orig: 58, 63
+  offset: 0, 0
+  index: -1
+F_qun
+  rotate: false
+  xy: 45, 240
+  size: 65, 51
+  orig: 65, 51
+  offset: 0, 0
+  index: -1

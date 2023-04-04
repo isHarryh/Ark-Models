@@ -1,0 +1,104 @@
+
+enemy_1056_ganwar.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Head
+  rotate: false
+  xy: 2, 174
+  size: 84, 72
+  orig: 84, 72
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: true
+  xy: 190, 215
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+L_Calf
+  rotate: true
+  xy: 135, 211
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1
+L_Foot
+  rotate: false
+  xy: 135, 182
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+L_Forearm
+  rotate: false
+  xy: 95, 130
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: false
+  xy: 63, 87
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: false
+  xy: 2, 40
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: true
+  xy: 2, 2
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+R_Calf
+  rotate: false
+  xy: 88, 199
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+R_Foot
+  rotate: true
+  xy: 50, 43
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+R_Forearm
+  rotate: true
+  xy: 80, 45
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 95, 159
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: false
+  xy: 63, 130
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: false
+  xy: 2, 86
+  size: 59, 86
+  orig: 59, 86
+  offset: 0, 0
+  index: -1

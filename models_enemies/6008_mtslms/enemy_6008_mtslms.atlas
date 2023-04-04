@@ -1,0 +1,76 @@
+
+enemy_6008_mtslms.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: true
+  xy: 104, 100
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+C_L_Ear
+  rotate: true
+  xy: 142, 130
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+C_L_Eye
+  rotate: true
+  xy: 129, 97
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+C_R_Ear
+  rotate: false
+  xy: 147, 96
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+C_R_Eye
+  rotate: false
+  xy: 149, 112
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+C_Snail
+  rotate: false
+  xy: 2, 102
+  size: 69, 59
+  orig: 69, 59
+  offset: 0, 0
+  index: -1
+C_SporeA
+  rotate: false
+  xy: 131, 109
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+C_SporeB
+  rotate: false
+  xy: 73, 97
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+C_SporeC
+  rotate: false
+  xy: 73, 126
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: true
+  xy: 122, 129
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1

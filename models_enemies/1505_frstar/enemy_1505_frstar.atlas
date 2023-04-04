@@ -1,0 +1,307 @@
+
+enemy_1505_frstar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_L_arm_A
+  rotate: false
+  xy: 58, 131
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+C_L_arm_B
+  rotate: true
+  xy: 491, 489
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+C_L_coat_A
+  rotate: false
+  xy: 160, 424
+  size: 36, 86
+  orig: 36, 86
+  offset: 0, 0
+  index: -1
+C_L_coat_B
+  rotate: false
+  xy: 2, 299
+  size: 75, 50
+  orig: 75, 50
+  offset: 0, 0
+  index: -1
+C_L_ear
+  rotate: false
+  xy: 49, 237
+  size: 34, 60
+  orig: 34, 60
+  offset: 0, 0
+  index: -1
+C_L_fingers
+  rotate: false
+  xy: 138, 302
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+C_L_palm
+  rotate: false
+  xy: 58, 105
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+C_L_shin
+  rotate: false
+  xy: 268, 431
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+C_L_shoes
+  rotate: true
+  xy: 137, 324
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+C_L_sleeve
+  rotate: true
+  xy: 44, 2
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+C_L_thigh
+  rotate: false
+  xy: 106, 321
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+C_R_arm_A
+  rotate: true
+  xy: 198, 409
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+C_R_arm_B
+  rotate: false
+  xy: 224, 410
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+C_R_coat
+  rotate: false
+  xy: 100, 422
+  size: 58, 88
+  orig: 58, 88
+  offset: 0, 0
+  index: -1
+C_R_ear
+  rotate: true
+  xy: 294, 488
+  size: 22, 66
+  orig: 22, 66
+  offset: 0, 0
+  index: -1
+C_R_fingers_1
+  rotate: true
+  xy: 58, 91
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+C_R_fingers_2
+  rotate: false
+  xy: 491, 476
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+C_R_palm
+  rotate: false
+  xy: 55, 160
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+C_R_shin
+  rotate: false
+  xy: 303, 434
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+C_R_shoes
+  rotate: false
+  xy: 106, 303
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+C_R_sleeve_A
+  rotate: true
+  xy: 2, 220
+  size: 77, 45
+  orig: 77, 45
+  offset: 0, 0
+  index: -1
+C_R_sleeve_B
+  rotate: true
+  xy: 2, 152
+  size: 66, 51
+  orig: 66, 51
+  offset: 0, 0
+  index: -1
+C_R_thigh
+  rotate: false
+  xy: 79, 310
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+C_Stick
+  rotate: true
+  xy: 198, 484
+  size: 26, 94
+  orig: 26, 94
+  offset: 0, 0
+  index: -1
+C_chest
+  rotate: false
+  xy: 55, 189
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+C_eye
+  rotate: true
+  xy: 66, 58
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+C_eye_close
+  rotate: false
+  xy: 13, 3
+  size: 27, 8
+  orig: 27, 8
+  offset: 0, 0
+  index: -1
+C_eyebrow
+  rotate: false
+  xy: 93, 352
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+C_hair_1
+  rotate: false
+  xy: 13, 13
+  size: 29, 76
+  orig: 29, 76
+  offset: 0, 0
+  index: -1
+C_hair_2
+  rotate: true
+  xy: 381, 432
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+C_hair_3
+  rotate: false
+  xy: 44, 44
+  size: 20, 45
+  orig: 20, 45
+  offset: 0, 0
+  index: -1
+C_hair_4
+  rotate: false
+  xy: 2, 422
+  size: 96, 88
+  orig: 96, 88
+  offset: 0, 0
+  index: -1
+C_hair_5
+  rotate: true
+  xy: 362, 489
+  size: 21, 66
+  orig: 21, 66
+  offset: 0, 0
+  index: -1
+C_hair_6
+  rotate: true
+  xy: 198, 432
+  size: 50, 68
+  orig: 50, 68
+  offset: 0, 0
+  index: -1
+C_head
+  rotate: false
+  xy: 93, 359
+  size: 63, 61
+  orig: 63, 61
+  offset: 0, 0
+  index: -1
+C_headdress
+  rotate: false
+  xy: 2, 91
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+C_hip
+  rotate: true
+  xy: 340, 439
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+C_knife
+  rotate: false
+  xy: 430, 468
+  size: 59, 42
+  orig: 59, 42
+  offset: 0, 0
+  index: -1
+C_mouth
+  rotate: true
+  xy: 507, 482
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+C_pipe
+  rotate: true
+  xy: 49, 221
+  size: 14, 38
+  orig: 14, 38
+  offset: 0, 0
+  index: -1
+C_shawl
+  rotate: false
+  xy: 381, 467
+  size: 47, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1
+C_tape
+  rotate: false
+  xy: 2, 2
+  size: 9, 87
+  orig: 9, 87
+  offset: 0, 0
+  index: -1
+C_tape_2
+  rotate: false
+  xy: 2, 351
+  size: 89, 69
+  orig: 89, 69
+  offset: 0, 0
+  index: -1

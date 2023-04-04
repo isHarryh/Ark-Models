@@ -1,0 +1,139 @@
+
+enemy_1307_mhrhcr.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: true
+  xy: 136, 166
+  size: 132, 100
+  orig: 132, 100
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: true
+  xy: 236, 167
+  size: 74, 64
+  orig: 74, 65
+  offset: 0, 1
+  index: -1
+C_L_Arm
+  rotate: 270
+  xy: 2, 152
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+C_L_Ears
+  rotate: 270
+  xy: 206, 137
+  size: 32, 60
+  orig: 32, 60
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: false
+  xy: 37, 282
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: false
+  xy: 37, 282
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: 270
+  xy: 108, 141
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 26, 102
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: 270
+  xy: 70, 118
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: 270
+  xy: 70, 118
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+C_L_Thigh
+  rotate: 180
+  xy: 263, 115
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+C_L_Thighs
+  rotate: false
+  xy: 2, 230
+  size: 14, 20
+  orig: 15, 20
+  offset: 1, 0
+  index: -1
+C_R_Arm
+  rotate: true
+  xy: 119, 102
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: false
+  xy: 201, 102
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: false
+  xy: 2, 287
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+C_R_Thigh
+  rotate: true
+  xy: 159, 126
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: true
+  xy: 5, 122
+  size: 45, 71
+  orig: 45, 71
+  offset: 0, 0
+  index: -1
+C_lower jaw
+  rotate: false
+  xy: 238, 243
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+C_ox horn
+  rotate: false
+  xy: 2, 163
+  size: 151, 139
+  orig: 151, 139
+  offset: 0, 0
+  index: -1

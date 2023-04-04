@@ -1,0 +1,181 @@
+
+enemy_1229_darmy.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Belt_1
+  rotate: true
+  xy: 108, 2
+  size: 62, 35
+  orig: 62, 35
+  offset: 0, 0
+  index: -1
+C_Belt_2
+  rotate: true
+  xy: 122, 335
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1
+C_Chest
+  rotate: true
+  xy: 77, 447
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+C_Cloth_Back
+  rotate: 270
+  xy: 2, 151
+  size: 108, 73
+  orig: 108, 73
+  offset: 0, 0
+  index: -1
+C_Cloth_Front
+  rotate: true
+  xy: 2, 229
+  size: 121, 84
+  orig: 121, 84
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 69, 26
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+C_Head_Cloth
+  rotate: true
+  xy: 2, 22
+  size: 71, 76
+  orig: 71, 98
+  offset: 0, 22
+  index: -1
+C_Head_Cloth_Back
+  rotate: true
+  xy: 2, 94
+  size: 65, 82
+  orig: 65, 82
+  offset: 0, 0
+  index: -1
+C_L_Calf
+  rotate: false
+  xy: 76, 206
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: true
+  xy: 126, 294
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: false
+  xy: 114, 78
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 86, 258
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+C_L_Horn
+  rotate: false
+  xy: 114, 115
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: false
+  xy: 85, 79
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+C_R_Armor
+  rotate: false
+  xy: 77, 162
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+C_R_Calf
+  rotate: false
+  xy: 83, 335
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+C_R_Cloth
+  rotate: true
+  xy: 2, 4
+  size: 15, 73
+  orig: 15, 73
+  offset: 0, 0
+  index: -1
+C_R_Finger
+  rotate: true
+  xy: 117, 229
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: true
+  xy: 126, 409
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: false
+  xy: 126, 263
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: false
+  xy: 88, 298
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+C_R_Horn
+  rotate: false
+  xy: 127, 476
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+C_Scarf
+  rotate: false
+  xy: 117, 161
+  size: 15, 64
+  orig: 15, 64
+  offset: 0, 0
+  index: -1
+C_Shoulder
+  rotate: false
+  xy: 77, 386
+  size: 48, 59
+  orig: 48, 59
+  offset: 0, 0
+  index: -1
+C_Weapon
+  rotate: false
+  xy: 2, 349
+  size: 73, 161
+  orig: 73, 161
+  offset: 0, 0
+  index: -1

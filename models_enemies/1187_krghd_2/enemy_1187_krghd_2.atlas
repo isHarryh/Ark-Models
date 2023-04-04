@@ -1,0 +1,125 @@
+
+enemy_1187_krghd_2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_B_L_Foot
+  rotate: false
+  xy: 187, 155
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+C_B_L_Leg
+  rotate: false
+  xy: 48, 30
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+C_B_R_Foot
+  rotate: false
+  xy: 149, 154
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+C_B_R_Leg
+  rotate: false
+  xy: 221, 169
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: false
+  xy: 2, 132
+  size: 108, 60
+  orig: 108, 60
+  offset: 0, 0
+  index: -1
+C_Body_Armor
+  rotate: false
+  xy: 123, 197
+  size: 95, 57
+  orig: 95, 57
+  offset: 0, 0
+  index: -1
+C_F_L_Foot
+  rotate: false
+  xy: 220, 209
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+C_F_L_Leg
+  rotate: false
+  xy: 112, 150
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+C_F_R_Foot
+  rotate: false
+  xy: 92, 32
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+C_F_R_Leg
+  rotate: true
+  xy: 48, 4
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+C_Furry
+  rotate: false
+  xy: 2, 21
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 2, 79
+  size: 68, 51
+  orig: 68, 51
+  offset: 0, 0
+  index: -1
+C_Head_Armor
+  rotate: true
+  xy: 72, 78
+  size: 52, 45
+  orig: 52, 45
+  offset: 0, 0
+  index: -1
+C_Jaw
+  rotate: true
+  xy: 221, 140
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+C_L_Ear
+  rotate: true
+  xy: 87, 3
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+C_R_Ear
+  rotate: false
+  xy: 109, 8
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: false
+  xy: 2, 194
+  size: 119, 60
+  orig: 119, 60
+  offset: 0, 0
+  index: -1

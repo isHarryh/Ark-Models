@@ -1,0 +1,83 @@
+
+enemy_1228_dslime.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_BodyB
+  rotate: 180
+  xy: 2, 119
+  size: 148, 56
+  orig: 148, 56
+  offset: 0, 0
+  index: -1
+C_BodyF
+  rotate: false
+  xy: 2, 197
+  size: 91, 138
+  orig: 91, 138
+  offset: 0, 0
+  index: -1
+C_L_Tentacle
+  rotate: true
+  xy: 2, 3
+  size: 66, 49
+  orig: 66, 49
+  offset: 0, 0
+  index: -1
+C_Mouth
+  rotate: 270
+  xy: 36, 60
+  size: 72, 78
+  orig: 72, 78
+  offset: 0, 0
+  index: -1
+C_R_Tentacle
+  rotate: 180
+  xy: 16, 34
+  size: 129, 45
+  orig: 129, 45
+  offset: 0, 0
+  index: -1
+C_Tooth1
+  rotate: false
+  xy: 57, 240
+  size: 19, 38
+  orig: 19, 38
+  offset: 0, 0
+  index: -1
+C_Tooth2
+  rotate: false
+  xy: 115, 72
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+C_Tooth3
+  rotate: false
+  xy: 66, 210
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+C_Tooth4
+  rotate: false
+  xy: 43, 178
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+Shadow1
+  rotate: false
+  xy: 2, 312
+  size: 8, 23
+  orig: 8, 23
+  offset: 0, 0
+  index: -1
+Shadow2
+  rotate: true
+  xy: 95, 167
+  size: 167, 40
+  orig: 167, 40
+  offset: 0, 0
+  index: -1

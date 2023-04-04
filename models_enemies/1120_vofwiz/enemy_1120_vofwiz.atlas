@@ -1,0 +1,195 @@
+
+enemy_1120_vofwiz.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_A_Head
+  rotate: false
+  xy: 81, 409
+  size: 107, 101
+  orig: 107, 101
+  offset: 0, 0
+  index: -1
+F_A_Hip
+  rotate: true
+  xy: 203, 359
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+F_A_L_Arm
+  rotate: true
+  xy: 248, 482
+  size: 28, 93
+  orig: 28, 93
+  offset: 0, 0
+  index: -1
+F_A_L_Foot
+  rotate: false
+  xy: 119, 261
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+F_A_L_Hair
+  rotate: true
+  xy: 451, 495
+  size: 15, 59
+  orig: 15, 59
+  offset: 0, 0
+  index: -1
+F_A_L_Leg
+  rotate: false
+  xy: 119, 286
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1
+F_A_L_Thigh
+  rotate: true
+  xy: 342, 431
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+F_A_L_forearm
+  rotate: false
+  xy: 81, 261
+  size: 36, 83
+  orig: 36, 83
+  offset: 0, 0
+  index: -1
+F_A_R_Arm
+  rotate: true
+  xy: 343, 470
+  size: 40, 56
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+F_A_R_Foot
+  rotate: false
+  xy: 190, 409
+  size: 43, 22
+  orig: 43, 22
+  offset: 0, 0
+  index: -1
+F_A_R_Forearm
+  rotate: false
+  xy: 401, 463
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+F_A_R_Hair
+  rotate: false
+  xy: 2, 83
+  size: 20, 58
+  orig: 20, 58
+  offset: 0, 0
+  index: -1
+F_A_R_Leg
+  rotate: false
+  xy: 159, 350
+  size: 42, 57
+  orig: 42, 57
+  offset: 0, 0
+  index: -1
+F_A_R_Sleeves
+  rotate: true
+  xy: 451, 459
+  size: 34, 52
+  orig: 34, 52
+  offset: 0, 0
+  index: -1
+F_A_R_Thigh
+  rotate: false
+  xy: 309, 439
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+F_A_Tail
+  rotate: true
+  xy: 31, 166
+  size: 88, 39
+  orig: 88, 39
+  offset: 0, 0
+  index: -1
+F_A_Weapon
+  rotate: true
+  xy: 164, 291
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+F_A_Weapon_2
+  rotate: false
+  xy: 2, 143
+  size: 27, 111
+  orig: 27, 111
+  offset: 0, 0
+  index: -1
+F_A_Weapon_3
+  rotate: false
+  xy: 2, 256
+  size: 77, 254
+  orig: 77, 254
+  offset: 0, 0
+  index: -1
+F_A_body
+  rotate: false
+  xy: 190, 433
+  size: 56, 77
+  orig: 56, 77
+  offset: 0, 0
+  index: -1
+F_A_chain
+  rotate: true
+  xy: 2, 12
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+F_A_chain_2
+  rotate: false
+  xy: 24, 114
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+F_A_chain_3
+  rotate: true
+  xy: 2, 44
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+F_A_chain_4
+  rotate: false
+  xy: 81, 346
+  size: 76, 61
+  orig: 76, 61
+  offset: 0, 0
+  index: -1
+F_A_light
+  rotate: false
+  xy: 31, 133
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+F_A_light_2
+  rotate: false
+  xy: 248, 431
+  size: 59, 49
+  orig: 59, 49
+  offset: 0, 0
+  index: -1
+F_A_light_3
+  rotate: false
+  xy: 164, 258
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1

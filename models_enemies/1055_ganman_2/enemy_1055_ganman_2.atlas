@@ -1,0 +1,132 @@
+
+enemy_1055_ganman_2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Chest
+  rotate: false
+  xy: 68, 71
+  size: 48, 58
+  orig: 48, 58
+  offset: 0, 0
+  index: -1
+C_Coat_B
+  rotate: false
+  xy: 2, 161
+  size: 76, 93
+  orig: 76, 93
+  offset: 0, 0
+  index: -1
+C_Coat_L
+  rotate: false
+  xy: 2, 55
+  size: 64, 104
+  orig: 64, 104
+  offset: 0, 0
+  index: -1
+C_Hat
+  rotate: false
+  xy: 163, 209
+  size: 81, 45
+  orig: 81, 45
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 80, 131
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+C_Hip
+  rotate: true
+  xy: 145, 144
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: false
+  xy: 225, 161
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+C_L_Calf
+  rotate: false
+  xy: 2, 2
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: true
+  xy: 189, 121
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: true
+  xy: 51, 2
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 80, 196
+  size: 81, 58
+  orig: 81, 58
+  offset: 0, 0
+  index: -1
+C_L_Thigh
+  rotate: true
+  xy: 216, 132
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: false
+  xy: 189, 163
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+C_R_Calf
+  rotate: false
+  xy: 118, 74
+  size: 33, 55
+  orig: 33, 55
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: true
+  xy: 92, 31
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: false
+  xy: 216, 104
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: false
+  xy: 153, 70
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+C_R_Thigh
+  rotate: false
+  xy: 153, 103
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1

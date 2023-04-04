@@ -1,0 +1,216 @@
+
+enemy_1501_demonk.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Armor
+  rotate: false
+  xy: 2, 188
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+Effect
+  rotate: false
+  xy: 2, 333
+  size: 296, 177
+  orig: 296, 177
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 230, 272
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: false
+  xy: 372, 332
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+L_Arm_ B
+  rotate: true
+  xy: 230, 239
+  size: 31, 58
+  orig: 31, 58
+  offset: 0, 0
+  index: -1
+L_Bracer
+  rotate: false
+  xy: 198, 208
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+L_Foot_A
+  rotate: true
+  xy: 268, 205
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+L_Foot_B
+  rotate: false
+  xy: 198, 181
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: false
+  xy: 318, 306
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+L_Hand_A
+  rotate: false
+  xy: 230, 168
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+L_Hand_B
+  rotate: false
+  xy: 287, 299
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+L_Horn
+  rotate: false
+  xy: 451, 342
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+L_Kneecap
+  rotate: false
+  xy: 293, 208
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: true
+  xy: 300, 337
+  size: 40, 70
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: true
+  xy: 133, 199
+  size: 42, 63
+  orig: 42, 63
+  offset: 0, 0
+  index: -1
+R_Bracer
+  rotate: false
+  xy: 2, 11
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+R_Foot_A
+  rotate: true
+  xy: 290, 239
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+R_Foot_B
+  rotate: false
+  xy: 287, 272
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: true
+  xy: 230, 202
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+R_Horn
+  rotate: false
+  xy: 409, 339
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+R_Kneecap
+  rotate: false
+  xy: 319, 276
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: false
+  xy: 2, 59
+  size: 48, 62
+  orig: 48, 62
+  offset: 0, 0
+  index: -1
+Spark_1
+  rotate: false
+  xy: 406, 447
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+Spark_2
+  rotate: false
+  xy: 459, 447
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+Spark_3
+  rotate: false
+  xy: 2, 123
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+Spark_4
+  rotate: true
+  xy: 68, 190
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+Spark_5
+  rotate: false
+  xy: 406, 382
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+Spark_6
+  rotate: false
+  xy: 459, 382
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: false
+  xy: 300, 379
+  size: 104, 131
+  orig: 104, 131
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 2, 243
+  size: 226, 88
+  orig: 226, 88
+  offset: 0, 0
+  index: -1

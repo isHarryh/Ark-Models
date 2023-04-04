@@ -1,0 +1,160 @@
+
+enemy_7005_xbbull.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 165
+  size: 144, 108
+  orig: 144, 108
+  offset: 0, 0
+  index: -1
+C_Ear
+  rotate: 180
+  xy: 241, 219
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+C_Grass
+  rotate: true
+  xy: 249, 194
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+C_Grass_2
+  rotate: false
+  xy: 134, 137
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+C_Grass_3
+  rotate: 180
+  xy: 201, 134
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+C_Grass_4
+  rotate: false
+  xy: 253, 137
+  size: 16, 15
+  orig: 16, 16
+  offset: 0, 1
+  index: -1
+C_Hair_1
+  rotate: true
+  xy: 173, 149
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: true
+  xy: 148, 187
+  size: 66, 52
+  orig: 66, 52
+  offset: 0, 0
+  index: -1
+C_L_Leg_1
+  rotate: 270
+  xy: 2, 140
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+C_L_Leg_2
+  rotate: 180
+  xy: 227, 140
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+C_L_Leg_3
+  rotate: false
+  xy: 201, 187
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+C_L_Leg_4
+  rotate: 270
+  xy: 2, 167
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+C_Mouth
+  rotate: false
+  xy: 119, 135
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+C_R_Leg_1
+  rotate: true
+  xy: 137, 258
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+C_R_Leg_2
+  rotate: 180
+  xy: 239, 167
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+C_R_Leg_3
+  rotate: false
+  xy: 233, 245
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+C_R_Leg_4
+  rotate: 180
+  xy: 56, 135
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+C_Rock_1
+  rotate: false
+  xy: 83, 139
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+C_Rock_2
+  rotate: true
+  xy: 209, 155
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+C_Rock_3
+  rotate: false
+  xy: 119, 150
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+C_Rock_4
+  rotate: true
+  xy: 228, 187
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: false
+  xy: 205, 220
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1

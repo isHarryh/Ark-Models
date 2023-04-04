@@ -1,0 +1,328 @@
+
+enemy_6011_planty.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body_A
+  rotate: 270
+  xy: 219, 440
+  size: 71, 94
+  orig: 71, 94
+  offset: 0, 0
+  index: -1
+C_Body_B
+  rotate: true
+  xy: 95, 442
+  size: 68, 123
+  orig: 68, 123
+  offset: 0, 0
+  index: -1
+C_Body_Bb
+  rotate: false
+  xy: 2, 431
+  size: 91, 79
+  orig: 91, 79
+  offset: 0, 0
+  index: -1
+C_Flower_B
+  rotate: false
+  xy: 250, 243
+  size: 25, 59
+  orig: 25, 59
+  offset: 0, 0
+  index: -1
+C_Leaf_Aa
+  rotate: false
+  xy: 223, 290
+  size: 60, 42
+  orig: 60, 42
+  offset: 0, 0
+  index: -1
+C_Leaf_Ab
+  rotate: false
+  xy: 54, 239
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+C_Leaf_Ac
+  rotate: false
+  xy: 17, 261
+  size: 58, 23
+  orig: 58, 23
+  offset: 0, 0
+  index: -1
+C_Leaf_Ad
+  rotate: 180
+  xy: 171, 282
+  size: 81, 31
+  orig: 81, 31
+  offset: 0, 0
+  index: -1
+C_Leaf_Ae
+  rotate: 180
+  xy: 107, 235
+  size: 115, 78
+  orig: 115, 78
+  offset: 0, 0
+  index: -1
+C_Leaf_Af
+  rotate: true
+  xy: 337, 274
+  size: 44, 127
+  orig: 44, 127
+  offset: 0, 0
+  index: -1
+C_Leaf_Ba
+  rotate: 270
+  xy: 367, 339
+  size: 41, 73
+  orig: 41, 73
+  offset: 0, 0
+  index: -1
+C_Leaf_Bb
+  rotate: false
+  xy: 2, 298
+  size: 74, 43
+  orig: 74, 43
+  offset: 0, 0
+  index: -1
+C_Leaf_Bc
+  rotate: 180
+  xy: 35, 284
+  size: 71, 37
+  orig: 71, 37
+  offset: 0, 0
+  index: -1
+C_Leaf_Bd
+  rotate: 270
+  xy: 245, 323
+  size: 57, 63
+  orig: 57, 63
+  offset: 0, 0
+  index: -1
+C_Leaf_Be
+  rotate: false
+  xy: 277, 404
+  size: 104, 66
+  orig: 104, 70
+  offset: 0, 0
+  index: -1
+C_Leaf_Bf
+  rotate: 180
+  xy: 413, 405
+  size: 64, 105
+  orig: 64, 105
+  offset: 0, 0
+  index: -1
+C_Leaf_Bg
+  rotate: true
+  xy: 315, 443
+  size: 68, 103
+  orig: 68, 103
+  offset: 0, 0
+  index: -1
+C_Leaf_Bh
+  rotate: false
+  xy: 299, 244
+  size: 51, 59
+  orig: 51, 59
+  offset: 0, 0
+  index: -1
+C_Leaf_Bi
+  rotate: false
+  xy: 467, 368
+  size: 43, 75
+  orig: 43, 78
+  offset: 0, 3
+  index: -1
+C_Leaf_Bj
+  rotate: true
+  xy: 122, 311
+  size: 32, 89
+  orig: 32, 89
+  offset: 0, 0
+  index: -1
+C_Leaf_Bk
+  rotate: false
+  xy: 373, 432
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+C_Leaf_Bl
+  rotate: 270
+  xy: 285, 292
+  size: 77, 80
+  orig: 77, 80
+  offset: 0, 0
+  index: -1
+C_Leaf_Bm
+  rotate: true
+  xy: 91, 269
+  size: 18, 66
+  orig: 18, 66
+  offset: 0, 0
+  index: -1
+C_Leaf_Bn
+  rotate: false
+  xy: 353, 292
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+C_Leaf_Bo
+  rotate: false
+  xy: 178, 263
+  size: 54, 23
+  orig: 54, 23
+  offset: 0, 0
+  index: -1
+C_Leaf_Bp
+  rotate: false
+  xy: 384, 241
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+C_Leaf_Bq
+  rotate: false
+  xy: 324, 267
+  size: 63, 23
+  orig: 63, 23
+  offset: 0, 0
+  index: -1
+C_Leaf_Br
+  rotate: false
+  xy: 444, 340
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+C_Leaf_Bs
+  rotate: false
+  xy: 2, 272
+  size: 31, 52
+  orig: 31, 52
+  offset: 0, 0
+  index: -1
+C_Leaf_Bt
+  rotate: false
+  xy: 143, 343
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+C_Petal_A_Aa
+  rotate: true
+  xy: 2, 380
+  size: 49, 73
+  orig: 49, 73
+  offset: 0, 0
+  index: -1
+C_Petal_A_Ab
+  rotate: false
+  xy: 383, 366
+  size: 59, 69
+  orig: 59, 69
+  offset: 0, 0
+  index: -1
+C_Petal_A_Ac
+  rotate: false
+  xy: 217, 364
+  size: 59, 71
+  orig: 59, 71
+  offset: 0, 0
+  index: -1
+C_Petal_A_Ad
+  rotate: 180
+  xy: 300, 349
+  size: 70, 54
+  orig: 70, 54
+  offset: 0, 0
+  index: -1
+C_Petal_A_Ae
+  rotate: false
+  xy: 102, 296
+  size: 66, 38
+  orig: 66, 38
+  offset: 0, 0
+  index: -1
+C_Petal_Aa
+  rotate: 270
+  xy: 76, 366
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+C_Petal_Ab
+  rotate: true
+  xy: 457, 439
+  size: 71, 45
+  orig: 71, 45
+  offset: 0, 0
+  index: -1
+C_Petal_Ac
+  rotate: 180
+  xy: 64, 332
+  size: 85, 50
+  orig: 85, 50
+  offset: 0, 0
+  index: -1
+C_Petal_Ad
+  rotate: 270
+  xy: 95, 380
+  size: 76, 80
+  orig: 76, 80
+  offset: 0, 0
+  index: -1
+C_Petal_Ae
+  rotate: 270
+  xy: 265, 360
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+C_Petal_Af
+  rotate: true
+  xy: 157, 398
+  size: 49, 78
+  orig: 49, 78
+  offset: 0, 0
+  index: -1
+C_Stamens_Aa
+  rotate: false
+  xy: 408, 301
+  size: 61, 55
+  orig: 61, 55
+  offset: 0, 0
+  index: -1
+C_Stamens_Ab
+  rotate: false
+  xy: 445, 262
+  size: 64, 21
+  orig: 64, 21
+  offset: 0, 0
+  index: -1
+C_Stamens_Ac
+  rotate: true
+  xy: 471, 297
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+C_Stamens_Ad
+  rotate: false
+  xy: 178, 330
+  size: 68, 31
+  orig: 68, 31
+  offset: 0, 0
+  index: -1
+C_Top
+  rotate: false
+  xy: 2, 343
+  size: 85, 29
+  orig: 85, 29
+  offset: 0, 0
+  index: -1

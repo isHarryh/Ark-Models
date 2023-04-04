@@ -1,0 +1,132 @@
+
+enemy_1238_ltmob_2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Arm_L
+  rotate: true
+  xy: 2, 103
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+C_Arm_R
+  rotate: true
+  xy: 2, 146
+  size: 24, 48
+  orig: 24, 48
+  offset: 0, 0
+  index: -1
+C_Breast
+  rotate: true
+  xy: 102, 195
+  size: 59, 70
+  orig: 59, 70
+  offset: 0, 0
+  index: -1
+C_Calf_L
+  rotate: false
+  xy: 101, 123
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+C_Calf_R
+  rotate: true
+  xy: 52, 138
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+C_Forearm_L
+  rotate: false
+  xy: 102, 168
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+C_Forearm_R
+  rotate: true
+  xy: 228, 218
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+C_Hair_01
+  rotate: false
+  xy: 152, 179
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+C_Hand_L
+  rotate: false
+  xy: 228, 190
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+C_Hand_R_01
+  rotate: true
+  xy: 209, 139
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+C_Hand_R_02
+  rotate: true
+  xy: 227, 165
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 2, 172
+  size: 98, 82
+  orig: 98, 82
+  offset: 0, 0
+  index: -1
+C_Hip
+  rotate: false
+  xy: 174, 167
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+C_Leg_L
+  rotate: false
+  xy: 146, 129
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+C_Leg_R
+  rotate: false
+  xy: 173, 133
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+C_Shoes_L
+  rotate: false
+  xy: 50, 112
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+C_Shoes_R
+  rotate: false
+  xy: 50, 112
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+C_Weapon
+  rotate: true
+  xy: 174, 203
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+enemy_1147_dshond.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body_01
+  rotate: false
+  xy: 112, 221
+  size: 80, 33
+  orig: 80, 33
+  offset: 0, 0
+  index: -1
+C_Body_02
+  rotate: false
+  xy: 2, 192
+  size: 108, 62
+  orig: 108, 62
+  offset: 0, 0
+  index: -1
+C_Leg_L_B_01
+  rotate: true
+  xy: 29, 36
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+C_Leg_L_B_02
+  rotate: true
+  xy: 2, 2
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+C_Leg_L_B_03
+  rotate: true
+  xy: 82, 130
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+C_Leg_L_B_04
+  rotate: false
+  xy: 29, 52
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+C_Leg_L_F_01
+  rotate: true
+  xy: 194, 233
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+C_Leg_L_F_02
+  rotate: true
+  xy: 194, 220
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+C_Leg_L_F_03
+  rotate: false
+  xy: 82, 112
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+C_Leg_L_F_04
+  rotate: true
+  xy: 29, 72
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+C_Leg_R_B_01
+  rotate: false
+  xy: 102, 178
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+C_Leg_R_B_02
+  rotate: true
+  xy: 208, 220
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+C_Leg_R_B_03
+  rotate: false
+  xy: 82, 154
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1
+C_Leg_R_B_04
+  rotate: false
+  xy: 146, 194
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+C_Leg_R_B_05
+  rotate: false
+  xy: 230, 236
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+C_Leg_R_F_01
+  rotate: true
+  xy: 112, 193
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+C_Leg_R_F_02
+  rotate: false
+  xy: 162, 204
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+C_Leg_R_F_03
+  rotate: false
+  xy: 54, 103
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+C_Mouth_01
+  rotate: true
+  xy: 2, 29
+  size: 69, 25
+  orig: 69, 25
+  offset: 0, 0
+  index: -1
+C_Mouth_02
+  rotate: true
+  xy: 54, 122
+  size: 68, 26
+  orig: 68, 26
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: false
+  xy: 2, 100
+  size: 50, 90
+  orig: 50, 90
+  offset: 0, 0
+  index: -1

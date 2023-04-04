@@ -1,0 +1,188 @@
+
+enemy_1069_icebrk.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 313, 433
+  size: 56, 77
+  orig: 56, 77
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: true
+  xy: 153, 320
+  size: 77, 64
+  orig: 77, 64
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: false
+  xy: 2, 2
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+C_L_Calf
+  rotate: false
+  xy: 409, 462
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: false
+  xy: 185, 301
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: false
+  xy: 442, 470
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+C_L_Forearm_B
+  rotate: false
+  xy: 75, 267
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 2, 40
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+C_L_Hand_B
+  rotate: false
+  xy: 124, 277
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+C_L_Hand_Belt
+  rotate: true
+  xy: 313, 421
+  size: 10, 46
+  orig: 10, 46
+  offset: 0, 0
+  index: -1
+C_L_Hat
+  rotate: false
+  xy: 2, 223
+  size: 71, 86
+  orig: 71, 86
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: false
+  xy: 2, 77
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: false
+  xy: 477, 476
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+C_R_Calf
+  rotate: false
+  xy: 2, 173
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+C_R_Finger_1
+  rotate: false
+  xy: 290, 407
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+C_R_Finger_2
+  rotate: false
+  xy: 185, 279
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: true
+  xy: 47, 182
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: false
+  xy: 371, 459
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+C_R_Forearm_B
+  rotate: false
+  xy: 2, 124
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: false
+  xy: 155, 288
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+C_R_Hand_B
+  rotate: false
+  xy: 371, 430
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+C_R_Hat
+  rotate: false
+  xy: 226, 423
+  size: 85, 87
+  orig: 85, 87
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: true
+  xy: 75, 232
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+C_Scabbard
+  rotate: false
+  xy: 2, 311
+  size: 149, 86
+  orig: 149, 86
+  offset: 0, 0
+  index: -1
+C_Streamer
+  rotate: true
+  xy: 226, 408
+  size: 13, 62
+  orig: 13, 62
+  offset: 0, 0
+  index: -1
+C_Sword
+  rotate: false
+  xy: 2, 399
+  size: 222, 111
+  orig: 222, 111
+  offset: 0, 0
+  index: -1

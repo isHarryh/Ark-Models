@@ -1,0 +1,118 @@
+
+enemy_1011_wizard.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Collar
+  rotate: false
+  xy: 87, 59
+  size: 61, 30
+  orig: 61, 30
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 87, 91
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+Hood
+  rotate: false
+  xy: 2, 168
+  size: 83, 86
+  orig: 83, 86
+  offset: 0, 0
+  index: -1
+Hood_A
+  rotate: false
+  xy: 87, 202
+  size: 72, 52
+  orig: 72, 52
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: false
+  xy: 63, 61
+  size: 22, 41
+  orig: 22, 41
+  offset: 0, 0
+  index: -1
+L_Foot
+  rotate: false
+  xy: 221, 99
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: false
+  xy: 183, 99
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: false
+  xy: 2, 31
+  size: 59, 65
+  orig: 59, 65
+  offset: 0, 0
+  index: -1
+L_Skirt
+  rotate: true
+  xy: 87, 150
+  size: 50, 61
+  orig: 50, 61
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: false
+  xy: 61, 104
+  size: 24, 62
+  orig: 24, 62
+  offset: 0, 0
+  index: -1
+R_Foot
+  rotate: false
+  xy: 149, 120
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 183, 129
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: true
+  xy: 161, 212
+  size: 42, 72
+  orig: 42, 72
+  offset: 0, 0
+  index: -1
+R_Skirt
+  rotate: false
+  xy: 2, 98
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+Skirt
+  rotate: false
+  xy: 150, 151
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: false
+  xy: 183, 163
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1

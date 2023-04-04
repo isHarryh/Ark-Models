@@ -1,0 +1,55 @@
+
+enemy_2023_sypult.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: true
+  xy: 5, 110
+  size: 155, 106
+  orig: 155, 106
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: 270
+  xy: 2, 34
+  size: 105, 103
+  orig: 105, 103
+  offset: 0, 0
+  index: -1
+C_Leg_01
+  rotate: true
+  xy: 109, 194
+  size: 101, 49
+  orig: 101, 49
+  offset: 0, 0
+  index: -1
+C_Leg_02
+  rotate: true
+  xy: 66, 77
+  size: 156, 83
+  orig: 156, 83
+  offset: 0, 0
+  index: -1
+C_Leg_03
+  rotate: 270
+  xy: 115, 303
+  size: 78, 41
+  orig: 78, 41
+  offset: 0, 0
+  index: -1
+C_Leg_04
+  rotate: true
+  xy: 35, 3
+  size: 51, 100
+  orig: 51, 100
+  offset: 0, 0
+  index: -1
+C_Weapon
+  rotate: false
+  xy: 2, 256
+  size: 124, 134
+  orig: 124, 134
+  offset: 0, 0
+  index: -1

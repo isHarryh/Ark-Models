@@ -1,0 +1,216 @@
+
+enemy_1010_demon_2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Armor
+  rotate: true
+  xy: 283, 307
+  size: 64, 39
+  orig: 64, 39
+  offset: 0, 0
+  index: -1
+Bag
+  rotate: true
+  xy: 202, 161
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 132
+  size: 59, 63
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: false
+  xy: 2, 7
+  size: 31, 58
+  orig: 31, 58
+  offset: 0, 0
+  index: -1
+L_Arm_ B
+  rotate: false
+  xy: 283, 259
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+L_Bracer
+  rotate: false
+  xy: 436, 470
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+L_Calf
+  rotate: false
+  xy: 55, 86
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+L_Foot_A
+  rotate: true
+  xy: 35, 31
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+L_Foot_B
+  rotate: false
+  xy: 472, 444
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: false
+  xy: 153, 127
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+L_Hand_A
+  rotate: false
+  xy: 472, 474
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+L_Hand_B
+  rotate: true
+  xy: 187, 129
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+L_Horn
+  rotate: false
+  xy: 230, 212
+  size: 47, 33
+  orig: 47, 33
+  offset: 0, 0
+  index: -1
+L_Kneecap
+  rotate: true
+  xy: 35, 4
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: false
+  xy: 338, 384
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: false
+  xy: 230, 247
+  size: 51, 59
+  orig: 51, 59
+  offset: 0, 0
+  index: -1
+R_Bracer
+  rotate: true
+  xy: 165, 161
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+R_Calf
+  rotate: false
+  xy: 116, 161
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+R_Foot_A
+  rotate: false
+  xy: 436, 443
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+R_Foot_B
+  rotate: true
+  xy: 324, 304
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 230, 308
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+R_Horn
+  rotate: true
+  xy: 116, 127
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+R_Kneecap
+  rotate: false
+  xy: 324, 338
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: false
+  xy: 391, 452
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+Spark_1
+  rotate: false
+  xy: 338, 444
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+Spark_2
+  rotate: false
+  xy: 2, 67
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+Spark_3
+  rotate: false
+  xy: 63, 132
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: false
+  xy: 230, 373
+  size: 106, 134
+  orig: 106, 134
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 2, 197
+  size: 226, 88
+  orig: 226, 88
+  offset: 0, 0
+  index: -1
+Weapon_attack
+  rotate: false
+  xy: 2, 287
+  size: 226, 220
+  orig: 226, 220
+  offset: 0, 0
+  index: -1

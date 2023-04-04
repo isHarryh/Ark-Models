@@ -1,0 +1,223 @@
+
+enemy_1013_airdrp.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_L_arm_A
+  rotate: false
+  xy: 179, 11
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+C_L_arm_B
+  rotate: true
+  xy: 185, 95
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+C_L_fingers
+  rotate: false
+  xy: 221, 120
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+C_L_hand
+  rotate: true
+  xy: 165, 39
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+C_L_jettube_A
+  rotate: false
+  xy: 98, 43
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+C_L_jettube_B
+  rotate: false
+  xy: 104, 120
+  size: 36, 67
+  orig: 36, 67
+  offset: 0, 0
+  index: -1
+C_L_kneepad
+  rotate: false
+  xy: 210, 98
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+C_L_shin
+  rotate: true
+  xy: 58, 80
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+C_L_shoes
+  rotate: false
+  xy: 146, 92
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+C_L_thigh
+  rotate: false
+  xy: 90, 7
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+C_R_arm_A
+  rotate: false
+  xy: 193, 137
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+C_R_arm_B
+  rotate: false
+  xy: 221, 144
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+C_R_hand_A
+  rotate: false
+  xy: 149, 11
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+C_R_hand_B
+  rotate: false
+  xy: 118, 12
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+C_R_jettube_A
+  rotate: false
+  xy: 131, 42
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+C_R_jettube_B
+  rotate: false
+  xy: 58, 117
+  size: 44, 68
+  orig: 44, 68
+  offset: 0, 0
+  index: -1
+C_R_kneepad
+  rotate: true
+  xy: 235, 96
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+C_R_shin
+  rotate: false
+  xy: 107, 75
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+C_R_shoes
+  rotate: false
+  xy: 58, 4
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+C_R_thigh
+  rotate: true
+  xy: 146, 72
+  size: 18, 33
+  orig: 18, 33
+  offset: 0, 0
+  index: -1
+C_backpack
+  rotate: false
+  xy: 2, 187
+  size: 78, 67
+  orig: 78, 67
+  offset: 0, 0
+  index: -1
+C_clothes_A
+  rotate: false
+  xy: 54, 38
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+C_clothes_B
+  rotate: false
+  xy: 2, 32
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+C_head
+  rotate: true
+  xy: 198, 204
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+C_hood_A
+  rotate: false
+  xy: 82, 189
+  size: 57, 65
+  orig: 57, 65
+  offset: 0, 0
+  index: -1
+C_hood_B
+  rotate: false
+  xy: 141, 196
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+C_pip_2
+  rotate: true
+  xy: 142, 165
+  size: 29, 54
+  orig: 29, 54
+  offset: 0, 0
+  index: -1
+C_pipe_1
+  rotate: false
+  xy: 142, 123
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+C_pipe_3
+  rotate: true
+  xy: 198, 170
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+C_scarf
+  rotate: false
+  xy: 2, 2
+  size: 54, 28
+  orig: 54, 28
+  offset: 0, 0
+  index: -1
+C_weapon
+  rotate: false
+  xy: 2, 99
+  size: 54, 86
+  orig: 54, 86
+  offset: 0, 0
+  index: -1

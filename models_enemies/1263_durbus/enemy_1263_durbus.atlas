@@ -1,0 +1,230 @@
+
+enemy_1263_durbus.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CarBody
+  rotate: false
+  xy: 2, 340
+  size: 248, 167
+  orig: 248, 167
+  offset: 0, 0
+  index: -1
+Car_A
+  rotate: false
+  xy: 328, 199
+  size: 61, 40
+  orig: 61, 40
+  offset: 0, 0
+  index: -1
+Car_B
+  rotate: true
+  xy: 486, 423
+  size: 84, 20
+  orig: 84, 20
+  offset: 0, 0
+  index: -1
+Car_C
+  rotate: false
+  xy: 478, 250
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+Car_D
+  rotate: false
+  xy: 252, 396
+  size: 153, 111
+  orig: 153, 111
+  offset: 0, 0
+  index: -1
+Car_E
+  rotate: false
+  xy: 247, 270
+  size: 88, 45
+  orig: 88, 45
+  offset: 0, 0
+  index: -1
+Car_F
+  rotate: true
+  xy: 81, 192
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+Car_G
+  rotate: true
+  xy: 478, 329
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+Car_H
+  rotate: false
+  xy: 348, 303
+  size: 55, 91
+  orig: 55, 91
+  offset: 0, 0
+  index: -1
+Light_A
+  rotate: false
+  xy: 307, 237
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+Light_B
+  rotate: true
+  xy: 486, 380
+  size: 41, 19
+  orig: 41, 19
+  offset: 0, 0
+  index: -1
+Light_C
+  rotate: true
+  xy: 155, 207
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+Light_D
+  rotate: true
+  xy: 478, 286
+  size: 41, 19
+  orig: 41, 19
+  offset: 0, 0
+  index: -1
+Light_E
+  rotate: true
+  xy: 478, 230
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+Tape_A
+  rotate: true
+  xy: 307, 252
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+Tape_B
+  rotate: true
+  xy: 391, 179
+  size: 47, 52
+  orig: 47, 52
+  offset: 0, 0
+  index: -1
+Wheel_A_a
+  rotate: false
+  xy: 337, 241
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Wheel_A_b
+  rotate: true
+  xy: 2, 265
+  size: 73, 77
+  orig: 73, 77
+  offset: 0, 0
+  index: -1
+Wheel_A_c
+  rotate: true
+  xy: 204, 193
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+Wheel_A_d
+  rotate: false
+  xy: 155, 246
+  size: 82, 35
+  orig: 82, 35
+  offset: 0, 0
+  index: -1
+Wheel_A_e
+  rotate: true
+  xy: 2, 187
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+Wheel_A_f
+  rotate: false
+  xy: 252, 317
+  size: 94, 77
+  orig: 94, 77
+  offset: 0, 0
+  index: -1
+Wheel_B_a
+  rotate: false
+  xy: 239, 229
+  size: 66, 39
+  orig: 66, 39
+  offset: 0, 0
+  index: -1
+Wheel_B_b
+  rotate: false
+  xy: 478, 211
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+Wheel_B_c
+  rotate: true
+  xy: 81, 233
+  size: 48, 72
+  orig: 48, 72
+  offset: 0, 0
+  index: -1
+Wheel_B_d
+  rotate: true
+  xy: 81, 283
+  size: 55, 81
+  orig: 55, 81
+  offset: 0, 0
+  index: -1
+Wheel_B_e
+  rotate: false
+  xy: 405, 311
+  size: 71, 81
+  orig: 71, 81
+  offset: 0, 0
+  index: -1
+Wheel_B_f
+  rotate: false
+  xy: 445, 171
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+Wheel_C_a
+  rotate: true
+  xy: 2, 224
+  size: 39, 77
+  orig: 39, 77
+  offset: 0, 0
+  index: -1
+Wheel_C_b
+  rotate: true
+  xy: 164, 283
+  size: 55, 81
+  orig: 55, 81
+  offset: 0, 0
+  index: -1
+Wheel_C_c
+  rotate: false
+  xy: 405, 228
+  size: 71, 81
+  orig: 71, 81
+  offset: 0, 0
+  index: -1
+Wheel_D
+  rotate: true
+  xy: 407, 394
+  size: 113, 77
+  orig: 113, 77
+  offset: 0, 0
+  index: -1

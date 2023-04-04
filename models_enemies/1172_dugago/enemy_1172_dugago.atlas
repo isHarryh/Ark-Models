@@ -1,0 +1,188 @@
+
+enemy_1172_dugago.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body_01
+  rotate: false
+  xy: 416, 114
+  size: 92, 97
+  orig: 92, 97
+  offset: 0, 0
+  index: -1
+C_Head_01
+  rotate: false
+  xy: 2, 3
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+C_Hip_01
+  rotate: false
+  xy: 64, 74
+  size: 73, 77
+  orig: 73, 77
+  offset: 0, 0
+  index: -1
+C_L_Arm_01
+  rotate: true
+  xy: 416, 4
+  size: 50, 68
+  orig: 50, 68
+  offset: 0, 0
+  index: -1
+C_L_Calf_01
+  rotate: false
+  xy: 144, 4
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+C_L_Foot_01
+  rotate: true
+  xy: 497, 293
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+C_L_Foot_02
+  rotate: true
+  xy: 185, 3
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+C_L_Forearm_01
+  rotate: false
+  xy: 2, 67
+  size: 60, 84
+  orig: 60, 84
+  offset: 0, 0
+  index: -1
+C_L_Hand_01
+  rotate: true
+  xy: 235, 220
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+C_L_Wing_A_01
+  rotate: true
+  xy: 264, 350
+  size: 160, 234
+  orig: 160, 234
+  offset: 0, 0
+  index: -1
+C_L_Wing_A_02
+  rotate: true
+  xy: 263, 274
+  size: 74, 232
+  orig: 74, 232
+  offset: 0, 0
+  index: -1
+C_L_Wing_B_01
+  rotate: false
+  xy: 2, 369
+  size: 260, 141
+  orig: 260, 141
+  offset: 0, 0
+  index: -1
+C_L_Wing_B_02
+  rotate: false
+  xy: 179, 107
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+C_L_Wing_B_03
+  rotate: false
+  xy: 2, 296
+  size: 259, 71
+  orig: 259, 71
+  offset: 0, 0
+  index: -1
+C_R_Arm_01
+  rotate: false
+  xy: 139, 89
+  size: 38, 62
+  orig: 38, 62
+  offset: 0, 0
+  index: -1
+C_R_Calf_01
+  rotate: true
+  xy: 185, 32
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+C_R_Foot_01
+  rotate: true
+  xy: 497, 321
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+C_R_Forearm_01
+  rotate: true
+  xy: 416, 56
+  size: 56, 86
+  orig: 56, 86
+  offset: 0, 0
+  index: -1
+C_R_Hand_01
+  rotate: true
+  xy: 235, 257
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+C_R_Leg_01
+  rotate: true
+  xy: 179, 64
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+C_R_Wing_A_01
+  rotate: true
+  xy: 2, 153
+  size: 141, 231
+  orig: 141, 231
+  offset: 0, 0
+  index: -1
+C_R_Wing_A_02
+  rotate: true
+  xy: 261, 213
+  size: 59, 227
+  orig: 59, 227
+  offset: 0, 0
+  index: -1
+C_R_Wing_B_01
+  rotate: true
+  xy: 144, 49
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+C_R_Wing_B_02
+  rotate: true
+  xy: 235, 8
+  size: 203, 119
+  orig: 203, 119
+  offset: 0, 0
+  index: -1
+C_R_Wing_B_03
+  rotate: true
+  xy: 356, 9
+  size: 202, 58
+  orig: 202, 58
+  offset: 0, 0
+  index: -1
+C_Waist_01
+  rotate: false
+  xy: 72, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1

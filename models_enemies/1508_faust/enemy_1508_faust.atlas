@@ -1,0 +1,349 @@
+
+enemy_1508_faust.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eye_1
+  rotate: true
+  xy: 2, 67
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
+Eye_2
+  rotate: true
+  xy: 146, 336
+  size: 48, 12
+  orig: 48, 12
+  offset: 0, 0
+  index: -1
+Eyebrows
+  rotate: false
+  xy: 468, 501
+  size: 42, 9
+  orig: 42, 9
+  offset: 0, 0
+  index: -1
+Eyelash_1
+  rotate: false
+  xy: 163, 386
+  size: 48, 9
+  orig: 48, 9
+  offset: 0, 0
+  index: -1
+Eyelash_2
+  rotate: false
+  xy: 418, 503
+  size: 48, 7
+  orig: 48, 7
+  offset: 0, 0
+  index: -1
+Eyelash_3
+  rotate: true
+  xy: 256, 402
+  size: 48, 9
+  orig: 48, 9
+  offset: 0, 0
+  index: -1
+Front_Hair_A
+  rotate: false
+  xy: 32, 195
+  size: 57, 47
+  orig: 57, 47
+  offset: 0, 0
+  index: -1
+Front_Hair_B
+  rotate: false
+  xy: 91, 197
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+Front_Hair_C
+  rotate: true
+  xy: 83, 248
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+Hair_top
+  rotate: true
+  xy: 98, 108
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 373
+  size: 89, 80
+  orig: 89, 80
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: false
+  xy: 200, 355
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+L_Calf
+  rotate: false
+  xy: 213, 398
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+L_Coat
+  rotate: false
+  xy: 2, 302
+  size: 89, 69
+  orig: 89, 69
+  offset: 0, 0
+  index: -1
+L_Foot
+  rotate: false
+  xy: 160, 333
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+L_Forearm
+  rotate: false
+  xy: 50, 80
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+L_Forearm_2
+  rotate: false
+  xy: 99, 119
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: false
+  xy: 224, 343
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+L_Hand_2
+  rotate: false
+  xy: 82, 51
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+L_Hand_3
+  rotate: true
+  xy: 2, 32
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+L_Hand_4
+  rotate: true
+  xy: 121, 215
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+L_Hood
+  rotate: true
+  xy: 63, 128
+  size: 65, 34
+  orig: 65, 34
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: false
+  xy: 20, 78
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+L_Sleeve
+  rotate: false
+  xy: 21, 132
+  size: 40, 61
+  orig: 40, 61
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: true
+  xy: 272, 464
+  size: 8, 2
+  orig: 8, 2
+  offset: 0, 0
+  index: -1
+Pelvis
+  rotate: false
+  xy: 21, 111
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: false
+  xy: 224, 368
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+R_Calf
+  rotate: true
+  xy: 93, 284
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+R_Coat
+  rotate: false
+  xy: 93, 386
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+R_Collar
+  rotate: false
+  xy: 23, 44
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+R_Ear
+  rotate: false
+  xy: 200, 335
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+R_Foot
+  rotate: false
+  xy: 63, 108
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+R_Forearm
+  rotate: true
+  xy: 81, 80
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 134, 257
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+R_Hand_2
+  rotate: true
+  xy: 2, 2
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+R_Hood
+  rotate: false
+  xy: 160, 351
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: true
+  xy: 51, 48
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+R_Sleeve
+  rotate: false
+  xy: 93, 324
+  size: 51, 60
+  orig: 51, 60
+  offset: 0, 0
+  index: -1
+String
+  rotate: false
+  xy: 99, 148
+  size: 21, 47
+  orig: 21, 47
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 192, 498
+  size: 12, 145
+  orig: 12, 145
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: false
+  xy: 32, 244
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
+Weapon_A
+  rotate: false
+  xy: 2, 455
+  size: 188, 55
+  orig: 188, 55
+  offset: 0, 0
+  index: -1
+Weapon_Arrow
+  rotate: true
+  xy: 2, 117
+  size: 81, 17
+  orig: 81, 17
+  offset: 0, 0
+  index: -1
+Weapon_B
+  rotate: true
+  xy: 192, 474
+  size: 22, 82
+  orig: 22, 82
+  offset: 0, 0
+  index: -1
+Weapon_C
+  rotate: true
+  xy: 192, 452
+  size: 20, 78
+  orig: 20, 78
+  offset: 0, 0
+  index: -1
+Weapon_D
+  rotate: false
+  xy: 2, 200
+  size: 28, 100
+  orig: 28, 100
+  offset: 0, 0
+  index: -1
+Weapon_Line_A
+  rotate: false
+  xy: 163, 397
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+Weapon_Line_B
+  rotate: false
+  xy: 276, 465
+  size: 60, 31
+  orig: 60, 31
+  offset: 0, 0
+  index: -1
+Weapon_Line_C
+  rotate: true
+  xy: 339, 503
+  size: 7, 77
+  orig: 7, 77
+  offset: 0, 0
+  index: -1

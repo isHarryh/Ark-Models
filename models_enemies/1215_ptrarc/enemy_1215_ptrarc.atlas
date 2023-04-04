@@ -1,0 +1,286 @@
+
+enemy_1215_ptrarc.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_Clothes
+  rotate: false
+  xy: 70, 389
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+Bundle_1X
+  rotate: true
+  xy: 2, 218
+  size: 74, 64
+  orig: 74, 64
+  offset: 0, 0
+  index: -1
+Bundle_2
+  rotate: false
+  xy: 69, 334
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+Bundle_2X
+  rotate: true
+  xy: 2, 4
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+Bundle_3
+  rotate: false
+  xy: 145, 389
+  size: 36, 69
+  orig: 36, 69
+  offset: 0, 0
+  index: -1
+Bundle_3X
+  rotate: true
+  xy: 211, 382
+  size: 41, 20
+  orig: 41, 20
+  offset: 0, 0
+  index: -1
+Bundle_4
+  rotate: false
+  xy: 2, 372
+  size: 66, 86
+  orig: 66, 86
+  offset: 0, 0
+  index: -1
+Chest
+  rotate: false
+  xy: 384, 469
+  size: 51, 41
+  orig: 51, 41
+  offset: 0, 0
+  index: -1
+Eyeshade
+  rotate: false
+  xy: 261, 476
+  size: 63, 34
+  orig: 63, 34
+  offset: 0, 0
+  index: -1
+Gun
+  rotate: false
+  xy: 2, 460
+  size: 190, 50
+  orig: 190, 50
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2, 294
+  size: 76, 65
+  orig: 76, 65
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: false
+  xy: 130, 364
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: false
+  xy: 43, 4
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+L_Calf
+  rotate: false
+  xy: 2, 86
+  size: 54, 66
+  orig: 54, 66
+  offset: 0, 0
+  index: -1
+L_Clothes_1
+  rotate: false
+  xy: 183, 381
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+L_Clothes_2
+  rotate: false
+  xy: 179, 364
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+L_Finger
+  rotate: true
+  xy: 161, 335
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+L_Foot
+  rotate: false
+  xy: 261, 454
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+L_Forearm
+  rotate: false
+  xy: 189, 335
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: false
+  xy: 256, 426
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+L_Hand_XX
+  rotate: true
+  xy: 305, 448
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+L_Hand_XXX
+  rotate: false
+  xy: 233, 368
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: false
+  xy: 2, 154
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+Link
+  rotate: false
+  xy: 70, 369
+  size: 58, 18
+  orig: 58, 18
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: true
+  xy: 326, 446
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+R_Badge
+  rotate: false
+  xy: 110, 342
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+R_Calf
+  rotate: true
+  xy: 194, 464
+  size: 46, 65
+  orig: 46, 65
+  offset: 0, 0
+  index: -1
+R_Clothes_1
+  rotate: false
+  xy: 326, 472
+  size: 56, 38
+  orig: 56, 38
+  offset: 0, 0
+  index: -1
+R_Foot
+  rotate: true
+  xy: 183, 416
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+R_Forearm
+  rotate: false
+  xy: 233, 394
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 261, 367
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+R_Hand_XXX
+  rotate: false
+  xy: 129, 335
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: false
+  xy: 209, 425
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+Tape_1
+  rotate: false
+  xy: 489, 461
+  size: 21, 49
+  orig: 21, 49
+  offset: 0, 0
+  index: -1
+Tape_2
+  rotate: false
+  xy: 360, 461
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+Tape_3
+  rotate: false
+  xy: 260, 395
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+Tape_4
+  rotate: false
+  xy: 241, 435
+  size: 13, 27
+  orig: 13, 27
+  offset: 0, 0
+  index: -1
+Tube
+  rotate: false
+  xy: 69, 297
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: false
+  xy: 2, 40
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+Wing_1
+  rotate: true
+  xy: 437, 467
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1

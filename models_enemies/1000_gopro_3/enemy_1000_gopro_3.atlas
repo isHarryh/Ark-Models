@@ -1,0 +1,188 @@
+
+enemy_1000_gopro_3.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Back_belt
+  rotate: false
+  xy: 110, 27
+  size: 18, 42
+  orig: 18, 42
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 157
+  size: 144, 97
+  orig: 144, 97
+  offset: 0, 0
+  index: -1
+Cam_01
+  rotate: false
+  xy: 83, 71
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+Cam_02
+  rotate: false
+  xy: 138, 130
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Cam_03
+  rotate: true
+  xy: 117, 71
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+Cam_04
+  rotate: false
+  xy: 163, 130
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+Cam_Light_01
+  rotate: true
+  xy: 219, 160
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+Cam_Light_02
+  rotate: false
+  xy: 162, 111
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 2, 101
+  size: 69, 54
+  orig: 69, 54
+  offset: 0, 0
+  index: -1
+Front_belt
+  rotate: false
+  xy: 2, 2
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+L_BackLeg
+  rotate: false
+  xy: 220, 189
+  size: 31, 65
+  orig: 31, 65
+  offset: 0, 0
+  index: -1
+L_Ear
+  rotate: false
+  xy: 130, 31
+  size: 14, 38
+  orig: 14, 38
+  offset: 0, 0
+  index: -1
+L_FrontLeg
+  rotate: false
+  xy: 148, 178
+  size: 35, 76
+  orig: 35, 76
+  offset: 0, 0
+  index: -1
+Middle_belt
+  rotate: false
+  xy: 45, 2
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Mouthdown
+  rotate: false
+  xy: 148, 154
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1
+Mouthup
+  rotate: false
+  xy: 181, 160
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+R_BackLeg
+  rotate: false
+  xy: 2, 31
+  size: 42, 68
+  orig: 42, 68
+  offset: 0, 0
+  index: -1
+R_Ear
+  rotate: false
+  xy: 83, 32
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+R_FrontLeg
+  rotate: false
+  xy: 185, 177
+  size: 33, 77
+  orig: 33, 77
+  offset: 0, 0
+  index: -1
+Seat
+  rotate: true
+  xy: 46, 31
+  size: 68, 35
+  orig: 68, 35
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 73, 109
+  size: 46, 63
+  orig: 46, 63
+  offset: 0, 0
+  index: -1
+Teeth_Down_01
+  rotate: false
+  xy: 138, 112
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+Teeth_Down_02
+  rotate: false
+  xy: 220, 173
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+Teeth_Up
+  rotate: true
+  xy: 141, 2
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+Tongue
+  rotate: false
+  xy: 110, 2
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+Water
+  rotate: true
+  xy: 77, 2
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1

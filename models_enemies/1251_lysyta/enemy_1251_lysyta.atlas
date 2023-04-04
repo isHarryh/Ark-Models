@@ -1,0 +1,20 @@
+
+enemy_1251_lysyta.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 76
+  size: 112, 91
+  orig: 112, 91
+  offset: 0, 0
+  index: -1
+C_BodyA
+  rotate: true
+  xy: 116, 100
+  size: 67, 51
+  orig: 67, 51
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,195 @@
+
+enemy_2032_syboy2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: 180
+  xy: 461, 438
+  size: 47, 74
+  orig: 47, 78
+  offset: 0, 2
+  index: -1
+Arm_R
+  rotate: true
+  xy: 412, 390
+  size: 39, 79
+  orig: 39, 79
+  offset: 0, 0
+  index: -1
+Calf_L
+  rotate: 270
+  xy: 2, 281
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+Calf_R
+  rotate: 270
+  xy: 49, 277
+  size: 38, 54
+  orig: 38, 54
+  offset: 0, 0
+  index: -1
+Chest
+  rotate: true
+  xy: 170, 402
+  size: 109, 90
+  orig: 118, 101
+  offset: 0, 11
+  index: -1
+Foot_L
+  rotate: false
+  xy: 88, 354
+  size: 65, 35
+  orig: 65, 35
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: false
+  xy: 322, 289
+  size: 50, 25
+  orig: 50, 25
+  offset: 0, 0
+  index: -1
+Forearm_L
+  rotate: true
+  xy: 394, 326
+  size: 66, 91
+  orig: 66, 91
+  offset: 0, 0
+  index: -1
+Forearm_R
+  rotate: true
+  xy: 328, 400
+  size: 40, 82
+  orig: 40, 82
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: true
+  xy: 323, 353
+  size: 45, 69
+  orig: 45, 69
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 451, 348
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 105, 398
+  size: 63, 112
+  orig: 64, 112
+  offset: 0, 0
+  index: -1
+Head_A
+  rotate: false
+  xy: 2, 390
+  size: 102, 121
+  orig: 102, 121
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 279, 299
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+Leg_L_a
+  rotate: false
+  xy: 181, 341
+  size: 79, 28
+  orig: 79, 30
+  offset: 0, 1
+  index: -1
+Leg_R
+  rotate: false
+  xy: 2, 328
+  size: 63, 61
+  orig: 63, 61
+  offset: 0, 0
+  index: -1
+Leg_R_a
+  rotate: false
+  xy: 145, 308
+  size: 79, 32
+  orig: 79, 34
+  offset: 0, 0
+  index: -1
+Line_a
+  rotate: false
+  xy: 155, 365
+  size: 171, 53
+  orig: 171, 53
+  offset: 0, 0
+  index: -1
+Line_b
+  rotate: 180
+  xy: 224, 284
+  size: 93, 31
+  orig: 93, 31
+  offset: 0, 0
+  index: -1
+Line_c
+  rotate: false
+  xy: 261, 405
+  size: 47, 22
+  orig: 47, 22
+  offset: 0, 0
+  index: -1
+Line_d
+  rotate: 180
+  xy: 34, 305
+  size: 124, 47
+  orig: 124, 47
+  offset: 0, 0
+  index: -1
+Line_e
+  rotate: 180
+  xy: 278, 314
+  size: 134, 55
+  orig: 134, 55
+  offset: 0, 0
+  index: -1
+Line_f
+  rotate: false
+  xy: 60, 290
+  size: 125, 38
+  orig: 141, 38
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: true
+  xy: 328, 441
+  size: 70, 68
+  orig: 70, 68
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 262, 428
+  size: 65, 83
+  orig: 65, 83
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 398, 288
+  size: 51, 111
+  orig: 51, 111
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: false
+  xy: 398, 430
+  size: 66, 81
+  orig: 66, 96
+  offset: 0, 15
+  index: -1
