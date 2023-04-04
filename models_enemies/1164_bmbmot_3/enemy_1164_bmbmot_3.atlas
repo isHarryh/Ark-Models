@@ -1,0 +1,118 @@
+
+enemy_1164_bmbmot_3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_Wheel_A
+  rotate: false
+  xy: 207, 452
+  size: 154, 58
+  orig: 154, 58
+  offset: 0, 0
+  index: -1
+B_Wheel_Ba
+  rotate: true
+  xy: 471, 478
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+B_Wheel_Bb
+  rotate: false
+  xy: 56, 274
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+B_Wheel_Ca
+  rotate: true
+  xy: 207, 421
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+B_Wheel_Cb
+  rotate: false
+  xy: 363, 457
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+Engine
+  rotate: true
+  xy: 2, 193
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+F_Wheel_A
+  rotate: false
+  xy: 2, 352
+  size: 161, 58
+  orig: 161, 58
+  offset: 0, 0
+  index: -1
+F_Wheel_Ab
+  rotate: false
+  xy: 104, 328
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+F_Wheel_Ba
+  rotate: true
+  xy: 471, 448
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+F_Wheel_Bb
+  rotate: false
+  xy: 2, 151
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+F_Wheel_Ca
+  rotate: false
+  xy: 165, 357
+  size: 32, 53
+  orig: 32, 53
+  offset: 0, 0
+  index: -1
+F_Wheel_Cb
+  rotate: false
+  xy: 258, 439
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+Mast
+  rotate: true
+  xy: 363, 470
+  size: 40, 106
+  orig: 40, 106
+  offset: 0, 0
+  index: -1
+Periscope
+  rotate: false
+  xy: 56, 318
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+Rope
+  rotate: false
+  xy: 2, 250
+  size: 52, 100
+  orig: 52, 100
+  offset: 0, 0
+  index: -1
+Ship
+  rotate: false
+  xy: 2, 412
+  size: 203, 98
+  orig: 203, 98
+  offset: 0, 0
+  index: -1

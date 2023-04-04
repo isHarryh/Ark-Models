@@ -1,0 +1,27 @@
+
+enemy_6003_trsslm.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 116
+  size: 163, 86
+  orig: 163, 86
+  offset: 0, 0
+  index: -1
+Body2
+  rotate: true
+  xy: 129, 87
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+Shell
+  rotate: false
+  xy: 2, 2
+  size: 125, 112
+  orig: 125, 112
+  offset: 0, 0
+  index: -1

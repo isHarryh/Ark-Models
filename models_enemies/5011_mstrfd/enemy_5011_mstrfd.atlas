@@ -1,0 +1,531 @@
+
+enemy_5011_mstrfd.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+S_B_Body
+  rotate: true
+  xy: 242, 102
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+S_B_Box
+  rotate: true
+  xy: 48, 187
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+S_B_Eye_c
+  rotate: true
+  xy: 441, 256
+  size: 12, 8
+  orig: 13, 10
+  offset: 1, 1
+  index: -1
+S_B_Eye_t
+  rotate: true
+  xy: 458, 409
+  size: 13, 7
+  orig: 15, 8
+  offset: 1, 1
+  index: -1
+S_B_Head
+  rotate: false
+  xy: 242, 147
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+S_B_Leg_L
+  rotate: true
+  xy: 170, 162
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+S_B_Leg_R
+  rotate: false
+  xy: 48, 169
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+S_B_Mouth
+  rotate: false
+  xy: 208, 107
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+S_B_Mouth_C
+  rotate: true
+  xy: 46, 91
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+S_B_Mouth_C_t
+  rotate: false
+  xy: 46, 156
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+S_B_Spanner
+  rotate: true
+  xy: 192, 168
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+S_B_Tail
+  rotate: true
+  xy: 193, 201
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+S_B_Wing_L
+  rotate: false
+  xy: 214, 200
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+S_B_Wing_R
+  rotate: true
+  xy: 2, 42
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+S_Body
+  rotate: true
+  xy: 127, 414
+  size: 96, 116
+  orig: 96, 116
+  offset: 0, 0
+  index: -1
+S_Body_B
+  rotate: true
+  xy: 245, 444
+  size: 66, 128
+  orig: 67, 128
+  offset: 0, 0
+  index: -1
+S_Body_C
+  rotate: false
+  xy: 368, 336
+  size: 88, 86
+  orig: 89, 86
+  offset: 0, 0
+  index: -1
+S_Body_Cloth
+  rotate: false
+  xy: 330, 246
+  size: 35, 84
+  orig: 35, 84
+  offset: 0, 0
+  index: -1
+S_Body_shackle_A
+  rotate: true
+  xy: 309, 216
+  size: 53, 19
+  orig: 53, 19
+  offset: 0, 0
+  index: -1
+S_Body_shackle_B
+  rotate: true
+  xy: 330, 185
+  size: 59, 28
+  orig: 59, 28
+  offset: 0, 0
+  index: -1
+S_Cannon
+  rotate: true
+  xy: 458, 299
+  size: 93, 49
+  orig: 94, 49
+  offset: 0, 0
+  index: -1
+S_Cannon_Cover
+  rotate: false
+  xy: 195, 299
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1
+S_Chimney_A
+  rotate: false
+  xy: 467, 394
+  size: 39, 116
+  orig: 39, 116
+  offset: 0, 0
+  index: -1
+S_Chimney_B
+  rotate: true
+  xy: 2, 182
+  size: 76, 44
+  orig: 76, 44
+  offset: 0, 0
+  index: -1
+S_Chimney_C
+  rotate: true
+  xy: 452, 207
+  size: 90, 54
+  orig: 90, 54
+  offset: 0, 0
+  index: -1
+S_Control_rod_A
+  rotate: false
+  xy: 328, 133
+  size: 23, 50
+  orig: 23, 50
+  offset: 0, 0
+  index: -1
+S_Control_rod_B
+  rotate: false
+  xy: 215, 294
+  size: 23, 51
+  orig: 23, 51
+  offset: 0, 0
+  index: -1
+S_Head
+  rotate: false
+  xy: 127, 333
+  size: 86, 79
+  orig: 86, 79
+  offset: 0, 0
+  index: -1
+S_Head_shackle
+  rotate: false
+  xy: 441, 270
+  size: 9, 64
+  orig: 9, 64
+  offset: 0, 0
+  index: -1
+S_In_B_Body
+  rotate: true
+  xy: 155, 53
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+S_In_B_Eye
+  rotate: true
+  xy: 500, 107
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+S_In_B_Eyeball
+  rotate: true
+  xy: 368, 439
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+S_In_B_Head
+  rotate: false
+  xy: 105, 63
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+S_In_B_Leg_L
+  rotate: true
+  xy: 170, 139
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+S_In_B_Leg_R
+  rotate: true
+  xy: 191, 146
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+S_In_B_Mouth
+  rotate: false
+  xy: 44, 12
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+S_In_B_Mouth_B
+  rotate: false
+  xy: 214, 244
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+S_In_B_Tail
+  rotate: true
+  xy: 193, 232
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+S_In_B_Wing_L
+  rotate: true
+  xy: 207, 68
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+S_In_B_Wing_R
+  rotate: true
+  xy: 48, 219
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+S_L_Arm
+  rotate: false
+  xy: 75, 257
+  size: 48, 71
+  orig: 48, 71
+  offset: 0, 0
+  index: -1
+S_L_Arm_tube_A
+  rotate: false
+  xy: 208, 150
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+S_L_Arm_tube_B
+  rotate: false
+  xy: 98, 31
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+S_L_Arm_tube_C
+  rotate: true
+  xy: 116, 109
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+S_L_Calf
+  rotate: true
+  xy: 2, 70
+  size: 52, 40
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+S_L_Eye_dizzy
+  rotate: true
+  xy: 170, 185
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+S_L_Foot
+  rotate: true
+  xy: 72, 131
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+S_L_Forearm
+  rotate: true
+  xy: 244, 263
+  size: 92, 63
+  orig: 92, 64
+  offset: 0, 1
+  index: -1
+S_L_Forearm_T
+  rotate: false
+  xy: 291, 127
+  size: 34, 30
+  orig: 34, 31
+  offset: 0, 1
+  index: -1
+S_L_Forearm_shackle
+  rotate: false
+  xy: 447, 46
+  size: 51, 73
+  orig: 51, 77
+  offset: 0, 0
+  index: -1
+S_L_Hand
+  rotate: false
+  xy: 75, 189
+  size: 41, 66
+  orig: 41, 69
+  offset: 0, 3
+  index: -1
+S_L_Hand_Nail
+  rotate: false
+  xy: 306, 159
+  size: 20, 55
+  orig: 20, 55
+  offset: 0, 0
+  index: -1
+S_L_Hand_Nail_B
+  rotate: false
+  xy: 425, 114
+  size: 20, 55
+  orig: 20, 55
+  offset: 0, 0
+  index: -1
+S_L_Leg
+  rotate: true
+  xy: 125, 209
+  size: 56, 66
+  orig: 59, 66
+  offset: 1, 0
+  index: -1
+S_L_Shoulder
+  rotate: true
+  xy: 368, 238
+  size: 96, 71
+  orig: 96, 71
+  offset: 0, 0
+  index: -1
+S_L_Shoulder_B
+  rotate: true
+  xy: 2, 8
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+S_R_Arm
+  rotate: false
+  xy: 75, 330
+  size: 48, 72
+  orig: 48, 72
+  offset: 0, 0
+  index: -1
+S_R_Calf
+  rotate: false
+  xy: 44, 49
+  size: 52, 40
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+S_R_Foot
+  rotate: true
+  xy: 2, 124
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+S_R_Forearm
+  rotate: false
+  xy: 353, 114
+  size: 70, 55
+  orig: 70, 55
+  offset: 0, 0
+  index: -1
+S_R_Forearm_tube
+  rotate: true
+  xy: 215, 347
+  size: 65, 27
+  orig: 65, 27
+  offset: 0, 0
+  index: -1
+S_R_Leg
+  rotate: false
+  xy: 244, 195
+  size: 60, 66
+  orig: 60, 66
+  offset: 0, 0
+  index: -1
+S_R_Saw
+  rotate: true
+  xy: 2, 332
+  size: 70, 71
+  orig: 70, 71
+  offset: 0, 0
+  index: -1
+S_R_Saw_C
+  rotate: true
+  xy: 2, 260
+  size: 70, 71
+  orig: 70, 71
+  offset: 0, 0
+  index: -1
+S_R_Shoulder
+  rotate: true
+  xy: 451, 121
+  size: 84, 56
+  orig: 84, 56
+  offset: 0, 0
+  index: -1
+S_Stand
+  rotate: false
+  xy: 337, 332
+  size: 29, 110
+  orig: 29, 110
+  offset: 0, 0
+  index: -1
+S_Top_Cloth
+  rotate: true
+  xy: 309, 271
+  size: 84, 19
+  orig: 84, 19
+  offset: 0, 0
+  index: -1
+S_Top_Frame
+  rotate: false
+  xy: 2, 404
+  size: 123, 106
+  orig: 123, 106
+  offset: 0, 0
+  index: -1
+S_Top_Net
+  rotate: true
+  xy: 360, 171
+  size: 65, 89
+  orig: 65, 89
+  offset: 0, 0
+  index: -1
+S_Top_Seat
+  rotate: false
+  xy: 125, 267
+  size: 68, 64
+  orig: 68, 64
+  offset: 0, 0
+  index: -1
+S_Wheel
+  rotate: false
+  xy: 245, 357
+  size: 90, 85
+  orig: 90, 85
+  offset: 0, 0
+  index: -1
+S_Wheel_B
+  rotate: false
+  xy: 118, 157
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+S_Wheel_G
+  rotate: true
+  xy: 375, 424
+  size: 86, 90
+  orig: 86, 90
+  offset: 0, 0
+  index: -1
+S_Wheel_S
+  rotate: false
+  xy: 169, 99
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+S_light
+  rotate: false
+  xy: 195, 266
+  size: 17, 31
+  orig: 18, 32
+  offset: 0, 1
+  index: -1

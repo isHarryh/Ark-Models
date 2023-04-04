@@ -1,0 +1,125 @@
+
+enemy_1306_mhtrtl_2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: 180
+  xy: 220, 380
+  size: 109, 119
+  orig: 115, 119
+  offset: 0, 0
+  index: -1
+C_Body_1
+  rotate: false
+  xy: 2, 362
+  size: 130, 137
+  orig: 130, 137
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 331, 436
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: false
+  xy: 294, 359
+  size: 40, 36
+  orig: 41, 36
+  offset: 1, 0
+  index: -1
+C_L_Ears
+  rotate: 270
+  xy: 415, 349
+  size: 38, 31
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: true
+  xy: 464, 403
+  size: 46, 27
+  orig: 46, 27
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: true
+  xy: 455, 451
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+C_L_Paw
+  rotate: false
+  xy: 379, 363
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+C_L_Paw_1
+  rotate: true
+  xy: 382, 397
+  size: 40, 58
+  orig: 40, 58
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: false
+  xy: 430, 472
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+C_R_Ear
+  rotate: false
+  xy: 2, 356
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: false
+  xy: 441, 373
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: true
+  xy: 240, 358
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+C_R_Thigh
+  rotate: true
+  xy: 331, 391
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: true
+  xy: 388, 405
+  size: 95, 74
+  orig: 95, 74
+  offset: 0, 0
+  index: -1
+C_Tortoise_shell
+  rotate: false
+  xy: 119, 357
+  size: 121, 142
+  orig: 121, 142
+  offset: 0, 0
+  index: -1
+C_lower jaw
+  rotate: false
+  xy: 334, 364
+  size: 41, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1

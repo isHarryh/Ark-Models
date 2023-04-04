@@ -1,0 +1,293 @@
+
+enemy_2001_duckmi.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Arm_R
+  rotate: false
+  xy: 2, 76
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+C_Arn_L
+  rotate: false
+  xy: 26, 224
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: true
+  xy: 309, 450
+  size: 60, 63
+  orig: 60, 63
+  offset: 0, 0
+  index: -1
+C_Box
+  rotate: false
+  xy: 69, 454
+  size: 78, 56
+  orig: 78, 56
+  offset: 0, 0
+  index: -1
+C_Box1
+  rotate: false
+  xy: 195, 444
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+C_Box10
+  rotate: true
+  xy: 60, 383
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+C_Box11
+  rotate: true
+  xy: 60, 361
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+C_Box2
+  rotate: true
+  xy: 349, 421
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+C_Box3
+  rotate: false
+  xy: 2, 6
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+C_Box4
+  rotate: false
+  xy: 195, 425
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+C_Box5
+  rotate: false
+  xy: 236, 437
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+C_Box6
+  rotate: false
+  xy: 308, 429
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+C_Box7
+  rotate: true
+  xy: 479, 446
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+C_Box8
+  rotate: false
+  xy: 479, 428
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+C_Box9
+  rotate: true
+  xy: 277, 429
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+C_Box_A
+  rotate: true
+  xy: 2, 235
+  size: 108, 22
+  orig: 108, 22
+  offset: 0, 0
+  index: -1
+C_Box_B
+  rotate: true
+  xy: 2, 345
+  size: 82, 56
+  orig: 82, 56
+  offset: 0, 0
+  index: -1
+C_Box_Handle
+  rotate: true
+  xy: 438, 444
+  size: 35, 10
+  orig: 35, 10
+  offset: 0, 0
+  index: -1
+C_Butt
+  rotate: false
+  xy: 2, 30
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+C_Calf_L
+  rotate: true
+  xy: 479, 473
+  size: 13, 31
+  orig: 13, 31
+  offset: 0, 0
+  index: -1
+C_Calf_R
+  rotate: false
+  xy: 129, 424
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+C_Coat_L
+  rotate: true
+  xy: 149, 467
+  size: 43, 85
+  orig: 43, 85
+  offset: 0, 0
+  index: -1
+C_Coat_R
+  rotate: false
+  xy: 2, 429
+  size: 65, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+C_Collar_L
+  rotate: false
+  xy: 175, 429
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+C_Collar_R
+  rotate: false
+  xy: 414, 420
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+C_Foot_L
+  rotate: false
+  xy: 450, 433
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+C_Foot_L_II
+  rotate: false
+  xy: 25, 184
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+C_Foot_R
+  rotate: false
+  xy: 374, 425
+  size: 38, 17
+  orig: 38, 17
+  offset: 0, 0
+  index: -1
+C_Hand_L
+  rotate: true
+  xy: 374, 444
+  size: 35, 62
+  orig: 35, 62
+  offset: 0, 0
+  index: -1
+C_Hand_L_II
+  rotate: false
+  xy: 450, 454
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+C_Hand_R
+  rotate: false
+  xy: 2, 124
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+C_Hat
+  rotate: false
+  xy: 374, 481
+  size: 74, 29
+  orig: 74, 29
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 26, 267
+  size: 32, 76
+  orig: 32, 76
+  offset: 0, 0
+  index: -1
+C_Mouth_A
+  rotate: false
+  xy: 69, 435
+  size: 58, 17
+  orig: 58, 17
+  offset: 0, 0
+  index: -1
+C_Mouth_B
+  rotate: false
+  xy: 149, 449
+  size: 44, 16
+  orig: 44, 16
+  offset: 0, 0
+  index: -1
+C_Shirt_L
+  rotate: true
+  xy: 236, 458
+  size: 52, 71
+  orig: 52, 71
+  offset: 0, 0
+  index: -1
+C_Skirt_R
+  rotate: true
+  xy: 450, 488
+  size: 22, 60
+  orig: 22, 60
+  offset: 0, 0
+  index: -1
+C_Thigh_L
+  rotate: true
+  xy: 149, 428
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+C_Thight_R
+  rotate: false
+  xy: 60, 405
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+C_Tie
+  rotate: false
+  xy: 2, 174
+  size: 21, 59
+  orig: 21, 59
+  offset: 0, 0
+  index: -1
+C_Tie_II
+  rotate: true
+  xy: 60, 338
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1

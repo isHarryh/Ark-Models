@@ -1,0 +1,125 @@
+
+enemy_7005_xbbull_2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 99
+  size: 150, 105
+  orig: 150, 105
+  offset: 0, 0
+  index: -1
+C_Ear
+  rotate: 270
+  xy: 2, 107
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+C_Grass
+  rotate: false
+  xy: 118, 54
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+C_Grass_2
+  rotate: false
+  xy: 46, 89
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+C_Grass_3
+  rotate: false
+  xy: 57, 43
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+C_Hair_1
+  rotate: 270
+  xy: 69, 76
+  size: 32, 58
+  orig: 32, 58
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: true
+  xy: 151, 124
+  size: 66, 52
+  orig: 66, 52
+  offset: 0, 0
+  index: -1
+C_L_Leg_1
+  rotate: true
+  xy: 140, 90
+  size: 33, 58
+  orig: 33, 58
+  offset: 0, 0
+  index: -1
+C_L_Leg_2
+  rotate: false
+  xy: 172, 34
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+C_L_Leg_3
+  rotate: true
+  xy: 2, 73
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+C_L_Leg_4
+  rotate: 270
+  xy: 2, 34
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+C_Mouth
+  rotate: false
+  xy: 43, 36
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+C_R_Leg_1
+  rotate: false
+  xy: 162, 58
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+C_R_Leg_2
+  rotate: 270
+  xy: 107, 40
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+C_R_Leg_3
+  rotate: false
+  xy: 180, 60
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+C_R_Leg_4
+  rotate: true
+  xy: 75, 54
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: 270
+  xy: 22, 49
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1

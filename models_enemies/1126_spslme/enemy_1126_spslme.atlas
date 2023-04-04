@@ -1,0 +1,34 @@
+
+enemy_1126_spslme.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_B_Fire
+  rotate: false
+  xy: 2, 41
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+F_Body
+  rotate: false
+  xy: 2, 150
+  size: 550, 438
+  orig: 550, 438
+  offset: 0, 0
+  index: -1
+F_L_Fire
+  rotate: false
+  xy: 2, 85
+  size: 37, 63
+  orig: 37, 63
+  offset: 0, 0
+  index: -1
+F_R_Fire
+  rotate: false
+  xy: 554, 530
+  size: 34, 58
+  orig: 34, 58
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,251 @@
+
+enemy_1074_dbskar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_Chest
+  rotate: false
+  xy: 2, 377
+  size: 81, 133
+  orig: 81, 133
+  offset: 0, 0
+  index: -1
+F_Ear_L
+  rotate: false
+  xy: 24, 99
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+F_Hand_III
+  rotate: true
+  xy: 57, 254
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+F_Hat
+  rotate: false
+  xy: 352, 420
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+F_Hat_II
+  rotate: true
+  xy: 437, 425
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
+F_Head
+  rotate: true
+  xy: 295, 466
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+F_Head_FX
+  rotate: false
+  xy: 52, 176
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+F_Head_Tape_L
+  rotate: false
+  xy: 2, 97
+  size: 20, 126
+  orig: 20, 126
+  offset: 0, 0
+  index: -1
+F_Head_Tape_R
+  rotate: false
+  xy: 2, 225
+  size: 21, 150
+  orig: 21, 150
+  offset: 0, 0
+  index: -1
+F_Hip
+  rotate: false
+  xy: 160, 481
+  size: 74, 29
+  orig: 74, 29
+  offset: 0, 0
+  index: -1
+F_Horn_L
+  rotate: false
+  xy: 124, 436
+  size: 34, 74
+  orig: 34, 74
+  offset: 0, 0
+  index: -1
+F_Horn_L_FX
+  rotate: false
+  xy: 24, 121
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+F_Horn_R
+  rotate: false
+  xy: 57, 301
+  size: 23, 74
+  orig: 23, 74
+  offset: 0, 0
+  index: -1
+F_Horn_R_FX
+  rotate: true
+  xy: 57, 212
+  size: 12, 43
+  orig: 12, 43
+  offset: 0, 0
+  index: -1
+F_L_Arm
+  rotate: true
+  xy: 160, 435
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+F_L_Calf
+  rotate: true
+  xy: 2, 2
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+F_L_Foot
+  rotate: true
+  xy: 324, 420
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+F_L_Forearm
+  rotate: true
+  xy: 352, 463
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+F_L_Forearm_FX
+  rotate: false
+  xy: 76, 177
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+F_L_Hand
+  rotate: true
+  xy: 273, 427
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+F_L_Hand_II
+  rotate: true
+  xy: 124, 394
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+F_L_Knee
+  rotate: true
+  xy: 25, 212
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+F_L_Shoulder
+  rotate: false
+  xy: 397, 424
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+F_L_Sleeve
+  rotate: false
+  xy: 25, 255
+  size: 30, 120
+  orig: 30, 120
+  offset: 0, 0
+  index: -1
+F_L_Thigh
+  rotate: true
+  xy: 160, 390
+  size: 43, 52
+  orig: 43, 52
+  offset: 0, 0
+  index: -1
+F_R_Arm
+  rotate: true
+  xy: 236, 466
+  size: 44, 57
+  orig: 44, 57
+  offset: 0, 0
+  index: -1
+F_R_Calf
+  rotate: true
+  xy: 221, 424
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+F_R_Foot
+  rotate: true
+  xy: 24, 166
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+F_R_Forearm
+  rotate: true
+  xy: 407, 463
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+F_R_Forearm_FX
+  rotate: false
+  xy: 221, 468
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+F_R_Hand
+  rotate: true
+  xy: 459, 472
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+F_R_Knee
+  rotate: false
+  xy: 57, 226
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+F_R_Sleeve
+  rotate: false
+  xy: 85, 387
+  size: 37, 123
+  orig: 37, 123
+  offset: 0, 0
+  index: -1
+F_R_Thigh
+  rotate: true
+  xy: 214, 384
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+F_Tail
+  rotate: false
+  xy: 2, 40
+  size: 18, 55
+  orig: 18, 55
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+enemy_1020_obsv.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_L_arm_A
+  rotate: true
+  xy: 69, 79
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+C_L_arm_B
+  rotate: false
+  xy: 62, 8
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+C_L_hand
+  rotate: false
+  xy: 114, 80
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+C_L_kneepad
+  rotate: true
+  xy: 207, 134
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+C_L_shin
+  rotate: true
+  xy: 158, 130
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+C_L_shoes
+  rotate: true
+  xy: 125, 44
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+C_L_thigh
+  rotate: true
+  xy: 2, 2
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+C_R_arm_A
+  rotate: true
+  xy: 210, 165
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+C_R_arm_B
+  rotate: false
+  xy: 224, 219
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+C_R_hand
+  rotate: false
+  xy: 231, 136
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+C_R_kneepad
+  rotate: false
+  xy: 125, 20
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+C_R_shin
+  rotate: true
+  xy: 159, 163
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+C_R_shoes
+  rotate: true
+  xy: 95, 5
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+C_R_thigh
+  rotate: false
+  xy: 95, 41
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+C_aerial
+  rotate: true
+  xy: 78, 167
+  size: 25, 79
+  orig: 25, 79
+  offset: 0, 0
+  index: -1
+C_backpack
+  rotate: false
+  xy: 2, 102
+  size: 65, 77
+  orig: 65, 77
+  offset: 0, 0
+  index: -1
+C_body
+  rotate: true
+  xy: 78, 194
+  size: 60, 79
+  orig: 60, 79
+  offset: 0, 0
+  index: -1
+C_earphone
+  rotate: false
+  xy: 69, 110
+  size: 62, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1
+C_head
+  rotate: true
+  xy: 2, 30
+  size: 70, 58
+  orig: 70, 58
+  offset: 0, 0
+  index: -1
+C_hood_A
+  rotate: false
+  xy: 2, 181
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+C_hood_B
+  rotate: true
+  xy: 159, 196
+  size: 58, 63
+  orig: 58, 63
+  offset: 0, 0
+  index: -1
+C_pants
+  rotate: true
+  xy: 133, 116
+  size: 49, 23
+  orig: 49, 23
+  offset: 0, 0
+  index: -1
+C_pipeline
+  rotate: true
+  xy: 158, 99
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+C_tape
+  rotate: false
+  xy: 62, 42
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1

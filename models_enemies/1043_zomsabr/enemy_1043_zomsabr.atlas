@@ -1,0 +1,181 @@
+
+enemy_1043_zomsabr.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bag_A
+  rotate: false
+  xy: 167, 68
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Bag_B
+  rotate: false
+  xy: 128, 21
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+Bag_C
+  rotate: false
+  xy: 167, 84
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 52, 106
+  size: 60, 67
+  orig: 60, 67
+  offset: 0, 0
+  index: -1
+Hood_A
+  rotate: false
+  xy: 2, 175
+  size: 83, 79
+  orig: 83, 79
+  offset: 0, 0
+  index: -1
+Hood_B
+  rotate: false
+  xy: 87, 182
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: true
+  xy: 186, 89
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+L_Calf
+  rotate: false
+  xy: 2, 2
+  size: 43, 57
+  orig: 43, 57
+  offset: 0, 0
+  index: -1
+L_Fingers
+  rotate: false
+  xy: 106, 42
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+L_Foot
+  rotate: true
+  xy: 149, 136
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+L_Forearm
+  rotate: false
+  xy: 219, 86
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: false
+  xy: 219, 116
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+L_Kneecap
+  rotate: false
+  xy: 133, 42
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: true
+  xy: 149, 102
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: true
+  xy: 133, 69
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+R_Calf
+  rotate: true
+  xy: 52, 60
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+R_Foot
+  rotate: false
+  xy: 186, 153
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+R_Forearm
+  rotate: false
+  xy: 106, 70
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 186, 117
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+R_Kneecap
+  rotate: false
+  xy: 100, 16
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: false
+  xy: 225, 152
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+Scarf
+  rotate: true
+  xy: 114, 115
+  size: 65, 33
+  orig: 65, 33
+  offset: 0, 0
+  index: -1
+Vest
+  rotate: false
+  xy: 47, 10
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: true
+  xy: 169, 194
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: true
+  xy: 2, 61
+  size: 112, 48
+  orig: 112, 48
+  offset: 0, 0
+  index: -1

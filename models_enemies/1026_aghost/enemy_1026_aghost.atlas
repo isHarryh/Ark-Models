@@ -1,0 +1,139 @@
+
+enemy_1026_aghost.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Flashlight
+  rotate: false
+  xy: 66, 186
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 2, 190
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: true
+  xy: 191, 218
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+C_L_Calf
+  rotate: true
+  xy: 66, 217
+  size: 37, 66
+  orig: 37, 66
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: false
+  xy: 38, 48
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: true
+  xy: 147, 178
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+C_L_Kneepad
+  rotate: false
+  xy: 191, 193
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+C_L_Thigh
+  rotate: false
+  xy: 93, 138
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+C_Light
+  rotate: false
+  xy: 134, 210
+  size: 55, 44
+  orig: 55, 44
+  offset: 0, 0
+  index: -1
+C_LightSource
+  rotate: false
+  xy: 53, 142
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: false
+  xy: 2, 10
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+C_R_Calf
+  rotate: false
+  xy: 2, 60
+  size: 34, 66
+  orig: 34, 66
+  offset: 0, 0
+  index: -1
+C_R_Finger
+  rotate: false
+  xy: 118, 186
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: false
+  xy: 37, 17
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: true
+  xy: 127, 136
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+C_R_Kneepad
+  rotate: true
+  xy: 229, 182
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+C_R_Thigh
+  rotate: false
+  xy: 38, 80
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+C_Waist
+  rotate: false
+  xy: 2, 128
+  size: 49, 60
+  orig: 49, 60
+  offset: 0, 0
+  index: -1
+C_Wristband
+  rotate: true
+  xy: 127, 164
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1

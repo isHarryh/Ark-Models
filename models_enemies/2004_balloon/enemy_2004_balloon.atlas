@@ -1,0 +1,195 @@
+
+enemy_2004_balloon.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Aerocraft_01
+  rotate: false
+  xy: 2, 322
+  size: 130, 188
+  orig: 130, 188
+  offset: 0, 0
+  index: -1
+C_Aerocraft_02
+  rotate: false
+  xy: 2, 133
+  size: 119, 187
+  orig: 119, 187
+  offset: 0, 0
+  index: -1
+C_Aerocraft_03
+  rotate: true
+  xy: 134, 400
+  size: 110, 191
+  orig: 110, 191
+  offset: 0, 0
+  index: -1
+C_Aerocraft_04
+  rotate: false
+  xy: 80, 53
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+C_Aerocraft_05
+  rotate: true
+  xy: 395, 472
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+C_Chest
+  rotate: false
+  xy: 252, 344
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+C_Collar
+  rotate: false
+  xy: 475, 437
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+C_Hat_01
+  rotate: false
+  xy: 2, 52
+  size: 76, 79
+  orig: 76, 79
+  offset: 0, 0
+  index: -1
+C_Hat_02
+  rotate: false
+  xy: 134, 326
+  size: 60, 72
+  orig: 60, 72
+  offset: 0, 0
+  index: -1
+C_Hip
+  rotate: false
+  xy: 2, 8
+  size: 67, 42
+  orig: 67, 42
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: false
+  xy: 312, 358
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+C_L_Calf
+  rotate: false
+  xy: 475, 461
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+C_L_Finger
+  rotate: true
+  xy: 369, 317
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: true
+  xy: 345, 362
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: false
+  xy: 404, 354
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: true
+  xy: 344, 330
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: true
+  xy: 369, 368
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+C_Mask_01
+  rotate: false
+  xy: 369, 343
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+C_Mask_02
+  rotate: false
+  xy: 196, 332
+  size: 54, 66
+  orig: 54, 66
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: false
+  xy: 368, 409
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+C_R_Calf
+  rotate: false
+  xy: 327, 403
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: false
+  xy: 252, 320
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: false
+  xy: 404, 393
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+C_R_Hand_01
+  rotate: true
+  xy: 312, 328
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+C_R_Hand_02
+  rotate: false
+  xy: 443, 439
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: false
+  xy: 404, 434
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+C_Waist
+  rotate: false
+  xy: 327, 452
+  size: 66, 58
+  orig: 66, 58
+  offset: 0, 0
+  index: -1

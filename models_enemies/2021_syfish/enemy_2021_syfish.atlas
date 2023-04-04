@@ -1,0 +1,27 @@
+
+enemy_2021_syfish.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body_01
+  rotate: true
+  xy: 98, 38
+  size: 176, 71
+  orig: 176, 71
+  offset: 0, 0
+  index: -1
+C_Body_02
+  rotate: 180
+  xy: 2, 3
+  size: 101, 70
+  orig: 101, 70
+  offset: 0, 0
+  index: -1
+C_Body_03
+  rotate: false
+  xy: 2, 72
+  size: 112, 146
+  orig: 135, 161
+  offset: 3, 9
+  index: -1

@@ -1,0 +1,125 @@
+
+enemy_1061_zomshd.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Collar
+  rotate: false
+  xy: 262, 386
+  size: 95, 40
+  orig: 95, 40
+  offset: 0, 0
+  index: -1
+Crystal_I
+  rotate: false
+  xy: 2, 88
+  size: 118, 123
+  orig: 118, 123
+  offset: 0, 0
+  index: -1
+Crystal_II
+  rotate: false
+  xy: 2, 353
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 83, 19
+  size: 67, 53
+  orig: 67, 53
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: false
+  xy: 131, 286
+  size: 49, 65
+  orig: 49, 65
+  offset: 0, 0
+  index: -1
+L_Armor
+  rotate: false
+  xy: 131, 243
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+L_Finger
+  rotate: false
+  xy: 481, 483
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+L_Foot
+  rotate: false
+  xy: 359, 396
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: false
+  xy: 122, 172
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: false
+  xy: 340, 428
+  size: 70, 82
+  orig: 70, 82
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: false
+  xy: 262, 428
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+R_Armor
+  rotate: false
+  xy: 2, 10
+  size: 79, 76
+  orig: 79, 76
+  offset: 0, 0
+  index: -1
+R_Foot
+  rotate: true
+  xy: 481, 434
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 131, 206
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: false
+  xy: 412, 429
+  size: 67, 81
+  orig: 67, 81
+  offset: 0, 0
+  index: -1
+Shield
+  rotate: false
+  xy: 161, 367
+  size: 99, 143
+  orig: 99, 143
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: false
+  xy: 2, 213
+  size: 127, 138
+  orig: 127, 138
+  offset: 0, 0
+  index: -1

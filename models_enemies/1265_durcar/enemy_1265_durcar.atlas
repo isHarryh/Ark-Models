@@ -1,0 +1,566 @@
+
+enemy_1265_durcar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Absorber_L
+  rotate: true
+  xy: 424, 981
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+Absorber_RA
+  rotate: true
+  xy: 377, 934
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+Absorber_RB
+  rotate: false
+  xy: 110, 995
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Bed_A
+  rotate: false
+  xy: 308, 676
+  size: 201, 74
+  orig: 205, 74
+  offset: 0, 0
+  index: -1
+Bed_B
+  rotate: true
+  xy: 340, 988
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+Bed_C
+  rotate: false
+  xy: 642, 977
+  size: 122, 44
+  orig: 123, 44
+  offset: 1, 0
+  index: -1
+BigWheel
+  rotate: true
+  xy: 379, 982
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+BigWheel_A
+  rotate: true
+  xy: 950, 729
+  size: 73, 71
+  orig: 73, 72
+  offset: 0, 1
+  index: -1
+BigWheel_B
+  rotate: true
+  xy: 937, 866
+  size: 58, 77
+  orig: 58, 77
+  offset: 0, 0
+  index: -1
+BigWheel_C
+  rotate: false
+  xy: 714, 663
+  size: 77, 76
+  orig: 77, 76
+  offset: 0, 0
+  index: -1
+BigWheel_D
+  rotate: false
+  xy: 793, 654
+  size: 77, 76
+  orig: 77, 76
+  offset: 0, 0
+  index: -1
+BigWheel_E
+  rotate: false
+  xy: 36, 1014
+  size: 25, 7
+  orig: 25, 7
+  offset: 0, 0
+  index: -1
+Body_A
+  rotate: false
+  xy: 766, 977
+  size: 92, 44
+  orig: 92, 45
+  offset: 0, 1
+  index: -1
+Body_B
+  rotate: false
+  xy: 2, 839
+  size: 112, 57
+  orig: 112, 57
+  offset: 0, 0
+  index: -1
+Bumper_L
+  rotate: true
+  xy: 346, 881
+  size: 51, 73
+  orig: 51, 73
+  offset: 0, 0
+  index: -1
+Bumper_R
+  rotate: true
+  xy: 860, 977
+  size: 44, 67
+  orig: 44, 67
+  offset: 0, 0
+  index: -1
+G_Bed_A
+  rotate: false
+  xy: 511, 669
+  size: 201, 74
+  orig: 205, 74
+  offset: 0, 0
+  index: -1
+G_Bed_C
+  rotate: false
+  xy: 129, 946
+  size: 122, 44
+  orig: 123, 44
+  offset: 1, 0
+  index: -1
+G_BigWheel_A
+  rotate: false
+  xy: 83, 696
+  size: 73, 71
+  orig: 73, 72
+  offset: 0, 1
+  index: -1
+G_Body_B
+  rotate: false
+  xy: 116, 832
+  size: 112, 57
+  orig: 112, 57
+  offset: 0, 0
+  index: -1
+G_Bumper_L
+  rotate: true
+  xy: 421, 880
+  size: 51, 73
+  orig: 51, 73
+  offset: 0, 0
+  index: -1
+G_Bumper_R
+  rotate: true
+  xy: 929, 977
+  size: 44, 67
+  orig: 44, 67
+  offset: 0, 0
+  index: -1
+G_Head_Drill
+  rotate: true
+  xy: 63, 1007
+  size: 14, 45
+  orig: 15, 45
+  offset: 0, 0
+  index: -1
+O_Head_Drill
+  rotate: true
+  xy: 63, 1007
+  size: 14, 45
+  orig: 15, 45
+  offset: 0, 0
+  index: -1
+G_Head_Drill_I
+  rotate: false
+  xy: 378, 752
+  size: 92, 64
+  orig: 92, 64
+  offset: 0, 0
+  index: -1
+G_Head_Drill_II
+  rotate: false
+  xy: 378, 752
+  size: 92, 64
+  orig: 92, 64
+  offset: 0, 0
+  index: -1
+G_Head_Prick
+  rotate: false
+  xy: 872, 634
+  size: 127, 93
+  orig: 127, 93
+  offset: 0, 0
+  index: -1
+G_Head_Spring_A
+  rotate: false
+  xy: 646, 874
+  size: 95, 52
+  orig: 95, 52
+  offset: 0, 0
+  index: -1
+G_Head_Spring_B
+  rotate: false
+  xy: 118, 894
+  size: 74, 50
+  orig: 74, 50
+  offset: 0, 0
+  index: -1
+G_Pack_Energy_I
+  rotate: false
+  xy: 2, 776
+  size: 92, 61
+  orig: 92, 61
+  offset: 0, 0
+  index: -1
+G_Pack_Energy_II
+  rotate: false
+  xy: 96, 769
+  size: 92, 61
+  orig: 92, 61
+  offset: 0, 0
+  index: -1
+G_Pack_Hormone_I
+  rotate: false
+  xy: 458, 818
+  size: 108, 58
+  orig: 108, 58
+  offset: 0, 0
+  index: -1
+G_Pack_Hormone_II
+  rotate: false
+  xy: 568, 814
+  size: 108, 58
+  orig: 108, 58
+  offset: 0, 0
+  index: -1
+G_Pack_Medical_I
+  rotate: false
+  xy: 566, 745
+  size: 99, 67
+  orig: 99, 67
+  offset: 0, 0
+  index: -1
+G_Pack_Medical_II
+  rotate: false
+  xy: 667, 745
+  size: 99, 67
+  orig: 99, 67
+  offset: 0, 0
+  index: -1
+G_RightWheel_B
+  rotate: false
+  xy: 2, 963
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: -1
+G_Shoulder
+  rotate: false
+  xy: 138, 992
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+G_Top_AC
+  rotate: false
+  xy: 488, 979
+  size: 75, 42
+  orig: 75, 42
+  offset: 0, 0
+  index: -1
+G_Top_Radiation
+  rotate: false
+  xy: 869, 732
+  size: 79, 70
+  orig: 79, 70
+  offset: 0, 0
+  index: -1
+G_Top_Trumpet
+  rotate: false
+  xy: 688, 928
+  size: 113, 47
+  orig: 113, 47
+  offset: 0, 0
+  index: -1
+LeftWheel_A
+  rotate: false
+  xy: 322, 937
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+LeftWheel_B
+  rotate: false
+  xy: 2, 1015
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+O_Bed_A
+  rotate: false
+  xy: 2, 614
+  size: 201, 74
+  orig: 205, 74
+  offset: 0, 0
+  index: -1
+O_Bed_C
+  rotate: false
+  xy: 440, 933
+  size: 122, 44
+  orig: 123, 44
+  offset: 1, 0
+  index: -1
+O_BigWheel_A
+  rotate: false
+  xy: 158, 690
+  size: 73, 71
+  orig: 73, 72
+  offset: 0, 1
+  index: -1
+O_Body_B
+  rotate: false
+  xy: 230, 826
+  size: 112, 57
+  orig: 112, 57
+  offset: 0, 0
+  index: -1
+O_Bumper_L
+  rotate: true
+  xy: 496, 878
+  size: 51, 73
+  orig: 51, 73
+  offset: 0, 0
+  index: -1
+O_Bumper_R
+  rotate: true
+  xy: 60, 949
+  size: 44, 67
+  orig: 44, 67
+  offset: 0, 0
+  index: -1
+O_Head_Drill_I
+  rotate: false
+  xy: 472, 752
+  size: 92, 64
+  orig: 92, 64
+  offset: 0, 0
+  index: -1
+O_Head_Drill_II
+  rotate: false
+  xy: 472, 752
+  size: 92, 64
+  orig: 92, 64
+  offset: 0, 0
+  index: -1
+O_Head_Prick
+  rotate: false
+  xy: 408, 574
+  size: 127, 93
+  orig: 127, 93
+  offset: 0, 0
+  index: -1
+O_Head_Spring_A
+  rotate: false
+  xy: 743, 874
+  size: 95, 52
+  orig: 95, 52
+  offset: 0, 0
+  index: -1
+O_Head_Spring_B
+  rotate: false
+  xy: 194, 891
+  size: 74, 50
+  orig: 74, 50
+  offset: 0, 0
+  index: -1
+O_Pack_Energy_I
+  rotate: false
+  xy: 190, 763
+  size: 92, 61
+  orig: 92, 61
+  offset: 0, 0
+  index: -1
+O_Pack_Energy_II
+  rotate: false
+  xy: 788, 810
+  size: 86, 60
+  orig: 86, 60
+  offset: 0, 0
+  index: -1
+O_Pack_Hormone_I
+  rotate: false
+  xy: 678, 814
+  size: 108, 58
+  orig: 108, 58
+  offset: 0, 0
+  index: -1
+O_Pack_Hormone_II
+  rotate: false
+  xy: 678, 814
+  size: 108, 58
+  orig: 108, 58
+  offset: 0, 0
+  index: -1
+O_Pack_Medical_I
+  rotate: false
+  xy: 768, 741
+  size: 99, 67
+  orig: 99, 67
+  offset: 0, 0
+  index: -1
+O_Pack_Medical_II
+  rotate: false
+  xy: 768, 741
+  size: 99, 67
+  orig: 99, 67
+  offset: 0, 0
+  index: -1
+O_RightWheel_B
+  rotate: false
+  xy: 918, 926
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: -1
+O_Shoulder
+  rotate: false
+  xy: 180, 992
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+O_Top_AC
+  rotate: false
+  xy: 565, 979
+  size: 75, 42
+  orig: 75, 42
+  offset: 0, 0
+  index: -1
+O_Top_Radiation
+  rotate: false
+  xy: 2, 704
+  size: 79, 70
+  orig: 79, 70
+  offset: 0, 0
+  index: -1
+O_Top_Trumpet
+  rotate: false
+  xy: 803, 928
+  size: 113, 47
+  orig: 113, 47
+  offset: 0, 0
+  index: -1
+P_Bed_A
+  rotate: false
+  xy: 205, 600
+  size: 201, 74
+  orig: 205, 74
+  offset: 0, 0
+  index: -1
+P_Bed_C
+  rotate: false
+  xy: 564, 931
+  size: 122, 44
+  orig: 123, 44
+  offset: 1, 0
+  index: -1
+P_BigWheel_A
+  rotate: false
+  xy: 233, 685
+  size: 73, 71
+  orig: 73, 72
+  offset: 0, 1
+  index: -1
+P_Body_B
+  rotate: false
+  xy: 344, 821
+  size: 112, 57
+  orig: 112, 57
+  offset: 0, 0
+  index: -1
+P_Bumper_L
+  rotate: true
+  xy: 571, 878
+  size: 51, 73
+  orig: 51, 73
+  offset: 0, 0
+  index: -1
+P_Bumper_R
+  rotate: true
+  xy: 253, 943
+  size: 44, 67
+  orig: 44, 67
+  offset: 0, 0
+  index: -1
+P_Head_Spring_A
+  rotate: false
+  xy: 840, 872
+  size: 95, 52
+  orig: 95, 52
+  offset: 0, 0
+  index: -1
+P_Head_Spring_B
+  rotate: false
+  xy: 270, 885
+  size: 74, 50
+  orig: 74, 50
+  offset: 0, 0
+  index: -1
+P_Pack_Energy_I
+  rotate: false
+  xy: 284, 758
+  size: 92, 61
+  orig: 92, 61
+  offset: 0, 0
+  index: -1
+P_Pack_Energy_II
+  rotate: false
+  xy: 876, 804
+  size: 86, 60
+  orig: 86, 60
+  offset: 0, 0
+  index: -1
+P_RightWheel_B
+  rotate: false
+  xy: 2, 912
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: -1
+P_Shoulder
+  rotate: false
+  xy: 222, 992
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+RightWheel_A
+  rotate: false
+  xy: 306, 989
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+RightWheel_B
+  rotate: false
+  xy: 60, 898
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: -1
+RightWheel_C
+  rotate: false
+  xy: 19, 1015
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+Shoulder
+  rotate: false
+  xy: 264, 992
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1

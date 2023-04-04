@@ -1,0 +1,181 @@
+
+enemy_1012_dcross.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Armor
+  rotate: false
+  xy: 360, 471
+  size: 64, 39
+  orig: 64, 39
+  offset: 0, 0
+  index: -1
+Arrow
+  rotate: false
+  xy: 222, 467
+  size: 136, 43
+  orig: 136, 43
+  offset: 0, 0
+  index: -1
+Bag
+  rotate: false
+  xy: 260, 437
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 250
+  size: 59, 63
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: false
+  xy: 163, 391
+  size: 31, 58
+  orig: 31, 58
+  offset: 0, 0
+  index: -1
+L_Arm_ B
+  rotate: false
+  xy: 2, 129
+  size: 31, 58
+  orig: 31, 58
+  offset: 0, 0
+  index: -1
+L_Bracer
+  rotate: true
+  xy: 196, 412
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+L_Calf
+  rotate: true
+  xy: 426, 470
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+L_Foot_A
+  rotate: false
+  xy: 226, 403
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+L_Foot_B
+  rotate: false
+  xy: 296, 437
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: false
+  xy: 472, 485
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+L_Horn
+  rotate: true
+  xy: 2, 80
+  size: 47, 33
+  orig: 47, 33
+  offset: 0, 0
+  index: -1
+L_Kneecap
+  rotate: false
+  xy: 331, 432
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: false
+  xy: 63, 255
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: false
+  xy: 2, 189
+  size: 51, 59
+  orig: 51, 59
+  offset: 0, 0
+  index: -1
+R_Bracer
+  rotate: false
+  xy: 35, 152
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+R_Calf
+  rotate: true
+  xy: 2, 31
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+R_Foot_A
+  rotate: false
+  xy: 262, 410
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+R_Foot_B
+  rotate: false
+  xy: 2, 2
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 110, 386
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+R_Horn
+  rotate: false
+  xy: 226, 430
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+R_Kneecap
+  rotate: false
+  xy: 298, 402
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: false
+  xy: 110, 329
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: false
+  xy: 2, 315
+  size: 106, 134
+  orig: 106, 134
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 2, 451
+  size: 218, 59
+  orig: 218, 59
+  offset: 0, 0
+  index: -1

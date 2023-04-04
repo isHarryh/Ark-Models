@@ -1,0 +1,111 @@
+
+enemy_1005_yokai.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 158
+  size: 169, 95
+  orig: 169, 95
+  offset: 0, 0
+  index: -1
+Bullet_all
+  rotate: false
+  xy: 168, 11
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Bullet_single_01
+  rotate: true
+  xy: 241, 42
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+Bullet_single_02
+  rotate: false
+  xy: 241, 35
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+Eyes
+  rotate: false
+  xy: 241, 52
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+Fan_Move
+  rotate: false
+  xy: 2, 29
+  size: 237, 25
+  orig: 237, 25
+  offset: 0, 0
+  index: -1
+Fan_Stop_01
+  rotate: true
+  xy: 241, 68
+  size: 80, 4
+  orig: 80, 4
+  offset: 0, 0
+  index: -1
+Fan_Stop_02
+  rotate: true
+  xy: 241, 68
+  size: 80, 4
+  orig: 80, 4
+  offset: 0, 0
+  index: -1
+Fan_Stop_03
+  rotate: true
+  xy: 241, 68
+  size: 80, 4
+  orig: 80, 4
+  offset: 0, 0
+  index: -1
+Fan_Stop_04
+  rotate: true
+  xy: 241, 68
+  size: 80, 4
+  orig: 80, 4
+  offset: 0, 0
+  index: -1
+Light_GUN_01
+  rotate: true
+  xy: 173, 150
+  size: 103, 80
+  orig: 103, 80
+  offset: 0, 0
+  index: -1
+Light_GUN_02
+  rotate: false
+  xy: 2, 56
+  size: 96, 100
+  orig: 96, 100
+  offset: 0, 0
+  index: -1
+Light_Red
+  rotate: false
+  xy: 100, 118
+  size: 109, 30
+  orig: 109, 30
+  offset: 0, 0
+  index: -1
+Light_Yellow
+  rotate: false
+  xy: 100, 86
+  size: 109, 30
+  orig: 109, 30
+  offset: 0, 0
+  index: -1
+Top
+  rotate: false
+  xy: 2, 6
+  size: 164, 21
+  orig: 164, 21
+  offset: 0, 0
+  index: -1

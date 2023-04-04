@@ -1,0 +1,48 @@
+
+enemy_1017_defdrn.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Belt
+  rotate: false
+  xy: 29, 45
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 157
+  size: 159, 97
+  orig: 159, 97
+  offset: 0, 0
+  index: -1
+Fan_Move
+  rotate: false
+  xy: 29, 120
+  size: 211, 35
+  orig: 211, 35
+  offset: 0, 0
+  index: -1
+Fan_Stop
+  rotate: false
+  xy: 163, 250
+  size: 68, 4
+  orig: 68, 4
+  offset: 0, 0
+  index: -1
+Light
+  rotate: true
+  xy: 2, 2
+  size: 153, 25
+  orig: 153, 25
+  offset: 0, 0
+  index: -1
+Top
+  rotate: false
+  xy: 29, 88
+  size: 155, 30
+  orig: 155, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,188 @@
+
+enemy_1254_lypa.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_Body_I
+  rotate: false
+  xy: 2, 36
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+F_Body_II
+  rotate: false
+  xy: 2, 172
+  size: 73, 82
+  orig: 73, 82
+  offset: 0, 0
+  index: -1
+F_Body_L
+  rotate: false
+  xy: 2, 9
+  size: 59, 25
+  orig: 59, 25
+  offset: 0, 0
+  index: -1
+F_Body_Line
+  rotate: true
+  xy: 60, 39
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+F_Body_R
+  rotate: true
+  xy: 226, 211
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+F_Head
+  rotate: true
+  xy: 2, 94
+  size: 76, 72
+  orig: 76, 72
+  offset: 0, 0
+  index: -1
+F_Hip
+  rotate: false
+  xy: 60, 58
+  size: 76, 34
+  orig: 76, 34
+  offset: 0, 0
+  index: -1
+F_L_Arm
+  rotate: true
+  xy: 138, 77
+  size: 46, 43
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+F_L_Arm_Line
+  rotate: true
+  xy: 121, 177
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+F_L_Arm_M
+  rotate: false
+  xy: 183, 89
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+F_L_Arm_MI
+  rotate: false
+  xy: 97, 40
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+F_L_Claf_I
+  rotate: false
+  xy: 76, 114
+  size: 45, 56
+  orig: 45, 56
+  offset: 0, 0
+  index: -1
+F_L_Claf_II
+  rotate: true
+  xy: 138, 40
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+F_L_Foot
+  rotate: true
+  xy: 187, 41
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
+F_L_Froearm
+  rotate: false
+  xy: 121, 204
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+F_L_Hand
+  rotate: true
+  xy: 209, 139
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+F_L_Leg
+  rotate: false
+  xy: 123, 125
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+F_R_Arm
+  rotate: false
+  xy: 77, 196
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+F_R_Arm_M
+  rotate: true
+  xy: 173, 180
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+F_R_Arm_MI
+  rotate: false
+  xy: 77, 173
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+F_R_Claf_I
+  rotate: true
+  xy: 169, 213
+  size: 41, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1
+F_R_Claf_II
+  rotate: true
+  xy: 164, 3
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+F_R_Foot
+  rotate: false
+  xy: 63, 2
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+F_R_Froearm
+  rotate: true
+  xy: 167, 132
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+F_R_Hand
+  rotate: true
+  xy: 213, 3
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+F_R_Leg
+  rotate: true
+  xy: 113, 2
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1

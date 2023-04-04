@@ -1,0 +1,181 @@
+
+enemy_1260_durmag.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Chest
+  rotate: true
+  xy: 203, 442
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 2, 380
+  size: 98, 73
+  orig: 98, 73
+  offset: 0, 0
+  index: -1
+C_Hip
+  rotate: false
+  xy: 71, 486
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: true
+  xy: 260, 484
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: false
+  xy: 299, 484
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+C_L_Foot_s
+  rotate: false
+  xy: 2, 494
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: true
+  xy: 150, 485
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 474, 482
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: true
+  xy: 120, 452
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+C_L_Shovel
+  rotate: false
+  xy: 344, 425
+  size: 81, 56
+  orig: 81, 56
+  offset: 0, 0
+  index: -1
+C_L_Thigh
+  rotate: true
+  xy: 410, 483
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: true
+  xy: 2, 463
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: false
+  xy: 185, 485
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: false
+  xy: 227, 485
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: false
+  xy: 337, 484
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+C_R_Hand_s
+  rotate: false
+  xy: 447, 483
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: true
+  xy: 365, 484
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+C_R_Thigh
+  rotate: true
+  xy: 112, 486
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+C_R_Weapon
+  rotate: true
+  xy: 102, 350
+  size: 81, 207
+  orig: 81, 208
+  offset: 0, 1
+  index: -1
+C_T_Hair
+  rotate: false
+  xy: 48, 487
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+C_Waist
+  rotate: true
+  xy: 164, 447
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+C_cloak_1
+  rotate: false
+  xy: 32, 494
+  size: 14, 14
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+C_cloak_2
+  rotate: false
+  xy: 42, 455
+  size: 76, 29
+  orig: 76, 29
+  offset: 0, 0
+  index: -1
+C_cloak_4
+  rotate: true
+  xy: 256, 433
+  size: 49, 86
+  orig: 49, 86
+  offset: 0, 0
+  index: -1
+C_cloak_5
+  rotate: true
+  xy: 427, 406
+  size: 74, 81
+  orig: 74, 81
+  offset: 0, 0
+  index: -1

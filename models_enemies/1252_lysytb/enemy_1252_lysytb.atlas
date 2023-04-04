@@ -1,0 +1,27 @@
+
+enemy_1252_lysytb.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 38
+  size: 93, 117
+  orig: 93, 117
+  offset: 0, 0
+  index: -1
+C_Weapon_01
+  rotate: true
+  xy: 2, 2
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+C_Weapon_02
+  rotate: false
+  xy: 42, 3
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1

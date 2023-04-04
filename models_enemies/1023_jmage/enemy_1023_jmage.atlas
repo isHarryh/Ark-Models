@@ -1,0 +1,160 @@
+
+enemy_1023_jmage.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Cloak_Streamer_A
+  rotate: false
+  xy: 154, 384
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+C_Cloak_Streamer_B
+  rotate: true
+  xy: 320, 457
+  size: 11, 43
+  orig: 11, 43
+  offset: 0, 0
+  index: -1
+C_Cloak_Streamer_C
+  rotate: false
+  xy: 63, 199
+  size: 10, 62
+  orig: 10, 62
+  offset: 0, 0
+  index: -1
+C_F_Cloak
+  rotate: true
+  xy: 320, 470
+  size: 40, 74
+  orig: 40, 74
+  offset: 0, 0
+  index: -1
+C_L_Cloak
+  rotate: false
+  xy: 2, 263
+  size: 80, 118
+  orig: 80, 118
+  offset: 0, 0
+  index: -1
+C_R_Cloak
+  rotate: false
+  xy: 2, 383
+  size: 85, 127
+  orig: 85, 127
+  offset: 0, 0
+  index: -1
+Collar
+  rotate: false
+  xy: 89, 387
+  size: 63, 31
+  orig: 63, 31
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 55
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+Hood
+  rotate: false
+  xy: 89, 420
+  size: 86, 90
+  orig: 86, 90
+  offset: 0, 0
+  index: -1
+Hood_A
+  rotate: false
+  xy: 177, 456
+  size: 75, 54
+  orig: 75, 54
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: false
+  xy: 75, 219
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+L_Foot
+  rotate: true
+  xy: 217, 393
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: false
+  xy: 177, 397
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: false
+  xy: 2, 120
+  size: 61, 68
+  orig: 61, 68
+  offset: 0, 0
+  index: -1
+L_Skirt
+  rotate: true
+  xy: 254, 457
+  size: 53, 64
+  orig: 53, 64
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: true
+  xy: 177, 429
+  size: 25, 65
+  orig: 25, 65
+  offset: 0, 0
+  index: -1
+R_Foot
+  rotate: false
+  xy: 177, 366
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: true
+  xy: 470, 469
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: true
+  xy: 396, 468
+  size: 42, 72
+  orig: 42, 72
+  offset: 0, 0
+  index: -1
+R_Skirt
+  rotate: false
+  xy: 2, 190
+  size: 59, 71
+  orig: 59, 71
+  offset: 0, 0
+  index: -1
+Skirt
+  rotate: false
+  xy: 2, 2
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: false
+  xy: 37, 4
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1

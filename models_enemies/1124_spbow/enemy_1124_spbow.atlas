@@ -1,0 +1,97 @@
+
+enemy_1124_spbow.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body_01
+  rotate: false
+  xy: 2, 177
+  size: 100, 96
+  orig: 100, 96
+  offset: 0, 0
+  index: -1
+C_Body_02
+  rotate: true
+  xy: 196, 367
+  size: 96, 115
+  orig: 96, 115
+  offset: 0, 0
+  index: -1
+C_Cloud_01
+  rotate: false
+  xy: 149, 320
+  size: 98, 45
+  orig: 98, 45
+  offset: 0, 0
+  index: -1
+C_Cloud_02
+  rotate: true
+  xy: 104, 201
+  size: 72, 32
+  orig: 72, 32
+  offset: 0, 0
+  index: -1
+C_Cloud_03
+  rotate: false
+  xy: 149, 299
+  size: 60, 19
+  orig: 60, 19
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 2, 275
+  size: 145, 90
+  orig: 145, 90
+  offset: 0, 0
+  index: -1
+C_Mouth
+  rotate: false
+  xy: 249, 346
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+C_Tail_01
+  rotate: false
+  xy: 391, 417
+  size: 72, 46
+  orig: 72, 46
+  offset: 0, 0
+  index: -1
+C_Tail_02
+  rotate: false
+  xy: 313, 400
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: -1
+C_Tail_03
+  rotate: false
+  xy: 2, 116
+  size: 79, 59
+  orig: 79, 59
+  offset: 0, 0
+  index: -1
+C_Tongue
+  rotate: false
+  xy: 2, 367
+  size: 192, 96
+  orig: 192, 96
+  offset: 0, 0
+  index: -1
+C_Tooth_01
+  rotate: false
+  xy: 313, 379
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+C_Tooth_02
+  rotate: false
+  xy: 2, 95
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+enemy_1203_sfhu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_body
+  rotate: true
+  xy: 211, 188
+  size: 66, 43
+  orig: 66, 43
+  offset: 0, 0
+  index: -1
+C_ear
+  rotate: false
+  xy: 65, 66
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+C_foot_a
+  rotate: false
+  xy: 186, 161
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+C_foot_b
+  rotate: true
+  xy: 208, 162
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+C_foot_bb
+  rotate: true
+  xy: 186, 131
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+C_foot_c
+  rotate: false
+  xy: 157, 97
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+C_foot_cb
+  rotate: false
+  xy: 65, 43
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+C_foot_d
+  rotate: true
+  xy: 56, 20
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+C_hat
+  rotate: false
+  xy: 145, 205
+  size: 64, 49
+  orig: 64, 49
+  offset: 0, 0
+  index: -1
+C_hat_b
+  rotate: false
+  xy: 145, 135
+  size: 39, 68
+  orig: 39, 68
+  offset: 0, 0
+  index: -1
+C_hat_c
+  rotate: false
+  xy: 2, 20
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+C_head
+  rotate: true
+  xy: 119, 77
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+C_tape
+  rotate: false
+  xy: 2, 2
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+C_tape_b
+  rotate: false
+  xy: 39, 3
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+C_teapot
+  rotate: false
+  xy: 2, 124
+  size: 141, 130
+  orig: 141, 130
+  offset: 0, 0
+  index: -1
+C_teapot_b
+  rotate: false
+  xy: 2, 52
+  size: 61, 70
+  orig: 61, 70
+  offset: 0, 0
+  index: -1

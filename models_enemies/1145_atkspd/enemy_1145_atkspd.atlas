@@ -1,0 +1,62 @@
+
+enemy_1145_atkspd.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BodyA
+  rotate: false
+  xy: 2, 154
+  size: 155, 95
+  orig: 155, 95
+  offset: 0, 0
+  index: -1
+BodyB
+  rotate: false
+  xy: 2, 111
+  size: 99, 41
+  orig: 99, 41
+  offset: 0, 0
+  index: -1
+BodyC
+  rotate: false
+  xy: 159, 190
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+Fan_MoveA
+  rotate: true
+  xy: 2, 4
+  size: 105, 23
+  orig: 105, 23
+  offset: 0, 0
+  index: -1
+Fan_MoveB
+  rotate: false
+  xy: 103, 141
+  size: 50, 11
+  orig: 50, 11
+  offset: 0, 0
+  index: -1
+Gun_A
+  rotate: false
+  xy: 27, 73
+  size: 65, 36
+  orig: 65, 36
+  offset: 0, 0
+  index: -1
+Gun_B
+  rotate: false
+  xy: 159, 212
+  size: 70, 37
+  orig: 70, 37
+  offset: 0, 0
+  index: -1
+LightA
+  rotate: false
+  xy: 231, 235
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1

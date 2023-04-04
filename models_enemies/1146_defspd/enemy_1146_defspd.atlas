@@ -1,0 +1,48 @@
+
+enemy_1146_defspd.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BodyA
+  rotate: false
+  xy: 2, 153
+  size: 154, 101
+  orig: 154, 101
+  offset: 0, 0
+  index: -1
+BodyB
+  rotate: false
+  xy: 2, 110
+  size: 101, 41
+  orig: 101, 41
+  offset: 0, 0
+  index: -1
+Fan_MoveA
+  rotate: true
+  xy: 2, 4
+  size: 104, 22
+  orig: 104, 22
+  offset: 0, 0
+  index: -1
+Fan_MoveB
+  rotate: false
+  xy: 105, 140
+  size: 50, 11
+  orig: 50, 11
+  offset: 0, 0
+  index: -1
+LightA
+  rotate: false
+  xy: 236, 242
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+LightB
+  rotate: false
+  xy: 158, 231
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1

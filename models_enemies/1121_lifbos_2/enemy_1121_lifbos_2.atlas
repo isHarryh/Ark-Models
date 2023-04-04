@@ -1,0 +1,321 @@
+
+enemy_1121_lifbos_2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_B_Hair
+  rotate: true
+  xy: 68, 358
+  size: 70, 40
+  orig: 70, 40
+  offset: 0, 0
+  index: -1
+C_Chest
+  rotate: false
+  xy: 2, 430
+  size: 97, 80
+  orig: 97, 80
+  offset: 0, 0
+  index: -1
+C_F_Hair
+  rotate: true
+  xy: 169, 104
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: true
+  xy: 190, 440
+  size: 70, 79
+  orig: 70, 79
+  offset: 0, 0
+  index: -1
+C_Hip
+  rotate: false
+  xy: 180, 392
+  size: 68, 46
+  orig: 68, 46
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: false
+  xy: 2, 334
+  size: 64, 94
+  orig: 64, 94
+  offset: 0, 0
+  index: -1
+C_L_Calf
+  rotate: true
+  xy: 417, 448
+  size: 62, 68
+  orig: 62, 68
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: true
+  xy: 167, 286
+  size: 58, 22
+  orig: 58, 22
+  offset: 0, 0
+  index: -1
+C_L_Foot_Annex
+  rotate: true
+  xy: 250, 389
+  size: 49, 13
+  orig: 49, 13
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: false
+  xy: 110, 391
+  size: 68, 49
+  orig: 68, 49
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: true
+  xy: 114, 231
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1
+C_L_Hand_Chain_1
+  rotate: true
+  xy: 226, 146
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+C_L_Hand_Chain_10
+  rotate: true
+  xy: 271, 427
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+C_L_Hand_Chain_2
+  rotate: true
+  xy: 487, 422
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+C_L_Hand_Chain_3
+  rotate: true
+  xy: 101, 3
+  size: 12, 22
+  orig: 12, 22
+  offset: 0, 0
+  index: -1
+C_L_Hand_Chain_4
+  rotate: false
+  xy: 101, 17
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+C_L_Hand_Chain_5
+  rotate: false
+  xy: 349, 425
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+C_L_Hand_Chain_6
+  rotate: true
+  xy: 369, 434
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+C_L_Hand_Chain_7
+  rotate: false
+  xy: 327, 424
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+C_L_Hand_Chain_8
+  rotate: false
+  xy: 226, 166
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+C_L_Hand_Chain_9
+  rotate: false
+  xy: 300, 427
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+C_L_Hand_Chain_Short_1
+  rotate: false
+  xy: 54, 47
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+C_L_Hand_Chain_Short_2
+  rotate: true
+  xy: 112, 193
+  size: 36, 62
+  orig: 36, 62
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: false
+  xy: 54, 2
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+C_L_Shoulder
+  rotate: false
+  xy: 184, 148
+  size: 24, 46
+  orig: 24, 46
+  offset: 0, 0
+  index: -1
+C_L_Weapon
+  rotate: false
+  xy: 271, 446
+  size: 71, 64
+  orig: 71, 64
+  offset: 0, 0
+  index: -1
+C_Light_1
+  rotate: false
+  xy: 113, 103
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+C_Light_2
+  rotate: false
+  xy: 101, 442
+  size: 87, 68
+  orig: 87, 68
+  offset: 0, 0
+  index: -1
+C_Light_3
+  rotate: false
+  xy: 176, 196
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+C_Light_Back
+  rotate: true
+  xy: 2, 174
+  size: 82, 50
+  orig: 82, 50
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: false
+  xy: 2, 10
+  size: 50, 78
+  orig: 50, 78
+  offset: 0, 0
+  index: -1
+C_R_Calf
+  rotate: true
+  xy: 52, 101
+  size: 37, 59
+  orig: 37, 59
+  offset: 0, 0
+  index: -1
+C_R_Calf_Annex
+  rotate: false
+  xy: 68, 318
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+C_R_Chain_1
+  rotate: false
+  xy: 2, 90
+  size: 48, 82
+  orig: 48, 82
+  offset: 0, 0
+  index: -1
+C_R_Chain_2
+  rotate: true
+  xy: 110, 346
+  size: 43, 66
+  orig: 43, 66
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: true
+  xy: 487, 451
+  size: 59, 22
+  orig: 59, 22
+  offset: 0, 0
+  index: -1
+C_R_Foot_Annex
+  rotate: true
+  xy: 210, 152
+  size: 42, 14
+  orig: 42, 14
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: true
+  xy: 66, 255
+  size: 61, 46
+  orig: 61, 46
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: false
+  xy: 168, 233
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: true
+  xy: 54, 193
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+C_R_Weapon
+  rotate: false
+  xy: 344, 446
+  size: 71, 64
+  orig: 71, 64
+  offset: 0, 0
+  index: -1
+C_Waist
+  rotate: true
+  xy: 2, 258
+  size: 74, 62
+  orig: 74, 62
+  offset: 0, 0
+  index: -1
+Spark_1
+  rotate: false
+  xy: 114, 281
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+Spark_2
+  rotate: true
+  xy: 54, 140
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+Spark_3
+  rotate: true
+  xy: 119, 140
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1

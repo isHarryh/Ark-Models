@@ -1,0 +1,27 @@
+
+enemy_1138_tumor.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Foot_A
+  rotate: false
+  xy: 2, 136
+  size: 129, 62
+  orig: 129, 62
+  offset: 0, 0
+  index: -1
+Shell_A
+  rotate: false
+  xy: 2, 76
+  size: 105, 58
+  orig: 105, 58
+  offset: 0, 0
+  index: -1
+Stone_A
+  rotate: false
+  xy: 133, 142
+  size: 65, 56
+  orig: 65, 56
+  offset: 0, 0
+  index: -1

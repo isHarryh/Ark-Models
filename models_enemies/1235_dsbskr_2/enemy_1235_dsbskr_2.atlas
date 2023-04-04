@@ -1,0 +1,132 @@
+
+enemy_1235_dsbskr_2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 140, 213
+  size: 56, 79
+  orig: 56, 79
+  offset: 0, 0
+  index: -1
+Foot
+  rotate: true
+  xy: 2, 165
+  size: 120, 61
+  orig: 120, 61
+  offset: 0, 0
+  index: -1
+Footb
+  rotate: true
+  xy: 71, 98
+  size: 71, 60
+  orig: 71, 60
+  offset: 0, 0
+  index: -1
+Footc
+  rotate: true
+  xy: 78, 287
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+Footd
+  rotate: false
+  xy: 65, 171
+  size: 110, 38
+  orig: 110, 38
+  offset: 0, 0
+  index: -1
+Foote
+  rotate: false
+  xy: 118, 294
+  size: 45, 16
+  orig: 45, 16
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 2, 65
+  size: 67, 98
+  orig: 67, 98
+  offset: 0, 0
+  index: -1
+Hand_Lb
+  rotate: true
+  xy: 162, 30
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+Hand_Lc
+  rotate: false
+  xy: 126, 71
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1
+Hand_Ld
+  rotate: false
+  xy: 85, 16
+  size: 40, 51
+  orig: 40, 51
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 2, 287
+  size: 74, 104
+  orig: 74, 104
+  offset: 0, 0
+  index: -1
+Hand_Rb
+  rotate: true
+  xy: 127, 27
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+Hand_Rc
+  rotate: false
+  xy: 71, 69
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+Hand_Rd
+  rotate: false
+  xy: 162, 2
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 393
+  size: 99, 115
+  orig: 99, 115
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: true
+  xy: 78, 312
+  size: 79, 57
+  orig: 79, 57
+  offset: 0, 0
+  index: -1
+Shoulder_L
+  rotate: false
+  xy: 65, 211
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+Shoulder_R
+  rotate: true
+  xy: 2, 3
+  size: 60, 81
+  orig: 60, 81
+  offset: 0, 0
+  index: -1

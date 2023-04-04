@@ -1,0 +1,83 @@
+
+enemy_1273_stmgun_2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Armor_A
+  rotate: false
+  xy: 202, 309
+  size: 92, 70
+  orig: 92, 70
+  offset: 0, 0
+  index: -1
+Armor_B
+  rotate: true
+  xy: 202, 200
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+Armor_C
+  rotate: false
+  xy: 202, 250
+  size: 69, 57
+  orig: 69, 57
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 381
+  size: 292, 124
+  orig: 292, 124
+  offset: 0, 0
+  index: -1
+Chain
+  rotate: true
+  xy: 496, 289
+  size: 216, 9
+  orig: 216, 9
+  offset: 0, 0
+  index: -1
+Roket_A
+  rotate: false
+  xy: 296, 170
+  size: 182, 158
+  orig: 182, 158
+  offset: 0, 0
+  index: -1
+Roket_Aa
+  rotate: false
+  xy: 296, 330
+  size: 198, 175
+  orig: 198, 175
+  offset: 0, 0
+  index: -1
+Roket_B
+  rotate: false
+  xy: 2, 44
+  size: 182, 158
+  orig: 182, 158
+  offset: 0, 0
+  index: -1
+Roket_Ba
+  rotate: false
+  xy: 2, 204
+  size: 198, 175
+  orig: 198, 175
+  offset: 0, 0
+  index: -1
+Wheel_A
+  rotate: true
+  xy: 225, 163
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+Wheel_B
+  rotate: false
+  xy: 186, 161
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1

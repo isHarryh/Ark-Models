@@ -1,0 +1,132 @@
+
+enemy_1303_mhshep_2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 196
+  size: 98, 66
+  orig: 98, 66
+  offset: 0, 0
+  index: -1
+C_Flower
+  rotate: 180
+  xy: 311, 305
+  size: 22, 25
+  orig: 63, 38
+  offset: 0, 5
+  index: -1
+C_Furry
+  rotate: false
+  xy: 2, 262
+  size: 118, 79
+  orig: 118, 79
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: 180
+  xy: 147, 207
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+C_L_Horn
+  rotate: true
+  xy: 204, 220
+  size: 55, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+C_L_Horn_2
+  rotate: false
+  xy: 239, 257
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+C_L_Leg_1
+  rotate: 180
+  xy: 194, 286
+  size: 46, 55
+  orig: 46, 55
+  offset: 0, 0
+  index: -1
+C_L_Leg_3
+  rotate: false
+  xy: 155, 262
+  size: 46, 55
+  orig: 46, 55
+  offset: 0, 0
+  index: -1
+C_L_Leg_4
+  rotate: true
+  xy: 197, 193
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+C_L_Leg_5
+  rotate: false
+  xy: 303, 272
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+C_Leaves
+  rotate: true
+  xy: 105, 196
+  size: 110, 52
+  orig: 110, 52
+  offset: 0, 0
+  index: -1
+C_R_Horn
+  rotate: true
+  xy: 122, 321
+  size: 20, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1
+C_R_Horn_2
+  rotate: true
+  xy: 239, 207
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+C_R_Leg_1
+  rotate: false
+  xy: 276, 228
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+C_R_Leg_3
+  rotate: 270
+  xy: 260, 299
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+C_R_Leg_4
+  rotate: false
+  xy: 316, 194
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+C_R_Leg_5
+  rotate: false
+  xy: 318, 251
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: true
+  xy: 276, 201
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1

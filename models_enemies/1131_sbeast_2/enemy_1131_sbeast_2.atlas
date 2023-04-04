@@ -1,0 +1,90 @@
+
+enemy_1131_sbeast_2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body_01
+  rotate: false
+  xy: 2, 139
+  size: 117, 115
+  orig: 117, 115
+  offset: 0, 0
+  index: -1
+C_Body_02
+  rotate: false
+  xy: 121, 158
+  size: 105, 96
+  orig: 105, 96
+  offset: 0, 0
+  index: -1
+C_Ear
+  rotate: true
+  xy: 228, 160
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+C_Head_01
+  rotate: true
+  xy: 228, 180
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+C_Head_02
+  rotate: true
+  xy: 228, 213
+  size: 41, 16
+  orig: 41, 16
+  offset: 0, 0
+  index: -1
+C_Head_03
+  rotate: false
+  xy: 139, 28
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+C_Leg_L_B
+  rotate: false
+  xy: 91, 11
+  size: 46, 74
+  orig: 46, 74
+  offset: 0, 0
+  index: -1
+C_Leg_L_F
+  rotate: true
+  xy: 2, 90
+  size: 47, 85
+  orig: 47, 85
+  offset: 0, 0
+  index: -1
+C_Leg_R_B
+  rotate: true
+  xy: 2, 2
+  size: 59, 87
+  orig: 59, 87
+  offset: 0, 0
+  index: -1
+C_Leg_R_F
+  rotate: false
+  xy: 204, 63
+  size: 47, 93
+  orig: 47, 93
+  offset: 0, 0
+  index: -1
+C_Stone
+  rotate: false
+  xy: 121, 87
+  size: 81, 69
+  orig: 81, 69
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: false
+  xy: 200, 16
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1

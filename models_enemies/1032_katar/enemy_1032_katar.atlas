@@ -1,0 +1,202 @@
+
+enemy_1032_katar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_L_Weapon_A
+  rotate: true
+  xy: 277, 463
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1
+C_L_Weapon_B
+  rotate: false
+  xy: 340, 460
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+C_L_arm_A
+  rotate: false
+  xy: 2, 57
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+C_L_arm_B
+  rotate: false
+  xy: 107, 401
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+C_L_finger
+  rotate: false
+  xy: 188, 412
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+C_L_hand
+  rotate: false
+  xy: 76, 359
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+C_L_kneepad
+  rotate: false
+  xy: 439, 451
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+C_L_pocket
+  rotate: true
+  xy: 76, 332
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+C_L_shin
+  rotate: false
+  xy: 2, 139
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+C_L_shoes
+  rotate: false
+  xy: 439, 477
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+C_L_tape
+  rotate: false
+  xy: 222, 431
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+C_L_thigh
+  rotate: false
+  xy: 2, 95
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+C_R_Weapon
+  rotate: false
+  xy: 90, 433
+  size: 66, 77
+  orig: 66, 77
+  offset: 0, 0
+  index: -1
+C_R_arm_A
+  rotate: false
+  xy: 2, 21
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+C_R_arm_B
+  rotate: false
+  xy: 107, 368
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+C_R_hand
+  rotate: false
+  xy: 40, 193
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+C_R_kneepad
+  rotate: true
+  xy: 134, 403
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+C_R_pocket
+  rotate: true
+  xy: 40, 230
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+C_R_shin
+  rotate: false
+  xy: 400, 463
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+C_R_shoes
+  rotate: true
+  xy: 76, 388
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+C_R_tape
+  rotate: false
+  xy: 159, 410
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+C_R_thigh
+  rotate: false
+  xy: 481, 468
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+C_armor
+  rotate: false
+  xy: 2, 191
+  size: 36, 77
+  orig: 36, 77
+  offset: 0, 0
+  index: -1
+C_clothes
+  rotate: false
+  xy: 2, 270
+  size: 61, 75
+  orig: 61, 75
+  offset: 0, 0
+  index: -1
+C_head
+  rotate: false
+  xy: 222, 452
+  size: 53, 58
+  orig: 53, 58
+  offset: 0, 0
+  index: -1
+C_hood_A
+  rotate: false
+  xy: 2, 347
+  size: 72, 76
+  orig: 72, 76
+  offset: 0, 0
+  index: -1
+C_hood_B
+  rotate: false
+  xy: 158, 440
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: -1
+C_pants
+  rotate: false
+  xy: 2, 425
+  size: 86, 85
+  orig: 86, 85
+  offset: 0, 0
+  index: -1

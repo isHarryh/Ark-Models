@@ -1,0 +1,489 @@
+
+enemy_7014_dva.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H_Chest
+  rotate: 270
+  xy: 423, 91
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+H_Hair
+  rotate: false
+  xy: 172, 117
+  size: 99, 76
+  orig: 99, 76
+  offset: 0, 0
+  index: -1
+H_Hair_a
+  rotate: false
+  xy: 377, 160
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+H_Hair_b
+  rotate: false
+  xy: 300, 9
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+H_Head
+  rotate: false
+  xy: 113, 290
+  size: 75, 24
+  orig: 75, 24
+  offset: 0, 0
+  index: -1
+H_L_Arm
+  rotate: false
+  xy: 472, 71
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+H_L_Calf
+  rotate: false
+  xy: 460, 296
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+H_L_Foot
+  rotate: false
+  xy: 241, 10
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+H_L_Forearm
+  rotate: false
+  xy: 286, 15
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+H_L_Hand
+  rotate: false
+  xy: 382, 19
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+H_L_Leg
+  rotate: false
+  xy: 48, 7
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+H_R_Arm
+  rotate: false
+  xy: 267, 54
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+H_R_Calf
+  rotate: false
+  xy: 230, 37
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+H_R_Finger
+  rotate: false
+  xy: 273, 183
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+H_R_Finger_a
+  rotate: false
+  xy: 271, 377
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+H_R_Foot
+  rotate: false
+  xy: 337, 40
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+H_R_Forearm
+  rotate: true
+  xy: 474, 185
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+H_R_Hand
+  rotate: false
+  xy: 45, 163
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+H_R_Hand_H
+  rotate: 180
+  xy: 2, 353
+  size: 68, 56
+  orig: 68, 56
+  offset: 0, 0
+  index: -1
+H_R_Leg
+  rotate: false
+  xy: 407, 316
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+H_Skirt
+  rotate: 180
+  xy: 244, 111
+  size: 99, 68
+  orig: 99, 68
+  offset: 0, 0
+  index: -1
+H_Skirt_A
+  rotate: false
+  xy: 156, 258
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+H_Tail
+  rotate: false
+  xy: 100, 23
+  size: 81, 49
+  orig: 81, 49
+  offset: 0, 0
+  index: -1
+Mech_B_Tape
+  rotate: true
+  xy: 291, 295
+  size: 212, 115
+  orig: 212, 115
+  offset: 0, 0
+  index: -1
+Mech_Face
+  rotate: 180
+  xy: 198, 206
+  size: 161, 144
+  orig: 161, 144
+  offset: 0, 0
+  index: -1
+Mech_Hat
+  rotate: 180
+  xy: 52, 186
+  size: 195, 94
+  orig: 195, 94
+  offset: 0, 0
+  index: -1
+Mech_Hat_A
+  rotate: 180
+  xy: 358, 192
+  size: 102, 123
+  orig: 102, 123
+  offset: 0, 0
+  index: -1
+Mech_Head
+  rotate: false
+  xy: 2, 241
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+Mech_Head_A
+  rotate: true
+  xy: 63, 138
+  size: 101, 116
+  orig: 101, 116
+  offset: 0, 0
+  index: -1
+Mech_II
+  rotate: true
+  xy: 326, 66
+  size: 46, 52
+  orig: 46, 52
+  offset: 0, 0
+  index: -1
+Mech_L_Arm
+  rotate: true
+  xy: 101, 97
+  size: 55, 72
+  orig: 55, 72
+  offset: 0, 0
+  index: -1
+Mech_L_Arm_a
+  rotate: false
+  xy: 2, 99
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+Mech_L_Arm_b
+  rotate: true
+  xy: 53, 49
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+Mech_L_Fist
+  rotate: 180
+  xy: 403, 449
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+Mech_L_Fist_a
+  rotate: true
+  xy: 353, 5
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+Mech_L_Fist_b
+  rotate: true
+  xy: 79, 9
+  size: 40, 24
+  orig: 54, 27
+  offset: 3, 3
+  index: -1
+Mech_L_Fist_c
+  rotate: false
+  xy: 449, 51
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+Mech_L_Fist_d
+  rotate: false
+  xy: 379, 83
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+Mech_L_Fist_e
+  rotate: false
+  xy: 469, 408
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+Mech_L_Forearm
+  rotate: true
+  xy: 2, 153
+  size: 86, 42
+  orig: 86, 42
+  offset: 0, 0
+  index: -1
+Mech_L_Hand
+  rotate: false
+  xy: 405, 393
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: -1
+Mech_L_Hand_a
+  rotate: false
+  xy: 458, 490
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+Mech_L_Hand_b
+  rotate: true
+  xy: 327, 116
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+Mech_L_Hand_c
+  rotate: false
+  xy: 426, 12
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+Mech_L_Hand_d
+  rotate: false
+  xy: 395, 55
+  size: 55, 31
+  orig: 55, 31
+  offset: 0, 0
+  index: -1
+Mech_L_Hand_e
+  rotate: 180
+  xy: 164, 3
+  size: 53, 25
+  orig: 53, 25
+  offset: 0, 0
+  index: -1
+Mech_L_Shoulder
+  rotate: false
+  xy: 100, 7
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+Mech_L_Tape
+  rotate: true
+  xy: 161, 89
+  size: 22, 117
+  orig: 22, 117
+  offset: 0, 0
+  index: -1
+Mech_L_Tape_a
+  rotate: false
+  xy: 305, 111
+  size: 123, 99
+  orig: 123, 99
+  offset: 0, 0
+  index: -1
+Mech_M_White
+  rotate: false
+  xy: 2, 314
+  size: 300, 193
+  orig: 300, 193
+  offset: 0, 0
+  index: -1
+Mech_R_Arm
+  rotate: 180
+  xy: 418, 144
+  size: 54, 81
+  orig: 54, 81
+  offset: 0, 0
+  index: -1
+Mech_R_Arm_a
+  rotate: true
+  xy: 2, 51
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+Mech_R_Arm_b
+  rotate: false
+  xy: 2, 6
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+Mech_R_Fist
+  rotate: false
+  xy: 460, 348
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+Mech_R_Fist_a
+  rotate: false
+  xy: 194, 54
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+Mech_R_Fist_b
+  rotate: false
+  xy: 468, 152
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+Mech_R_Fist_c
+  rotate: false
+  xy: 55, 104
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+Mech_R_Fist_d
+  rotate: true
+  xy: 407, 361
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+Mech_R_Fist_e
+  rotate: false
+  xy: 100, 73
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+Mech_R_Forearm
+  rotate: 270
+  xy: 458, 427
+  size: 58, 44
+  orig: 62, 44
+  offset: 2, 0
+  index: -1
+Mech_R_Hand
+  rotate: true
+  xy: 458, 218
+  size: 63, 38
+  orig: 63, 38
+  offset: 0, 0
+  index: -1
+Mech_R_Hand_a
+  rotate: false
+  xy: 260, 485
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+Mech_R_Hand_b
+  rotate: false
+  xy: 2, 410
+  size: 24, 48
+  orig: 24, 48
+  offset: 0, 0
+  index: -1
+Mech_R_Hand_c
+  rotate: 270
+  xy: 455, 10
+  size: 29, 51
+  orig: 29, 51
+  offset: 0, 0
+  index: -1
+Mech_R_Hand_d
+  rotate: 270
+  xy: 238, 346
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+Mech_R_Hand_e
+  rotate: 180
+  xy: 296, 71
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+Mech_R_Shoulder
+  rotate: false
+  xy: 304, 459
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+Mech_R_Tape
+  rotate: false
+  xy: 440, 283
+  size: 18, 108
+  orig: 18, 108
+  offset: 0, 0
+  index: -1
+Mech_R_Tape_a
+  rotate: 270
+  xy: 132, 17
+  size: 86, 107
+  orig: 86, 107
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,300 @@
+
+enemy_6010_boxing.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Brid_Body
+  rotate: false
+  xy: 2, 371
+  size: 169, 62
+  orig: 169, 62
+  offset: 0, 0
+  index: -1
+Brid_Eye
+  rotate: false
+  xy: 991, 954
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Brid_Head
+  rotate: false
+  xy: 841, 922
+  size: 51, 69
+  orig: 51, 69
+  offset: 0, 0
+  index: -1
+Brid_Headb
+  rotate: true
+  xy: 239, 385
+  size: 92, 188
+  orig: 92, 188
+  offset: 0, 0
+  index: -1
+Brid_L_Foot
+  rotate: false
+  xy: 680, 925
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+Brid_Moutha
+  rotate: false
+  xy: 836, 997
+  size: 50, 21
+  orig: 52, 23
+  offset: 1, 1
+  index: -1
+Brid_Mouthb
+  rotate: false
+  xy: 991, 979
+  size: 26, 39
+  orig: 28, 41
+  offset: 1, 1
+  index: -1
+Brid_R_Foot
+  rotate: false
+  xy: 991, 918
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+Brid_Wing
+  rotate: false
+  xy: 2, 838
+  size: 64, 33
+  orig: 64, 33
+  offset: 0, 0
+  index: -1
+Brid_Wingb
+  rotate: false
+  xy: 157, 385
+  size: 75, 86
+  orig: 75, 86
+  offset: 0, 0
+  index: -1
+C_Beard
+  rotate: 180
+  xy: 164, 454
+  size: 130, 99
+  orig: 130, 99
+  offset: 0, 0
+  index: -1
+C_Belt
+  rotate: false
+  xy: 2, 505
+  size: 188, 76
+  orig: 188, 76
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: false
+  xy: 512, 790
+  size: 174, 228
+  orig: 174, 228
+  offset: 0, 0
+  index: -1
+C_Cloak
+  rotate: false
+  xy: 2, 770
+  size: 525, 248
+  orig: 525, 248
+  offset: 0, 0
+  index: -1
+C_Hair
+  rotate: true
+  xy: 675, 808
+  size: 210, 183
+  orig: 210, 183
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: 180
+  xy: 2, 678
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1
+C_Hip
+  rotate: false
+  xy: 459, 576
+  size: 192, 82
+  orig: 192, 82
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: false
+  xy: 775, 564
+  size: 111, 118
+  orig: 113, 121
+  offset: 1, 2
+  index: -1
+C_L_Armb
+  rotate: false
+  xy: 637, 513
+  size: 134, 85
+  orig: 136, 87
+  offset: 1, 1
+  index: -1
+C_L_Calf
+  rotate: false
+  xy: 853, 379
+  size: 104, 93
+  orig: 104, 93
+  offset: 0, 0
+  index: -1
+C_L_Cloak
+  rotate: true
+  xy: 329, 476
+  size: 214, 262
+  orig: 214, 262
+  offset: 0, 0
+  index: -1
+C_L_Cloaka
+  rotate: false
+  xy: 552, 402
+  size: 125, 113
+  orig: 125, 113
+  offset: 0, 0
+  index: -1
+C_L_Fit
+  rotate: false
+  xy: 532, 667
+  size: 119, 121
+  orig: 122, 123
+  offset: 1, 1
+  index: -1
+C_L_Fitb
+  rotate: false
+  xy: 869, 684
+  size: 127, 131
+  orig: 129, 133
+  offset: 1, 1
+  index: -1
+C_L_Foot
+  rotate: false
+  xy: 151, 716
+  size: 119, 59
+  orig: 119, 59
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: true
+  xy: 773, 465
+  size: 97, 112
+  orig: 99, 113
+  offset: 1, 1
+  index: -1
+C_L_Forearmb
+  rotate: true
+  xy: 653, 600
+  size: 111, 120
+  orig: 113, 121
+  offset: 1, 1
+  index: -1
+C_L_Neckring
+  rotate: false
+  xy: 860, 817
+  size: 129, 201
+  orig: 129, 201
+  offset: 0, 0
+  index: -1
+C_L_Pants
+  rotate: false
+  xy: 340, 456
+  size: 128, 88
+  orig: 128, 88
+  offset: 0, 0
+  index: -1
+C_L_Stab
+  rotate: false
+  xy: 888, 561
+  size: 106, 121
+  orig: 108, 123
+  offset: 1, 1
+  index: -1
+C_R_Arm
+  rotate: true
+  xy: 383, 644
+  size: 144, 147
+  orig: 144, 147
+  offset: 0, 0
+  index: -1
+C_R_Calf
+  rotate: false
+  xy: 678, 407
+  size: 98, 104
+  orig: 98, 104
+  offset: 0, 0
+  index: -1
+C_R_Cloak
+  rotate: 270
+  xy: 236, 675
+  size: 223, 280
+  orig: 223, 280
+  offset: 0, 0
+  index: -1
+C_R_Cloaka
+  rotate: false
+  xy: 32, 411
+  size: 130, 106
+  orig: 130, 106
+  offset: 0, 0
+  index: -1
+C_R_Fit
+  rotate: false
+  xy: 250, 521
+  size: 132, 109
+  orig: 132, 109
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: true
+  xy: 957, 370
+  size: 102, 57
+  orig: 102, 57
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: false
+  xy: 887, 474
+  size: 126, 85
+  orig: 126, 85
+  offset: 0, 0
+  index: -1
+C_R_Hat
+  rotate: false
+  xy: 434, 411
+  size: 116, 83
+  orig: 116, 83
+  offset: 0, 0
+  index: -1
+C_R_Neckring
+  rotate: true
+  xy: 661, 705
+  size: 120, 206
+  orig: 120, 206
+  offset: 0, 0
+  index: -1
+C_R_Pants
+  rotate: false
+  xy: 3, 589
+  size: 123, 91
+  orig: 123, 91
+  offset: 0, 0
+  index: -1
+C_R_Stab
+  rotate: true
+  xy: 128, 583
+  size: 111, 120
+  orig: 113, 121
+  offset: 1, 1
+  index: -1
+图层51
+  rotate: false
+  xy: 673, 994
+  size: 51, 24
+  orig: 53, 26
+  offset: 1, 1
+  index: -1
