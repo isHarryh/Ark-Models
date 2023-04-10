@@ -11,7 +11,7 @@
         "EnemyElite": "精英敌人",
         "EnemyBoss": "领袖敌人"
     },
-    "gameDataVersionDescription": "Stream://torappu-data/v037/rel37.0\nChange:42850 on 2023/03/23\nVersionControl:37.0.0\n",
+    "gameDataVersionDescription": "Stream://torappu-data/v037/rel37.0\nChange:43466 on 2023/04/06\nVersionControl:37.0.0\n",
     "gameDataServerRegion": "zh_CN",
     "data": {
         "285_medic2": {
@@ -1059,7 +1059,11 @@
             "appellation": "Humus",
             "skinGroupId": "ILLUST",
             "skinGroupName": "默认服装",
-            "checksum": null
+            "checksum": {
+                ".atlas": "868ff80efdc91d8bf27c592bcb31c16a",
+                ".png": "d5ab81177ed1ba243043d9102b30d557",
+                ".skel": "73659d1e98adbab87ec04eb85078c000"
+            }
         },
         "237_gravel": {
             "assetId": "build_char_237_gravel",
@@ -1680,7 +1684,11 @@
             "appellation": "Morgan",
             "skinGroupId": "ILLUST",
             "skinGroupName": "默认服装",
-            "checksum": null
+            "checksum": {
+                ".atlas": "da15f10e5fa1bf48ca02725d224da824",
+                ".png": "ab187b8201d54690f67d9372e42f5388",
+                ".skel": "c3e0abe7482a41f0762cd6a229926505"
+            }
         },
         "508_aguard": {
             "assetId": "build_char_508_aguard",
@@ -3017,7 +3025,11 @@
             "appellation": "Cement",
             "skinGroupId": "ILLUST",
             "skinGroupName": "默认服装",
-            "checksum": null
+            "checksum": {
+                ".atlas": "5ea2c711747934775009a9d5425eee8e",
+                ".png": "be18c9eba1970844f17603b84720aafa",
+                ".skel": "c90ca3d649049ceae3fe1ea46c4a3dcd"
+            }
         },
         "145_prove": {
             "assetId": "build_char_145_prove",
@@ -3795,7 +3807,11 @@
             "appellation": "Ines",
             "skinGroupId": "ILLUST",
             "skinGroupName": "默认服装",
-            "checksum": null
+            "checksum": {
+                ".atlas": "422dcd6a101e04b14b755c2875b9df61",
+                ".png": "e9022417d1ac48886da7e4f3b2914c1a",
+                ".skel": "0255a3f894368cd647fbf6772ec06fc6"
+            }
         },
         "134_ifrit": {
             "assetId": "build_char_134_ifrit",
@@ -5867,7 +5883,11 @@
             "appellation": "Horn",
             "skinGroupId": "2023#epoque#6",
             "skinGroupName": "时代/XXIV",
-            "checksum": null
+            "checksum": {
+                ".atlas": "5bec4d4a97ebdf05589cf7a436fdb440",
+                ".png": "8f4b02aae9b50dcfef78be3ed7c9adf3",
+                ".skel": "0f92d050deda23e8359b94ab757a7f25"
+            }
         },
         "4045_heidi_epoque#24": {
             "assetId": "build_char_4045_heidi_epoque#24",
@@ -5881,7 +5901,11 @@
             "appellation": "Heidi",
             "skinGroupId": "2023#epoque#6",
             "skinGroupName": "时代/XXIV",
-            "checksum": null
+            "checksum": {
+                ".atlas": "516ac521e1aa956a8a37f913608eabc7",
+                ".png": "a179f2cb5155f22b9591d8f4190de69b",
+                ".skel": "297fa2641f86e533cfec30b9843d1728"
+            }
         },
         "297_hamoni_epoque#24": {
             "assetId": "build_char_297_hamoni_epoque#24",
@@ -5895,7 +5919,11 @@
             "appellation": "Harmonie",
             "skinGroupId": "2023#epoque#6",
             "skinGroupName": "时代/XXIV",
-            "checksum": null
+            "checksum": {
+                ".atlas": "ed9d5c71a6516cf1999825331c1f8cfb",
+                ".png": "9b82b826d192ac20eb16116659880099",
+                ".skel": "b8c6765cc9bcfa3dad00e176cafae0a7"
+            }
         },
         "120_hibisc_nian#1": {
             "assetId": "build_char_120_hibisc_nian#1",
