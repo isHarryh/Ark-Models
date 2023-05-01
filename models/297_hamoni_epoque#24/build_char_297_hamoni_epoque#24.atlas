@@ -293,10 +293,17 @@ F_L_Eyebkiw
   index: -1
 F_L_Eyelash
   rotate: false
-  xy: 37, 415
-  size: 24, 11
-  orig: 24, 14
-  offset: 0, 3
+  xy: 37, 414
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+F_L_Eyelash_2
+  rotate: false
+  xy: 310, 507
+  size: 12, 2
+  orig: 12, 2
+  offset: 0, 0
   index: -1
 F_L_Eyelash_Close
   rotate: false
@@ -421,8 +428,15 @@ F_R_Eyelash
   rotate: true
   xy: 498, 439
   size: 14, 10
-  orig: 14, 13
-  offset: 0, 3
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+F_R_Eyelash_2
+  rotate: false
+  xy: 292, 479
+  size: 10, 3
+  orig: 10, 3
+  offset: 0, 0
   index: -1
 F_R_Eyelash_Close
   rotate: false
