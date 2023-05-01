@@ -11,7 +11,7 @@
         "EnemyElite": "精英敌人",
         "EnemyBoss": "领袖敌人"
     },
-    "gameDataVersionDescription": "Stream://torappu-data/v038/rel38.0\nChange:44605 on 2023/04/28\nVersionControl:38.0.0\n",
+    "gameDataVersionDescription": "Manual data collection @ 2023-05-01",
     "gameDataServerRegion": "zh_CN",
     "data": {
         "285_medic2": {
@@ -1941,6 +1941,19 @@
                 ".skel": "e422acf3c1d32f455a05414647d3ea88"
             }
         },
+        "1031_slent2": {
+            "assetId": "build_char_1031_slent2",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "淬羽赫默",
+            "sortTags": [
+                "Operator"
+            ],
+            "appellation": "Silence the Paradigmatic",
+            "skinGroupId": "ILLUST",
+            "skinGroupName": "默认服装",
+            "checksum": null
+        },
         "421_crow": {
             "assetId": "build_char_421_crow",
             "type": "Operator",
@@ -2887,6 +2900,19 @@
             "skinGroupName": "默认服装",
             "checksum": null
         },
+        "4006_melnte": {
+            "assetId": "build_char_4006_melnte",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "玫拉",
+            "sortTags": [
+                "Operator"
+            ],
+            "appellation": "Melanite",
+            "skinGroupId": "ILLUST",
+            "skinGroupName": "默认服装",
+            "checksum": null
+        },
         "4025_aprot2": {
             "assetId": "build_char_4025_aprot2",
             "type": "Operator",
@@ -2903,6 +2929,19 @@
                 ".png": "3b859b06f5ef93f3209687a6d036c024",
                 ".skel": "23f5de3f25fe2c2ea95b3117726fe94f"
             }
+        },
+        "4027_heyak": {
+            "assetId": "build_char_4027_heyak",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "霍尔海雅",
+            "sortTags": [
+                "Operator"
+            ],
+            "appellation": "Ho'olheyak",
+            "skinGroupId": "ILLUST",
+            "skinGroupName": "默认服装",
+            "checksum": null
         },
         "4047_pianst": {
             "assetId": "build_char_4047_pianst",
@@ -4038,6 +4077,19 @@
                 ".png": "21043697396a0e401438f2442f2f3819",
                 ".skel": "24cfecce900e5d810e15b52658f82450"
             }
+        },
+        "249_mlyss": {
+            "assetId": "build_char_249_mlyss",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "缪尔赛思",
+            "sortTags": [
+                "Operator"
+            ],
+            "appellation": "Muelsyse",
+            "skinGroupId": "ILLUST",
+            "skinGroupName": "默认服装",
+            "checksum": null
         },
         "1012_skadi2": {
             "assetId": "build_char_1012_skadi2",
