@@ -1,0 +1,48 @@
+
+enemy_2041_syjely.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Hand_01
+  rotate: 180
+  xy: 130, 115
+  size: 34, 71
+  orig: 34, 71
+  offset: 0, 0
+  index: -1
+C_Hand_02
+  rotate: 270
+  xy: 2, 115
+  size: 26, 76
+  orig: 26, 76
+  offset: 0, 0
+  index: -1
+C_Hand_03
+  rotate: 180
+  xy: 150, 116
+  size: 39, 64
+  orig: 39, 65
+  offset: 0, 1
+  index: -1
+C_Hand_04
+  rotate: true
+  xy: 80, 114
+  size: 40, 63
+  orig: 40, 63
+  offset: 0, 0
+  index: -1
+C_Head_01
+  rotate: true
+  xy: 97, 128
+  size: 63, 30
+  orig: 63, 30
+  offset: 0, 0
+  index: -1
+C_Head_02
+  rotate: false
+  xy: 2, 131
+  size: 95, 59
+  orig: 95, 59
+  offset: 0, 0
+  index: -1

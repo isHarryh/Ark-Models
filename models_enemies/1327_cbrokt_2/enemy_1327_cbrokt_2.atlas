@@ -1,0 +1,139 @@
+
+enemy_1327_cbrokt_2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Bullet
+  rotate: true
+  xy: 395, 454
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+C_Butt
+  rotate: false
+  xy: 177, 422
+  size: 50, 21
+  orig: 50, 21
+  offset: 0, 0
+  index: -1
+C_Chest
+  rotate: true
+  xy: 180, 443
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+C_Gun
+  rotate: true
+  xy: 240, 443
+  size: 58, 47
+  orig: 58, 47
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 118, 422
+  size: 61, 80
+  orig: 61, 80
+  offset: 0, 0
+  index: -1
+C_Jetpack
+  rotate: false
+  xy: 2, 415
+  size: 115, 87
+  orig: 115, 87
+  offset: 0, 0
+  index: -1
+C_L_Arm_1
+  rotate: false
+  xy: 425, 428
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+C_L_Arm_2
+  rotate: false
+  xy: 388, 419
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: true
+  xy: 425, 462
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 323, 426
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+C_L_Leg_1
+  rotate: false
+  xy: 457, 423
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+C_L_Leg_2
+  rotate: false
+  xy: 460, 459
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+C_R_Arm_1
+  rotate: false
+  xy: 289, 417
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+C_R_Arm_2
+  rotate: false
+  xy: 354, 430
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+C_R_Finger
+  rotate: true
+  xy: 230, 418
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: true
+  xy: 359, 460
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: false
+  xy: 261, 415
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+C_R_Leg_1
+  rotate: false
+  xy: 323, 461
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+C_R_Leg_2
+  rotate: false
+  xy: 289, 455
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
