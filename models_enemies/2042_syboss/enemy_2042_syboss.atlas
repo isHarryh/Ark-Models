@@ -1,0 +1,125 @@
+
+enemy_2042_syboss.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body_01
+  rotate: false
+  xy: 422, 782
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+C_Body_02
+  rotate: false
+  xy: 636, 716
+  size: 75, 97
+  orig: 87, 103
+  offset: 0, 0
+  index: -1
+C_Body_03
+  rotate: true
+  xy: 877, 941
+  size: 50, 82
+  orig: 50, 82
+  offset: 0, 0
+  index: -1
+C_Body_04
+  rotate: 180
+  xy: 450, 711
+  size: 115, 119
+  orig: 115, 119
+  offset: 0, 0
+  index: -1
+C_Body_05
+  rotate: 270
+  xy: 794, 725
+  size: 208, 195
+  orig: 216, 195
+  offset: 0, 0
+  index: -1
+C_Hand_01
+  rotate: true
+  xy: 199, 719
+  size: 75, 177
+  orig: 89, 180
+  offset: 14, 3
+  index: -1
+C_Hand_02
+  rotate: 180
+  xy: 751, 734
+  size: 124, 127
+  orig: 124, 127
+  offset: 0, 0
+  index: -1
+C_Hand_03
+  rotate: false
+  xy: 174, 697
+  size: 153, 62
+  orig: 153, 62
+  offset: 0, 0
+  index: -1
+C_Hand_04
+  rotate: false
+  xy: 5, 696
+  size: 153, 62
+  orig: 153, 62
+  offset: 0, 0
+  index: -1
+C_Hand_05
+  rotate: 270
+  xy: 273, 735
+  size: 150, 148
+  orig: 150, 148
+  offset: 0, 0
+  index: -1
+C_Hand_06
+  rotate: false
+  xy: 636, 717
+  size: 150, 148
+  orig: 150, 148
+  offset: 0, 0
+  index: -1
+C_Hand_07
+  rotate: false
+  xy: 2, 757
+  size: 130, 34
+  orig: 130, 34
+  offset: 0, 0
+  index: -1
+C_Hand_08
+  rotate: false
+  xy: 119, 743
+  size: 131, 34
+  orig: 131, 34
+  offset: 0, 0
+  index: -1
+C_Head_01
+  rotate: false
+  xy: 580, 866
+  size: 296, 125
+  orig: 296, 125
+  offset: 0, 0
+  index: -1
+C_Head_02
+  rotate: false
+  xy: 512, 789
+  size: 163, 75
+  orig: 163, 75
+  offset: 0, 0
+  index: -1
+C_Head_03
+  rotate: false
+  xy: 273, 816
+  size: 305, 175
+  orig: 305, 175
+  offset: 0, 0
+  index: -1
+C_Head_04
+  rotate: false
+  xy: 2, 793
+  size: 270, 198
+  orig: 270, 198
+  offset: 0, 0
+  index: -1

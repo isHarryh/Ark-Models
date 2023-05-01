@@ -1,0 +1,125 @@
+
+enemy_1333_cbbgen.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Head
+  rotate: false
+  xy: 2, 398
+  size: 65, 84
+  orig: 65, 84
+  offset: 0, 0
+  index: -1
+C_Hip
+  rotate: false
+  xy: 2, 215
+  size: 59, 31
+  orig: 59, 31
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: false
+  xy: 2, 32
+  size: 42, 34
+  orig: 63, 34
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: false
+  xy: 2, 145
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: false
+  xy: 39, 3
+  size: 27, 24
+  orig: 29, 24
+  offset: 1, 0
+  index: -1
+C_L_Hand
+  rotate: true
+  xy: 39, 66
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: false
+  xy: 2, 248
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+C_L_Thigh
+  rotate: false
+  xy: 2, 2
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: false
+  xy: 45, 29
+  size: 26, 35
+  orig: 27, 35
+  offset: 1, 0
+  index: -1
+C_R_Finger
+  rotate: true
+  xy: 47, 126
+  size: 32, 28
+  orig: 33, 29
+  offset: 1, 0
+  index: -1
+C_R_Foot
+  rotate: false
+  xy: 2, 180
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: false
+  xy: 2, 67
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: true
+  xy: 2, 102
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+C_R_Palm
+  rotate: false
+  xy: 47, 247
+  size: 28, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+C_R_Thigh
+  rotate: true
+  xy: 48, 161
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+C_Waist
+  rotate: false
+  xy: 2, 292
+  size: 55, 47
+  orig: 186, 47
+  offset: 0, 0
+  index: -1
+C_Weapon
+  rotate: false
+  xy: 2, 341
+  size: 61, 55
+  orig: 61, 55
+  offset: 0, 0
+  index: -1
