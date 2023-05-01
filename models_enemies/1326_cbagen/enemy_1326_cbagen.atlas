@@ -1,0 +1,125 @@
+
+enemy_1326_cbagen.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Head
+  rotate: false
+  xy: 2, 425
+  size: 63, 84
+  orig: 63, 84
+  offset: 0, 0
+  index: -1
+C_Hip
+  rotate: false
+  xy: 2, 247
+  size: 59, 31
+  orig: 59, 31
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: 270
+  xy: 29, 68
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: false
+  xy: 2, 177
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: false
+  xy: 47, 186
+  size: 27, 24
+  orig: 29, 24
+  offset: 1, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 2, 101
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: false
+  xy: 2, 280
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+C_L_Thigh
+  rotate: true
+  xy: 47, 294
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: true
+  xy: 2, 40
+  size: 26, 35
+  orig: 27, 35
+  offset: 1, 0
+  index: -1
+C_R_Finger
+  rotate: true
+  xy: 39, 33
+  size: 32, 28
+  orig: 33, 29
+  offset: 1, 0
+  index: -1
+C_R_Foot
+  rotate: false
+  xy: 2, 212
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: false
+  xy: 2, 9
+  size: 30, 29
+  orig: 31, 31
+  offset: 1, 1
+  index: -1
+C_R_Leg
+  rotate: true
+  xy: 2, 134
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+C_R_Palm
+  rotate: true
+  xy: 34, 3
+  size: 28, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+C_R_Thigh
+  rotate: true
+  xy: 46, 145
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+C_Waist
+  rotate: false
+  xy: 2, 325
+  size: 52, 42
+  orig: 52, 42
+  offset: 0, 0
+  index: -1
+C_Weapon
+  rotate: false
+  xy: 2, 368
+  size: 61, 55
+  orig: 61, 55
+  offset: 0, 0
+  index: -1

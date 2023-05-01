@@ -1,0 +1,55 @@
+
+enemy_1323_wdbshd.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_Finger
+  rotate: 180
+  xy: 119, 158
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+F_Finger_2
+  rotate: 180
+  xy: 139, 161
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+F_Finger_3
+  rotate: false
+  xy: 160, 165
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+F_Finger_4
+  rotate: 270
+  xy: 165, 153
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+F_Finger_5
+  rotate: true
+  xy: 70, 161
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+F_Finger_7
+  rotate: 180
+  xy: 95, 151
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+F_Weapon
+  rotate: false
+  xy: 2, 147
+  size: 66, 55
+  orig: 66, 55
+  offset: 0, 0
+  index: -1
