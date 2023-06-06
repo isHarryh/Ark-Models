@@ -7,11 +7,11 @@
         "Operator": "干员",
         "Skinned": "时装",
         "Enemy": "敌人",
-        "EnemyCommon": "普通敌人",
+        "EnemyNormal": "普通敌人",
         "EnemyElite": "精英敌人",
         "EnemyBoss": "领袖敌人"
     },
-    "gameDataVersionDescription": "Manual data collection @ 2023-05-01",
+    "gameDataVersionDescription": "Stream://torappu-data/v038/rel38.0\nChange:45487 on 2023/05/22\nVersionControl:38.8.0\n",
     "gameDataServerRegion": "zh_CN",
     "data": {
         "285_medic2": {
@@ -114,6 +114,23 @@
                 ".atlas": "08fea9196391ba09afc1c406d20c18ab",
                 ".png": "6789c914aa5357a714200623062037ce",
                 ".skel": "4b9b6987128a1cd63b764db1eab94112"
+            }
+        },
+        "4093_frston": {
+            "assetId": "build_char_4093_frston",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "Friston-3",
+            "sortTags": [
+                "Operator"
+            ],
+            "appellation": "Friston-3",
+            "skinGroupId": "ILLUST",
+            "skinGroupName": "默认服装",
+            "checksum": {
+                ".atlas": "ca9347d481c653cd34db4f85a735eefb",
+                ".png": "77776049fd2309e13031f614c4776cdb",
+                ".skel": "bc4ad0b75304643e03cfda55d6095084"
             }
         },
         "502_nblade": {
@@ -1941,19 +1958,6 @@
                 ".skel": "e422acf3c1d32f455a05414647d3ea88"
             }
         },
-        "1031_slent2": {
-            "assetId": "build_char_1031_slent2",
-            "type": "Operator",
-            "style": "BuildingDefault",
-            "name": "淬羽赫默",
-            "sortTags": [
-                "Operator"
-            ],
-            "appellation": "Silence the Paradigmatic",
-            "skinGroupId": "ILLUST",
-            "skinGroupName": "默认服装",
-            "checksum": null
-        },
         "421_crow": {
             "assetId": "build_char_421_crow",
             "type": "Operator",
@@ -2900,19 +2904,6 @@
             "skinGroupName": "默认服装",
             "checksum": null
         },
-        "4006_melnte": {
-            "assetId": "build_char_4006_melnte",
-            "type": "Operator",
-            "style": "BuildingDefault",
-            "name": "玫拉",
-            "sortTags": [
-                "Operator"
-            ],
-            "appellation": "Melanite",
-            "skinGroupId": "ILLUST",
-            "skinGroupName": "默认服装",
-            "checksum": null
-        },
         "4025_aprot2": {
             "assetId": "build_char_4025_aprot2",
             "type": "Operator",
@@ -2929,19 +2920,6 @@
                 ".png": "3b859b06f5ef93f3209687a6d036c024",
                 ".skel": "23f5de3f25fe2c2ea95b3117726fe94f"
             }
-        },
-        "4027_heyak": {
-            "assetId": "build_char_4027_heyak",
-            "type": "Operator",
-            "style": "BuildingDefault",
-            "name": "霍尔海雅",
-            "sortTags": [
-                "Operator"
-            ],
-            "appellation": "Ho'olheyak",
-            "skinGroupId": "ILLUST",
-            "skinGroupName": "默认服装",
-            "checksum": null
         },
         "4047_pianst": {
             "assetId": "build_char_4047_pianst",
@@ -3077,6 +3055,23 @@
                 ".atlas": "601b72b5dcab454798dbfdd219424d0a",
                 ".png": "10583a5f07029bff481f654e61701656",
                 ".skel": "a4a3b379796646af27de0a77c8ee9034"
+            }
+        },
+        "4006_melnte": {
+            "assetId": "build_char_4006_melnte",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "玫拉",
+            "sortTags": [
+                "Operator"
+            ],
+            "appellation": "Melanite",
+            "skinGroupId": "ILLUST",
+            "skinGroupName": "默认服装",
+            "checksum": {
+                ".atlas": "eb952ba6af989db85fc34b62200e18c7",
+                ".png": "4a3eca1dcede604a1bd39944b633dd69",
+                ".skel": "0f47fb3e94ca674bf1311bb23ea5155d"
             }
         },
         "158_milu": {
@@ -3823,6 +3818,23 @@
                 ".skel": "4c5c21973b7a15764be3a82319adc664"
             }
         },
+        "249_mlyss": {
+            "assetId": "build_char_249_mlyss",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "缪尔赛思",
+            "sortTags": [
+                "Operator"
+            ],
+            "appellation": "Muelsyse",
+            "skinGroupId": "ILLUST",
+            "skinGroupName": "默认服装",
+            "checksum": {
+                ".atlas": "e3e8457871231363d2b713ef55dec357",
+                ".png": "9ee00274b27b7823480e422cac90cb19",
+                ".skel": "a4e5dc47801bc8ba076fd90a828fe6d7"
+            }
+        },
         "4087_ines": {
             "assetId": "build_char_4087_ines",
             "type": "Operator",
@@ -3906,6 +3918,23 @@
                 ".atlas": "655bc65cba5520350378c1447bfbe4f0",
                 ".png": "ed4e875b6c3b1c087c7c93c9f0b8c1bc",
                 ".skel": "02b202348dfbace3ce299d9df08f5e57"
+            }
+        },
+        "4027_heyak": {
+            "assetId": "build_char_4027_heyak",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "霍尔海雅",
+            "sortTags": [
+                "Operator"
+            ],
+            "appellation": "Ho'olheyak",
+            "skinGroupId": "ILLUST",
+            "skinGroupName": "默认服装",
+            "checksum": {
+                ".atlas": "c27be40e43ebbb5f3a7f3010ffda9b0b",
+                ".png": "a051fc495131c3f0b1ec469c3d83ec37",
+                ".skel": "3e21960f3bf027c33697f0edb61f7c18"
             }
         },
         "2015_dusk": {
@@ -4078,19 +4107,6 @@
                 ".skel": "24cfecce900e5d810e15b52658f82450"
             }
         },
-        "249_mlyss": {
-            "assetId": "build_char_249_mlyss",
-            "type": "Operator",
-            "style": "BuildingDefault",
-            "name": "缪尔赛思",
-            "sortTags": [
-                "Operator"
-            ],
-            "appellation": "Muelsyse",
-            "skinGroupId": "ILLUST",
-            "skinGroupName": "默认服装",
-            "checksum": null
-        },
         "1012_skadi2": {
             "assetId": "build_char_1012_skadi2",
             "type": "Operator",
@@ -4106,6 +4122,23 @@
                 ".atlas": "8ca589873dffae1590c0475c4ce54353",
                 ".png": "df7448726a2e3b6081ce0f5bfc935e23",
                 ".skel": "660cbb58aa784ab056d1a88a9dbcad43"
+            }
+        },
+        "1031_slent2": {
+            "assetId": "build_char_1031_slent2",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "淬羽赫默",
+            "sortTags": [
+                "Operator"
+            ],
+            "appellation": "Silence the Paradigmatic",
+            "skinGroupId": "ILLUST",
+            "skinGroupName": "默认服装",
+            "checksum": {
+                ".atlas": "b14b2e58cf9b04a5dd992a2d818f73fa",
+                ".png": "85dc2766376c0b77e6b7fae71b0d96da",
+                ".skel": "ad3a8c0a3cff38268b61eb23a7b7b43d"
             }
         },
         "2023_ling": {
@@ -8609,6 +8642,24 @@
                 ".skel": "a5891af12d7ea1eb6bdf936c87e0c42f"
             }
         },
+        "4000_jnight_boc#7": {
+            "assetId": "build_char_4000_jnight_boc#7",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "正义骑士号",
+            "sortTags": [
+                "Operator",
+                "Skinned"
+            ],
+            "appellation": "\"Justice Knight\"",
+            "skinGroupId": "2023#boc#2",
+            "skinGroupName": "斗争血脉/VII",
+            "checksum": {
+                ".atlas": "903b42cf604852fdc46ec3babe7da2ea",
+                ".png": "b4943e4078624b335c8e67a85ba74637",
+                ".skel": "76db9c1977dcc6509580d7712da72e91"
+            }
+        },
         "248_mgllan_kitchen#1": {
             "assetId": "build_char_248_mgllan_kitchen#1",
             "type": "Operator",
@@ -9282,10 +9333,10 @@
             "name": "源石虫",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "7c734a3ee89676d7534aeb3022961d94",
@@ -9300,10 +9351,10 @@
             "name": "源石虫·α",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "35057d43b37cf6a006100349634675a0",
@@ -9318,10 +9369,10 @@
             "name": "源石虫·β",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "e5d0326195949820e0c3f2791f2cb967",
@@ -9336,10 +9387,10 @@
             "name": "酸液源石虫",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "7be9b18dacb46400d8922e223c5519a9",
@@ -9354,10 +9405,10 @@
             "name": "酸液源石虫·α",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "01fa4ca6eadf416a0e8695728378bb47",
@@ -9372,10 +9423,10 @@
             "name": "高能源石虫",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "6c17f3360ed837595fb33bfd4ff87331",
@@ -9390,10 +9441,10 @@
             "name": "高能源石虫·α",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "9588c3a093c478b22037bde543462ee5",
@@ -9408,10 +9459,10 @@
             "name": "猎狗",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "77d820246a066f469636e5da16ac667f",
@@ -9426,10 +9477,10 @@
             "name": "猎狗pro",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "324c2f586d325e24559dcf918876c1b0",
@@ -9444,10 +9495,10 @@
             "name": "狂暴的猎狗pro",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "3dcb3275be55a9466e5d1f651a52807b",
@@ -9462,10 +9513,10 @@
             "name": "士兵",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "90646b905415f4fbd3e1b04ade4589ae",
@@ -9480,10 +9531,10 @@
             "name": "弩手",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "1dd2c193a31b576d5660dfc0c8539491",
@@ -9498,10 +9549,10 @@
             "name": "弩手组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "21754c8be3bd271336863624763b4d03",
@@ -9516,10 +9567,10 @@
             "name": "术师",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "c1665bcda0cf946867eedaa8de26fdcc",
@@ -9534,10 +9585,10 @@
             "name": "术师组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "5e62aaa9d8bb44d3359c613884ae0f35",
@@ -9588,10 +9639,10 @@
             "name": "空降兵",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "dfc84e0e3eae182b77abd01f0123b1c9",
@@ -9606,10 +9657,10 @@
             "name": "空降组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "1c5d64bebb27e91f0ddaf14c84ddb713",
@@ -9624,10 +9675,10 @@
             "name": "炮手",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "3960d2aecc223d303650b0f8fc895c4c",
@@ -9642,10 +9693,10 @@
             "name": "炮击组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "380b0238722e7ee470131a6d80dd6473",
@@ -9660,10 +9711,10 @@
             "name": "双持剑士",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "a4059d11727a028074cda8239a6f8d9e",
@@ -9678,10 +9729,10 @@
             "name": "双持剑士组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "1f9648b6395e670dd4c5e1f3aea6fdc8",
@@ -9696,10 +9747,10 @@
             "name": "轻甲卫兵",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "91bf0c59ca676bb8fce31b089490bb1b",
@@ -9714,10 +9765,10 @@
             "name": "轻甲卫兵组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "24ee62445bc84c08cb27f40c3ae7cdac",
@@ -9822,10 +9873,10 @@
             "name": "磐蟹",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "c646a90ae1096b7bba10a14921a92c58",
@@ -9840,10 +9891,10 @@
             "name": "潜伏者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "f022841b85fb6168ec4805a1dc5541f8",
@@ -9858,10 +9909,10 @@
             "name": "幽灵",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "0f51ff9103ffa638b90ae742ee5fa540",
@@ -9876,10 +9927,10 @@
             "name": "幽灵组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "6eb5f7a792642e47e675e3ba312b8bee",
@@ -9894,10 +9945,10 @@
             "name": "妖怪",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "3c9eb11c1592b6452b76bd3e2e5c8f92",
@@ -9912,10 +9963,10 @@
             "name": "妖怪MKII",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "f3fc747d8912985f3a17b36303f2c524",
@@ -9948,10 +9999,10 @@
             "name": "御4",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "3ee6240f578efab3d6e148046a73294d",
@@ -9966,10 +10017,10 @@
             "name": "隐形弩手",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "a8c88f5421d4f5f95f5befbba748370e",
@@ -9984,10 +10035,10 @@
             "name": "隐形弩手组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "e1b5427f08d656c7f5a3bac6b5573c15",
@@ -10002,10 +10053,10 @@
             "name": "隐形术师",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "8b6caa18a0c2ba5a1586200b42d0b087",
@@ -10020,10 +10071,10 @@
             "name": "隐形术师组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "9ab375db4a1b94324df5392003b1defb",
@@ -10038,10 +10089,10 @@
             "name": "技术侦察兵",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "fb037c7a61a9b08644d197dc0f6c0986",
@@ -10218,10 +10269,10 @@
             "name": "暴徒",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "03160c72a38cf47a791c391b432e59d2",
@@ -10236,10 +10287,10 @@
             "name": "暴乱分子",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -10250,10 +10301,10 @@
             "name": "鸡尾酒投掷者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "2edd0c210f00e7bef6dd9e3f67d873db",
@@ -10268,10 +10319,10 @@
             "name": "燃烧瓶投掷者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "658cb5c04070cadeaad628564bb2d912",
@@ -10286,10 +10337,10 @@
             "name": "持盾刀兵",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "a112d7736daef286e3e957534d48f880",
@@ -10304,10 +10355,10 @@
             "name": "机动盾组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "19b2d0e39430f22c32da40b7828b36c0",
@@ -10322,10 +10373,10 @@
             "name": "拾荒者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "d3ad8668ea83a996eb2958edc09bf562",
@@ -10340,10 +10391,10 @@
             "name": "流浪者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "cd312579699a37a0ef75f39351fd634a",
@@ -10358,10 +10409,10 @@
             "name": "法术近卫",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "7a42512c17522ce7153a9ddd9f707f73",
@@ -10376,10 +10427,10 @@
             "name": "法术近卫组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "7792534bd656adfb98e34aada5d8660b",
@@ -10394,10 +10445,10 @@
             "name": "拳刃武士",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "bc6e3a4f655de0ec6cf7ff66d763ad9c",
@@ -10412,10 +10463,10 @@
             "name": "拳刃武士组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "02504021b3cc7affc7a7a0105fce64cd",
@@ -10556,10 +10607,10 @@
             "name": "特战士兵",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -10570,10 +10621,10 @@
             "name": "特战术师",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "a3adc5b03c2edc6847091a263a791294",
@@ -10588,10 +10639,10 @@
             "name": "特战术师组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "f17976b32c53b9cc056e190df913d079",
@@ -10606,10 +10657,10 @@
             "name": "破阵者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "0d83bd4ee0f732ed491bd8cb549ec5f7",
@@ -10624,10 +10675,10 @@
             "name": "破阵者组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "cca68acd92d91a8ecfc4bc28abfbace0",
@@ -10678,10 +10729,10 @@
             "name": "法术大师A1",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "aa2eb0dec5a443544c097f0c281bf464",
@@ -10732,10 +10783,10 @@
             "name": "宿主士兵",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -10746,10 +10797,10 @@
             "name": "宿主士兵组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -10760,10 +10811,10 @@
             "name": "宿主拾荒者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "f4f49edaea412f9bc359f1f6a8a84bcc",
@@ -10778,10 +10829,10 @@
             "name": "宿主流浪者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "0747ceb992b93fb27a9b0bfa7fbe6d04",
@@ -10832,10 +10883,10 @@
             "name": "步兵",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "0aa3bfb148273f628de010074c9aee94",
@@ -10850,10 +10901,10 @@
             "name": "步兵组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -10864,10 +10915,10 @@
             "name": "狙击步兵",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "2da88717e90a6e97323bdfed7fff304d",
@@ -10882,10 +10933,10 @@
             "name": "狙击步兵组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -10982,10 +11033,10 @@
             "name": "编制术士",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "9f343a656fe7c563c71717d871b2e62d",
@@ -11000,10 +11051,10 @@
             "name": "编制术士组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "4a3d19b9a0f88a88b75ed2340a1156a2",
@@ -11018,10 +11069,10 @@
             "name": "机动卫兵",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "3cf06c6509819a44467bd60773e87688",
@@ -11036,10 +11087,10 @@
             "name": "机动卫兵组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "86d91d5d9d9f6e6b3fcc1d2a41fa9f29",
@@ -11054,10 +11105,10 @@
             "name": "工蚁",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "f718b8c1ce8c07eab63246aac79cefb0",
@@ -11072,10 +11123,10 @@
             "name": "工蚁组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "4119a5838956d2365d54b6d36f37569a",
@@ -11234,10 +11285,10 @@
             "name": "西西里人",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "ed99815ac8c0a544fccd052eee82f996",
@@ -11252,10 +11303,10 @@
             "name": "精锐西西里人",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "a9af2c7548842bcb4f5caafed3aa3ed6",
@@ -11270,10 +11321,10 @@
             "name": "打手",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "04881d429592522025decf3f1dc6727a",
@@ -11288,10 +11339,10 @@
             "name": "精干打手",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "49487ea49a1c990456910ef97199a347",
@@ -11306,10 +11357,10 @@
             "name": "射手",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "e5aa6bcf9542745ab614ced07912211d",
@@ -11324,10 +11375,10 @@
             "name": "神射手",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "263dc280e9a2556272216a879d556062",
@@ -11576,10 +11627,10 @@
             "name": "雪怪小队",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "1fd8212cd19eb3951cc0c22bb2708d9c",
@@ -11594,10 +11645,10 @@
             "name": "霜牙",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "8b7483c82033ff5fe7e58fee3f2ead6a",
@@ -11612,10 +11663,10 @@
             "name": "霜锐",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "4e91c2665e731199676d3e605b4f82c0",
@@ -11630,10 +11681,10 @@
             "name": "雪怪狙击手",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "4305d1bc6a77ced5db6b81d1df8c9808",
@@ -11648,10 +11699,10 @@
             "name": "雪怪狙击手组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "4d5297e6c56376b624bba5917cf9ed5e",
@@ -11666,10 +11717,10 @@
             "name": "冰爆源石虫",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "4e35cb652e53ac63fd99b0ddd1ce2446",
@@ -11684,10 +11735,10 @@
             "name": "冰爆源石虫·α",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "c85610878400c8898769411b95d958b7",
@@ -11702,10 +11753,10 @@
             "name": "雪怪术师",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "cd0e85e4b5ad854d574c716f5a6dd4dc",
@@ -11720,10 +11771,10 @@
             "name": "雪怪术师组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "1f80cf7cefc3862a89ea2d67d61a75b4",
@@ -11824,10 +11875,10 @@
             "name": "萨卡兹刀兵",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "d59b7a6bd1ccd05390498196d3dd2187",
@@ -11842,10 +11893,10 @@
             "name": "萨卡兹刀术师",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "311461af5ebd35a3636e450f32226f06",
@@ -11896,10 +11947,10 @@
             "name": "萨卡兹哨兵",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "42572ae4934cd46d151f2134ed4cbd5b",
@@ -11914,10 +11965,10 @@
             "name": "萨卡兹哨兵组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "eca8fa0fac479c953a0a724707c4410f",
@@ -12040,10 +12091,10 @@
             "name": "游击队猎犬",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "a7a7e9d207d539b0d46e0a2c13908572",
@@ -12058,10 +12109,10 @@
             "name": "游击队猎犬pro",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "fac8a534f37aaa8f8a06e723fbc1c344",
@@ -12076,10 +12127,10 @@
             "name": "游击队战士",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "cc286aa5ebd1a94410ec10a3a44f1b78",
@@ -12094,10 +12145,10 @@
             "name": "游击队战士组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "e9e51c0716d5cc4c798d238317ccc236",
@@ -12112,10 +12163,10 @@
             "name": "游击队狙击手",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "856a53bd40578abcbbe3a6aeab9be085",
@@ -12130,10 +12181,10 @@
             "name": "游击队狙击手组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "21146189daf5b8864b9c9d25ed306060",
@@ -12148,10 +12199,10 @@
             "name": "游击队传令兵",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "df45b5f9079ce80b3f5d6ba96c6b5197",
@@ -12166,10 +12217,10 @@
             "name": "游击队传令兵组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "248a10a637a3f6c627a226d412e9d670",
@@ -12418,10 +12469,10 @@
             "name": "莱塔尼亚叛兵",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "bd827381d97180ff6eee349117945454",
@@ -12436,10 +12487,10 @@
             "name": "莱塔尼亚叛兵组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "cf69abfd4ebb63475c2255c6b9fb69b2",
@@ -12454,10 +12505,10 @@
             "name": "冬灵猎犬",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "0fe597bc7e5133645be5e5776b64d81d",
@@ -12472,10 +12523,10 @@
             "name": "冬灵猎犬pro",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "0085e81654377b8e4459398a5cd92895",
@@ -12490,10 +12541,10 @@
             "name": "莱塔尼亚轻语者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "4629313a933fa14cb104b3cd4c2e6f20",
@@ -12508,10 +12559,10 @@
             "name": "莱塔尼亚吟唱者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "d1ebd86e0f22e8a5756e75821e4a3a22",
@@ -12688,10 +12739,10 @@
             "name": "提亚卡乌战士",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "da400b52465a1d5deeb9819590e18d78",
@@ -12706,10 +12757,10 @@
             "name": "提亚卡乌卫士",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -12720,10 +12771,10 @@
             "name": "提亚卡乌投矛手",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "0e76eb6b6c0d18cc54ac96430c82ddfe",
@@ -12738,10 +12789,10 @@
             "name": "提亚卡乌神投手",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "1f92c67b432dbbebb7ab459fa20e9565",
@@ -12756,10 +12807,10 @@
             "name": "提亚卡乌好战者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "de86062ed14123539761b21b6e8c33ae",
@@ -12774,10 +12825,10 @@
             "name": "提亚卡乌撕裂者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "6c7d54f6b0af91a73d21dc84ba1fc517",
@@ -12792,10 +12843,10 @@
             "name": "提亚卡乌巫术师",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "a0511e8032ace2928d100ae16ec9f75a",
@@ -12810,10 +12861,10 @@
             "name": "提亚卡乌大巫",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "36d2018951fc58936d202f174685dd33",
@@ -13062,10 +13113,10 @@
             "name": "无名独立骑士",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "35f8f7d06d7d26e1e62b9b03e5e8866f",
@@ -13080,10 +13131,10 @@
             "name": "无名精锐骑士",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "ec8d836e94af1fa413ef0498dcc2420b",
@@ -13098,10 +13149,10 @@
             "name": "训练用钳兽",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "957e8b87229c0b2836d74f6c1a84b84f",
@@ -13116,10 +13167,10 @@
             "name": "训练用残暴钳兽",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "5b243b7a29ec9bcf67d2695c50f41a2b",
@@ -13134,10 +13185,10 @@
             "name": "呼啸骑士团学徒",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "ae8a4e62f4209184f1a1093d373aadce",
@@ -13152,10 +13203,10 @@
             "name": "呼啸骑士团精锐",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "2410363ce5538ace47f33e60aced50aa",
@@ -13332,10 +13383,10 @@
             "name": "赞助无人机",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "6ff73f2ea6617be5870c35c9b06bb1dc",
@@ -13350,10 +13401,10 @@
             "name": "豪华赞助无人机",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "ac06d09169574dab959cc14d3b12e74c",
@@ -13368,10 +13419,10 @@
             "name": "斗志昂扬无人机",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "66e166eb8d8c0b1075386383b439911e",
@@ -13422,10 +13473,10 @@
             "name": "感染者纠察官",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "e1d38beb1f7e55fd51f855e7cd0e9122",
@@ -13440,10 +13491,10 @@
             "name": "感染者高级纠察官",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "e2b8772dfe8251da24430f551f15c126",
@@ -13458,10 +13509,10 @@
             "name": "乌萨斯裂兽",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "3687dc302e04a49a3ac1c7611189abac",
@@ -13476,10 +13527,10 @@
             "name": "乌萨斯裂兽族母",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "228de88dd3b0f1abb4237f69ff076077",
@@ -13494,10 +13545,10 @@
             "name": "乌萨斯突袭弩手",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "b506fb703134cb384a712baa9008644e",
@@ -13512,10 +13563,10 @@
             "name": "乌萨斯高级突袭弩手",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "a23d8d66533b4d4e8ba3f2b25864d9ae",
@@ -13530,10 +13581,10 @@
             "name": "乌萨斯着铠术师",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "33938fbd47ccc8e01695c03a09249183",
@@ -13548,10 +13599,10 @@
             "name": "乌萨斯高级着铠术师",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "e2af8d3c64eef9ac15c44e6f0a8f7d1d",
@@ -13782,10 +13833,10 @@
             "name": "乌萨斯平民",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "cefcb61461e268821323e901f42a22d1",
@@ -13818,10 +13869,10 @@
             "name": "斗士塔露拉",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -13832,10 +13883,10 @@
             "name": "普通囚犯",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "e868bd46c6b6d0fedf7384a1a3341c31",
@@ -13850,10 +13901,10 @@
             "name": "老练囚犯",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "bd6944112461928fd587a9c1d7e32d64",
@@ -13868,10 +13919,10 @@
             "name": "射手囚犯",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "9574f4f6002f7123ef529099ad787e14",
@@ -13886,10 +13937,10 @@
             "name": "神射手囚犯",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "4344fadad3feaa043f703fe960c6c5f7",
@@ -14066,10 +14117,10 @@
             "name": "“小躁”",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "9311f9714512b7940f3a6ee653cb5a1f",
@@ -14084,10 +14135,10 @@
             "name": "焦急的“小躁”",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "b75370f6e7dd51ff375f68d618e42d58",
@@ -14102,10 +14153,10 @@
             "name": "“阿咬”",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "313bd4b1176beb7784aa4da8f3b4fbdb",
@@ -14120,10 +14171,10 @@
             "name": "认真的“阿咬”",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "bb6e66f9f1d83f552c14b96baf79c18a",
@@ -14138,10 +14189,10 @@
             "name": "“匕现”",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "76fb98322eed479d10c586ac87425cc2",
@@ -14156,10 +14207,10 @@
             "name": "迂回的“匕现”",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "b5a1cf0854b23c9649b0d14ff1953b2d",
@@ -14210,10 +14261,10 @@
             "name": "“得意”",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "df6ce06cce0bba2bffebf0db9f767ee9",
@@ -14228,10 +14279,10 @@
             "name": "恍惚的“得意”",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "f357b5ba79e9a4f243f78e994fec018a",
@@ -14372,10 +14423,10 @@
             "name": "夕",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "58f77b334b7af9d5a5e64e93b81bd0b6",
@@ -14426,10 +14477,10 @@
             "name": "二手廉价无人机",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "5a82fe50223504f8c747b955b5ea2364",
@@ -14444,10 +14495,10 @@
             "name": "二手改造无人机",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "b819386a0cce4269c5d9906880850a22",
@@ -14462,10 +14513,10 @@
             "name": "移动电源",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "68fdbffc8e2b6cdcb651a38e0d7074b1",
@@ -14480,10 +14531,10 @@
             "name": "畸变体傀儡",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "87675c791d5f06c4fd82d155f6dce9e0",
@@ -14498,10 +14549,10 @@
             "name": "变异沙地兽",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "47636a13a3c5304b985854c7f71ec21a",
@@ -14516,10 +14567,10 @@
             "name": "变异沙地兽α",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "56bdaafae2452e21f8c5721ece1d1ac4",
@@ -14534,10 +14585,10 @@
             "name": "变异岩蛛",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "d9ee136590b358af54e7f1353bf36951",
@@ -14552,10 +14603,10 @@
             "name": "变异岩蛛α",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "e9739e703280b77ea70e53d12473aa19",
@@ -14714,10 +14765,10 @@
             "name": "畸变赘生物",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "093723a0de1f292f9d050d20c8c553a7",
@@ -14732,10 +14783,10 @@
             "name": "畸变恶性瘤",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "1a8f81fcc7e0c02f845ee601a633b627",
@@ -14750,10 +14801,10 @@
             "name": "全息影像",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "973d9b96c2212cf93adce87166c6c445",
@@ -14768,10 +14819,10 @@
             "name": "全息幻影MK2",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "5232a4ead3a2c3852d76d88fa1da3938",
@@ -14804,10 +14855,10 @@
             "name": "战术猎犬",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "bf2e71667830bf508e2c37c3688fdf32",
@@ -14822,10 +14873,10 @@
             "name": "战术猎犬pro",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "e63afd2abb8760716f0cc8d0e33b98eb",
@@ -14840,10 +14891,10 @@
             "name": "战术弩手",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "c200c74226b99f574d86ec42641df7b1",
@@ -14858,10 +14909,10 @@
             "name": "战术弩手组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "e02c8b062fbc4042c20b8b86d624f6a5",
@@ -14912,10 +14963,10 @@
             "name": "反装甲步兵",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "4821b677496026df8156336383fd63df",
@@ -14930,10 +14981,10 @@
             "name": "反装甲步兵组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "a91c27d30902d24a7ffe124d18279c19",
@@ -14984,10 +15035,10 @@
             "name": "破片",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "c86a5410d07ff5b3d7a470245a28f4c1",
@@ -15002,10 +15053,10 @@
             "name": "破片U型",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "0736a40265936de1e5ea8001ac01b609",
@@ -15020,10 +15071,10 @@
             "name": "铁砧",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "df28f7946c0ce0ea4f70f3a02b860f4c",
@@ -15038,10 +15089,10 @@
             "name": "铁砧B型",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "08db91bdc9a979b3c3257cb12aa81cc4",
@@ -15074,10 +15125,10 @@
             "name": "壳海狂奔者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "63e528db6bc4cbe7f5da96ed4dfd882b",
@@ -15092,10 +15143,10 @@
             "name": "富营养的狂奔者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "41f3d4db624558c14dcb38478ba71807",
@@ -15110,10 +15161,10 @@
             "name": "底海滑动者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "06fc4546ad3a17ddf95dd5153213829e",
@@ -15128,10 +15179,10 @@
             "name": "富营养的滑动者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "3e769b94df95de8a5831acb3a85f60b0",
@@ -15146,10 +15197,10 @@
             "name": "脊海喷吐者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "71b59a6a4d68327c1ae1d92cbc49926f",
@@ -15164,10 +15215,10 @@
             "name": "富营养的喷吐者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "87bc0e41478f57d7007f3d08dd2ff442",
@@ -15182,10 +15233,10 @@
             "name": "浮海飘航者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "0f5eb13ac0323a209922af6038e8600e",
@@ -15200,10 +15251,10 @@
             "name": "富营养的飘航者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "0adee19b72e4d67c780036ece7cc1016",
@@ -15344,10 +15395,10 @@
             "name": "自动维护机器",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "0855ec3fadf857e8b404212b6b7df104",
@@ -15416,10 +15467,10 @@
             "name": "潜水员",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "7c6952f2afe3e0a4d5ac4e70cc68f82a",
@@ -15434,10 +15485,10 @@
             "name": "潜水队长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "4d3c24d41515221dac3a664c55fb848e",
@@ -15452,10 +15503,10 @@
             "name": "不法分子",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "baf46e7d31fbc82ae6f26c1d44d31ca1",
@@ -15470,10 +15521,10 @@
             "name": "精英不法分子",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "41733f674b500fe0ed57f26940ef5a8c",
@@ -15524,10 +15575,10 @@
             "name": "控潮术师",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "0ca45b796d2b295cbb15a628fe7e1661",
@@ -15542,10 +15593,10 @@
             "name": "领潮员",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "47028703e8db8557be516c77fbed5c63",
@@ -15632,10 +15683,10 @@
             "name": "无人爆破艇",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "51e8fd79605a42569a576227be0588ee",
@@ -15650,10 +15701,10 @@
             "name": "无人爆破重艇",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "3b58782015944972297d446b813acd53",
@@ -15668,10 +15719,10 @@
             "name": "潘乔的爆破艇",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "0c95e96ec2e2c3acd5b50b22d14f3dca",
@@ -15686,10 +15737,10 @@
             "name": "大奖赛运输艇",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "fc2fbb00176073ba3edf0238da670c8b",
@@ -15722,10 +15773,10 @@
             "name": "深池侦察犬",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "0e82d79424f84269c2ea2f3cce63d9c3",
@@ -15740,10 +15791,10 @@
             "name": "深池侦察犬pro",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "9d5ae1c343f522cdcd0e266bcf956767",
@@ -15758,10 +15809,10 @@
             "name": "深池侦察兵",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "52aff00df85bb259fd60bade0b99d49f",
@@ -15776,10 +15827,10 @@
             "name": "深池侦察队长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "26c32aefe07281b06dfd1255f768eeab",
@@ -15794,10 +15845,10 @@
             "name": "深池狙击手",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "75fbcbb574d55c08b07f87de5c7c93f3",
@@ -15812,10 +15863,10 @@
             "name": "深池狙击队长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "99fc858b2d1750012bf654c1f591f804",
@@ -15830,10 +15881,10 @@
             "name": "深池暗影术师",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "e2bb2c4682e46e25269d544f109099bc",
@@ -15848,10 +15899,10 @@
             "name": "深池暗影术师队长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "81e7d83f26087b3f293923feb715ce77",
@@ -15866,10 +15917,10 @@
             "name": "深池方阵步兵",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -15880,10 +15931,10 @@
             "name": "深池方阵指挥官",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -15930,10 +15981,10 @@
             "name": "深池飞行兵",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "149af0b11f55aa66f88f9f077338a140",
@@ -15948,10 +15999,10 @@
             "name": "深池飞行大队队长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "06b7d4741657e637703a372d4468c448",
@@ -16146,10 +16197,10 @@
             "name": "净浊之焰",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -16160,10 +16211,10 @@
             "name": "净浊之焰",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -16192,10 +16243,10 @@
             "name": "暗潮钳兽",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "d1bd1b694851cf0db13809a14e5732ef",
@@ -16210,10 +16261,10 @@
             "name": "暗潮钳兽·α",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "eaf774f776f0af5bbda67d104a9b9d37",
@@ -16228,10 +16279,10 @@
             "name": "无胄盟弩手",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "a585e4802e92a51fb7851ac3816ca284",
@@ -16246,10 +16297,10 @@
             "name": "无胄盟弩手组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "82c0341d4b23ec9c9c4075808ded27f2",
@@ -16264,10 +16315,10 @@
             "name": "无胄盟刺客",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "6c3ef4632817761f2c20fe972303eccc",
@@ -16282,10 +16333,10 @@
             "name": "无胄盟刺客组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "efaa05665083a13f82a79eb9567344c9",
@@ -16552,10 +16603,10 @@
             "name": "凝血之刃",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "c526dcf85b6d36858dabc7c6eb2e0a56",
@@ -16588,10 +16639,10 @@
             "name": "爪兽",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "b8ada234af1519891bb4d0817726914c",
@@ -16606,10 +16657,10 @@
             "name": "凶爪兽",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "81293ce59605d5df2ac8cf2ad9ae32b8",
@@ -16624,10 +16675,10 @@
             "name": "坚冰",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "79332a9babc7d291f49340d8e0cbadd5",
@@ -16642,10 +16693,10 @@
             "name": "坚冰AS.T",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "8b21a8c29b25b0531aa6968833eb9538",
@@ -16660,10 +16711,10 @@
             "name": "冰原战士",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "2b4b07930239acfaf9207ea8128a8298",
@@ -16678,10 +16729,10 @@
             "name": "冰原战士队长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "f9afcf00ae0d1948d47ea49b233f550c",
@@ -16696,10 +16747,10 @@
             "name": "冰原猎人",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "adaba65f335bf4beb43e2dfc29c05605",
@@ -16714,10 +16765,10 @@
             "name": "冰原猎人队长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "5cd2c076ca69d8c43ef7d028b6555ea3",
@@ -16732,10 +16783,10 @@
             "name": "冰原术师",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "4873572488272d38dcb55360b3397963",
@@ -16750,10 +16801,10 @@
             "name": "冰原术师队长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "10d435027f12c78b9453a6629e3edfc9",
@@ -16948,10 +16999,10 @@
             "name": "“小惊喜”",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "18903cee0e0e505755683b29c195bb66",
@@ -17110,10 +17161,10 @@
             "name": "磨砻",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "d05204e96f986b5ac5cf08ba5bac7337",
@@ -17128,10 +17179,10 @@
             "name": "明鉴",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "47c67ae64ad50e6442821122e0ebea81",
@@ -17146,10 +17197,10 @@
             "name": "木制瑞印",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "20c43e91441ac9c3c3e8c1a5e699eb47",
@@ -17164,10 +17215,10 @@
             "name": "红木瑞印",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "3767223e7ec00e21037e69815cdf3a84",
@@ -17182,10 +17233,10 @@
             "name": "俗心",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "ce1487defb618b771e31b81135f01cc4",
@@ -17200,10 +17251,10 @@
             "name": "雅气",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "b49a5159e2b546727d372d6c4909e141",
@@ -17218,10 +17269,10 @@
             "name": "小说卷轴",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "0a99bb1d6f1d1096a80b1853b5bb8f4b",
@@ -17236,10 +17287,10 @@
             "name": "诗画卷轴",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "7078bcd7f43cbee88ca54fd29131af4b",
@@ -17290,10 +17341,10 @@
             "name": "青铜镜",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "325167f7b724528f0d2380e6c604dcd0",
@@ -17308,10 +17359,10 @@
             "name": "黄铜镜",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "797fd204369d5657142eeb1f485f44de",
@@ -17362,10 +17413,10 @@
             "name": "木制镇纸",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "245563e19cdf6d655ad224b563a0d1fc",
@@ -17380,10 +17431,10 @@
             "name": "红木镇纸",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "2a363637ed3299b8368327f9366bbfe9",
@@ -17398,10 +17449,10 @@
             "name": "烹泉",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "57afd68e5745312b4fb37223df3ae4e5",
@@ -17416,10 +17467,10 @@
             "name": "沏虹",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "ed87037ace75bdb5aaeac553f07b2ba4",
@@ -17434,10 +17485,10 @@
             "name": "青瓷茶器",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "c0754b8056627b9c672c0f9ceeab35d5",
@@ -17452,10 +17503,10 @@
             "name": "彩瓷茶器",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "dc31f455b1c574e67ed40f9e35a528ee",
@@ -17506,10 +17557,10 @@
             "name": "青瓷花瓶",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "fcb2f05a16f6fe01aca964e888010740",
@@ -17524,10 +17575,10 @@
             "name": "彩瓷花瓶",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "5a66f1af13dc06d392dc0aa3db48a3a0",
@@ -17578,10 +17629,10 @@
             "name": "铜矛头",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "60d6aa4c75353d1058a88b29044305de",
@@ -17596,10 +17647,10 @@
             "name": "铁矛头",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "e8bb24c8a38d2ef7c79fa9355f99b9c8",
@@ -17650,10 +17701,10 @@
             "name": "铜灯盘",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "2c90401996bff3ca4bbe4bfabe82af19",
@@ -17668,10 +17719,10 @@
             "name": "铁灯盘",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "d3853e537f228411183785f8511a3edd",
@@ -17686,10 +17737,10 @@
             "name": "磷火",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -17718,10 +17769,10 @@
             "name": "寻路者战士",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "6804d3904c23deb878e12a63568f2432",
@@ -17736,10 +17787,10 @@
             "name": "寻路者精锐战士",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "75e77faed5a0d0c49dbd2dc7100e8353",
@@ -17754,10 +17805,10 @@
             "name": "寻路者狙击手",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "5325c8c00e5a73e636826661a36cb577",
@@ -17772,10 +17823,10 @@
             "name": "寻路者精锐狙击手",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "433c909294a213e1f5f1e7b26434a7d5",
@@ -17790,10 +17841,10 @@
             "name": "寻路者术师",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "75eab1bcf855c6e171d3657ec4c3f748",
@@ -17808,10 +17859,10 @@
             "name": "寻路者精锐术师",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "dfc11ab30a56d99221a288dd18c70165",
@@ -17826,10 +17877,10 @@
             "name": "寻路者突击手",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "50b8978e6ed37469fd0fae41c53544e8",
@@ -17844,10 +17895,10 @@
             "name": "寻路者奇兵",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "669a9d0bd52e72ec651e90be76c9284a",
@@ -17934,10 +17985,10 @@
             "name": "糖果车",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "ecfed117f14eb0e595c7bb71ab9fb9bc",
@@ -17952,10 +18003,10 @@
             "name": "精致糖果车",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "cbd43fde931047c048df9e8e35f3eaa0",
@@ -18024,10 +18075,10 @@
             "name": "无人机",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -18038,10 +18089,10 @@
             "name": "强一点无人机",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -18052,10 +18103,10 @@
             "name": "好强无人机",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -18066,10 +18117,10 @@
             "name": "追追无人机",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -18080,10 +18131,10 @@
             "name": "无人机龙哥（暂命名）",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -18094,10 +18145,10 @@
             "name": "沙车",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -18108,10 +18159,10 @@
             "name": "萨卡兹穿刺哥（暂命名）",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -18122,10 +18173,10 @@
             "name": "艺术的慈悲！",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -18136,10 +18187,10 @@
             "name": "艺术的绝杀！",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -18150,10 +18201,10 @@
             "name": "弱弹",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -18182,10 +18233,10 @@
             "name": "大君之触",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "d3ebc12fb863c0105a0f075bd5d924f2",
@@ -18200,10 +18251,10 @@
             "name": "仁慈之触",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "63d6ca08488412c8cf4f1cc9b648bf96",
@@ -18218,10 +18269,10 @@
             "name": "大君之赐",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "bd2ec90a6d02dbda144f67765d6c4f85",
@@ -18236,10 +18287,10 @@
             "name": "慷慨之赐",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "9ffd2fe40e51e51709f2c89bd6006d9e",
@@ -18254,10 +18305,10 @@
             "name": "萨卡兹子裔战士",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "fd5c719bbe5700f4155c9c5ec23b0497",
@@ -18272,10 +18323,10 @@
             "name": "萨卡兹子裔战士组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "02f4cbfe8eba5f939ff0a7143d6d5720",
@@ -18290,10 +18341,10 @@
             "name": "萨卡兹子裔工匠",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "0cb7d8d201e43239ac596045d8284284",
@@ -18308,10 +18359,10 @@
             "name": "萨卡兹子裔工匠组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "3bdc2c0c599883a23321aa0c9fd2c501",
@@ -18434,10 +18485,10 @@
             "name": "萨卡兹征用工程无人机",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "c5268eead69af3b6116020cc2ab1c591",
@@ -18452,10 +18503,10 @@
             "name": "萨卡兹征用尖端无人机",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "1a6549885da382788c7e00c80498c82e",
@@ -18470,10 +18521,10 @@
             "name": "渴血的子裔",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "ad947cab0d82e94ae586d6d5650566ff",
@@ -18488,10 +18539,10 @@
             "name": "饱腹的子裔",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "8885dcd6e128f2bab3b210037209c731",
@@ -18506,10 +18557,10 @@
             "name": "萨卡兹王庭军战士",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "61f3068d784319f945266afc2b608e70",
@@ -18524,10 +18575,10 @@
             "name": "萨卡兹王庭军精锐战士",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "4083bbc23297f5d56df53a3c51dcd7ab",
@@ -18596,10 +18647,10 @@
             "name": "奠基者的墓碑",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -18624,10 +18675,10 @@
             "name": "深溟猎食者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "e123b42f3542a745a7271c5c0124291b",
@@ -18642,10 +18693,10 @@
             "name": "富营养的猎食者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "cc46d2d054dcd41c9f3ed442d4a059c7",
@@ -18660,10 +18711,10 @@
             "name": "猎食者的墓碑",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -18674,10 +18725,10 @@
             "name": "退行的猎食者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -18724,10 +18775,10 @@
             "name": "引痕者的墓碑",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -18752,10 +18803,10 @@
             "name": "深溟喷溅者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "51f69658b04323d83c94a6eebb2571ba",
@@ -18770,10 +18821,10 @@
             "name": "富营养的喷溅者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "149f7de536dd5fe523a5bc1725e9d80b",
@@ -18788,10 +18839,10 @@
             "name": "喷溅者的墓碑",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -18802,10 +18853,10 @@
             "name": "退行的喷溅者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -18852,10 +18903,10 @@
             "name": "巢涌者的墓碑",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -18916,10 +18967,10 @@
             "name": "裂礁者的墓碑",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -18944,10 +18995,10 @@
             "name": "弹力球",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -18958,10 +19009,10 @@
             "name": "清洗弹力球",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -18972,10 +19023,10 @@
             "name": "反弹弹力球",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -19004,10 +19055,10 @@
             "name": "屠谕者，大群意志",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -19018,10 +19069,10 @@
             "name": "“街头闲汉”",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "33f4d031b4df5df674d52cf74be5787e",
@@ -19036,10 +19087,10 @@
             "name": "“街头醉汉”",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "998fa6a49362cf5690f456a5aa13c900",
@@ -19054,10 +19105,10 @@
             "name": "“街头卖艺者”",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "53843ec6cfec04808db7bf8625a269cf",
@@ -19072,10 +19123,10 @@
             "name": "“街头音乐家”",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "f51f7eb402c10feae9bbb19dfe77b1d5",
@@ -19126,10 +19177,10 @@
             "name": "高塔术师",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "885366ee347f771944bc88c5cf7b0fbd",
@@ -19144,10 +19195,10 @@
             "name": "历战高塔术师",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "dc7eddbc19ce2386e4a1e989a99334a0",
@@ -19270,10 +19321,10 @@
             "name": "血红阵地",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -19284,10 +19335,10 @@
             "name": "黑水源石虫",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "c876373ad6836a2517fc85f130421599",
@@ -19302,10 +19353,10 @@
             "name": "黑水源石虫·α",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "1c1c0b63f920222bee7511d6e8fe4842",
@@ -19338,10 +19389,10 @@
             "name": "格特鲁德的虚像",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "40fe6c6c5f7b5a9c4e461ace18b3ab71",
@@ -19464,10 +19515,10 @@
             "name": "粗圆岩",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -19478,10 +19529,10 @@
             "name": "莱茵生命防卫科成员",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "c12c3cbf35eb5cad6f0004f13bd24f18",
@@ -19496,10 +19547,10 @@
             "name": "莱茵生命防卫科高级成员",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "5016df9304066b7052169d82017497a7",
@@ -19514,10 +19565,10 @@
             "name": "莱茵生命工程科成员",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "bbabad9a6c6eaa0a359b9d4df0c82204",
@@ -19532,10 +19583,10 @@
             "name": "莱茵生命高级工程科成员",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "37575a608541ebd90b28c20a1caf5ba2",
@@ -19550,10 +19601,10 @@
             "name": "Dor-1号失败品",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "dc18d70c6ff0de9a7462629a3ef34c39",
@@ -19568,10 +19619,10 @@
             "name": "Dor-α号失败品",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "877427f5f90582a72d07d2b39a5e0a98",
@@ -19586,10 +19637,10 @@
             "name": "Dor-2号复制体",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "ec04b2b49907163700b01f1b529b1c94",
@@ -19604,10 +19655,10 @@
             "name": "Dor-β号复制体",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "d5a5b6ec95b2d5dd2b877b1d21b01a58",
@@ -19622,11 +19673,11 @@
             "name": "Dor-3号改造体",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyElite"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
-            "skinGroupName": "普通敌人",
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
             "checksum": {
                 ".atlas": "c6e6768a063d8e876188cddfe075d2b1",
                 ".png": "14cbf2485fab1114c6f754024c8ea6e0",
@@ -19640,11 +19691,11 @@
             "name": "Dor-γ号改造体",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyElite"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
-            "skinGroupName": "普通敌人",
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
             "checksum": {
                 ".atlas": "9969a819aa884d359a14111c72bdd7d3",
                 ".png": "6a52310a1e144604ec294d2e6ee77dbb",
@@ -19658,11 +19709,11 @@
             "name": "实验用动力装甲",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyElite"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
-            "skinGroupName": "普通敌人",
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
             "checksum": {
                 ".atlas": "a42ddbe1061fb81cced1d70b01d1e950",
                 ".png": "ffb6b6dae8a1f340064a9681d77e7aad",
@@ -19676,11 +19727,11 @@
             "name": "测试用动力装甲",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyElite"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
-            "skinGroupName": "普通敌人",
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
             "checksum": {
                 ".atlas": "395909ade5e23d71457e3cdc3e7ce7ae",
                 ".png": "a82af1dd9057ebf9e590db8566866ce3",
@@ -19802,10 +19853,10 @@
             "name": "酒类爱好者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "879720d3b1451b2a71329b34dd69a9a7",
@@ -19820,10 +19871,10 @@
             "name": "酒类协会会员",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "da17bd9674f7c7778d3ad5e6ad895bec",
@@ -19838,10 +19889,10 @@
             "name": "湖畔志愿者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "7210340cb3c7ff52670e9a743024e7d2",
@@ -19856,10 +19907,10 @@
             "name": "湖畔救生员",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "5c11d4787111c239cce721328d0bfb18",
@@ -19874,10 +19925,10 @@
             "name": "沙堡建筑者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "f63447d9a2f623efe264185b28da7a0b",
@@ -19892,10 +19943,10 @@
             "name": "沙堡设计师",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "cf0b1caadcbd01b146d3293459c6e5d3",
@@ -19910,10 +19961,10 @@
             "name": "排球发球车",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "454b2c14b40254b9bd775d0576674326",
@@ -19928,10 +19979,10 @@
             "name": "排球重扣车",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "7f79ebb8180355c50f5aaae80d3c2d10",
@@ -20054,10 +20105,10 @@
             "name": "自走车",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "6451f17b4cda612b03c5083ca76070ad",
@@ -20108,10 +20159,10 @@
             "name": "荧壳源石虫",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "6b3fece9070e19d7b4f23d480c4eba60",
@@ -20126,10 +20177,10 @@
             "name": "骨海漂流体",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "9797b60b21ef935808cf1c6e1a121c4f",
@@ -20144,10 +20195,10 @@
             "name": "固海凿石者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "271deff8667be95572146c0cf17fb6c1",
@@ -20180,10 +20231,10 @@
             "name": "注亡拟嗣",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "f8460eb366f83491392e21d1ca080c03",
@@ -20342,10 +20393,10 @@
             "name": "塑路者分形",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "111065677182587c40f94bd436b27f08",
@@ -20468,10 +20519,10 @@
             "name": "伊莎玛拉之泪",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -20482,10 +20533,10 @@
             "name": "伊祖米克的子代",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "207f6880684555888bcd1352cc7677fc",
@@ -20518,10 +20569,10 @@
             "name": "萨卡兹枯朽战士",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "9e304cc293aeb49a38bc2a749c0991ba",
@@ -20536,10 +20587,10 @@
             "name": "萨卡兹枯朽战士组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "ee29c5a186078d99ec15f46166742fa9",
@@ -20608,10 +20659,10 @@
             "name": "萨卡兹枯朽术师",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "f1c0840f4ffd1464833a0a6da099647d",
@@ -20626,10 +20677,10 @@
             "name": "萨卡兹枯朽术师组长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "524c839bec13402989ccd0a149adf656",
@@ -20644,10 +20695,10 @@
             "name": "枯朽之种",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "932807d5f6afd0729c5f8694df3b8fe2",
@@ -20662,10 +20713,10 @@
             "name": "腐败之种",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "695237644610f57adda89a7def6cfa9c",
@@ -20928,10 +20979,10 @@
             "name": "家族士兵",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "92e7cfefdc7ce955a60748e5e9514607",
@@ -20946,10 +20997,10 @@
             "name": "家族精英士兵",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "9b9c11c9568863349ff768b88637c184",
@@ -20964,10 +21015,10 @@
             "name": "家族弩手",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "51a9fd013b2269c2d663f3a800dcb77a",
@@ -20982,10 +21033,10 @@
             "name": "家族精英弩手",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "2a711b4fb215b2304f1129ab3997061c",
@@ -21000,10 +21051,10 @@
             "name": "家族恫吓者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "3bf50026bde4c2b25b4d42ef705b5ada",
@@ -21018,10 +21069,10 @@
             "name": "家族强暴恫吓者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "e3593b18568c6841da633e5351bdc4c3",
@@ -21036,10 +21087,10 @@
             "name": "家族术师",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "a57f738528c91bf90341dc74cda0ddaf",
@@ -21054,10 +21105,10 @@
             "name": "家族精英术师",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "565f7eba70cc7ee01a4b386c6f11fcfa",
@@ -21216,10 +21267,10 @@
             "name": "“与我无关”",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "187df0111c4b22cc8eb7eaca05390921",
@@ -21234,10 +21285,10 @@
             "name": "叙拉古平民",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "dd9730d4c7048b51df81b20273ddec58",
@@ -21252,10 +21303,10 @@
             "name": "特别行动队士兵",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "1ee7eb2f63d2cdc31e629ad35864c3d7",
@@ -21270,10 +21321,10 @@
             "name": "特别行动队队长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -21284,10 +21335,10 @@
             "name": "沼泽钳兽",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "fd496b9361e83dda15e26808a5ac923c",
@@ -21302,10 +21353,10 @@
             "name": "狂暴沼泽钳兽",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "f193134830c9e66e12de6a42e1bb922e",
@@ -21320,10 +21371,10 @@
             "name": "深池逐火战士",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "f4e5c549eb8187a9e62d22dbc9862f5e",
@@ -21338,10 +21389,10 @@
             "name": "深池逐火精锐战士",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "a24a0f1c99eb1a817b6f658c6b7d4ab5",
@@ -21356,10 +21407,10 @@
             "name": "深池弩炮手",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "2a6617fae7d64c1a7753fd59030b7a26",
@@ -21374,10 +21425,10 @@
             "name": "深池弩炮队长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "9a34fb4796a3cd59142c97c7976c9fed",
@@ -21392,10 +21443,10 @@
             "name": "深池引火者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "896ef3374d7d1050170a1e6dc425e872",
@@ -21410,10 +21461,10 @@
             "name": "深池引火者队长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "07702e881d493d129d57635139b87f3f",
@@ -21572,10 +21623,10 @@
             "name": "焦竭之火",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -21586,10 +21637,10 @@
             "name": "焦竭之火",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -21636,10 +21687,10 @@
             "name": "小型共生体",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "d29dafb018452cf9b38a04a9305a9096",
@@ -21654,10 +21705,10 @@
             "name": "“无念之冬”",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -21714,10 +21765,10 @@
             "name": "谛兽",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "b05e9b60d866c347b53f14d3c7da6ed9",
@@ -21732,10 +21783,10 @@
             "name": "躁怒谛兽",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "dec46d5a6c3cf2bd1c28484d9cd3f924",
@@ -21750,10 +21801,10 @@
             "name": "山海众散兵",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "0e1cd6787f26a89a637ad164260cf07e",
@@ -21768,10 +21819,10 @@
             "name": "山海众游勇",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "ba093d215e6ad72b7ac198725a88b78c",
@@ -21786,10 +21837,10 @@
             "name": "山海众传令手",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "f722683c79c818308b0ff99de4855dcf",
@@ -21804,10 +21855,10 @@
             "name": "山海众掌令使",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "74d647c2f016202f04c84dbd24eabfd1",
@@ -21822,10 +21873,10 @@
             "name": "山海众冒矢者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "4bc3a30440cfb1e5820d9e38ebf7c4aa",
@@ -21840,10 +21891,10 @@
             "name": "山海众连阵者",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "c1fcaa0443524d10b9fa4cbcc9c3a76b",
@@ -22002,10 +22053,10 @@
             "name": "部族巫术师",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "0d5c008d53c6252d6d8df4ee4f24b954",
@@ -22020,10 +22071,10 @@
             "name": "王酋巫术师",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "231556ac9f5ae31c9d265b96075b7759",
@@ -22074,10 +22125,10 @@
             "name": "“都可以砸”",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "3f535092d951905909dd9b5aa342531f",
@@ -22092,10 +22143,10 @@
             "name": "“都应该砸”",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "8242fbb21e560ef072a284b31559db9f",
@@ -22110,10 +22161,10 @@
             "name": "小角跳兽",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "4ec6f895a18c01394a610b56d6a57ee7",
@@ -22128,10 +22179,10 @@
             "name": "大角跳兽",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "c4fe115074598bc57c570e7fd929df2c",
@@ -22146,10 +22197,10 @@
             "name": "苔生兽",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "998e806d07e1313d9ca0be311f8199a1",
@@ -22164,10 +22215,10 @@
             "name": "茂密苔生兽",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "3d75f17f324dc9e9f0675e01e1702362",
@@ -22182,10 +22233,10 @@
             "name": "岩壳蟹",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "d5af623bfbc6b41171fc071273b3e7f8",
@@ -22200,10 +22251,10 @@
             "name": "结晶岩壳蟹",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "e3bc8d1abb17ebf6df74e9a02d7a34c8",
@@ -22236,10 +22287,10 @@
             "name": "采集专员",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "63bc06b04990b3a171a31734cc60bba3",
@@ -22376,10 +22427,10 @@
             "name": "角兽",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "b8226ad9699fe8cf4abffa6dfecfa7ab",
@@ -22394,10 +22445,10 @@
             "name": "亢角兽",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "ab4a98bc7a5b0633013149c8c0969901",
@@ -22412,10 +22463,10 @@
             "name": "鬣犄兽",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "723ba86129a7b5e7e5e088c58f45b055",
@@ -22430,10 +22481,10 @@
             "name": "利齿鬣犄兽",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "04aabfbf5a1365c0e3b7c2cbe595a530",
@@ -22448,10 +22499,10 @@
             "name": "灼热源石虫",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "a7468a543ba05e2ae27594f93be5c4a7",
@@ -22466,10 +22517,10 @@
             "name": "炽焰源石虫",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "e1dd4d406220af27811cbfb1e67affe1",
@@ -22484,10 +22535,10 @@
             "name": "硬甲爪兽",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "9d3ac4d6c4c8f94c85f04dfbf075cc59",
@@ -22502,10 +22553,10 @@
             "name": "刚甲爪兽",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "2176b5301390873b385992effa3bdc39",
@@ -22520,10 +22571,10 @@
             "name": "岩冠兽",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "fd95a3c5234ac0d81788fc9d3c89ff11",
@@ -22538,10 +22589,10 @@
             "name": "坚岩冠兽",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "86b334abf9468cf1206349550a10e3db",
@@ -22556,10 +22607,10 @@
             "name": "锋羽兽",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "9c0333f34fb20fdb31c3c91077ab7e59",
@@ -22574,10 +22625,10 @@
             "name": "迅猛锋羽兽",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "41c9d99d4f0814c82ad9b3fda46bac17",
@@ -22736,10 +22787,10 @@
             "name": "巨大丑东西（愚人节）",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -22750,10 +22801,10 @@
             "name": "大祭司（愚人节）",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -22764,10 +22815,10 @@
             "name": "酒类爱好者（愚人节）",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -22778,10 +22829,10 @@
             "name": "提亚卡乌鳄鱼（愚人节）",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -22792,10 +22843,10 @@
             "name": "提亚卡乌好战者（愚人节）",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -22806,10 +22857,10 @@
             "name": "湖畔志愿者（愚人节）",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -22820,10 +22871,10 @@
             "name": "流浪者（愚人节）",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -22834,10 +22885,10 @@
             "name": "码头重艇（愚人节）",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -22848,10 +22899,10 @@
             "name": "水手（愚人节）",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -22862,10 +22913,10 @@
             "name": "控潮术士（愚人节）",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -22876,10 +22927,10 @@
             "name": "不法分子（愚人节）",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -22890,10 +22941,10 @@
             "name": "精英不法分子(愚人节)",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -22904,10 +22955,10 @@
             "name": "潜水员(愚人节)",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -22918,10 +22969,10 @@
             "name": "暴鸰（愚人节）",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -22932,10 +22983,10 @@
             "name": "虚幻（愚人节）",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -22946,10 +22997,10 @@
             "name": "大奖赛运输艇(愚人节)",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -22960,10 +23011,10 @@
             "name": "诺伯特平民",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "70bebcf6d2f2e1b8acce794089b767d8",
@@ -22978,10 +23029,10 @@
             "name": "诺伯特暗探",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": null
         },
@@ -22992,10 +23043,10 @@
             "name": "寻路密探",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "a5361d27bcebd71f567df871b7393a12",
@@ -23010,10 +23061,10 @@
             "name": "寻路密探长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "64865808cef18ecbf6dca72bd3f76887",
@@ -23028,10 +23079,10 @@
             "name": "岗哨密探",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "e89457cb6a3d6c7af23f8fcce30b0931",
@@ -23046,10 +23097,10 @@
             "name": "岗哨密探长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "35290fa1a79fa2e024e3bf501173e9c5",
@@ -23100,10 +23151,10 @@
             "name": "萨卡兹悖谬谍报官",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "038eb8ffe722eef4b4b92f857ef43ad5",
@@ -23118,10 +23169,10 @@
             "name": "萨卡兹悖谬谍报长",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "7e96a3e5445aa6eba35dc0dbe86fd4ca",
@@ -23136,10 +23187,10 @@
             "name": "萨卡兹悖谬裂变学徒",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "e3e81e8fa646185b1ef1875b41fe36f8",
@@ -23154,10 +23205,10 @@
             "name": "萨卡兹悖谬裂变术师",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "6313042f5e2a09c7db09c1e719165caf",
@@ -23334,10 +23385,10 @@
             "name": "萨卡兹悖谬裂变学徒",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "b686d25e6ffb23c2b1a0763dd9e78a21",
@@ -23352,10 +23403,10 @@
             "name": "萨卡兹悖谬裂变术师",
             "sortTags": [
                 "Enemy",
-                "EnemyCommon"
+                "EnemyNormal"
             ],
             "appellation": null,
-            "skinGroupId": "EnemyCommon",
+            "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
             "checksum": {
                 ".atlas": "a1074048e253d705d5977408087a7aca",
@@ -23493,6 +23544,362 @@
                 ".atlas": "e9c56b0a031e26c493650af4b6627ba6",
                 ".png": "0c5a25ba5728a3fdf635134dec725acc",
                 ".skel": "f37ecc04ea5c1155a5884fc27183c0f6"
+            }
+        },
+        "1325_cbgpro": {
+            "assetId": "enemy_1325_cbgpro",
+            "type": "Enemy",
+            "style": null,
+            "name": "军用猎狗",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "checksum": {
+                ".atlas": "c0843f5bde35af04e4efe715b873cb07",
+                ".png": "a9f84e681df29f6c67c44ba50c67d8fe",
+                ".skel": "7f4bcc9122b7ab47de11df45ab33fcca"
+            }
+        },
+        "1325_cbgpro_2": {
+            "assetId": "enemy_1325_cbgpro_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "高级军用猎狗",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "checksum": {
+                ".atlas": "1536ff2f1a481d9d61f7bd836213463f",
+                ".png": "ca1b633ec18ed89d486cc54824d9dccf",
+                ".skel": "ad9bdaa153885b02e826fec3769d7736"
+            }
+        },
+        "1326_cbagen": {
+            "assetId": "enemy_1326_cbagen",
+            "type": "Enemy",
+            "style": null,
+            "name": "特里蒙城防军",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "checksum": {
+                ".atlas": "c657b3abacc2b5a8c111db50a0a1e924",
+                ".png": "a4ecf06fe8e0a052a9a7532f4b5bb8d6",
+                ".skel": "e2f22fd007edd77bce213ce62618a1a9"
+            }
+        },
+        "1326_cbagen_2": {
+            "assetId": "enemy_1326_cbagen_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "特里蒙城防军队长",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "checksum": {
+                ".atlas": "5d05c720abbb3c16e41cd18314d86b13",
+                ".png": "32f4596109ee81defd57be227754df7c",
+                ".skel": "75a7f4b7499b9e8bb888e53f486be107"
+            }
+        },
+        "1327_cbrokt": {
+            "assetId": "enemy_1327_cbrokt",
+            "type": "Enemy",
+            "style": null,
+            "name": "弧光突击队",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "checksum": {
+                ".atlas": "6354e9e112f394e7dab702e404ec4902",
+                ".png": "ef8a6a552e4ba1ff0198e3faef5cede7",
+                ".skel": "eb4008e5a32fa8a2c5ae1cf5311eac42"
+            }
+        },
+        "1327_cbrokt_2": {
+            "assetId": "enemy_1327_cbrokt_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "弧光突击队队长",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "checksum": {
+                ".atlas": "e692eb419a04af481cdeb619978e370b",
+                ".png": "979b8d9829dae1dc1ccfb7b8f6d6be57",
+                ".skel": "eb4008e5a32fa8a2c5ae1cf5311eac42"
+            }
+        },
+        "1328_cbjedi": {
+            "assetId": "enemy_1328_cbjedi",
+            "type": "Enemy",
+            "style": null,
+            "name": "弧光锋卫",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "checksum": {
+                ".atlas": "4ddb179c6de4e786e86ffaa2bbf9d438",
+                ".png": "f9748f877972c1a45524305684c13b55",
+                ".skel": "f870c2800ae6d1b999c63d5adfbe0206"
+            }
+        },
+        "1328_cbjedi_2": {
+            "assetId": "enemy_1328_cbjedi_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "弧光锋卫长",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "checksum": {
+                ".atlas": "5a7160dd4aa046b4ca5c8137adf432a3",
+                ".png": "2c2fce7b1817476e9e3dd45e5e48f94c",
+                ".skel": "f870c2800ae6d1b999c63d5adfbe0206"
+            }
+        },
+        "1329_cbshld": {
+            "assetId": "enemy_1329_cbshld",
+            "type": "Enemy",
+            "style": null,
+            "name": "弧光镜卫",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "checksum": {
+                ".atlas": "a4f4500bac4ad38d8f5a2bb4f7941149",
+                ".png": "6c0677dbd7090561266cf70556ac9b18",
+                ".skel": "6b002994e9f188f8e656ef4d4e7e0764"
+            }
+        },
+        "1329_cbshld_2": {
+            "assetId": "enemy_1329_cbshld_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "弧光镜卫长",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "checksum": {
+                ".atlas": "ded586f2ddf540e12d76101f556be378",
+                ".png": "4660cb65cd4abac52001521f37e2b5cd",
+                ".skel": "20e18c69234316a4d0be6f4bb123e228"
+            }
+        },
+        "1330_cbrush": {
+            "assetId": "enemy_1330_cbrush",
+            "type": "Enemy",
+            "style": null,
+            "name": "“肇事者”量产型",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "checksum": {
+                ".atlas": "cd684dd6139a0699af6f163ed737d252",
+                ".png": "5e1e77eeed79909d2ce5bd7625ce7374",
+                ".skel": "c561ad4691af440f6966888c1802142c"
+            }
+        },
+        "1330_cbrush_2": {
+            "assetId": "enemy_1330_cbrush_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "“肇事者”试做型",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "checksum": {
+                ".atlas": "f131169f9a992802e94f6bf61f40fef3",
+                ".png": "c7813f7f5f2727f3414da6b28cd65754",
+                ".skel": "c561ad4691af440f6966888c1802142c"
+            }
+        },
+        "1331_cbsisy": {
+            "assetId": "enemy_1331_cbsisy",
+            "type": "Enemy",
+            "style": null,
+            "name": "“十字路口”量产型",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "checksum": {
+                ".atlas": "7ce803bdfa8defbdca7acab06734c29b",
+                ".png": "d6acc48f62f4993284836d5113d8e0fc",
+                ".skel": "2107c163d201fe1ced197776e694b283"
+            }
+        },
+        "1331_cbsisy_2": {
+            "assetId": "enemy_1331_cbsisy_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "“十字路口”试做型",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "checksum": {
+                ".atlas": "72bcfabe9b2c3682ae4d7a41f63542bd",
+                ".png": "c8d4e3fb26ac1c17024731bfe801fa80",
+                ".skel": "953ae8ac1736976f5033aeea4be3104a"
+            }
+        },
+        "1332_cbterm": {
+            "assetId": "enemy_1332_cbterm",
+            "type": "Enemy",
+            "style": null,
+            "name": "“交通亭”量产型",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "checksum": {
+                ".atlas": "b285075a027a1b23e6677e4f64b8e186",
+                ".png": "c6dc7316ab146180a2f434954cc1e9d4",
+                ".skel": "e2bafc02248659db7e7f925830ab4d3c"
+            }
+        },
+        "1332_cbterm_2": {
+            "assetId": "enemy_1332_cbterm_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "“交通亭”试做型",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "checksum": {
+                ".atlas": "444f43941419e80103829d94362d3964",
+                ".png": "85c67c64f4795b87ffa292924bcf75a7",
+                ".skel": "407d52de29639fdba741c3998062a81c"
+            }
+        },
+        "1333_cbbgen": {
+            "assetId": "enemy_1333_cbbgen",
+            "type": "Enemy",
+            "style": null,
+            "name": "“交通警察”",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "checksum": {
+                ".atlas": "6c4603f5859b9829d0dbf89530a4c1ba",
+                ".png": "3f8c2e6553b4288547ba1e7022bdadc0",
+                ".skel": "3af614d7f2ea5ce25900cc3d781f2cd7"
+            }
+        },
+        "1333_cbbgen_2": {
+            "assetId": "enemy_1333_cbbgen_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "“交通警长”",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "checksum": {
+                ".atlas": "232b8ddc7bb4feb7d720e3b94c75217c",
+                ".png": "ba24d03204f0aca84c678bb4bf07b027",
+                ".skel": "52a3cac150c60f6375e2149fd760f9bf"
+            }
+        },
+        "1334_ristar": {
+            "assetId": "enemy_1334_ristar",
+            "type": "Enemy",
+            "style": null,
+            "name": "“行星碎屑”",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "checksum": null
+        },
+        "1543_cstlrs": {
+            "assetId": "enemy_1543_cstlrs",
+            "type": "Enemy",
+            "style": null,
+            "name": "克丽斯腾",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "checksum": {
+                ".atlas": "b2ed31f4b4837382e5feabda4b4cef98",
+                ".png": "cf50267f647f880c4731947ed5b28d2d",
+                ".skel": "a58539de82406df267d52ea25e54f4d4"
             }
         }
     },
