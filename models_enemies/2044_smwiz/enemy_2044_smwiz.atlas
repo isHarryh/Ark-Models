@@ -1,0 +1,216 @@
+
+enemy_2044_smwiz.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: true
+  xy: 57, 3
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 124, 90
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+Calf_L
+  rotate: false
+  xy: 205, 109
+  size: 45, 52
+  orig: 45, 52
+  offset: 0, 0
+  index: -1
+Calf_R
+  rotate: true
+  xy: 66, 166
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+Chest
+  rotate: false
+  xy: 93, 34
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+Coat
+  rotate: false
+  xy: 2, 163
+  size: 62, 91
+  orig: 62, 91
+  offset: 0, 0
+  index: -1
+Ear_R
+  rotate: false
+  xy: 198, 11
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Eat_L
+  rotate: true
+  xy: 234, 224
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 183, 182
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: false
+  xy: 104, 7
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+Forearm_L
+  rotate: true
+  xy: 145, 9
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+Forearm_R
+  rotate: true
+  xy: 225, 163
+  size: 43, 22
+  orig: 43, 22
+  offset: 0, 0
+  index: -1
+Hair_A
+  rotate: true
+  xy: 66, 207
+  size: 47, 102
+  orig: 47, 102
+  offset: 0, 0
+  index: -1
+Hair_B
+  rotate: true
+  xy: 74, 117
+  size: 47, 84
+  orig: 47, 84
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 166, 62
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+Hand_Lb
+  rotate: false
+  xy: 205, 170
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 174, 6
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+Hand_Rb
+  rotate: true
+  xy: 234, 208
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+Hand_Rc
+  rotate: false
+  xy: 223, 31
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 160, 117
+  size: 43, 57
+  orig: 43, 57
+  offset: 0, 0
+  index: -1
+Horn_L
+  rotate: false
+  xy: 145, 34
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+Horn_R
+  rotate: false
+  xy: 174, 36
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+Shoulder_L
+  rotate: true
+  xy: 204, 55
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+Skirt
+  rotate: true
+  xy: 2, 32
+  size: 52, 89
+  orig: 52, 89
+  offset: 0, 0
+  index: -1
+Skirtb
+  rotate: true
+  xy: 123, 176
+  size: 29, 58
+  orig: 29, 58
+  offset: 0, 0
+  index: -1
+Skirtc
+  rotate: false
+  xy: 2, 86
+  size: 70, 75
+  orig: 70, 75
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 166, 91
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+Thigh_L
+  rotate: true
+  xy: 2, 6
+  size: 24, 53
+  orig: 24, 53
+  offset: 0, 0
+  index: -1
+Thigh_R
+  rotate: true
+  xy: 74, 90
+  size: 25, 48
+  orig: 25, 48
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 170, 209
+  size: 62, 45
+  orig: 62, 45
+  offset: 0, 0
+  index: -1

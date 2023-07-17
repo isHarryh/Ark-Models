@@ -1,0 +1,237 @@
+
+enemy_2046_smwar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_Backcloth_B
+  rotate: 270
+  xy: 2, 354
+  size: 91, 104
+  orig: 91, 104
+  offset: 0, 0
+  index: -1
+F_Backcloth_F
+  rotate: true
+  xy: 386, 387
+  size: 124, 100
+  orig: 124, 100
+  offset: 0, 0
+  index: -1
+F_Body
+  rotate: false
+  xy: 353, 439
+  size: 49, 71
+  orig: 49, 71
+  offset: 0, 0
+  index: -1
+F_Bodytool_A
+  rotate: false
+  xy: 450, 444
+  size: 11, 22
+  orig: 11, 22
+  offset: 0, 0
+  index: -1
+F_Bodytool_B
+  rotate: false
+  xy: 9, 343
+  size: 43, 12
+  orig: 43, 12
+  offset: 0, 0
+  index: -1
+F_Bodytool_C
+  rotate: false
+  xy: 488, 479
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+F_Bodytool_D
+  rotate: false
+  xy: 494, 460
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+F_Bodytool_E
+  rotate: true
+  xy: 119, 342
+  size: 26, 58
+  orig: 26, 58
+  offset: 0, 0
+  index: -1
+F_Bodytool_F
+  rotate: false
+  xy: 450, 468
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+F_Cape
+  rotate: true
+  xy: 218, 455
+  size: 56, 30
+  orig: 56, 30
+  offset: 0, 0
+  index: -1
+F_Head
+  rotate: true
+  xy: 308, 421
+  size: 89, 43
+  orig: 89, 43
+  offset: 0, 0
+  index: -1
+F_Head_Cloth
+  rotate: 270
+  xy: 64, 371
+  size: 43, 60
+  orig: 43, 60
+  offset: 0, 0
+  index: -1
+F_Head_Cloth_B
+  rotate: true
+  xy: 14, 357
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+F_Hip
+  rotate: false
+  xy: 243, 364
+  size: 51, 28
+  orig: 51, 28
+  offset: 0, 0
+  index: -1
+F_L_Arm
+  rotate: true
+  xy: 195, 337
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+F_L_Ear
+  rotate: false
+  xy: 479, 430
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+F_L_Foot
+  rotate: 180
+  xy: 360, 354
+  size: 53, 34
+  orig: 53, 34
+  offset: 0, 0
+  index: -1
+F_L_Forearm
+  rotate: false
+  xy: 415, 361
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+F_L_Hand
+  rotate: 270
+  xy: 137, 364
+  size: 36, 69
+  orig: 36, 69
+  offset: 0, 0
+  index: -1
+F_L_Horn
+  rotate: true
+  xy: 404, 432
+  size: 78, 44
+  orig: 78, 44
+  offset: 0, 0
+  index: -1
+F_L_Leg
+  rotate: false
+  xy: 467, 368
+  size: 43, 53
+  orig: 43, 53
+  offset: 0, 0
+  index: -1
+F_L_Thigh
+  rotate: true
+  xy: 108, 409
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+F_R_Arm
+  rotate: true
+  xy: 454, 339
+  size: 31, 54
+  orig: 31, 54
+  offset: 0, 0
+  index: -1
+F_R_Ear
+  rotate: false
+  xy: 2, 426
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+F_R_Foot
+  rotate: false
+  xy: 61, 342
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+F_R_Forearm
+  rotate: 180
+  xy: 274, 335
+  size: 52, 45
+  orig: 52, 45
+  offset: 0, 0
+  index: -1
+F_R_Hand
+  rotate: true
+  xy: 364, 405
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+F_R_Horn
+  rotate: false
+  xy: 243, 394
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+F_R_Leg
+  rotate: false
+  xy: 208, 374
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+F_R_Thigh
+  rotate: true
+  xy: 308, 381
+  size: 38, 54
+  orig: 38, 54
+  offset: 0, 0
+  index: -1
+F_Tail
+  rotate: false
+  xy: 325, 345
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+F_Weapon
+  rotate: false
+  xy: 122, 369
+  size: 184, 142
+  orig: 184, 142
+  offset: 0, 0
+  index: -1
+F_Weapon_2
+  rotate: false
+  xy: 2, 446
+  size: 215, 65
+  orig: 215, 65
+  offset: 0, 0
+  index: -1
