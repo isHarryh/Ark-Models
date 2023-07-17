@@ -1,0 +1,237 @@
+
+enemy_2049_smgrd2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: true
+  xy: 99, 288
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: -1
+Arm_L_Acc
+  rotate: true
+  xy: 225, 151
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+Arm_L_Cloak
+  rotate: false
+  xy: 339, 380
+  size: 137, 130
+  orig: 137, 130
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 165, 167
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1
+Arm_R_Acc
+  rotate: true
+  xy: 335, 170
+  size: 43, 87
+  orig: 43, 87
+  offset: 0, 0
+  index: -1
+Arm_R_Tape
+  rotate: true
+  xy: 2, 282
+  size: 68, 95
+  orig: 68, 95
+  offset: 0, 0
+  index: -1
+Bag
+  rotate: false
+  xy: 440, 256
+  size: 70, 100
+  orig: 70, 100
+  offset: 0, 0
+  index: -1
+Belt
+  rotate: true
+  xy: 265, 230
+  size: 58, 15
+  orig: 58, 15
+  offset: 0, 0
+  index: -1
+Calf_L
+  rotate: false
+  xy: 99, 208
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+Calf_R
+  rotate: true
+  xy: 2, 156
+  size: 73, 90
+  orig: 73, 90
+  offset: 0, 0
+  index: -1
+Chest
+  rotate: true
+  xy: 337, 215
+  size: 78, 88
+  orig: 78, 88
+  offset: 0, 0
+  index: -1
+Chestb
+  rotate: true
+  xy: 172, 263
+  size: 63, 91
+  orig: 63, 91
+  offset: 0, 0
+  index: -1
+Coat
+  rotate: false
+  xy: 172, 328
+  size: 121, 74
+  orig: 121, 74
+  offset: 0, 0
+  index: -1
+Coat_R
+  rotate: false
+  xy: 295, 245
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+Coatb
+  rotate: false
+  xy: 172, 404
+  size: 165, 106
+  orig: 165, 106
+  offset: 0, 0
+  index: -1
+Collar_L
+  rotate: true
+  xy: 295, 302
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 228, 190
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: false
+  xy: 228, 190
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+Forearm_L
+  rotate: false
+  xy: 278, 172
+  size: 55, 29
+  orig: 55, 29
+  offset: 0, 0
+  index: -1
+Forearm_R
+  rotate: true
+  xy: 424, 155
+  size: 50, 80
+  orig: 50, 80
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 265, 141
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+Hand_Lb
+  rotate: false
+  xy: 228, 230
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 478, 468
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 338, 295
+  size: 100, 83
+  orig: 100, 83
+  offset: 0, 0
+  index: -1
+Head_Acc_L
+  rotate: false
+  xy: 165, 212
+  size: 61, 49
+  orig: 61, 49
+  offset: 0, 0
+  index: -1
+Head_Acc_R
+  rotate: false
+  xy: 295, 344
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+Head_Acc_Rb
+  rotate: true
+  xy: 265, 290
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+Head_Tape
+  rotate: false
+  xy: 2, 352
+  size: 168, 158
+  orig: 168, 158
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: true
+  xy: 478, 411
+  size: 55, 31
+  orig: 55, 31
+  offset: 0, 0
+  index: -1
+Hip_Acc
+  rotate: false
+  xy: 2, 231
+  size: 91, 49
+  orig: 91, 49
+  offset: 0, 0
+  index: -1
+Thigh_L
+  rotate: false
+  xy: 478, 358
+  size: 31, 51
+  orig: 31, 51
+  offset: 0, 0
+  index: -1
+Thigh_R
+  rotate: true
+  xy: 282, 203
+  size: 40, 51
+  orig: 40, 51
+  offset: 0, 0
+  index: -1
+Waist_Tape
+  rotate: true
+  xy: 427, 207
+  size: 47, 81
+  orig: 47, 81
+  offset: 0, 0
+  index: -1
