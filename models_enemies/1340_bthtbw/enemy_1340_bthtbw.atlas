@@ -1,0 +1,286 @@
+
+enemy_1340_bthtbw.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: true
+  xy: 125, 404
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 143, 446
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+Belf_Acc
+  rotate: true
+  xy: 146, 481
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+Belf_Acc_B
+  rotate: false
+  xy: 455, 466
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Belf_Acc_C
+  rotate: true
+  xy: 219, 402
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+Belf_Acc_Ca
+  rotate: false
+  xy: 173, 404
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+Belf_Acc_Cb
+  rotate: true
+  xy: 318, 388
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+Belf_Acc_Cc
+  rotate: true
+  xy: 368, 385
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+Belf_R
+  rotate: false
+  xy: 387, 471
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+C_sheng
+  rotate: false
+  xy: 53, 501
+  size: 358, 8
+  orig: 358, 8
+  offset: 0, 0
+  index: -1
+Calf_L
+  rotate: true
+  xy: 419, 382
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+Calf_R
+  rotate: true
+  xy: 387, 429
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+Chest
+  rotate: true
+  xy: 136, 342
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1
+Coat_L
+  rotate: false
+  xy: 378, 293
+  size: 117, 87
+  orig: 117, 87
+  offset: 0, 0
+  index: -1
+Coat_M
+  rotate: false
+  xy: 2, 242
+  size: 137, 98
+  orig: 137, 98
+  offset: 0, 0
+  index: -1
+Coat_R
+  rotate: true
+  xy: 280, 480
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+Fingers_R
+  rotate: true
+  xy: 424, 469
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 306, 477
+  size: 38, 22
+  orig: 38, 22
+  offset: 0, 0
+  index: -1
+Foot_Lb
+  rotate: false
+  xy: 2, 484
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: false
+  xy: 346, 477
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+Foot_Rb
+  rotate: false
+  xy: 27, 484
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+Forearm_L
+  rotate: true
+  xy: 197, 446
+  size: 33, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1
+Forearm_R
+  rotate: false
+  xy: 300, 441
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 2, 453
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 35, 453
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: true
+  xy: 293, 308
+  size: 75, 83
+  orig: 75, 83
+  offset: 0, 0
+  index: -1
+Hat_B
+  rotate: false
+  xy: 435, 426
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Hat_C
+  rotate: true
+  xy: 248, 445
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+Hat_Tape
+  rotate: true
+  xy: 187, 481
+  size: 18, 91
+  orig: 18, 91
+  offset: 0, 0
+  index: -1
+Hat_Tape_B
+  rotate: true
+  xy: 413, 497
+  size: 12, 87
+  orig: 12, 87
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2, 360
+  size: 49, 65
+  orig: 49, 65
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: false
+  xy: 75, 451
+  size: 66, 31
+  orig: 66, 31
+  offset: 0, 0
+  index: -1
+Scarf
+  rotate: false
+  xy: 2, 413
+  size: 64, 38
+  orig: 64, 38
+  offset: 0, 0
+  index: -1
+Scarf_B
+  rotate: false
+  xy: 68, 411
+  size: 55, 38
+  orig: 55, 38
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 69, 343
+  size: 65, 59
+  orig: 65, 59
+  offset: 0, 0
+  index: -1
+Thigh_L
+  rotate: true
+  xy: 343, 432
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+Thigh_R
+  rotate: true
+  xy: 272, 398
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 203, 331
+  size: 88, 65
+  orig: 88, 65
+  offset: 0, 0
+  index: -1
+Weapon_B
+  rotate: true
+  xy: 2, 501
+  size: 8, 49
+  orig: 8, 49
+  offset: 0, 0
+  index: -1
+Weapon_C
+  rotate: false
+  xy: 50, 484
+  size: 94, 15
+  orig: 94, 15
+  offset: 0, 0
+  index: -1

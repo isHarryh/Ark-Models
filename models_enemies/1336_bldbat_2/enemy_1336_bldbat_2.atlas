@@ -1,0 +1,69 @@
+
+enemy_1336_bldbat_2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Annex_a
+  rotate: false
+  xy: 117, 189
+  size: 49, 64
+  orig: 49, 64
+  offset: 0, 0
+  index: -1
+C_Annex_b
+  rotate: false
+  xy: 117, 125
+  size: 49, 62
+  orig: 49, 62
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: true
+  xy: 129, 80
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+C_L_Ear
+  rotate: true
+  xy: 115, 12
+  size: 19, 31
+  orig: 19, 32
+  offset: 0, 1
+  index: -1
+C_L_Wing
+  rotate: false
+  xy: 2, 119
+  size: 113, 134
+  orig: 113, 134
+  offset: 0, 0
+  index: -1
+C_R_Ear
+  rotate: false
+  xy: 91, 2
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+C_R_Wing
+  rotate: true
+  xy: 2, 33
+  size: 84, 125
+  orig: 84, 125
+  offset: 0, 0
+  index: -1
+C_Tail_a
+  rotate: true
+  xy: 51, 5
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+C_Tail_b
+  rotate: true
+  xy: 2, 9
+  size: 22, 47
+  orig: 22, 47
+  offset: 0, 0
+  index: -1
