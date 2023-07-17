@@ -1,0 +1,27 @@
+
+enemy_2045_smdrn.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_Light
+  rotate: true
+  xy: 155, 143
+  size: 10, 8
+  orig: 11, 8
+  offset: 1, 0
+  index: -1
+R_Light
+  rotate: false
+  xy: 155, 155
+  size: 9, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 101
+  size: 151, 63
+  orig: 152, 63
+  offset: 0, 0
+  index: -1
