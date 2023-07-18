@@ -11,7 +11,7 @@
         "EnemyElite": "精英敌人",
         "EnemyBoss": "领袖敌人"
     },
-    "gameDataVersionDescription": "Stream://torappu-data/v040/rel40.0\nChange:48133 on 2023/07/14\nVersionControl:40.3.0\n",
+    "gameDataVersionDescription": "Stream://torappu-data/v040/rel40.0\nChange:48197 on 2023/07/16\nVersionControl:40.5.0\n",
     "gameDataServerRegion": "zh_CN",
     "data": {
         "285_medic2": {
@@ -5485,7 +5485,7 @@
             }
         },
         "253_greyy_epoque#8": {
-            "assetId": "build_char_253_greyy_epoque#8",
+            "assetId": "char_253_greyy_epoque#8",
             "type": "Operator",
             "style": "BuildingSkin",
             "name": "格雷伊",
@@ -5496,7 +5496,11 @@
             "appellation": "Greyy",
             "skinGroupId": "2020#epoque#7",
             "skinGroupName": "时代/VIII",
-            "checksum": null
+            "checksum": {
+                ".atlas": "87fb6ba664db4179c54fc719fc26aa4b",
+                ".png": "a5cd6c93913b96dffc7ebb6a408a2974",
+                ".skel": "cde418c0af17cc553afb6db0a63c19f1"
+            }
         },
         "344_beewax_epoque#9": {
             "assetId": "build_char_344_beewax_epoque#9",
@@ -6126,6 +6130,24 @@
                 ".atlas": "43e8afab070697da4117fe4810af71cb",
                 ".png": "e9190cf94766589c794334b0b91734dd",
                 ".skel": "273254390ff94e7393c3c8e9929ace5d"
+            }
+        },
+        "135_halo_epoque#25": {
+            "assetId": "build_char_135_halo_epoque#25",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "星源",
+            "sortTags": [
+                "Operator",
+                "Skinned"
+            ],
+            "appellation": "Astgenne",
+            "skinGroupId": "2023#epoque#7",
+            "skinGroupName": "时代/XXV",
+            "checksum": {
+                ".atlas": "9466c51d6d59d586d113d95dab11a33b",
+                ".png": "921bf2557b1552c03514db74911b26f4",
+                ".skel": "e2f1d10e684e27c5e2a967696c5bc749"
             }
         },
         "120_hibisc_nian#1": {
@@ -7929,7 +7951,7 @@
             }
         },
         "373_lionhd_snow#3": {
-            "assetId": "build_char_373_lionhd_snow#3",
+            "assetId": "char_373_lionhd_snow#3",
             "type": "Operator",
             "style": "BuildingSkin",
             "name": "莱恩哈特",
@@ -7940,7 +7962,11 @@
             "appellation": "Leonhardt",
             "skinGroupId": "2021#xmas",
             "skinGroupName": "冰原信使/III",
-            "checksum": null
+            "checksum": {
+                ".atlas": "fb39a36474d3867e49158bd77c0d177c",
+                ".png": "6fface746ec236f01077fbfb325511ae",
+                ".skel": "0f34dc99f93a8fc1ef49ba5125851d0b"
+            }
         },
         "214_kafka_snow#3": {
             "assetId": "build_char_214_kafka_snow#3",
@@ -8429,7 +8455,7 @@
             }
         },
         "134_ifrit_kfc#1": {
-            "assetId": "build_char_134_ifrit_kfc#1",
+            "assetId": "char_134_ifrit_kfc#1",
             "type": "Operator",
             "style": "BuildingSkin",
             "name": "伊芙利特",
@@ -8440,7 +8466,11 @@
             "appellation": "Ifrit",
             "skinGroupId": "2019#kfc",
             "skinGroupName": "肯德基",
-            "checksum": null
+            "checksum": {
+                ".atlas": "63e60299d27a8ffed32f2eca63e80d9a",
+                ".png": "5006c55257b2d7bfa06721d8eaaab35d",
+                ".skel": "7ff8a02654cbc19e7e04f47f7498d219"
+            }
         },
         "201_moeshd_kfc#1": {
             "assetId": "build_char_201_moeshd_kfc#1",
@@ -8706,7 +8736,11 @@
             "appellation": "Flint",
             "skinGroupId": "2021#boc#2",
             "skinGroupName": "斗争血脉/III",
-            "checksum": null
+            "checksum": {
+                ".atlas": "cdb41aa53c29fa22b869ddf43f915219",
+                ".png": "e727812f6376af93620b2283755116dd",
+                ".skel": "cc1eb6324fd9dd41552b3c4cd51c0d78"
+            }
         },
         "284_spot_boc#3": {
             "assetId": "build_char_284_spot_boc#3",
