@@ -1,0 +1,160 @@
+
+enemy_3005_lpeopl.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Butt
+  rotate: false
+  xy: 77, 194
+  size: 57, 27
+  orig: 57, 27
+  offset: 0, 0
+  index: -1
+C_Chest
+  rotate: false
+  xy: 205, 168
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 2, 191
+  size: 73, 63
+  orig: 73, 63
+  offset: 0, 0
+  index: -1
+C_L_Arm_1
+  rotate: true
+  xy: 188, 132
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+C_L_Arm_2
+  rotate: false
+  xy: 121, 118
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+C_L_Coat
+  rotate: true
+  xy: 77, 223
+  size: 31, 67
+  orig: 31, 67
+  offset: 0, 0
+  index: -1
+C_L_Ear
+  rotate: true
+  xy: 49, 160
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: true
+  xy: 47, 93
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: true
+  xy: 188, 100
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+C_L_Leg_1
+  rotate: true
+  xy: 2, 120
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+C_L_Leg_2
+  rotate: true
+  xy: 211, 218
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+C_R_Arm_1
+  rotate: true
+  xy: 2, 155
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+C_R_Arm_2
+  rotate: true
+  xy: 2, 84
+  size: 34, 40
+  orig: 34, 41
+  offset: 0, 1
+  index: -1
+C_R_Coat
+  rotate: true
+  xy: 77, 175
+  size: 17, 57
+  orig: 17, 57
+  offset: 0, 0
+  index: -1
+C_R_Ear
+  rotate: true
+  xy: 49, 130
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: true
+  xy: 165, 118
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: true
+  xy: 225, 100
+  size: 30, 29
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+C_R_Leg_1
+  rotate: true
+  xy: 76, 137
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+C_R_Leg_2
+  rotate: true
+  xy: 76, 100
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+C_Scarf
+  rotate: false
+  xy: 146, 229
+  size: 63, 25
+  orig: 63, 25
+  offset: 0, 0
+  index: -1
+C_Scarf_Back
+  rotate: false
+  xy: 146, 187
+  size: 57, 40
+  orig: 57, 40
+  offset: 0, 0
+  index: -1
+C_Waist
+  rotate: false
+  xy: 136, 157
+  size: 50, 28
+  orig: 50, 34
+  offset: 0, 6
+  index: -1
