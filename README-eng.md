@@ -5,7 +5,7 @@ Arknights Spine Models (Excerpt)
 
 [中文](README.md) | **English**
 
-## Introduction
+## Status
 Current update progress:
 - The new skins that published in the [ **SideStory** *Dorothy's Vision (Retro)* ] were added to the repository.
 
@@ -23,5 +23,10 @@ The downloaded zip file sizes 120+MB. Since the download speed of GitHub source 
 - [Source2: FastGit](https://download.fastgit.org/isHarryh/Ark-Models/archive/refs/heads/main.zip)
 - [Source3: GHProxy](https://ghproxy.com/?q=https%3A%2F%2Fgithub.com%2FisHarryh%2FArk-Models%2Farchive%2Frefs%2Fheads%2Fmain.zip)
 
-## Notice
+## Formats
+The runtime lib version of the Spine models is 3.8. A Spine model is composed of one atlas file, one skel file and one png image file.  
+In this repo, Spine models will be stored into their directories (named as `ID_Name`) respectively.  
+The file `models_data.json` recorded the detailed information of each model.
+
+## Copyright Notice
 The copyright of the resources in the repository belongs to **HYPERGRYPH Co.,Ltd.** Please do use the resources in a proper way.

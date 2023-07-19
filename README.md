@@ -5,7 +5,7 @@ Arknights Spine Models (Excerpt)
 
 **中文** | [English](README-eng.md)
 
-## 介绍
+## 状态
 当前更新至：
 - 别传 **绿野幻梦** 复刻活动中新增的时装
 
@@ -23,5 +23,10 @@ Arknights Spine Models (Excerpt)
 - [线路二: FastGit](https://download.fastgit.org/isHarryh/Ark-Models/archive/refs/heads/main.zip)
 - [线路三: GHProxy](https://ghproxy.com/?q=https%3A%2F%2Fgithub.com%2FisHarryh%2FArk-Models%2Farchive%2Frefs%2Fheads%2Fmain.zip)
 
-## 注意
-本仓库中所有素材其版权归属 **上海鹰角网络有限公司** 所有，请在合理的范围内使用这些素材。
+## 格式说明
+Spine模型所用运行时版本为 3.8，一套Spine模型通常由atlas文件、skel文件、png图片组成。  
+本仓库中，不同的Spine模型会分别存放到不同的子目录中，子目录命名规则是 `编号_名称`。  
+本仓库中，根目录的 `models_data.json` 文件中记录了每个模型的具体信息。
+
+## 版权声明
+本仓库中所有素材其版权归属 **上海鹰角网络有限公司** 所有，请在合理的范围内使用这些素材。尤其不得用于商业用途，不得损害版权方的利益。
