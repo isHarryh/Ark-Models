@@ -1,8 +1,8 @@
 # Ignore non-repository files in Git
 
 /*
-!.*
 !/models/
 !/models_enemies/
+!/models_illust/
 !/models_data.json
 !/README*.md
