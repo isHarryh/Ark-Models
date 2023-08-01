@@ -1,0 +1,265 @@
+
+enemy_1346_ynshp_2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_1_Eye
+  rotate: false
+  xy: 102, 297
+  size: 26, 10
+  orig: 26, 10
+  offset: 0, 0
+  index: -1
+C_1_Leg_01
+  rotate: false
+  xy: 415, 313
+  size: 21, 31
+  orig: 21, 38
+  offset: 0, 7
+  index: -1
+C_1_Leg_02
+  rotate: 180
+  xy: 431, 370
+  size: 20, 31
+  orig: 20, 39
+  offset: 0, 8
+  index: -1
+C_1_Leg_03
+  rotate: false
+  xy: 437, 405
+  size: 19, 30
+  orig: 19, 39
+  offset: 0, 9
+  index: -1
+C_1_Leg_04
+  rotate: 180
+  xy: 406, 372
+  size: 19, 34
+  orig: 19, 39
+  offset: 0, 5
+  index: -1
+C_1_Tail
+  rotate: false
+  xy: 367, 314
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+C_1_Water_01
+  rotate: false
+  xy: 130, 294
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+C_1_Water_02
+  rotate: false
+  xy: 2, 332
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+C_2_Body
+  rotate: false
+  xy: 2, 324
+  size: 147, 134
+  orig: 147, 134
+  offset: 0, 0
+  index: -1
+C_2_Ear_L
+  rotate: false
+  xy: 424, 436
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+C_2_Hair_01
+  rotate: true
+  xy: 406, 402
+  size: 32, 32
+  orig: 64, 39
+  offset: 0, 0
+  index: -1
+C_2_Hat
+  rotate: true
+  xy: 150, 343
+  size: 115, 84
+  orig: 115, 84
+  offset: 0, 0
+  index: -1
+C_2_Head
+  rotate: true
+  xy: 318, 409
+  size: 45, 58
+  orig: 45, 58
+  offset: 0, 0
+  index: -1
+C_2_Horn_L
+  rotate: false
+  xy: 367, 296
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+C_2_Leg_01
+  rotate: 180
+  xy: 2, 428
+  size: 21, 30
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+C_2_Leg_02
+  rotate: 180
+  xy: 402, 424
+  size: 20, 34
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
+C_2_Leg_03
+  rotate: false
+  xy: 437, 332
+  size: 19, 28
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+C_2_Leg_04
+  rotate: 270
+  xy: 394, 292
+  size: 18, 27
+  orig: 19, 39
+  offset: 1, 0
+  index: -1
+C_2_Tail
+  rotate: false
+  xy: 2, 302
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+C_Ban_01
+  rotate: true
+  xy: 367, 345
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+C_Ban_02
+  rotate: false
+  xy: 104, 308
+  size: 159, 18
+  orig: 159, 18
+  offset: 0, 0
+  index: -1
+C_Ban_03
+  rotate: false
+  xy: 377, 384
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+C_Ban_06
+  rotate: false
+  xy: 377, 384
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+C_Ban_04
+  rotate: true
+  xy: 437, 305
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+C_Ban_07
+  rotate: true
+  xy: 437, 305
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+C_Ban_05
+  rotate: false
+  xy: 377, 413
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+C_Ban_08
+  rotate: false
+  xy: 388, 345
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: true
+  xy: 236, 325
+  size: 133, 80
+  orig: 133, 80
+  offset: 0, 0
+  index: -1
+C_Ear_L
+  rotate: true
+  xy: 80, 298
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+C_Ear_R
+  rotate: true
+  xy: 298, 306
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+C_Eye
+  rotate: false
+  xy: 129, 447
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+C_Hat
+  rotate: true
+  xy: 318, 345
+  size: 63, 47
+  orig: 63, 47
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: true
+  xy: 316, 298
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+C_Horn_L
+  rotate: false
+  xy: 36, 302
+  size: 43, 21
+  orig: 43, 21
+  offset: 0, 0
+  index: -1
+C_Horn_R
+  rotate: true
+  xy: 395, 311
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+C_Line
+  rotate: true
+  xy: 415, 344
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: true
+  xy: 265, 299
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
