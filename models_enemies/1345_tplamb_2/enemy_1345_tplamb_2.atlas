@@ -1,0 +1,125 @@
+
+enemy_1345_tplamb_2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 128
+  size: 157, 136
+  orig: 157, 136
+  offset: 0, 0
+  index: -1
+C_Hair
+  rotate: 270
+  xy: 204, 102
+  size: 78, 51
+  orig: 79, 51
+  offset: 1, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 215, 180
+  size: 46, 60
+  orig: 46, 60
+  offset: 0, 0
+  index: -1
+C_L_Ears
+  rotate: false
+  xy: 127, 238
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+C_L_Leg_l
+  rotate: true
+  xy: 226, 240
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+C_L_Leg_r
+  rotate: true
+  xy: 185, 70
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+C_L_Strap
+  rotate: 270
+  xy: 187, 89
+  size: 22, 75
+  orig: 22, 75
+  offset: 0, 0
+  index: -1
+C_L_Straps
+  rotate: 270
+  xy: 49, 100
+  size: 36, 109
+  orig: 36, 109
+  offset: 0, 0
+  index: -1
+C_L_whirlwind
+  rotate: false
+  xy: 2, 91
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+C_R_Ears
+  rotate: false
+  xy: 2, 245
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+C_R_Leg_l
+  rotate: true
+  xy: 2, 71
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+C_R_Leg_r
+  rotate: true
+  xy: 132, 69
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+C_R_whirlwind
+  rotate: false
+  xy: 160, 84
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: false
+  xy: 49, 78
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+C_Weapon
+  rotate: true
+  xy: 160, 198
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+C_sunglasses
+  rotate: 180
+  xy: 86, 80
+  size: 58, 20
+  orig: 58, 20
+  offset: 0, 0
+  index: -1
+F_l_Frisbee
+  rotate: false
+  xy: 156, 122
+  size: 53, 75
+  orig: 63, 98
+  offset: 3, 0
+  index: -1
