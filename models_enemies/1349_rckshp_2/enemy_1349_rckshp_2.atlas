@@ -1,0 +1,90 @@
+
+enemy_1349_rckshp_2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 193
+  size: 225, 154
+  orig: 225, 154
+  offset: 0, 0
+  index: -1
+C_Hair
+  rotate: false
+  xy: 249, 300
+  size: 62, 46
+  orig: 62, 47
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 274, 195
+  size: 40, 51
+  orig: 40, 51
+  offset: 0, 0
+  index: -1
+C_L_Ear
+  rotate: false
+  xy: 2, 212
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+C_L_Horn
+  rotate: true
+  xy: 274, 248
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+C_L_Leg_1
+  rotate: true
+  xy: 192, 185
+  size: 22, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1
+C_L_Leg_2
+  rotate: false
+  xy: 316, 208
+  size: 23, 47
+  orig: 23, 47
+  offset: 0, 0
+  index: -1
+C_R_Ear
+  rotate: false
+  xy: 2, 331
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+C_R_Horn
+  rotate: false
+  xy: 312, 300
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+C_R_Leg_1
+  rotate: true
+  xy: 237, 183
+  size: 21, 44
+  orig: 21, 44
+  offset: 0, 0
+  index: -1
+C_R_Leg_2
+  rotate: 270
+  xy: 2, 189
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+C_Volcano
+  rotate: true
+  xy: 224, 206
+  size: 96, 48
+  orig: 96, 48
+  offset: 0, 0
+  index: -1

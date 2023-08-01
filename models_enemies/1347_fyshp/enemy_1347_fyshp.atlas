@@ -1,0 +1,272 @@
+
+enemy_1347_fyshp.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 372
+  size: 157, 136
+  orig: 157, 136
+  offset: 0, 0
+  index: -1
+C_Hair
+  rotate: true
+  xy: 405, 431
+  size: 78, 51
+  orig: 79, 51
+  offset: 1, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 455, 448
+  size: 46, 60
+  orig: 46, 60
+  offset: 0, 0
+  index: -1
+C_L_Ears
+  rotate: 180
+  xy: 173, 356
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+C_L_Leg_l
+  rotate: true
+  xy: 2, 363
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+C_L_Leg_r
+  rotate: true
+  xy: 38, 355
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+C_L_Strap
+  rotate: 270
+  xy: 328, 376
+  size: 22, 75
+  orig: 22, 75
+  offset: 0, 0
+  index: -1
+C_L_Straps
+  rotate: 180
+  xy: 367, 398
+  size: 36, 109
+  orig: 36, 109
+  offset: 0, 0
+  index: -1
+C_L_whirlwind
+  rotate: false
+  xy: 452, 408
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+C_R_Ears
+  rotate: true
+  xy: 242, 487
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+C_R_Leg_l
+  rotate: true
+  xy: 375, 356
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+C_R_Leg_r
+  rotate: true
+  xy: 294, 356
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+C_R_whirlwind
+  rotate: true
+  xy: 135, 364
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: false
+  xy: 105, 355
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+C_Weapon
+  rotate: true
+  xy: 263, 442
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+C_sunglasses
+  rotate: false
+  xy: 417, 366
+  size: 59, 20
+  orig: 59, 20
+  offset: 0, 0
+  index: -1
+Cc_Body
+  rotate: true
+  xy: 160, 373
+  size: 135, 101
+  orig: 135, 101
+  offset: 0, 0
+  index: -1
+Cc_Hat
+  rotate: true
+  xy: 263, 371
+  size: 69, 66
+  orig: 69, 66
+  offset: 0, 0
+  index: -1
+Cc_Head
+  rotate: false
+  xy: 337, 389
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+Cc_L_Ears
+  rotate: 180
+  xy: 277, 350
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+Cc_L_Hat
+  rotate: false
+  xy: 150, 466
+  size: 9, 20
+  orig: 9, 20
+  offset: 0, 0
+  index: -1
+Cc_L_Leg_l
+  rotate: false
+  xy: 309, 373
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+Cc_L_Leg_ls
+  rotate: false
+  xy: 325, 353
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+Cc_L_Leg_r
+  rotate: true
+  xy: 426, 356
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+Cc_L_propeller
+  rotate: false
+  xy: 431, 388
+  size: 50, 19
+  orig: 50, 19
+  offset: 0, 0
+  index: -1
+Cc_L_propellersS1S
+  rotate: false
+  xy: 142, 488
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+Cc_L_propellersS2S
+  rotate: false
+  xy: 349, 356
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+Cc_R_Ears
+  rotate: false
+  xy: 17, 351
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+Cc_R_Hat
+  rotate: true
+  xy: 474, 355
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+Cc_R_Hatss
+  rotate: false
+  xy: 455, 490
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+Cc_R_Leg_l
+  rotate: true
+  xy: 398, 494
+  size: 14, 26
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+Cc_R_Leg_ls
+  rotate: false
+  xy: 204, 353
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+Cc_R_Leg_r
+  rotate: true
+  xy: 2, 493
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+Cc_R_Leg_rs
+  rotate: false
+  xy: 68, 353
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+Cc_R_propeller
+  rotate: true
+  xy: 482, 369
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+Cc_R_propellers
+  rotate: 180
+  xy: 225, 361
+  size: 50, 15
+  orig: 50, 15
+  offset: 0, 0
+  index: -1
+Cc_propeller
+  rotate: false
+  xy: 405, 379
+  size: 30, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+F_l_Frisbee
+  rotate: false
+  xy: 318, 433
+  size: 53, 75
+  orig: 63, 98
+  offset: 3, 0
+  index: -1
