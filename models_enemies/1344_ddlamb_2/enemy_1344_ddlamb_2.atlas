@@ -1,0 +1,83 @@
+
+enemy_1344_ddlamb_2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 167
+  size: 147, 134
+  orig: 147, 134
+  offset: 0, 0
+  index: -1
+C_Ear_L
+  rotate: true
+  xy: 276, 200
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+C_Hair_01
+  rotate: true
+  xy: 236, 177
+  size: 64, 39
+  orig: 64, 39
+  offset: 0, 0
+  index: -1
+C_Hat
+  rotate: true
+  xy: 150, 186
+  size: 115, 84
+  orig: 115, 84
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 236, 243
+  size: 45, 58
+  orig: 45, 58
+  offset: 0, 0
+  index: -1
+C_Horn_L
+  rotate: true
+  xy: 283, 226
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+C_Leg_01
+  rotate: true
+  xy: 2, 157
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+C_Leg_02
+  rotate: true
+  xy: 206, 165
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
+C_Leg_03
+  rotate: true
+  xy: 166, 166
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+C_Leg_04
+  rotate: 270
+  xy: 246, 158
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: false
+  xy: 132, 157
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
