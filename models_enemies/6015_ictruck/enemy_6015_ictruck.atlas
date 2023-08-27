@@ -1,0 +1,174 @@
+
+enemy_6015_ictruck.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Axle
+  rotate: true
+  xy: 500, 313
+  size: 101, 8
+  orig: 101, 8
+  offset: 0, 0
+  index: -1
+C_B_Wheel_1
+  rotate: false
+  xy: 324, 255
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+C_B_Wheel_2
+  rotate: false
+  xy: 324, 255
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+C_B_Wheel_3
+  rotate: false
+  xy: 324, 255
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+C_Car
+  rotate: false
+  xy: 2, 328
+  size: 217, 182
+  orig: 217, 182
+  offset: 0, 0
+  index: -1
+C_Cover_Close
+  rotate: true
+  xy: 390, 345
+  size: 90, 108
+  orig: 90, 108
+  offset: 0, 0
+  index: -1
+C_Cover_Open
+  rotate: false
+  xy: 221, 334
+  size: 103, 28
+  orig: 103, 28
+  offset: 0, 0
+  index: -1
+C_Drone_B
+  rotate: true
+  xy: 456, 316
+  size: 27, 7
+  orig: 27, 7
+  offset: 0, 0
+  index: -1
+C_Drone_F
+  rotate: true
+  xy: 382, 272
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+C_F_Wheel_1
+  rotate: true
+  xy: 456, 238
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+C_F_Wheel_2
+  rotate: true
+  xy: 456, 238
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+C_F_Wheel_3
+  rotate: true
+  xy: 456, 238
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+C_Flag
+  rotate: true
+  xy: 221, 286
+  size: 46, 101
+  orig: 46, 101
+  offset: 0, 0
+  index: -1
+C_Flag_Stick
+  rotate: true
+  xy: 221, 364
+  size: 7, 122
+  orig: 7, 122
+  offset: 0, 0
+  index: -1
+C_IceCream
+  rotate: true
+  xy: 381, 246
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+C_Milk
+  rotate: false
+  xy: 221, 373
+  size: 167, 137
+  orig: 167, 137
+  offset: 0, 0
+  index: -1
+C_Milk_sa
+  rotate: false
+  xy: 390, 437
+  size: 112, 73
+  orig: 112, 73
+  offset: 0, 0
+  index: -1
+C_Milk_sb
+  rotate: true
+  xy: 500, 416
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+C_Smoke_1
+  rotate: false
+  xy: 344, 307
+  size: 35, 11
+  orig: 35, 11
+  offset: 0, 0
+  index: -1
+C_Smoke_2
+  rotate: false
+  xy: 456, 295
+  size: 50, 16
+  orig: 50, 16
+  offset: 0, 0
+  index: -1
+C_Smoke_3
+  rotate: true
+  xy: 326, 306
+  size: 56, 16
+  orig: 56, 16
+  offset: 0, 0
+  index: -1
+C_Wing
+  rotate: false
+  xy: 344, 320
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+C_Wing_2
+  rotate: false
+  xy: 345, 346
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+C_Wing_3
+  rotate: true
+  xy: 465, 319
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
