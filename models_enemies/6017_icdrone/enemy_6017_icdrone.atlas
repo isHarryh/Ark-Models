@@ -1,0 +1,41 @@
+
+enemy_6017_icdrone.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 2
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+C_Body_B
+  rotate: false
+  xy: 2, 99
+  size: 27, 8
+  orig: 27, 8
+  offset: 0, 0
+  index: -1
+C_Circle
+  rotate: false
+  xy: 31, 97
+  size: 44, 10
+  orig: 44, 10
+  offset: 0, 0
+  index: -1
+C_Top_B
+  rotate: false
+  xy: 2, 80
+  size: 71, 15
+  orig: 71, 19
+  offset: 0, 4
+  index: -1
+C_Top_F
+  rotate: false
+  xy: 2, 59
+  size: 71, 19
+  orig: 71, 20
+  offset: 0, 0
+  index: -1

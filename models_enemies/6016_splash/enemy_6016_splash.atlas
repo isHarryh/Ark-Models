@@ -1,0 +1,62 @@
+
+enemy_6016_splash.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_B_Body
+  rotate: false
+  xy: 2, 168
+  size: 256, 196
+  orig: 256, 196
+  offset: 0, 0
+  index: -1
+C_B_Top
+  rotate: true
+  xy: 225, 9
+  size: 255, 81
+  orig: 255, 81
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: 180
+  xy: 233, 260
+  size: 130, 104
+  orig: 130, 104
+  offset: 0, 0
+  index: -1
+C_F_Body
+  rotate: 180
+  xy: 12, 4
+  size: 216, 193
+  orig: 216, 193
+  offset: 0, 0
+  index: -1
+C_L_Rope
+  rotate: false
+  xy: 283, 182
+  size: 74, 70
+  orig: 74, 70
+  offset: 0, 0
+  index: -1
+C_L_Rope_1
+  rotate: true
+  xy: 219, 5
+  size: 85, 27
+  orig: 308, 27
+  offset: 0, 0
+  index: -1
+C_R_Rope
+  rotate: true
+  xy: 297, 123
+  size: 81, 63
+  orig: 99, 63
+  offset: 18, 0
+  index: -1
+C_R_Rope_1
+  rotate: true
+  xy: 302, 8
+  size: 96, 20
+  orig: 96, 20
+  offset: 0, 0
+  index: -1

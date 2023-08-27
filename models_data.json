@@ -11,7 +11,7 @@
         "EnemyElite": "精英敌人",
         "EnemyBoss": "领袖敌人"
     },
-    "gameDataVersionDescription": "Stream://torappu-data/v041/rel41.0\nChange:48629 on 2023/07/26\nVersionControl:41.0.0\n",
+    "gameDataVersionDescription": "Stream://torappu-data/v041/rel41.0\nChange:49119 on 2023/08/09\nVersionControl:41.4.0\n",
     "gameDataServerRegion": "zh_CN",
     "data": {
         "285_medic2": {
@@ -7516,6 +7516,24 @@
                 ".skel": "0d1d3732d1f3605b215bf9624df622a6"
             }
         },
+        "348_ceylon_summer#13": {
+            "assetId": "build_char_348_ceylon_summer#13",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "锡兰",
+            "sortTags": [
+                "Operator",
+                "Skinned"
+            ],
+            "appellation": "Ceylon",
+            "skinGroupId": "2023#summer#3",
+            "skinGroupName": "珊瑚海岸/XIII",
+            "checksum": {
+                ".atlas": "c1d2b0cc5bda1e3859a9428874e2afa2",
+                ".png": "4e8bf0df8828ae57467b9b3091085f25",
+                ".skel": "5ab6a98c7b392a48574232d56f4fc8c1"
+            }
+        },
         "241_panda_marthe#1": {
             "assetId": "build_char_241_panda_marthe#1",
             "type": "Operator",
@@ -9818,6 +9836,24 @@
                 ".atlas": "e349bacaf9aa0102b816202cb366cd0c",
                 ".png": "86996a355988d5c639a5664de474ba51",
                 ".skel": "55c9c53592ca98fa754b77859c062240"
+            }
+        },
+        "4014_lunacu_yun#1": {
+            "assetId": "build_char_4014_lunacu_yun#1",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "子月",
+            "sortTags": [
+                "Operator",
+                "Skinned"
+            ],
+            "appellation": "Lunacub",
+            "skinGroupId": "2023#yun",
+            "skinGroupName": "0011/韵系列/I",
+            "checksum": {
+                ".atlas": "f295458b5804b29d2ac73b6ae2101534",
+                ".png": "4b484e73dadf29a1291fa8a2e074fa2d",
+                ".skel": "9243ac69726ac61460581ecc8c4fa3fe"
             }
         },
         "1007_slime": {
@@ -25022,7 +25058,11 @@
             "appellation": null,
             "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
-            "checksum": null
+            "checksum": {
+                ".atlas": "a84ef96537cf502a79decc33615e1365",
+                ".png": "59f70e0aa5f2441f9f333d083c2e3302",
+                ".skel": "ff8344dbb15990e80004b4a0c4d746d3"
+            }
         },
         "1344_ddlamb_2": {
             "assetId": "enemy_1344_ddlamb_2",
@@ -25036,7 +25076,11 @@
             "appellation": null,
             "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
-            "checksum": null
+            "checksum": {
+                ".atlas": "ca019f6d28045a1628e23c216c42fd90",
+                ".png": "4edaaf7eb6f6d100e9e9a59ef5dfe1dc",
+                ".skel": "db4c799ab2437058dc133d4de791d09d"
+            }
         },
         "1345_tplamb": {
             "assetId": "enemy_1345_tplamb",
@@ -25050,7 +25094,11 @@
             "appellation": null,
             "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
-            "checksum": null
+            "checksum": {
+                ".atlas": "425cee191720915c960b18bf8dc157b9",
+                ".png": "b28e2538b2c9bb118526fb09f75541c0",
+                ".skel": "1a1f0e55b05f91c7cb392023db2a7689"
+            }
         },
         "1345_tplamb_2": {
             "assetId": "enemy_1345_tplamb_2",
@@ -25064,7 +25112,11 @@
             "appellation": null,
             "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
-            "checksum": null
+            "checksum": {
+                ".atlas": "b71cbba3d3aa3b59c1259f20523482fc",
+                ".png": "520b45e5bc61ebb8171906751dae60ae",
+                ".skel": "19073a3c3367d57bda3d66592c775c5a"
+            }
         },
         "1346_ynshp": {
             "assetId": "enemy_1346_ynshp",
@@ -25078,7 +25130,11 @@
             "appellation": null,
             "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
-            "checksum": null
+            "checksum": {
+                ".atlas": "8c41646355c71c6a6522f3aa5eb233f5",
+                ".png": "06c4685a6c7101d8d8c5e853e5cb5c44",
+                ".skel": "17be2d8c00f571a62fd5ca7c9b06f5cd"
+            }
         },
         "1346_ynshp_2": {
             "assetId": "enemy_1346_ynshp_2",
@@ -25092,7 +25148,11 @@
             "appellation": null,
             "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
-            "checksum": null
+            "checksum": {
+                ".atlas": "90fa3b1b6307e40d8c37138461ca3a28",
+                ".png": "68bec0784062fd6ae30c04000151db24",
+                ".skel": "541cc604d478f6c1eeec45dd09a8bf3c"
+            }
         },
         "1347_fyshp": {
             "assetId": "enemy_1347_fyshp",
@@ -25106,7 +25166,11 @@
             "appellation": null,
             "skinGroupId": "EnemyElite",
             "skinGroupName": "精英敌人",
-            "checksum": null
+            "checksum": {
+                ".atlas": "c834c37570bb317bea9e9684f0c8fc3f",
+                ".png": "8839a4f5d4582b027e27c3b9808f3056",
+                ".skel": "48ffd645b68674dccb1f09624ef5071e"
+            }
         },
         "1347_fyshp_2": {
             "assetId": "enemy_1347_fyshp_2",
@@ -25120,7 +25184,11 @@
             "appellation": null,
             "skinGroupId": "EnemyElite",
             "skinGroupName": "精英敌人",
-            "checksum": null
+            "checksum": {
+                ".atlas": "a5d3195bfaac74ac80f725eab5c5741c",
+                ".png": "2c610e4b64d76278f67c88f4c7fbee29",
+                ".skel": "6a9c54390fe6423b4fbcba543b7882f5"
+            }
         },
         "1348_rllamb": {
             "assetId": "enemy_1348_rllamb",
@@ -25134,7 +25202,11 @@
             "appellation": null,
             "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
-            "checksum": null
+            "checksum": {
+                ".atlas": "4e8e9df5e44f44315b543fc553a0e783",
+                ".png": "9f782b90fb7b94c3a79ca6b37a0f79f5",
+                ".skel": "eb817a8139a7680b584193bc6296007c"
+            }
         },
         "1348_rllamb_2": {
             "assetId": "enemy_1348_rllamb_2",
@@ -25148,7 +25220,11 @@
             "appellation": null,
             "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
-            "checksum": null
+            "checksum": {
+                ".atlas": "bfa3c4b40adc9a322b1bd9d308ac27c9",
+                ".png": "c6c1f14617ed4c515bbb7448395ff3fc",
+                ".skel": "e662fb696ee287dcdac6dc49ec98b17f"
+            }
         },
         "1349_rckshp": {
             "assetId": "enemy_1349_rckshp",
@@ -25162,7 +25238,11 @@
             "appellation": null,
             "skinGroupId": "EnemyElite",
             "skinGroupName": "精英敌人",
-            "checksum": null
+            "checksum": {
+                ".atlas": "d2dda5e5d6daa2e8993fb868ffeb221e",
+                ".png": "20e0813158e0fd1e006745976a28cfb0",
+                ".skel": "c640d42822cc5fe1747ff5d2787a2417"
+            }
         },
         "1349_rckshp_2": {
             "assetId": "enemy_1349_rckshp_2",
@@ -25176,7 +25256,11 @@
             "appellation": null,
             "skinGroupId": "EnemyElite",
             "skinGroupName": "精英敌人",
-            "checksum": null
+            "checksum": {
+                ".atlas": "8cb0bfea8df0d71c334e882e0c8e37fd",
+                ".png": "282919741af19d610bd5ed61b2567067",
+                ".skel": "1f46156bd458bd9bd5343ce2f37accb8"
+            }
         },
         "1350_mgcshp": {
             "assetId": "enemy_1350_mgcshp",
@@ -25190,7 +25274,11 @@
             "appellation": null,
             "skinGroupId": "EnemyElite",
             "skinGroupName": "精英敌人",
-            "checksum": null
+            "checksum": {
+                ".atlas": "542ad3c4ed5e4eaf127a080c48a78b35",
+                ".png": "9fb9c0aa3002d3a124f1fb402b01658d",
+                ".skel": "8fed74531a90ed1179e9b29ab7ecb3ce"
+            }
         },
         "1350_mgcshp_2": {
             "assetId": "enemy_1350_mgcshp_2",
@@ -25204,7 +25292,11 @@
             "appellation": null,
             "skinGroupId": "EnemyElite",
             "skinGroupName": "精英敌人",
-            "checksum": null
+            "checksum": {
+                ".atlas": "de1a0c22debfa5b87e7bacef9bee0ab4",
+                ".png": "64ddea32ccb08f7b489307a24e40e98c",
+                ".skel": "8fed74531a90ed1179e9b29ab7ecb3ce"
+            }
         },
         "1351_yhhshp": {
             "assetId": "enemy_1351_yhhshp",
@@ -25218,7 +25310,11 @@
             "appellation": null,
             "skinGroupId": "EnemyElite",
             "skinGroupName": "精英敌人",
-            "checksum": null
+            "checksum": {
+                ".atlas": "a0d29421a0c681b277006fc295b88129",
+                ".png": "ac3274eefeb8ef10c27c1912b8fce4bd",
+                ".skel": "66c95ed5112bd296501ad1fa95ccc775"
+            }
         },
         "1545_shpkg": {
             "assetId": "enemy_1545_shpkg",
@@ -25232,7 +25328,65 @@
             "appellation": null,
             "skinGroupId": "EnemyBoss",
             "skinGroupName": "领袖敌人",
-            "checksum": null
+            "checksum": {
+                ".atlas": "69e7cd6d1c63205370a985bd4d7ffc1e",
+                ".png": "f5eb634de4a5d97218e4734cc380a3b5",
+                ".skel": "5abdee7ec4ae257b37dbe355440e678d"
+            }
+        },
+        "6015_ictruck": {
+            "assetId": "enemy_6015_ictruck",
+            "type": "Enemy",
+            "style": null,
+            "name": "“超甜微笑”",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "checksum": {
+                ".atlas": "c71cc1430ba2f86cf8684baa3e8a0e51",
+                ".png": "07483773a81ec3a871b292fcd687111d",
+                ".skel": "4ef0a4684dbcbc401237a90890e69778"
+            }
+        },
+        "6016_splash": {
+            "assetId": "enemy_6016_splash",
+            "type": "Enemy",
+            "style": null,
+            "name": "干渴者",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "checksum": {
+                ".atlas": "b96ac1fb7a5962671e1e144553dfbc81",
+                ".png": "e4e5ce5362ea283f5abeb56e2c677e41",
+                ".skel": "835b6896e06c7fe9a6d85793d19e377e"
+            }
+        },
+        "6017_icdrone": {
+            "assetId": "enemy_6017_icdrone",
+            "type": "Enemy",
+            "style": null,
+            "name": "甜蜜派送机",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "checksum": {
+                ".atlas": "7f5636ae4298fd859d44d8017a4272ee",
+                ".png": "40f4050282b3037d9e2b79c5b82d4af4",
+                ".skel": "b7cfbabdbe71fdc84d711a38c2e38295"
+            }
         }
     },
     "arkPetsCompatibility": [
