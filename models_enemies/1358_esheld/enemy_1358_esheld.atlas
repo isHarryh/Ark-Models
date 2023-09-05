@@ -1,0 +1,230 @@
+
+enemy_1358_esheld.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Arm_L
+  rotate: false
+  xy: 84, 52
+  size: 43, 68
+  orig: 43, 68
+  offset: 0, 0
+  index: -1
+C_Arm_R
+  rotate: false
+  xy: 82, 321
+  size: 46, 60
+  orig: 46, 60
+  offset: 0, 0
+  index: -1
+C_Calf_L
+  rotate: false
+  xy: 93, 4
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+C_Calf_R
+  rotate: 180
+  xy: 122, 117
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+C_Chest
+  rotate: 270
+  xy: 2, 224
+  size: 106, 91
+  orig: 106, 91
+  offset: 0, 0
+  index: -1
+C_Collar_L
+  rotate: true
+  xy: 129, 72
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+C_Collar_R
+  rotate: false
+  xy: 2, 3
+  size: 89, 47
+  orig: 89, 47
+  offset: 0, 0
+  index: -1
+C_Ear_L
+  rotate: false
+  xy: 153, 292
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+C_Ear_R
+  rotate: false
+  xy: 165, 180
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+C_Finger_R
+  rotate: false
+  xy: 143, 420
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+C_Foot_L
+  rotate: false
+  xy: 137, 475
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+C_Foot_R
+  rotate: true
+  xy: 143, 242
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+C_Forearm_L
+  rotate: false
+  xy: 95, 231
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+C_Forearm_R
+  rotate: true
+  xy: 123, 184
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+C_Hand_L
+  rotate: true
+  xy: 165, 204
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+C_Hand_R
+  rotate: false
+  xy: 142, 383
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: true
+  xy: 2, 52
+  size: 61, 73
+  orig: 61, 73
+  offset: 0, 0
+  index: -1
+C_Head_ACC
+  rotate: false
+  xy: 92, 292
+  size: 59, 27
+  orig: 59, 27
+  offset: 0, 0
+  index: -1
+C_Hip
+  rotate: true
+  xy: 92, 142
+  size: 87, 29
+  orig: 87, 29
+  offset: 0, 0
+  index: -1
+C_Shield
+  rotate: false
+  xy: 2, 325
+  size: 89, 181
+  orig: 89, 181
+  offset: 0, 0
+  index: -1
+C_Shoulder_L
+  rotate: true
+  xy: 133, 10
+  size: 61, 56
+  orig: 61, 56
+  offset: 0, 0
+  index: -1
+C_Shoulder_L_B
+  rotate: false
+  xy: 149, 48
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+C_Shoulder_L_C
+  rotate: false
+  xy: 167, 116
+  size: 15, 37
+  orig: 15, 37
+  offset: 0, 0
+  index: -1
+C_Shoulder_R
+  rotate: false
+  xy: 2, 465
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+C_Shoulder_R_B
+  rotate: false
+  xy: 176, 262
+  size: 13, 36
+  orig: 13, 36
+  offset: 0, 0
+  index: -1
+C_Shoulder_R_C
+  rotate: true
+  xy: 130, 339
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+C_Skirt
+  rotate: true
+  xy: 32, 116
+  size: 112, 58
+  orig: 112, 58
+  offset: 0, 0
+  index: -1
+C_Thigh_L
+  rotate: false
+  xy: 86, 447
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+C_Thigh_R
+  rotate: 180
+  xy: 88, 383
+  size: 53, 61
+  orig: 53, 61
+  offset: 0, 0
+  index: -1
+C_Tube_A
+  rotate: false
+  xy: 134, 159
+  size: 54, 24
+  orig: 54, 25
+  offset: 0, 0
+  index: -1
+C_Tube_B
+  rotate: true
+  xy: 152, 320
+  size: 76, 47
+  orig: 76, 47
+  offset: 0, 0
+  index: -1
+C_Tube_C
+  rotate: false
+  xy: 144, 455
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1

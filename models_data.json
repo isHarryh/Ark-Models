@@ -11,7 +11,7 @@
         "EnemyElite": "精英敌人",
         "EnemyBoss": "领袖敌人"
     },
-    "gameDataVersionDescription": "Stream://torappu-data/v041/rel41.0\nChange:49119 on 2023/08/09\nVersionControl:41.4.0\n",
+    "gameDataVersionDescription": "Stream://torappu-data/v042/rel42.0\nChange:50179 on 2023/08/31\nVersionControl:42.0.0\n",
     "gameDataServerRegion": "zh_CN",
     "data": {
         "285_medic2": {
@@ -3252,6 +3252,23 @@
                 ".skel": "a542bd16faa4c781c46ebae7c8d57565"
             }
         },
+        "4104_coldst": {
+            "assetId": "build_char_4104_coldst",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "冰酿",
+            "sortTags": [
+                "Operator"
+            ],
+            "appellation": "Coldshot",
+            "skinGroupId": "ILLUST",
+            "skinGroupName": "默认服装",
+            "checksum": {
+                ".atlas": "0ab4288352a403dd4f08472ff09167aa",
+                ".png": "e3d36a6a9df043aa86a9270e025ee669",
+                ".skel": "c9f6884ea1c04d11eba16406e5bd3127"
+            }
+        },
         "4015_spuria": {
             "assetId": "build_char_4015_spuria",
             "type": "Operator",
@@ -3301,6 +3318,23 @@
                 ".atlas": "33359ec3c996eef1e2ba3f84c7f03977",
                 ".png": "2729bc1d20fcd52a2c5e7ac44cc01653",
                 ".skel": "59fcc9ce19570f095150c084e9cb30ba"
+            }
+        },
+        "4105_almond": {
+            "assetId": "build_char_4105_almond",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "杏仁",
+            "sortTags": [
+                "Operator"
+            ],
+            "appellation": "Almond",
+            "skinGroupId": "ILLUST",
+            "skinGroupName": "默认服装",
+            "checksum": {
+                ".atlas": "d69a8dcb07b924c59152ca0e9442ec55",
+                ".png": "9679bc16549e14289018e7f1fc7339fb",
+                ".skel": "290cdbd39b0ea7c6864680e9e4b86bcd"
             }
         },
         "174_slbell": {
@@ -4344,11 +4378,11 @@
             "assetId": "build_char_1029_yato2",
             "type": "Operator",
             "style": "BuildingDefault",
-            "name": "麒麟X夜刀",
+            "name": "麒麟R夜刀",
             "sortTags": [
                 "Operator"
             ],
-            "appellation": "Kirin X Yato",
+            "appellation": "Kirin R Yato",
             "skinGroupId": "ILLUST",
             "skinGroupName": "默认服装",
             "checksum": {
@@ -4729,6 +4763,23 @@
                 ".atlas": "ab6962d70c1fa0124a591aa0e9c61960",
                 ".png": "407f03079bbb357961aaeec2900b6b81",
                 ".skel": "facf5ef441e5c9a28051db769f14475c"
+            }
+        },
+        "1034_jesca2": {
+            "assetId": "build_char_1034_jesca2",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "涤火杰西卡",
+            "sortTags": [
+                "Operator"
+            ],
+            "appellation": "Jessica the Liberated",
+            "skinGroupId": "ILLUST",
+            "skinGroupName": "默认服装",
+            "checksum": {
+                ".atlas": "f2e80db9dff4e4cfc90c920139818ab3",
+                ".png": "5a03315fe261f073c58e594d869d6ef4",
+                ".skel": "5a5a5c8d24ca30fd21bfb41b4a6544fe"
             }
         },
         "264_f12yin": {
@@ -7534,6 +7585,24 @@
                 ".skel": "5ab6a98c7b392a48574232d56f4fc8c1"
             }
         },
+        "4054_malist_summer#14": {
+            "assetId": "build_char_4054_malist_summer#14",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "至简",
+            "sortTags": [
+                "Operator",
+                "Skinned"
+            ],
+            "appellation": "Minimalist",
+            "skinGroupId": "2023#summer#4",
+            "skinGroupName": "珊瑚海岸/XIV",
+            "checksum": {
+                ".atlas": "6478133d656f89057738d4510a16288c",
+                ".png": "fa9c1cc0484fb4b09344b4e2d2b6f3fd",
+                ".skel": "66a658a697dcf76b24d901356bfd8fbb"
+            }
+        },
         "241_panda_marthe#1": {
             "assetId": "build_char_241_panda_marthe#1",
             "type": "Operator",
@@ -8558,6 +8627,24 @@
                 ".atlas": "bbc2d6d7011b8605bfe53b27c08ab04a",
                 ".png": "08f80dbcd55180af63548e20de8cab7d",
                 ".skel": "12be0c7c5092a2d0214fd1b58b0bcdbd"
+            }
+        },
+        "2012_typhon_wild#9": {
+            "assetId": "build_char_2012_typhon_wild#9",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "提丰",
+            "sortTags": [
+                "Operator",
+                "Skinned"
+            ],
+            "appellation": "Typhon",
+            "skinGroupId": "2023#wild#3",
+            "skinGroupName": "生命之地/IX",
+            "checksum": {
+                ".atlas": "2ee675fabe82143a93b6b3229e6871b6",
+                ".png": "1a8e0450ce92223b7a424a4ada54c0e3",
+                ".skel": "1a041ca35e02fa7fcb210d10a3f7dde2"
             }
         },
         "219_meteo_sweep#1": {
@@ -9710,6 +9797,60 @@
                 ".atlas": "eaafffb5e8f30cb0c7ebaf6740fcceeb",
                 ".png": "7ac2deea492e93385ae36b0df9082615",
                 ".skel": "d15c75ab9b6a516ea7398d9101a11d28"
+            }
+        },
+        "2023_ling_ncg#1": {
+            "assetId": "build_char_2023_ling_ncg#1",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "令",
+            "sortTags": [
+                "Operator",
+                "Skinned"
+            ],
+            "appellation": "Ling",
+            "skinGroupId": "2023#ncg",
+            "skinGroupName": "国家地理",
+            "checksum": {
+                ".atlas": "308e473283fb3b7ae9a6432e400ddfb8",
+                ".png": "f8e82b7885b1ce6c269174776bd5b366",
+                ".skel": "b783e10133e3e8875525c0a207719e5e"
+            }
+        },
+        "4082_qiubai_ncg#1": {
+            "assetId": "build_char_4082_qiubai_ncg#1",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "仇白",
+            "sortTags": [
+                "Operator",
+                "Skinned"
+            ],
+            "appellation": "Qiubai",
+            "skinGroupId": "2023#ncg",
+            "skinGroupName": "国家地理",
+            "checksum": {
+                ".atlas": "db394c0880505e8fad7f2cc9fe016c6a",
+                ".png": "b4c864768167b24c9e8c92b3600e49f9",
+                ".skel": "59c3107355014f8de8b7a5c5c752f856"
+            }
+        },
+        "106_franka_ncg#1": {
+            "assetId": "build_char_106_franka_ncg#1",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "芙兰卡",
+            "sortTags": [
+                "Operator",
+                "Skinned"
+            ],
+            "appellation": "Franka",
+            "skinGroupId": "2023#ncg",
+            "skinGroupName": "国家地理",
+            "checksum": {
+                ".atlas": "1d264aa23d7f1cce772674a07c5695cd",
+                ".png": "0ed0215b3cec63c7b7158eb67760b68f",
+                ".skel": "cd81e13282b1b2f863a544e22eb65bf8"
             }
         },
         "332_archet_shining#1": {
@@ -25386,6 +25527,312 @@
                 ".atlas": "7f5636ae4298fd859d44d8017a4272ee",
                 ".png": "40f4050282b3037d9e2b79c5b82d4af4",
                 ".skel": "b7cfbabdbe71fdc84d711a38c2e38295"
+            }
+        },
+        "1352_eslime": {
+            "assetId": "enemy_1352_eslime",
+            "type": "Enemy",
+            "style": null,
+            "name": "辐能源石虫",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "checksum": {
+                ".atlas": "1a26520b0d88a3e9e47e387050499f1d",
+                ".png": "24d5b0dcc76e006362fae91cbd62da60",
+                ".skel": "b144703a50fc13e9d215618fd36ff548"
+            }
+        },
+        "1352_eslime_2": {
+            "assetId": "enemy_1352_eslime_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "辐能源石虫·α",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "checksum": {
+                ".atlas": "f6bebb1e76e52ebd1d523a360039c8dd",
+                ".png": "f70044f6f54998bb7e618de99179748f",
+                ".skel": "cafff77b7ca8674b9fb66d72913d1c74"
+            }
+        },
+        "1353_esabr": {
+            "assetId": "enemy_1353_esabr",
+            "type": "Enemy",
+            "style": null,
+            "name": "匪帮混混",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "checksum": {
+                ".atlas": "3e449463b15ab47bbc321ece84a0a9a5",
+                ".png": "4c7ca8691a0d78d7f3aaf1699380d9f3",
+                ".skel": "f36556eee0eaf84372c788fad4088eac"
+            }
+        },
+        "1353_esabr_2": {
+            "assetId": "enemy_1353_esabr_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "匪帮混混头目",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "checksum": {
+                ".atlas": "8b45a84a7438ff3841882209f1b3f7dc",
+                ".png": "985d1f562927e2c3e0c866756bee68cc",
+                ".skel": "187ae7ac2f28b4520496d3316150c512"
+            }
+        },
+        "1354_eghost": {
+            "assetId": "enemy_1354_eghost",
+            "type": "Enemy",
+            "style": null,
+            "name": "匪帮窃贼",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "checksum": {
+                ".atlas": "0a92ba80483c1aafe95130bfb7e22777",
+                ".png": "b98db0255c4eb188d00587b87ddcaddd",
+                ".skel": "16188c90955d7b944561bee95bb1322e"
+            }
+        },
+        "1354_eghost_2": {
+            "assetId": "enemy_1354_eghost_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "匪帮窃贼头目",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "checksum": {
+                ".atlas": "c28a4523a914107684f9feffbd1a3080",
+                ".png": "10e95c831eed57a22faa14687083be80",
+                ".skel": "cd8e01cb92f3c315ca09cdd048dc3a3a"
+            }
+        },
+        "1355_mrfly": {
+            "assetId": "enemy_1355_mrfly",
+            "type": "Enemy",
+            "style": null,
+            "name": "护障",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "checksum": {
+                ".atlas": "4bfd5fa7a7f0ccc1f2d474c0b218f458",
+                ".png": "a0d5b1f7b63d3dbf22289b5f0c298c63",
+                ".skel": "fb980eaeb82b0d5b424a2fea4466628b"
+            }
+        },
+        "1355_mrfly_2": {
+            "assetId": "enemy_1355_mrfly_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "护障·P",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "checksum": {
+                ".atlas": "f265032b64b667945dc57bf2a34da866",
+                ".png": "70fb69276cc6f691838aa70001c01d14",
+                ".skel": "6451bfa527d584c35c0b7df96c976b76"
+            }
+        },
+        "1356_egun": {
+            "assetId": "enemy_1356_egun",
+            "type": "Enemy",
+            "style": null,
+            "name": "匪帮射手",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "checksum": {
+                ".atlas": "25af1cb06d0240e2da9c3aa94d95d7dd",
+                ".png": "ed28f178752c9680e727c88ea784ae14",
+                ".skel": "f149deb88c4d1fd3abf292572d8e9296"
+            }
+        },
+        "1356_egun_2": {
+            "assetId": "enemy_1356_egun_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "匪帮射手头目",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "checksum": {
+                ".atlas": "83dba2b52c98af93ec279b7180a6b140",
+                ".png": "412b0231d6873657144456085645497e",
+                ".skel": "aea0cbd7421d86563943920fca4515d0"
+            }
+        },
+        "1357_erob": {
+            "assetId": "enemy_1357_erob",
+            "type": "Enemy",
+            "style": null,
+            "name": "匪帮斧手",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "checksum": {
+                ".atlas": "2f0c894bd6e030e6c56e72bd1f7228da",
+                ".png": "597d40193fde79a2f619627fd34f1395",
+                ".skel": "591d0373bf01fe91ab7c5fae3d641ba1"
+            }
+        },
+        "1357_erob_2": {
+            "assetId": "enemy_1357_erob_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "匪帮斧手头目",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "checksum": {
+                ".atlas": "4c14cff50bf5c7940b7af42e41555f8a",
+                ".png": "893a5f0ad37c8218c3d238ba9f5716ce",
+                ".skel": "591d0373bf01fe91ab7c5fae3d641ba1"
+            }
+        },
+        "1358_esheld": {
+            "assetId": "enemy_1358_esheld",
+            "type": "Enemy",
+            "style": null,
+            "name": "匪帮防御者",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "checksum": {
+                ".atlas": "6f9882845e5f834dfde6240980310b87",
+                ".png": "65da6927beebf743bae0d5474bc99b8e",
+                ".skel": "a439eca6730b8b50c68ee0997500c43f"
+            }
+        },
+        "1358_esheld_2": {
+            "assetId": "enemy_1358_esheld_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "匪帮防御者头目",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "checksum": {
+                ".atlas": "2f701b899efc0097bb8aa3568ddf4c89",
+                ".png": "ef68c226f7419432ef1644b70a7ff939",
+                ".skel": "f53224431f9b72b879febfbda30452a7"
+            }
+        },
+        "1359_ekulsr": {
+            "assetId": "enemy_1359_ekulsr",
+            "type": "Enemy",
+            "style": null,
+            "name": "匪帮轰击者",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "checksum": {
+                ".atlas": "c679a62679fdb3c584e3fe3e83d42073",
+                ".png": "06aa3bd1f48f592d0de1267bb84ad313",
+                ".skel": "857c0607a170cbdf6de361d896325b70"
+            }
+        },
+        "1359_ekulsr_2": {
+            "assetId": "enemy_1359_ekulsr_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "匪帮轰击者头目",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "checksum": {
+                ".atlas": "c3cd47f8cc07e4e1e3093cb9669dce82",
+                ".png": "a422e4f2e7005ae478f779f345ddc7c7",
+                ".skel": "1c000aa7cccc89036d085b9bb9853a74"
+            }
+        },
+        "1546_cliff": {
+            "assetId": "enemy_1546_cliff",
+            "type": "Enemy",
+            "style": null,
+            "name": "“桥夹”克里夫",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "checksum": {
+                ".atlas": "657232a677fbd6fb30b8c5b963e693ee",
+                ".png": "75aab9eaac2c1b351eb17abf4cb0d92e",
+                ".skel": "51ea3efa680eca81540c0f69cf30e5dc"
             }
         }
     },
