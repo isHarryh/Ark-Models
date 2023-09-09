@@ -1,0 +1,111 @@
+
+enemy_1352_eslime.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 169
+  size: 103, 84
+  orig: 103, 84
+  offset: 0, 0
+  index: -1
+C_Leg_A_1
+  rotate: false
+  xy: 95, 118
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+C_Leg_A_2
+  rotate: true
+  xy: 107, 160
+  size: 33, 60
+  orig: 33, 60
+  offset: 0, 0
+  index: -1
+C_Leg_B_1
+  rotate: true
+  xy: 223, 161
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+C_Leg_B_2
+  rotate: true
+  xy: 107, 195
+  size: 22, 64
+  orig: 22, 64
+  offset: 0, 0
+  index: -1
+C_Leg_C_1
+  rotate: true
+  xy: 2, 132
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+C_Leg_C_2
+  rotate: true
+  xy: 107, 219
+  size: 34, 75
+  orig: 34, 75
+  offset: 0, 0
+  index: -1
+C_Leg_D_1
+  rotate: false
+  xy: 138, 124
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+C_Leg_D_2
+  rotate: true
+  xy: 217, 119
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+C_Leg_E_1
+  rotate: true
+  xy: 95, 138
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+C_Leg_E_2
+  rotate: true
+  xy: 184, 236
+  size: 17, 68
+  orig: 17, 68
+  offset: 0, 0
+  index: -1
+C_Leg_F_1
+  rotate: true
+  xy: 184, 184
+  size: 50, 67
+  orig: 50, 67
+  offset: 0, 0
+  index: -1
+C_Leg_F_2
+  rotate: true
+  xy: 169, 136
+  size: 23, 46
+  orig: 23, 46
+  offset: 0, 0
+  index: -1
+C_Leg_G_2
+  rotate: true
+  xy: 169, 161
+  size: 21, 52
+  orig: 21, 52
+  offset: 0, 0
+  index: -1
+C_V_Leg_1
+  rotate: true
+  xy: 49, 132
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
