@@ -1,0 +1,153 @@
+
+enemy_8006_flmgd.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Belt
+  rotate: false
+  xy: 2, 370
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: false
+  xy: 77, 412
+  size: 92, 78
+  orig: 92, 78
+  offset: 0, 0
+  index: -1
+C_Fire
+  rotate: 270
+  xy: 306, 368
+  size: 76, 81
+  orig: 76, 81
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: true
+  xy: 171, 418
+  size: 72, 68
+  orig: 72, 68
+  offset: 0, 0
+  index: -1
+C_Jx
+  rotate: false
+  xy: 2, 408
+  size: 73, 83
+  orig: 73, 83
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: false
+  xy: 381, 432
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+C_L_Corn
+  rotate: true
+  xy: 438, 435
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: false
+  xy: 81, 345
+  size: 43, 22
+  orig: 43, 22
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: false
+  xy: 157, 368
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 252, 362
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: false
+  xy: 301, 340
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+C_L_Thigh
+  rotate: false
+  xy: 436, 340
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: false
+  xy: 389, 380
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+C_R_Belt
+  rotate: false
+  xy: 241, 400
+  size: 64, 46
+  orig: 64, 46
+  offset: 0, 0
+  index: -1
+C_R_Corn
+  rotate: true
+  xy: 202, 361
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: false
+  xy: 38, 342
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: false
+  xy: 438, 383
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: false
+  xy: 77, 368
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: true
+  xy: 389, 341
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+C_R_Thigh
+  rotate: true
+  xy: 2, 335
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+C_Skirt
+  rotate: false
+  xy: 241, 419
+  size: 139, 71
+  orig: 139, 71
+  offset: 0, 0
+  index: -1
