@@ -1,0 +1,69 @@
+
+enemy_1367_dseed.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Base
+  rotate: true
+  xy: 72, 258
+  size: 145, 25
+  orig: 145, 25
+  offset: 0, 0
+  index: -1
+C_Base_R
+  rotate: true
+  xy: 72, 112
+  size: 145, 25
+  orig: 145, 25
+  offset: 0, 0
+  index: -1
+C_L_Prick
+  rotate: false
+  xy: 71, 44
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+C_M_Prick
+  rotate: false
+  xy: 71, 26
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+C_R_Prick
+  rotate: false
+  xy: 71, 5
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+C_Scabbard
+  rotate: true
+  xy: 2, 67
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+C_Scabbard_R
+  rotate: true
+  xy: 2, 2
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+C_Sword
+  rotate: false
+  xy: 2, 268
+  size: 68, 134
+  orig: 68, 134
+  offset: 0, 0
+  index: -1
+C_Sword_R
+  rotate: false
+  xy: 2, 132
+  size: 68, 134
+  orig: 68, 134
+  offset: 0, 0
+  index: -1
