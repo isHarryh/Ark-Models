@@ -1,0 +1,41 @@
+
+enemy_1360_dfello.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Blood_01
+  rotate: false
+  xy: 2, 64
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+C_Blood_02
+  rotate: false
+  xy: 2, 52
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+C_Body_01
+  rotate: false
+  xy: 2, 51
+  size: 82, 74
+  orig: 82, 74
+  offset: 0, 0
+  index: -1
+C_OralCavity
+  rotate: true
+  xy: 85, 88
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+C_Tooth
+  rotate: false
+  xy: 85, 49
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
