@@ -11,7 +11,7 @@
         "EnemyElite": "精英敌人",
         "EnemyBoss": "领袖敌人"
     },
-    "gameDataVersionDescription": "Stream://torappu-data/v042/rel42.0\nChange:50854 on 2023/09/16\nVersionControl:42.6.0\n",
+    "gameDataVersionDescription": "Stream://torappu-data/v043/rel43.0\nChange:51527 on 2023/09/28\nVersionControl:43.0.0\n",
     "gameDataServerRegion": "zh_CN",
     "data": {
         "285_medic2": {
@@ -144,7 +144,11 @@
             "appellation": "Yato",
             "skinGroupId": "ILLUST",
             "skinGroupName": "默认服装",
-            "checksum": null
+            "checksum": {
+                ".atlas": "5471cf822f383149f8cfa5412e3df31f",
+                ".png": "da875420b42669c7c9718b47d2b35c0f",
+                ".skel": "387b9f70eb119bec6402e741bccaff53"
+            }
         },
         "500_noirc": {
             "assetId": "build_char_500_noirc",
@@ -157,7 +161,11 @@
             "appellation": "Noir Corne",
             "skinGroupId": "ILLUST",
             "skinGroupName": "默认服装",
-            "checksum": null
+            "checksum": {
+                ".atlas": "2a7c1cbb86e36d771ffbc1c357e7a8e4",
+                ".png": "40dcf6a852f468d3757bcf0bf949d776",
+                ".skel": "ccaa27612102d25bb3b7fb6e5a541b42"
+            }
         },
         "503_rang": {
             "assetId": "build_char_503_rang",
@@ -170,7 +178,11 @@
             "appellation": "Rangers",
             "skinGroupId": "ILLUST",
             "skinGroupName": "默认服装",
-            "checksum": null
+            "checksum": {
+                ".atlas": "3438bf9c0399b3ed7ca864a7e1186fec",
+                ".png": "5dd099e4bf2d3bf1f597428550b01513",
+                ".skel": "8fe9929da44bb3eb9da47c0971b17415"
+            }
         },
         "501_durin": {
             "assetId": "build_char_501_durin",
@@ -1410,6 +1422,23 @@
                 ".skel": "0777437b1a61484ca593662bb26f23f9"
             }
         },
+        "4107_vrdant": {
+            "assetId": "build_char_4107_vrdant",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "维荻",
+            "sortTags": [
+                "Operator"
+            ],
+            "appellation": "Verdant",
+            "skinGroupId": "ILLUST",
+            "skinGroupName": "默认服装",
+            "checksum": {
+                ".atlas": "bb23dab02ad7ed5097c95b88d676f2e4",
+                ".png": "ff8793e85334adb9477cb40593eafbe9",
+                ".skel": "c6931db7aae031bec9662cc2250bd6d3"
+            }
+        },
         "128_plosis": {
             "assetId": "build_char_128_plosis",
             "type": "Operator",
@@ -2243,7 +2272,11 @@
             "appellation": "Amiya",
             "skinGroupId": "ILLUST_2",
             "skinGroupName": "默认服装",
-            "checksum": null
+            "checksum": {
+                ".atlas": "ecd47ba83f740f06ab0b80f756296fb8",
+                ".png": "d4910d0ab26c6f4b10c946f3bf413e36",
+                ".skel": "946f4038ca21fe59c8b7f9e78f10792e"
+            }
         },
         "405_absin": {
             "assetId": "build_char_405_absin",
@@ -2460,6 +2493,23 @@
                 ".atlas": "d70a37711b1b4c9a952f649d0afeee37",
                 ".png": "ec8e8dac88c0da8ef5755369a2d54071",
                 ".skel": "755a89ae2e786d312c8ac29c6df44d52"
+            }
+        },
+        "4110_delphn": {
+            "assetId": "build_char_4110_delphn",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "戴菲恩",
+            "sortTags": [
+                "Operator"
+            ],
+            "appellation": "Delphine",
+            "skinGroupId": "ILLUST",
+            "skinGroupName": "默认服装",
+            "checksum": {
+                ".atlas": "db7e52ead04baf151f479d81f6594ac6",
+                ".png": "139432bcb43e2fd0904a6cb0f0f678da",
+                ".skel": "e510a0eec63f44494e92fdf6fbf0a35d"
             }
         },
         "1011_lava2": {
@@ -2745,6 +2795,23 @@
                 ".atlas": "a4aba8daff398b01cb18eeb3629fdb80",
                 ".png": "f5d1b0d341f80dd0a1eec2c24010772c",
                 ".skel": "d2c7a3fca8e4e9e99e8eda895f04ce90"
+            }
+        },
+        "494_vendla": {
+            "assetId": "build_char_494_vendla",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "刺玫",
+            "sortTags": [
+                "Operator"
+            ],
+            "appellation": "Vendela",
+            "skinGroupId": "ILLUST",
+            "skinGroupName": "默认服装",
+            "checksum": {
+                ".atlas": "bd0ed7a12c4b854ff1d8bb99bf51fa30",
+                ".png": "205ef5e0757176b3bbf05e905ee5be3e",
+                ".skel": "169faf272d1d8a1b66bcc26480e96dae"
             }
         },
         "4071_peper": {
@@ -4849,6 +4916,23 @@
                 ".atlas": "3fe346ac8cf0da7c0b94103d21b7bfb8",
                 ".png": "201299e21524b030c866fa6b70d8eff1",
                 ".skel": "2cd77c449bd3b4e07991166beb236f69"
+            }
+        },
+        "4088_hodrer": {
+            "assetId": "build_char_4088_hodrer",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "赫德雷",
+            "sortTags": [
+                "Operator"
+            ],
+            "appellation": "Hoederer",
+            "skinGroupId": "ILLUST",
+            "skinGroupName": "默认服装",
+            "checksum": {
+                ".atlas": "850d9208d0f21fd92529a71e907e684d",
+                ".png": "2e926b532c63beed2cda7d4161f68386",
+                ".skel": "389d3d63d89e702371caa9f3841674e6"
             }
         },
         "010_chen": {
@@ -10015,6 +10099,78 @@
                 ".atlas": "f295458b5804b29d2ac73b6ae2101534",
                 ".png": "4b484e73dadf29a1291fa8a2e074fa2d",
                 ".skel": "9243ac69726ac61460581ecc8c4fa3fe"
+            }
+        },
+        "4048_doroth_witch#4": {
+            "assetId": "build_char_4048_doroth_witch#4",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "多萝西",
+            "sortTags": [
+                "Operator",
+                "Skinned"
+            ],
+            "appellation": "Dorothy",
+            "skinGroupId": "2023#witch",
+            "skinGroupName": "巫异盛宴/IV",
+            "checksum": {
+                ".atlas": "c58a235f7650f1754e205f3e1027140e",
+                ".png": "92d48a289f5a6fa11ade1e6b7fb859a2",
+                ".skel": "7fa8da79e06452deb19daf5d8d3fa916"
+            }
+        },
+        "300_phenxi_witch#4": {
+            "assetId": "build_char_300_phenxi_witch#4",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "菲亚梅塔",
+            "sortTags": [
+                "Operator",
+                "Skinned"
+            ],
+            "appellation": "Fiammetta",
+            "skinGroupId": "2023#witch",
+            "skinGroupName": "巫异盛宴/IV",
+            "checksum": {
+                ".atlas": "1e8e9fb06a8700e52da207caaa587377",
+                ".png": "dea9e7697a52d883fc823a4325465ec8",
+                ".skel": "09b425a9482b522207dde52368cf0d5b"
+            }
+        },
+        "492_quercu_witch#4": {
+            "assetId": "build_char_492_quercu_witch#4",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "夏栎",
+            "sortTags": [
+                "Operator",
+                "Skinned"
+            ],
+            "appellation": "Quercus",
+            "skinGroupId": "2023#witch",
+            "skinGroupName": "巫异盛宴/IV",
+            "checksum": {
+                ".atlas": "591ddee30d5b04d59258d53521a78e39",
+                ".png": "e786ff48064de959bb690f2f027507e8",
+                ".skel": "837c272b8a46caae32d1bb77101f636f"
+            }
+        },
+        "436_whispr_witch#4": {
+            "assetId": "build_char_436_whispr_witch#4",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "絮雨",
+            "sortTags": [
+                "Operator",
+                "Skinned"
+            ],
+            "appellation": "Whisperain",
+            "skinGroupId": "2023#witch",
+            "skinGroupName": "巫异盛宴/IV",
+            "checksum": {
+                ".atlas": "085c0a9bd561fdbeeddc7f37ed404868",
+                ".png": "07150fde2b6d4e29fcd8f68bb0ce25c3",
+                ".skel": "3b0ac4b5d1bc97dac3b65904c650e91e"
             }
         },
         "1007_slime": {
@@ -25219,7 +25375,11 @@
             "appellation": null,
             "skinGroupId": "EnemyNormal",
             "skinGroupName": "普通敌人",
-            "checksum": null
+            "checksum": {
+                ".atlas": "a84ef96537cf502a79decc33615e1365",
+                ".png": "59f70e0aa5f2441f9f333d083c2e3302",
+                ".skel": "ff8344dbb15990e80004b4a0c4d746d3"
+            }
         },
         "1344_ddlamb_2": {
             "assetId": "enemy_1344_ddlamb_2",
@@ -25969,6 +26129,358 @@
                 ".atlas": "71d4f7ac92741def505f4bafc3f8b0d2",
                 ".png": "3c8cac44163a9c832f21ac8dc8cfdebf",
                 ".skel": "9fd35fc421f3ba0fed7d7aea1005a325"
+            }
+        },
+        "1360_dfello": {
+            "assetId": "enemy_1360_dfello",
+            "type": "Enemy",
+            "style": null,
+            "name": "新生血裔",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "checksum": {
+                ".atlas": "a84d23377814cda5cf0f2e5ad7b74f08",
+                ".png": "e89ef1a96ffbe173a3fae4fc3889294d",
+                ".skel": "4de49937d9a97a512614bc738c8aa7c1"
+            }
+        },
+        "1361_dthrow": {
+            "assetId": "enemy_1361_dthrow",
+            "type": "Enemy",
+            "style": null,
+            "name": "萨卡兹子裔轰击者",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "checksum": {
+                ".atlas": "2d13e44976129bea6c40b7abc1ce2781",
+                ".png": "f1a09f1cae14080aeef418e45ae957ec",
+                ".skel": "2d1658e207a249ca021a0c633a5915ca"
+            }
+        },
+        "1361_dthrow_2": {
+            "assetId": "enemy_1361_dthrow_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "萨卡兹子裔毁击者",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "checksum": {
+                ".atlas": "14bb8b4b41fc31520ac61f79e243ae9b",
+                ".png": "3c6348a7c57aa84cde74ab39deca1d65",
+                ".skel": "9b3e63938ee77135554b97d2f3d8fd93"
+            }
+        },
+        "1362_dfat": {
+            "assetId": "enemy_1362_dfat",
+            "type": "Enemy",
+            "style": null,
+            "name": "萨卡兹子裔责罚者",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "checksum": {
+                ".atlas": "8fa03a5b9e0713e70e88662d8adc4324",
+                ".png": "4662b68d23c1122bf03770e5ec170d90",
+                ".skel": "a619a8e9d31ac56394359b86fccdc166"
+            }
+        },
+        "1362_dfat_2": {
+            "assetId": "enemy_1362_dfat_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "萨卡兹子裔惩戒者",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "checksum": {
+                ".atlas": "325db578a517260796135467353d9b88",
+                ".png": "bafe3741d48ba2a5a7d69547ca433e93",
+                ".skel": "55ca13089b0ddcd5e11bdb8d96ca8ee6"
+            }
+        },
+        "1363_spnshd": {
+            "assetId": "enemy_1363_spnshd",
+            "type": "Enemy",
+            "style": null,
+            "name": "萨卡兹骸骨卫士",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "checksum": {
+                ".atlas": "2e6582cd7213bb85893660edd7152dc9",
+                ".png": "6873720da8389478aa472d52591d7899",
+                ".skel": "3b41b052c6df05c81539c5462f37c4e3"
+            }
+        },
+        "1363_spnshd_2": {
+            "assetId": "enemy_1363_spnshd_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "萨卡兹骸骨卫士长",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "checksum": {
+                ".atlas": "f7139f45b6099f0e1341985121f72ad7",
+                ".png": "b2d60d7fc08dde5c6d98275b9eb8a161",
+                ".skel": "f2fbd13e328f03cbc90091fbedc5ebbc"
+            }
+        },
+        "1364_spnaxe": {
+            "assetId": "enemy_1364_spnaxe",
+            "type": "Enemy",
+            "style": null,
+            "name": "萨卡兹骸骨鞭笞者",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "checksum": {
+                ".atlas": "92ef7e95ad86f17a26ec7c7ad47bb95a",
+                ".png": "0815565bff847c16b10b0a1232c7507d",
+                ".skel": "6ba877643474dc9a0433ca51f5541d23"
+            }
+        },
+        "1364_spnaxe_2": {
+            "assetId": "enemy_1364_spnaxe_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "萨卡兹骸骨拷打者",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "checksum": {
+                ".atlas": "a226ced25e81aea83eb9c2ffc237bd61",
+                ".png": "d42af7496f8947f851fa598531214a07",
+                ".skel": "6ba877643474dc9a0433ca51f5541d23"
+            }
+        },
+        "1365_spnwiz": {
+            "assetId": "enemy_1365_spnwiz",
+            "type": "Enemy",
+            "style": null,
+            "name": "萨卡兹骸骨漂泊术师",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "checksum": {
+                ".atlas": "013ca205142dece139cefa93fcaffebf",
+                ".png": "b29b9b754ff43c74eece2be0effc7f1b",
+                ".skel": "47a1e044e614db7918b9093131961da1"
+            }
+        },
+        "1365_spnwiz_2": {
+            "assetId": "enemy_1365_spnwiz_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "萨卡兹骸骨漂泊术师长",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "checksum": {
+                ".atlas": "e002ddab2c7aec8028944ceba4040a99",
+                ".png": "4e1a708fa39a705c3e642d4025b0cbcd",
+                ".skel": "47a1e044e614db7918b9093131961da1"
+            }
+        },
+        "1366_dcolle": {
+            "assetId": "enemy_1366_dcolle",
+            "type": "Enemy",
+            "style": null,
+            "name": "萨卡兹敛血行者",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "checksum": {
+                ".atlas": "c8287d3c930cae1a3d55331e16566e72",
+                ".png": "51fa0706f0d6c1e287f9deefcee5397d",
+                ".skel": "64e217be64c585c80494f7a8350a48f1"
+            }
+        },
+        "1366_dcolle_2": {
+            "assetId": "enemy_1366_dcolle_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "萨卡兹萃血行者",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "checksum": {
+                ".atlas": "4d45e03c14721f2d68aa3c721f4a014f",
+                ".png": "e4ca5ee65bf141998263c91805e7cc5c",
+                ".skel": "183b819c9e9d8386a5065888a2257297"
+            }
+        },
+        "1367_dseed": {
+            "assetId": "enemy_1367_dseed",
+            "type": "Enemy",
+            "style": null,
+            "name": "血珀",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "checksum": {
+                ".atlas": "aa6bc2c401b99bce46ca82615e60fee7",
+                ".png": "8577b993c3dfc67d7bf56439a63d00ad",
+                ".skel": "af065f6c64f67d851421b147a1f63091"
+            }
+        },
+        "1368_spilot": {
+            "assetId": "enemy_1368_spilot",
+            "type": "Enemy",
+            "style": null,
+            "name": "指挥官厄尔苏拉",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "checksum": {
+                ".atlas": "b7e90637d16be3de4ca026dfd41f0b73",
+                ".png": "1139899c63765bb19151165465b43b20",
+                ".skel": "27ea277d3d94c63c47bcd4554d6403ff"
+            }
+        },
+        "1369_bmbcar1": {
+            "assetId": "enemy_1369_bmbcar1",
+            "type": "Enemy",
+            "style": null,
+            "name": "反巫术变位炸弹",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "checksum": {
+                ".atlas": "46f7476b399f7596f3c7a8222664b3b8",
+                ".png": "ed206d891917a0d0e87ff76bf1dc22ac",
+                ".skel": "5d5e183bc25311d2814326f99809aa2d"
+            }
+        },
+        "1370_bmbcar2": {
+            "assetId": "enemy_1370_bmbcar2",
+            "type": "Enemy",
+            "style": null,
+            "name": "反巫术变位炸弹",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "checksum": null
+        },
+        "1547_blord": {
+            "assetId": "enemy_1547_blord",
+            "type": "Enemy",
+            "style": null,
+            "name": "杜卡雷，“君主之红”",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "checksum": {
+                ".atlas": "7358e8dc0e270aef5e9ed424e6658443",
+                ".png": "bb29186ad7e6f5cc5770f2ff6eb43dd0",
+                ".skel": "4b84509ecd8d81c51597f91004d0d982"
+            }
+        },
+        "1547_blord_2": {
+            "assetId": "enemy_1547_blord_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "杜卡雷，“君主之红”",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "checksum": null
+        },
+        "2062_smcar": {
+            "assetId": "enemy_2062_smcar",
+            "type": "Enemy",
+            "style": null,
+            "name": "勘察用自走车",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "checksum": {
+                ".atlas": "7e63aba119a5d0567c66e0891bccf7b0",
+                ".png": "59568275f5b2bdeb76127830b7743e6a",
+                ".skel": "156e8c8796d19c01a94b53a838e6cb6b"
             }
         }
     },

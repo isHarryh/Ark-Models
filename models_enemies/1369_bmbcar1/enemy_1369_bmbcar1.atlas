@@ -1,0 +1,83 @@
+
+enemy_1369_bmbcar1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Base
+  rotate: true
+  xy: 223, 270
+  size: 81, 41
+  orig: 81, 41
+  offset: 0, 0
+  index: -1
+C_Base_1
+  rotate: false
+  xy: 121, 257
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+C_Base_2
+  rotate: false
+  xy: 292, 372
+  size: 141, 100
+  orig: 141, 100
+  offset: 0, 0
+  index: -1
+C_Base_3
+  rotate: false
+  xy: 2, 363
+  size: 153, 109
+  orig: 153, 109
+  offset: 0, 0
+  index: -1
+C_Base_4
+  rotate: false
+  xy: 157, 353
+  size: 133, 119
+  orig: 133, 119
+  offset: 0, 0
+  index: -1
+C_Base_B
+  rotate: true
+  xy: 2, 280
+  size: 81, 117
+  orig: 81, 117
+  offset: 0, 0
+  index: -1
+C_Base_I
+  rotate: true
+  xy: 2, 259
+  size: 19, 110
+  orig: 19, 110
+  offset: 0, 0
+  index: -1
+C_Base_M
+  rotate: false
+  xy: 435, 372
+  size: 27, 95
+  orig: 27, 95
+  offset: 0, 0
+  index: -1
+C_Bomb
+  rotate: false
+  xy: 417, 313
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+C_Cage
+  rotate: false
+  xy: 292, 276
+  size: 123, 94
+  orig: 123, 94
+  offset: 0, 0
+  index: -1
+C_Cage_B
+  rotate: false
+  xy: 266, 258
+  size: 57, 16
+  orig: 57, 16
+  offset: 0, 0
+  index: -1
