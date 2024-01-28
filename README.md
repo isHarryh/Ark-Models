@@ -7,7 +7,7 @@ Arknights Spine Models (Excerpt)
 
 ## 状态
 当前更新至：
-- 活动 **崔林特尔梅之金** 中新增的干员、时装
+- 活动 **登临意（复刻）** 中新增的干员、时装
 
 此仓库收集了中国服《明日方舟》中的部分Spine模型文件，包括：
 | 文件夹           | 内 容           |
@@ -20,14 +20,16 @@ Arknights Spine Models (Excerpt)
 
 ## 下载
 可以通过点击页面右上角绿色的 `Code` 按钮选择 `Download ZIP` 来下载本仓库。  
-压缩包大小约为 130+MB (压缩率约为57%)，GitHub主站的下载速度可能比较慢，您也可以更换线路下载：  
-- [线路一: GitHub](https://github.com/isHarryh/Ark-Models/archive/refs/heads/main.zip)
-- [线路二: FastGit](https://download.fastgit.org/isHarryh/Ark-Models/archive/refs/heads/main.zip)
-- [线路三: GHProxy](https://ghproxy.com/?q=https%3A%2F%2Fgithub.com%2FisHarryh%2FArk-Models%2Farchive%2Frefs%2Fheads%2Fmain.zip)
+压缩包大小约为 160+MB ，GitHub主站的下载速度可能比较慢，您也可以更换线路下载：  
+- [从GitHub下载](https://github.com/isHarryh/Ark-Models/archive/refs/heads/main.zip)
+- [从代理源下载](https://ghproxy.harryh.cn/?q=https%3A%2F%2Fgithub.com%2FisHarryh%2FArk-Models%2Farchive%2Frefs%2Fheads%2Fmain.zip)
 
 ## 格式说明
 Spine模型所用运行时版本为 3.8，一套Spine模型通常由atlas文件、skel文件、png图片组成。  
 本仓库中，不同的Spine模型会分别存放到不同的子目录中，根目录的 `models_data.json` 文件中记录了每个模型的具体信息。
+
+> 重要变更：  
+> 自《明日方舟》2.1.41版本起，新增的模型在渲染时需要禁用 `Premultiplied Alpha`，否则可能导致Alpha图层纹理异常。
 
 ## 版权声明
 本仓库中所有素材其版权归属 [**上海鹰角网络有限公司**](https://www.hypergryph.com) 所有，请在合理的范围内使用这些素材。尤其不得用于商业用途，不得损害版权方的利益。

@@ -1,0 +1,237 @@
+
+enemy_1381_winman.png
+size: 252,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chest_A
+  rotate: false
+  xy: 27, 3
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+Chest_B
+  rotate: false
+  xy: 181, 148
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Chest_C
+  rotate: true
+  xy: 98, 4
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+Chest_D
+  rotate: false
+  xy: 112, 112
+  size: 58, 28
+  orig: 58, 28
+  offset: 0, 0
+  index: -1
+Chest_E
+  rotate: true
+  xy: 224, 20
+  size: 56, 13
+  orig: 56, 13
+  offset: 0, 0
+  index: -1
+Chest_F
+  rotate: false
+  xy: 178, 115
+  size: 72, 27
+  orig: 72, 27
+  offset: 0, 0
+  index: -1
+Chest_G
+  rotate: false
+  xy: 73, 177
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+Chest_H
+  rotate: true
+  xy: 129, 141
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+Chest_I
+  rotate: true
+  xy: 2, 14
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Chest_J
+  rotate: false
+  xy: 2, 141
+  size: 70, 32
+  orig: 70, 32
+  offset: 0, 0
+  index: -1
+Foot_L_A
+  rotate: false
+  xy: 71, 28
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+Foot_L_B
+  rotate: false
+  xy: 215, 78
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+Foot_L_C
+  rotate: false
+  xy: 73, 123
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1
+Foot_R_A
+  rotate: false
+  xy: 143, 26
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+Foot_R_B
+  rotate: true
+  xy: 2, 68
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+Foot_R_C
+  rotate: true
+  xy: 2, 103
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+Hand_L_A
+  rotate: false
+  xy: 112, 22
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Hand_L_B
+  rotate: true
+  xy: 153, 49
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+Hand_L_C
+  rotate: false
+  xy: 40, 53
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+Hand_L_D
+  rotate: true
+  xy: 76, 50
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+Hand_L_E
+  rotate: true
+  xy: 189, 47
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Hand_R_A
+  rotate: false
+  xy: 117, 54
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+Hand_R_Ab
+  rotate: true
+  xy: 178, 79
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Hand_R_B
+  rotate: true
+  xy: 37, 24
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+Hand_R_C
+  rotate: false
+  xy: 183, 19
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+Hand_R_D
+  rotate: false
+  xy: 2, 39
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+Head_A
+  rotate: false
+  xy: 71, 5
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+Head_B
+  rotate: false
+  xy: 133, 191
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+Head_C
+  rotate: false
+  xy: 2, 175
+  size: 69, 57
+  orig: 69, 57
+  offset: 0, 0
+  index: -1
+Head_D
+  rotate: false
+  xy: 213, 155
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: false
+  xy: 117, 89
+  size: 60, 21
+  orig: 60, 21
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: 180
+  xy: 55, 83
+  size: 61, 44
+  orig: 61, 44
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: true
+  xy: 201, 177
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1

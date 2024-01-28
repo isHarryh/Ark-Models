@@ -1,0 +1,153 @@
+
+enemy_2060_smshdw.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Arm_Fire
+  rotate: false
+  xy: 162, 224
+  size: 86, 30
+  orig: 86, 30
+  offset: 0, 0
+  index: -1
+C_Chest
+  rotate: false
+  xy: 85, 37
+  size: 37, 59
+  orig: 37, 59
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 162, 103
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+C_Head_Fire_L
+  rotate: true
+  xy: 124, 39
+  size: 57, 37
+  orig: 57, 37
+  offset: 0, 0
+  index: -1
+C_Head_Fire_R
+  rotate: true
+  xy: 185, 22
+  size: 70, 56
+  orig: 70, 56
+  offset: 0, 0
+  index: -1
+C_L_Arm_1
+  rotate: true
+  xy: 93, 8
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+C_L_Arm_2
+  rotate: false
+  xy: 132, 136
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 27, 2
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+C_L_Hand_Finger
+  rotate: true
+  xy: 28, 225
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: false
+  xy: 50, 175
+  size: 110, 79
+  orig: 110, 79
+  offset: 0, 0
+  index: -1
+C_R_Arm_1
+  rotate: false
+  xy: 28, 188
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+C_R_Arm_2
+  rotate: true
+  xy: 2, 2
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: false
+  xy: 28, 165
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+C_R_Hand_Finger
+  rotate: true
+  xy: 28, 238
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: false
+  xy: 162, 142
+  size: 81, 80
+  orig: 81, 80
+  offset: 0, 0
+  index: -1
+C_Sheild
+  rotate: false
+  xy: 201, 94
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+C_Sheild_Fire
+  rotate: true
+  xy: 50, 98
+  size: 75, 80
+  orig: 75, 80
+  offset: 0, 0
+  index: -1
+C_Sheild_Fire_L
+  rotate: false
+  xy: 129, 2
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+C_Waist
+  rotate: true
+  xy: 28, 35
+  size: 61, 55
+  orig: 61, 55
+  offset: 0, 0
+  index: -1
+C_Weapon
+  rotate: false
+  xy: 2, 28
+  size: 24, 226
+  orig: 24, 226
+  offset: 0, 0
+  index: -1
+C_Weapon_Fire
+  rotate: true
+  xy: 50, 2
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
