@@ -1,0 +1,153 @@
+
+enemy_1385_winbom.png
+size: 300,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_B_P
+  rotate: true
+  xy: 2, 16
+  size: 61, 102
+  orig: 61, 103
+  offset: 0, 0
+  index: -1
+C_B_Ps
+  rotate: false
+  xy: 2, 172
+  size: 82, 119
+  orig: 82, 119
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: false
+  xy: 2, 80
+  size: 86, 91
+  orig: 86, 91
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: true
+  xy: 201, 182
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+C_Heads
+  rotate: 270
+  xy: 87, 62
+  size: 118, 86
+  orig: 118, 86
+  offset: 0, 0
+  index: -1
+C_Hip
+  rotate: false
+  xy: 106, 4
+  size: 83, 57
+  orig: 83, 57
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: false
+  xy: 191, 38
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: false
+  xy: 218, 94
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: 270
+  xy: 233, 240
+  size: 51, 47
+  orig: 51, 47
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 232, 60
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: true
+  xy: 154, 244
+  size: 47, 52
+  orig: 47, 52
+  offset: 0, 0
+  index: -1
+C_L_Thigh
+  rotate: false
+  xy: 173, 94
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: true
+  xy: 89, 161
+  size: 34, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1
+C_R_Finger
+  rotate: true
+  xy: 270, 99
+  size: 29, 25
+  orig: 29, 27
+  offset: 0, 1
+  index: -1
+C_R_Foot
+  rotate: true
+  xy: 248, 130
+  size: 48, 34
+  orig: 50, 34
+  offset: 1, 0
+  index: -1
+C_R_Forearm
+  rotate: false
+  xy: 252, 198
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: 270
+  xy: 221, 11
+  size: 43, 52
+  orig: 43, 52
+  offset: 0, 0
+  index: -1
+C_R_Palm
+  rotate: true
+  xy: 270, 59
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+C_R_Thigh
+  rotate: 180
+  xy: 153, 182
+  size: 46, 59
+  orig: 46, 59
+  offset: 0, 0
+  index: -1
+C_Weapon
+  rotate: true
+  xy: 86, 197
+  size: 94, 66
+  orig: 94, 66
+  offset: 0, 0
+  index: -1
+C_Weapon_1
+  rotate: 180
+  xy: 171, 153
+  size: 79, 109
+  orig: 79, 109
+  offset: 0, 0
+  index: -1
