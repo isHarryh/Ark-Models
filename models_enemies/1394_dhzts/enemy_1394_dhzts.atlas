@@ -1,0 +1,139 @@
+
+enemy_1394_dhzts.png
+size: 252,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_B_Foot_A
+  rotate: 180
+  xy: 170, 12
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+C_B_Foot_B
+  rotate: 270
+  xy: 57, 9
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+C_B_Leg_A
+  rotate: false
+  xy: 206, 121
+  size: 44, 61
+  orig: 44, 61
+  offset: 0, 0
+  index: -1
+C_B_Leg_B
+  rotate: false
+  xy: 179, 63
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: false
+  xy: 2, 118
+  size: 190, 112
+  orig: 190, 112
+  offset: 0, 0
+  index: -1
+C_Eye_Close
+  rotate: false
+  xy: 2, 212
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+C_Eye_Open
+  rotate: false
+  xy: 24, 137
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+C_F_Foot_A
+  rotate: false
+  xy: 134, 4
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+C_F_Foot_B
+  rotate: false
+  xy: 213, 3
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+C_F_Leg_A
+  rotate: false
+  xy: 17, 23
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+C_F_Leg_B
+  rotate: false
+  xy: 139, 77
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: true
+  xy: 2, 35
+  size: 97, 124
+  orig: 97, 124
+  offset: 0, 0
+  index: -1
+C_L_Ear
+  rotate: false
+  xy: 208, 28
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+C_R_Ear
+  rotate: true
+  xy: 188, 202
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+C_Rib_A
+  rotate: 270
+  xy: 98, 42
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+C_Rib_B
+  rotate: 270
+  xy: 84, 16
+  size: 29, 60
+  orig: 29, 60
+  offset: 0, 0
+  index: -1
+C_Rib_C
+  rotate: false
+  xy: 176, 134
+  size: 73, 88
+  orig: 73, 88
+  offset: 0, 0
+  index: -1
+C_Rope
+  rotate: 180
+  xy: 162, 33
+  size: 87, 80
+  orig: 87, 80
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: 270
+  xy: 2, 173
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1

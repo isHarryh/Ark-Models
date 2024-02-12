@@ -1,0 +1,69 @@
+
+enemy_1393_dhele.png
+size: 228,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 82
+  size: 122, 120
+  orig: 122, 120
+  offset: 0, 0
+  index: -1
+C_Nose
+  rotate: true
+  xy: 52, 38
+  size: 165, 120
+  orig: 165, 120
+  offset: 0, 0
+  index: -1
+C_Rock
+  rotate: false
+  xy: 105, 103
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+C_TenTacle_A
+  rotate: 180
+  xy: 5, 3
+  size: 101, 71
+  orig: 101, 71
+  offset: 0, 0
+  index: -1
+C_TenTacle_B
+  rotate: 270
+  xy: 89, 8
+  size: 37, 95
+  orig: 37, 95
+  offset: 0, 0
+  index: -1
+C_TenTacle_C
+  rotate: false
+  xy: 169, 44
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1
+C_TenTacle_D
+  rotate: false
+  xy: 170, 97
+  size: 39, 78
+  orig: 39, 78
+  offset: 0, 0
+  index: -1
+C_TenTacle_E
+  rotate: 180
+  xy: 172, 4
+  size: 51, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+C_TenTacle_F
+  rotate: true
+  xy: 167, 131
+  size: 71, 52
+  orig: 71, 52
+  offset: 0, 0
+  index: -1

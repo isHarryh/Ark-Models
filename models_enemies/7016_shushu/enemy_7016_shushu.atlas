@@ -1,0 +1,76 @@
+
+enemy_7016_shushu.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 20
+  size: 122, 63
+  orig: 123, 63
+  offset: 1, 0
+  index: -1
+C_Ear_L
+  rotate: 180
+  xy: 113, 12
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+C_Ear_R
+  rotate: 270
+  xy: 2, 11
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+C_Horn
+  rotate: true
+  xy: 86, 9
+  size: 5, 29
+  orig: 5, 29
+  offset: 0, 0
+  index: -1
+C_Leg_01
+  rotate: true
+  xy: 168, 8
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+C_Leg_02
+  rotate: 180
+  xy: 159, 57
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+C_Leg_03
+  rotate: true
+  xy: 109, 46
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+C_Leg_04
+  rotate: false
+  xy: 142, 6
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+C_Line_01
+  rotate: 270
+  xy: 50, 3
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: 180
+  xy: 145, 34
+  size: 69, 49
+  orig: 69, 49
+  offset: 0, 0
+  index: -1

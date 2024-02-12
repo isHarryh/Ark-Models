@@ -1,0 +1,83 @@
+
+enemy_7021_xbmoth.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 96
+  size: 126, 61
+  orig: 126, 61
+  offset: 0, 0
+  index: -1
+C_Foot_L
+  rotate: false
+  xy: 2, 22
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+C_Foot_R
+  rotate: false
+  xy: 32, 104
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 80, 24
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+C_Horn_L
+  rotate: 180
+  xy: 149, 7
+  size: 52, 40
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+C_Horn_R
+  rotate: 270
+  xy: 105, 3
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+C_Neck
+  rotate: false
+  xy: 127, 93
+  size: 69, 64
+  orig: 70, 64
+  offset: 1, 0
+  index: -1
+C_Wing_01
+  rotate: false
+  xy: 2, 49
+  size: 97, 52
+  orig: 97, 52
+  offset: 0, 0
+  index: -1
+C_Wing_04
+  rotate: false
+  xy: 2, 30
+  size: 74, 17
+  orig: 74, 17
+  offset: 0, 0
+  index: -1
+C_Wing_06
+  rotate: 270
+  xy: 2, 60
+  size: 62, 28
+  orig: 62, 28
+  offset: 0, 0
+  index: -1
+C_Wing_07
+  rotate: false
+  xy: 100, 46
+  size: 100, 51
+  orig: 100, 51
+  offset: 0, 0
+  index: -1

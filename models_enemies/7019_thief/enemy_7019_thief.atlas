@@ -1,0 +1,223 @@
+
+enemy_7019_thief.png
+size: 228,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: true
+  xy: 132, 156
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+C_Box_d
+  rotate: false
+  xy: 62, 101
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+C_Box_u
+  rotate: true
+  xy: 191, 170
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: true
+  xy: 78, 159
+  size: 56, 52
+  orig: 56, 53
+  offset: 0, 1
+  index: -1
+C_Hip
+  rotate: true
+  xy: 200, 49
+  size: 51, 21
+  orig: 51, 21
+  offset: 0, 0
+  index: -1
+C_Hood_F
+  rotate: 270
+  xy: 99, 94
+  size: 64, 70
+  orig: 64, 70
+  offset: 0, 0
+  index: -1
+C_L_Bag
+  rotate: true
+  xy: 2, 30
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+C_L_Bag_1
+  rotate: true
+  xy: 170, 102
+  size: 52, 45
+  orig: 52, 46
+  offset: 0, 1
+  index: -1
+C_L_Collar
+  rotate: false
+  xy: 140, 10
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+C_L_Ear
+  rotate: false
+  xy: 2, 123
+  size: 59, 27
+  orig: 59, 27
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: true
+  xy: 177, 29
+  size: 40, 20
+  orig: 41, 20
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: true
+  xy: 2, 60
+  size: 33, 35
+  orig: 35, 35
+  offset: 2, 0
+  index: -1
+C_L_Hand
+  rotate: true
+  xy: 75, 35
+  size: 28, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+C_L_Hood
+  rotate: false
+  xy: 2, 151
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: 270
+  xy: 84, 65
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+C_L_Thigh
+  rotate: true
+  xy: 35, 31
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: false
+  xy: 199, 14
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+C_R_Ear
+  rotate: false
+  xy: 2, 95
+  size: 55, 26
+  orig: 55, 26
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: false
+  xy: 63, 14
+  size: 40, 19
+  orig: 41, 19
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: false
+  xy: 39, 60
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+C_R_Index
+  rotate: false
+  xy: 2, 153
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: true
+  xy: 157, 71
+  size: 29, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+C_R_Middle
+  rotate: false
+  xy: 141, 82
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+C_R_Palm
+  rotate: false
+  xy: 35, 7
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+C_R_Ring
+  rotate: false
+  xy: 132, 203
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+C_R_Tail
+  rotate: false
+  xy: 190, 158
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+C_R_Thigh
+  rotate: 270
+  xy: 111, 20
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+C_R_Thumb
+  rotate: false
+  xy: 45, 203
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: false
+  xy: 66, 138
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+C_scarf
+  rotate: false
+  xy: 118, 43
+  size: 58, 37
+  orig: 58, 37
+  offset: 0, 0
+  index: -1
+C_turban
+  rotate: true
+  xy: 2, 3
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
