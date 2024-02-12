@@ -1,0 +1,83 @@
+
+enemy_7018_scarab.png
+size: 240,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_B_Leg
+  rotate: true
+  xy: 2, 90
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: true
+  xy: 2, 52
+  size: 67, 101
+  orig: 67, 101
+  offset: 0, 0
+  index: -1
+C_Body_1
+  rotate: 180
+  xy: 207, 145
+  size: 29, 79
+  orig: 29, 79
+  offset: 0, 0
+  index: -1
+C_Q_1
+  rotate: false
+  xy: 2, 121
+  size: 102, 103
+  orig: 102, 103
+  offset: 0, 0
+  index: -1
+C_Q_2
+  rotate: false
+  xy: 65, 14
+  size: 85, 42
+  orig: 85, 42
+  offset: 0, 0
+  index: -1
+C_Q_3
+  rotate: true
+  xy: 152, 29
+  size: 27, 72
+  orig: 27, 72
+  offset: 0, 0
+  index: -1
+C_Q_4
+  rotate: true
+  xy: 106, 58
+  size: 62, 85
+  orig: 62, 85
+  offset: 0, 0
+  index: -1
+C_Q_5
+  rotate: false
+  xy: 196, 100
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+C_Q_6
+  rotate: true
+  xy: 193, 76
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+C_Q_7
+  rotate: true
+  xy: 106, 122
+  size: 102, 100
+  orig: 102, 100
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: false
+  xy: 2, 3
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1

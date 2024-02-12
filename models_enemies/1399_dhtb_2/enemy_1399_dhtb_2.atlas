@@ -1,0 +1,41 @@
+
+enemy_1399_dhtb_2.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_Body
+  rotate: false
+  xy: 2, 29
+  size: 73, 60
+  orig: 73, 60
+  offset: 0, 0
+  index: -1
+F_Glow
+  rotate: true
+  xy: 100, 49
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+F_HeadLight
+  rotate: false
+  xy: 100, 33
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+F_Wing_A
+  rotate: true
+  xy: 78, 12
+  size: 77, 20
+  orig: 78, 20
+  offset: 0, 0
+  index: -1
+F_Wing_B
+  rotate: false
+  xy: 2, 2
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

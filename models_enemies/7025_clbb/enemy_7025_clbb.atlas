@@ -1,0 +1,174 @@
+
+enemy_7025_clbb.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_Body_A
+  rotate: false
+  xy: 2, 85
+  size: 36, 32
+  orig: 37, 32
+  offset: 1, 0
+  index: -1
+F_Body_B
+  rotate: true
+  xy: 158, 90
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+F_Body_C
+  rotate: 270
+  xy: 40, 74
+  size: 17, 69
+  orig: 17, 69
+  offset: 0, 0
+  index: -1
+F_Body_D
+  rotate: true
+  xy: 2, 31
+  size: 20, 67
+  orig: 20, 67
+  offset: 0, 0
+  index: -1
+F_Head
+  rotate: false
+  xy: 2, 119
+  size: 66, 59
+  orig: 66, 59
+  offset: 0, 0
+  index: -1
+F_L_Arm
+  rotate: true
+  xy: 45, 47
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+F_L_Calf
+  rotate: false
+  xy: 112, 129
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+F_L_Finger_A
+  rotate: false
+  xy: 68, 13
+  size: 13, 15
+  orig: 13, 16
+  offset: 0, 1
+  index: -1
+F_L_Finger_B
+  rotate: false
+  xy: 84, 63
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+F_L_Foot
+  rotate: false
+  xy: 2, 11
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+F_L_Forearm
+  rotate: false
+  xy: 39, 3
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+F_L_Leg
+  rotate: true
+  xy: 111, 58
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+F_L_Palm
+  rotate: true
+  xy: 176, 26
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+F_Mouth
+  rotate: false
+  xy: 94, 68
+  size: 12, 4
+  orig: 12, 4
+  offset: 0, 0
+  index: -1
+F_R_Arm
+  rotate: false
+  xy: 119, 89
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+F_R_Calf
+  rotate: false
+  xy: 70, 130
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+F_R_Foot
+  rotate: 180
+  xy: 112, 14
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+F_R_Forearm
+  rotate: false
+  xy: 84, 27
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+F_R_Hand
+  rotate: false
+  xy: 40, 93
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+F_R_Leg
+  rotate: true
+  xy: 158, 57
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+F_Ring
+  rotate: false
+  xy: 152, 128
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+F_Tail
+  rotate: false
+  xy: 115, 28
+  size: 60, 29
+  orig: 60, 29
+  offset: 0, 0
+  index: -1
+F_Waist
+  rotate: false
+  xy: 2, 54
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1
+F_Weapon
+  rotate: true
+  xy: 70, 91
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
