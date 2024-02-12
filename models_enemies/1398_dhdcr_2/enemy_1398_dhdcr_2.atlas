@@ -1,0 +1,41 @@
+
+enemy_1398_dhdcr_2.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_Body
+  rotate: false
+  xy: 2, 2
+  size: 51, 208
+  orig: 51, 208
+  offset: 0, 0
+  index: -1
+F_Body_2
+  rotate: false
+  xy: 55, 3
+  size: 50, 207
+  orig: 50, 207
+  offset: 0, 0
+  index: -1
+F_Glow
+  rotate: true
+  xy: 107, 95
+  size: 56, 19
+  orig: 56, 20
+  offset: 0, 0
+  index: -1
+F_RedGlow
+  rotate: true
+  xy: 107, 153
+  size: 57, 24
+  orig: 58, 24
+  offset: 0, 0
+  index: -1
+F_RedPoint
+  rotate: false
+  xy: 107, 80
+  size: 9, 13
+  orig: 10, 14
+  offset: 1, 1
+  index: -1

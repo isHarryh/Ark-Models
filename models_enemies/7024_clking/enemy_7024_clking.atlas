@@ -1,0 +1,251 @@
+
+enemy_7024_clking.png
+size: 364,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_Body_A
+  rotate: false
+  xy: 2, 47
+  size: 56, 38
+  orig: 56, 38
+  offset: 0, 0
+  index: -1
+F_Body_B
+  rotate: false
+  xy: 226, 138
+  size: 71, 65
+  orig: 71, 65
+  offset: 0, 0
+  index: -1
+F_Body_C
+  rotate: true
+  xy: 314, 4
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+F_Body_D
+  rotate: false
+  xy: 2, 194
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+F_Head
+  rotate: false
+  xy: 2, 126
+  size: 84, 79
+  orig: 84, 79
+  offset: 0, 0
+  index: -1
+F_L_Arm
+  rotate: true
+  xy: 2, 15
+  size: 30, 50
+  orig: 32, 52
+  offset: 1, 1
+  index: -1
+F_L_Calf_A
+  rotate: true
+  xy: 80, 57
+  size: 38, 59
+  orig: 38, 59
+  offset: 0, 0
+  index: -1
+F_L_Calf_B
+  rotate: false
+  xy: 316, 306
+  size: 29, 56
+  orig: 30, 57
+  offset: 1, 1
+  index: -1
+F_L_Coat
+  rotate: 270
+  xy: 142, 15
+  size: 24, 74
+  orig: 24, 74
+  offset: 0, 0
+  index: -1
+F_L_Finger_1
+  rotate: true
+  xy: 218, 3
+  size: 27, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+F_L_Foot
+  rotate: true
+  xy: 87, 158
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+F_R_Foot
+  rotate: true
+  xy: 87, 158
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+F_L_Forearm
+  rotate: true
+  xy: 314, 28
+  size: 41, 21
+  orig: 41, 22
+  offset: 0, 1
+  index: -1
+F_L_Leg
+  rotate: true
+  xy: 242, 32
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+F_L_Palm_1
+  rotate: true
+  xy: 252, 5
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+F_Mouth_1
+  rotate: false
+  xy: 2, 133
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+F_Mouth_2
+  rotate: false
+  xy: 29, 200
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+F_R_Arm
+  rotate: false
+  xy: 60, 21
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+F_R_Calf_A
+  rotate: false
+  xy: 297, 135
+  size: 54, 67
+  orig: 54, 67
+  offset: 0, 0
+  index: -1
+F_R_Calf_B
+  rotate: true
+  xy: 182, 72
+  size: 39, 58
+  orig: 39, 58
+  offset: 0, 0
+  index: -1
+F_R_Coat
+  rotate: true
+  xy: 2, 87
+  size: 37, 76
+  orig: 37, 76
+  offset: 0, 0
+  index: -1
+F_R_Finger_1
+  rotate: false
+  xy: 316, 269
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+F_R_Forearm
+  rotate: false
+  xy: 140, 48
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+F_R_Leg
+  rotate: true
+  xy: 180, 35
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+F_R_Palm_1
+  rotate: false
+  xy: 107, 26
+  size: 31, 29
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+F_Ring_A
+  rotate: true
+  xy: 228, 204
+  size: 60, 116
+  orig: 60, 116
+  offset: 0, 0
+  index: -1
+F_Ring_A_2
+  rotate: true
+  xy: 88, 121
+  size: 35, 114
+  orig: 35, 114
+  offset: 0, 0
+  index: -1
+F_Ring_A_3
+  rotate: false
+  xy: 289, 18
+  size: 23, 57
+  orig: 23, 57
+  offset: 0, 0
+  index: -1
+F_Ring_A_4
+  rotate: true
+  xy: 80, 96
+  size: 23, 100
+  orig: 23, 100
+  offset: 0, 0
+  index: -1
+F_Ring_A_5
+  rotate: false
+  xy: 228, 266
+  size: 86, 96
+  orig: 86, 96
+  offset: 0, 0
+  index: -1
+F_Ring_A_6
+  rotate: false
+  xy: 120, 216
+  size: 106, 146
+  orig: 106, 146
+  offset: 0, 0
+  index: -1
+F_Ring_B
+  rotate: false
+  xy: 2, 207
+  size: 116, 155
+  orig: 116, 155
+  offset: 0, 0
+  index: -1
+F_Tail
+  rotate: false
+  xy: 203, 77
+  size: 115, 59
+  orig: 115, 59
+  offset: 0, 0
+  index: -1
+F_Torch
+  rotate: true
+  xy: 120, 158
+  size: 56, 104
+  orig: 56, 104
+  offset: 0, 0
+  index: -1
+F_Waist
+  rotate: true
+  xy: 320, 71
+  size: 62, 36
+  orig: 62, 36
+  offset: 0, 0
+  index: -1
