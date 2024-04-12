@@ -1,0 +1,573 @@
+
+build_char_4126_fuze.png
+size: 316,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_Body_Sheild
+  rotate: true
+  xy: 2, 160
+  size: 81, 112
+  orig: 81, 112
+  offset: 0, 0
+  index: -1
+F_Ammo_1
+  rotate: false
+  xy: 148, 9
+  size: 17, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+F_Ammo_2
+  rotate: false
+  xy: 297, 248
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+F_Ammo_3
+  rotate: false
+  xy: 110, 9
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+F_Ammo_4
+  rotate: true
+  xy: 2, 12
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+F_Ammo_5
+  rotate: true
+  xy: 261, 10
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+F_Ammo_6
+  rotate: true
+  xy: 194, 9
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+F_Ammo_Tape
+  rotate: true
+  xy: 228, 135
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+F_Ammo_Tape_B
+  rotate: false
+  xy: 89, 8
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+F_Body_Sheild
+  rotate: true
+  xy: 157, 223
+  size: 81, 111
+  orig: 81, 111
+  offset: 0, 0
+  index: -1
+F_Body_Sheild_Glass_D
+  rotate: false
+  xy: 81, 68
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+F_Body_Sheild_Glass_U
+  rotate: false
+  xy: 209, 33
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+F_ChargeDown_D
+  rotate: false
+  xy: 122, 122
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+F_ChargeDown_U
+  rotate: false
+  xy: 280, 98
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+F_ChargeSide_A
+  rotate: false
+  xy: 103, 44
+  size: 37, 15
+  orig: 37, 15
+  offset: 0, 0
+  index: -1
+F_ChargeSide_B
+  rotate: false
+  xy: 31, 5
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+F_ChargeSide_C
+  rotate: false
+  xy: 70, 14
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+F_ChargeSide_D
+  rotate: false
+  xy: 194, 23
+  size: 29, 8
+  orig: 29, 8
+  offset: 0, 0
+  index: -1
+F_Charge_D
+  rotate: false
+  xy: 282, 65
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+F_Charge_U
+  rotate: 180
+  xy: 2, 78
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+F_Chest
+  rotate: false
+  xy: 62, 123
+  size: 58, 34
+  orig: 58, 34
+  offset: 0, 0
+  index: -1
+F_ChestBag_R
+  rotate: false
+  xy: 173, 56
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+F_ChestBag_R_2
+  rotate: true
+  xy: 173, 37
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+F_Chest_Belt
+  rotate: false
+  xy: 24, 32
+  size: 30, 10
+  orig: 30, 10
+  offset: 0, 0
+  index: -1
+F_Chest_Belt_Rope
+  rotate: false
+  xy: 24, 17
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+F_Gun
+  rotate: false
+  xy: 2, 27
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+F_Gun holster
+  rotate: false
+  xy: 110, 25
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+F_Head
+  rotate: false
+  xy: 115, 157
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+F_Head_B
+  rotate: false
+  xy: 194, 157
+  size: 78, 65
+  orig: 78, 65
+  offset: 0, 0
+  index: -1
+F_Head_Camera
+  rotate: false
+  xy: 93, 18
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+F_Head_Camera_B
+  rotate: false
+  xy: 279, 10
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+F_Head_Camera_Rope_A
+  rotate: true
+  xy: 228, 3
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+F_Head_Camera_Rope_B
+  rotate: false
+  xy: 133, 19
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+F_Head_Glass
+  rotate: false
+  xy: 228, 107
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+F_Head_Glass_Tape
+  rotate: true
+  xy: 297, 34
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+F_Head_Glass_Up
+  rotate: false
+  xy: 258, 132
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+F_Head_Mask
+  rotate: false
+  xy: 23, 60
+  size: 47, 21
+  orig: 47, 21
+  offset: 0, 0
+  index: -1
+F_Hip
+  rotate: true
+  xy: 270, 247
+  size: 58, 27
+  orig: 58, 27
+  offset: 0, 0
+  index: -1
+F_Hood
+  rotate: false
+  xy: 70, 29
+  size: 33, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+F_Hood_B
+  rotate: false
+  xy: 226, 78
+  size: 54, 17
+  orig: 54, 17
+  offset: 0, 0
+  index: -1
+F_L_Arm_1
+  rotate: 180
+  xy: 158, 107
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+F_L_Arm_2
+  rotate: false
+  xy: 157, 70
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+F_L_Arm_Tape
+  rotate: true
+  xy: 235, 18
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+F_L_ChestBag
+  rotate: true
+  xy: 269, 24
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+F_L_Finger_A
+  rotate: false
+  xy: 55, 22
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+F_L_Finger_B
+  rotate: false
+  xy: 127, 7
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+F_L_Finger_C
+  rotate: false
+  xy: 155, 20
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+F_L_Finger_D
+  rotate: false
+  xy: 212, 8
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+F_L_Finger_E
+  rotate: false
+  xy: 298, 8
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+F_L_Foot_D
+  rotate: false
+  xy: 115, 226
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+F_L_Foot_Rope
+  rotate: false
+  xy: 226, 98
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+F_L_Foot_U
+  rotate: true
+  xy: 2, 48
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+F_L_Hand
+  rotate: false
+  xy: 242, 55
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+F_L_HandHold
+  rotate: true
+  xy: 184, 53
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+F_L_LegBag
+  rotate: false
+  xy: 272, 40
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+F_L_Leg_1
+  rotate: false
+  xy: 185, 118
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+F_L_Leg_2
+  rotate: false
+  xy: 270, 204
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+F_R_Arm_1
+  rotate: true
+  xy: 86, 91
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+F_R_Arm_2
+  rotate: false
+  xy: 122, 88
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+F_R_ChestBag_Rope
+  rotate: true
+  xy: 166, 9
+  size: 7, 17
+  orig: 7, 17
+  offset: 0, 0
+  index: -1
+F_R_Finger_A
+  rotate: true
+  xy: 173, 19
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+F_R_Finger_B
+  rotate: false
+  xy: 54, 4
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+F_R_Finger_C
+  rotate: false
+  xy: 35, 93
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+F_R_Finger_D
+  rotate: false
+  xy: 146, 72
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+F_R_Finger_E
+  rotate: false
+  xy: 157, 101
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+F_R_Foot_D
+  rotate: false
+  xy: 24, 44
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+F_R_Foot_Rope
+  rotate: false
+  xy: 158, 149
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+F_R_Foot_U
+  rotate: false
+  xy: 72, 47
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+F_R_Hand
+  rotate: false
+  xy: 215, 53
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+F_R_HandHold
+  rotate: false
+  xy: 118, 60
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+F_R_HandHold_Finger
+  rotate: false
+  xy: 146, 45
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+F_R_Leg_1
+  rotate: 180
+  xy: 48, 82
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+F_R_Leg_2
+  rotate: false
+  xy: 273, 160
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+F_Talkie
+  rotate: true
+  xy: 227, 205
+  size: 16, 40
+  orig: 16, 40
+  offset: 0, 0
+  index: -1
+F_Waist
+  rotate: false
+  xy: 2, 111
+  size: 59, 47
+  orig: 59, 47
+  offset: 0, 0
+  index: -1
+F_WaistBag_L
+  rotate: false
+  xy: 242, 34
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+F_WaistBag_R
+  rotate: true
+  xy: 290, 20
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+F_Weapon_AmmoBox
+  rotate: true
+  xy: 194, 81
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+F_Weapon_Gun
+  rotate: false
+  xy: 2, 242
+  size: 154, 62
+  orig: 154, 62
+  offset: 0, 0
+  index: -1
+F_Weapon_Reload
+  rotate: true
+  xy: 299, 262
+  size: 43, 12
+  orig: 43, 12
+  offset: 0, 0
+  index: -1
+F_Weapon_Trigger
+  rotate: false
+  xy: 304, 238
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
