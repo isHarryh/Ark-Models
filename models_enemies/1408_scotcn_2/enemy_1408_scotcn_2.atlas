@@ -1,0 +1,272 @@
+
+enemy_1408_scotcn_2.png
+size: 316,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_Bag
+  rotate: 270
+  xy: 184, 201
+  size: 63, 41
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+F_Barrel
+  rotate: false
+  xy: 2, 121
+  size: 59, 90
+  orig: 59, 90
+  offset: 0, 0
+  index: -1
+F_Body
+  rotate: false
+  xy: 120, 257
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+F_Bottle
+  rotate: false
+  xy: 204, 168
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+F_Bullet
+  rotate: false
+  xy: 258, 42
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+F_CannonBaseA
+  rotate: true
+  xy: 162, 2
+  size: 63, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+F_CannonBaseB
+  rotate: true
+  xy: 146, 174
+  size: 56, 39
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+F_CannonHolder
+  rotate: false
+  xy: 2, 32
+  size: 56, 87
+  orig: 57, 87
+  offset: 0, 0
+  index: -1
+F_CannonHolderA
+  rotate: true
+  xy: 262, 222
+  size: 29, 18
+  orig: 30, 20
+  offset: 0, 2
+  index: -1
+F_CannonHolderB
+  rotate: false
+  xy: 2, 213
+  size: 60, 101
+  orig: 61, 102
+  offset: 0, 1
+  index: -1
+F_CannonHolderC
+  rotate: false
+  xy: 63, 125
+  size: 44, 86
+  orig: 44, 87
+  offset: 0, 1
+  index: -1
+F_CannonSight
+  rotate: false
+  xy: 216, 280
+  size: 33, 34
+  orig: 33, 36
+  offset: 0, 2
+  index: -1
+F_CannonYellowA
+  rotate: false
+  xy: 176, 266
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+F_CannonYellowB
+  rotate: false
+  xy: 196, 10
+  size: 27, 57
+  orig: 27, 57
+  offset: 0, 0
+  index: -1
+F_CoatB
+  rotate: true
+  xy: 109, 152
+  size: 99, 36
+  orig: 99, 36
+  offset: 0, 0
+  index: -1
+F_CoatF
+  rotate: true
+  xy: 125, 47
+  size: 110, 45
+  orig: 110, 45
+  offset: 0, 0
+  index: -1
+F_Collar
+  rotate: 270
+  xy: 226, 228
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+F_Head
+  rotate: true
+  xy: 64, 244
+  size: 70, 54
+  orig: 70, 57
+  offset: 0, 0
+  index: -1
+F_Helmet
+  rotate: false
+  xy: 60, 2
+  size: 77, 40
+  orig: 77, 40
+  offset: 0, 0
+  index: -1
+F_Hip
+  rotate: true
+  xy: 211, 70
+  size: 55, 25
+  orig: 55, 25
+  offset: 0, 0
+  index: -1
+F_L_Foot
+  rotate: true
+  xy: 237, 92
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+F_L_Forearm
+  rotate: false
+  xy: 204, 126
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+F_L_Hand
+  rotate: true
+  xy: 235, 136
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+F_L_Knee
+  rotate: true
+  xy: 259, 106
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+F_L_Shank
+  rotate: false
+  xy: 162, 123
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+F_L_Thigh
+  rotate: false
+  xy: 251, 280
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+F_L_Upperarm
+  rotate: true
+  xy: 225, 32
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+F_Necklace
+  rotate: false
+  xy: 251, 168
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+F_R_Finger
+  rotate: false
+  xy: 258, 17
+  size: 25, 23
+  orig: 26, 24
+  offset: 0, 1
+  index: -1
+F_R_Foot
+  rotate: true
+  xy: 241, 184
+  size: 42, 19
+  orig: 42, 19
+  offset: 0, 0
+  index: -1
+F_R_Forearm
+  rotate: false
+  xy: 225, 3
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+F_R_Hand
+  rotate: false
+  xy: 257, 253
+  size: 27, 25
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+F_R_Knee
+  rotate: false
+  xy: 144, 235
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+F_R_Shank
+  rotate: false
+  xy: 172, 70
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1
+F_R_Thigh
+  rotate: 180
+  xy: 251, 67
+  size: 32, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+F_R_Upperarm
+  rotate: true
+  xy: 64, 214
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+F_Suitcase
+  rotate: true
+  xy: 60, 44
+  size: 75, 65
+  orig: 75, 65
+  offset: 0, 0
+  index: -1
+F_Tube
+  rotate: false
+  xy: 109, 132
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1

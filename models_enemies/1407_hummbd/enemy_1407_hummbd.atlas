@@ -1,0 +1,76 @@
+
+enemy_1407_hummbd.png
+size: 252,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 51
+  size: 169, 126
+  orig: 292, 163
+  offset: 61, 34
+  index: -1
+Fan_Move
+  rotate: false
+  xy: 2, 24
+  size: 237, 25
+  orig: 237, 25
+  offset: 0, 0
+  index: -1
+Fan_Stop_01
+  rotate: true
+  xy: 228, 97
+  size: 80, 4
+  orig: 80, 4
+  offset: 0, 0
+  index: -1
+Fan_Stop_02
+  rotate: true
+  xy: 228, 97
+  size: 80, 4
+  orig: 80, 4
+  offset: 0, 0
+  index: -1
+Fan_Stop_03
+  rotate: true
+  xy: 228, 97
+  size: 80, 4
+  orig: 80, 4
+  offset: 0, 0
+  index: -1
+Fan_Stop_04
+  rotate: true
+  xy: 228, 97
+  size: 80, 4
+  orig: 80, 4
+  offset: 0, 0
+  index: -1
+Light_Red
+  rotate: true
+  xy: 173, 68
+  size: 109, 29
+  orig: 109, 30
+  offset: 0, 0
+  index: -1
+Light_Yellow
+  rotate: true
+  xy: 173, 68
+  size: 109, 29
+  orig: 109, 30
+  offset: 0, 0
+  index: -1
+Light_Red_02
+  rotate: false
+  xy: 204, 145
+  size: 22, 32
+  orig: 22, 34
+  offset: 0, 1
+  index: -1
+Top
+  rotate: false
+  xy: 2, 2
+  size: 164, 20
+  orig: 164, 21
+  offset: 0, 1
+  index: -1

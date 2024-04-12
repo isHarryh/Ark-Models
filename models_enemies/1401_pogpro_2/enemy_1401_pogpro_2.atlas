@@ -1,0 +1,174 @@
+
+enemy_1401_pogpro_2.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_B_L_Foot
+  rotate: true
+  xy: 177, 126
+  size: 23, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+C_B_L_Thigh
+  rotate: true
+  xy: 102, 57
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+C_B_L_leg
+  rotate: 270
+  xy: 42, 14
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+C_B_R_Foot
+  rotate: false
+  xy: 38, 3
+  size: 23, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+C_B_R_Thigh
+  rotate: false
+  xy: 34, 62
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+C_B_R_leg
+  rotate: true
+  xy: 76, 29
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+C_Belt
+  rotate: 270
+  xy: 134, 30
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+C_Belt_1
+  rotate: false
+  xy: 61, 94
+  size: 63, 56
+  orig: 63, 56
+  offset: 0, 0
+  index: -1
+C_Belt_2
+  rotate: true
+  xy: 2, 53
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: false
+  xy: 2, 145
+  size: 111, 59
+  orig: 114, 59
+  offset: 3, 0
+  index: -1
+C_F_L_Foot
+  rotate: false
+  xy: 157, 24
+  size: 25, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+C_F_L_Leg
+  rotate: true
+  xy: 2, 28
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+C_F_L_Thigh
+  rotate: true
+  xy: 147, 60
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+C_F_R_Foot
+  rotate: false
+  xy: 130, 13
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+C_F_R_Thigh
+  rotate: true
+  xy: 34, 110
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+C_F_R_leg
+  rotate: false
+  xy: 157, 8
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+C_F_R_legs
+  rotate: true
+  xy: 35, 35
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+C_Hat
+  rotate: true
+  xy: 2, 82
+  size: 69, 30
+  orig: 69, 30
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 114, 151
+  size: 70, 53
+  orig: 70, 53
+  offset: 0, 0
+  index: -1
+C_L_Ears
+  rotate: 270
+  xy: 2, 9
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+C_R_Ears
+  rotate: false
+  xy: 113, 23
+  size: 17, 33
+  orig: 17, 33
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: false
+  xy: 78, 10
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+C_Wb
+  rotate: 270
+  xy: 114, 94
+  size: 55, 71
+  orig: 55, 71
+  offset: 0, 0
+  index: -1
+C_neck
+  rotate: true
+  xy: 77, 55
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1

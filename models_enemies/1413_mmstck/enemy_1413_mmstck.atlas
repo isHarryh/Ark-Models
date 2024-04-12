@@ -1,0 +1,132 @@
+
+enemy_1413_mmstck.png
+size: 316,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: 270
+  xy: 2, 115
+  size: 129, 134
+  orig: 129, 134
+  offset: 0, 0
+  index: -1
+Coat_Down
+  rotate: 180
+  xy: 138, 93
+  size: 95, 77
+  orig: 95, 77
+  offset: 0, 0
+  index: -1
+Coat_L
+  rotate: false
+  xy: 138, 130
+  size: 133, 115
+  orig: 133, 115
+  offset: 0, 0
+  index: -1
+Coat_R
+  rotate: false
+  xy: 249, 88
+  size: 65, 79
+  orig: 65, 79
+  offset: 0, 0
+  index: -1
+Dcrt_A
+  rotate: true
+  xy: 2, 3
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+Dcrt_B
+  rotate: 270
+  xy: 23, 51
+  size: 115, 95
+  orig: 115, 95
+  offset: 0, 0
+  index: -1
+Dcrt_C
+  rotate: 180
+  xy: 45, 35
+  size: 91, 112
+  orig: 91, 112
+  offset: 0, 0
+  index: -1
+Dcrt_Down
+  rotate: false
+  xy: 300, 40
+  size: 13, 62
+  orig: 13, 62
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 242, 198
+  size: 68, 106
+  orig: 68, 106
+  offset: 0, 0
+  index: -1
+L_Foot
+  rotate: true
+  xy: 2, 114
+  size: 62, 32
+  orig: 62, 32
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: true
+  xy: 203, 9
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+L_Shank
+  rotate: false
+  xy: 216, 48
+  size: 43, 54
+  orig: 43, 54
+  offset: 0, 0
+  index: -1
+L_Thigh
+  rotate: true
+  xy: 62, 16
+  size: 25, 57
+  orig: 25, 57
+  offset: 0, 0
+  index: -1
+R_Foot
+  rotate: false
+  xy: 89, 43
+  size: 64, 33
+  orig: 64, 33
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 121, 17
+  size: 58, 24
+  orig: 58, 24
+  offset: 0, 0
+  index: -1
+R_Shank
+  rotate: false
+  xy: 261, 29
+  size: 36, 57
+  orig: 36, 57
+  offset: 0, 0
+  index: -1
+R_Thigh
+  rotate: false
+  xy: 155, 44
+  size: 46, 48
+  orig: 47, 49
+  offset: 0, 1
+  index: -1
+Weapon
+  rotate: false
+  xy: 2, 246
+  size: 238, 58
+  orig: 238, 58
+  offset: 0, 0
+  index: -1
