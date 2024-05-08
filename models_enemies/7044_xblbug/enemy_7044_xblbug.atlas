@@ -1,0 +1,83 @@
+
+enemy_7044_xblbug.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_Body
+  rotate: false
+  xy: 2, 61
+  size: 121, 62
+  orig: 121, 62
+  offset: 0, 0
+  index: -1
+A_Body_Leg_a
+  rotate: true
+  xy: 125, 37
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+A_Body_Leg_aa
+  rotate: true
+  xy: 115, 77
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+A_Body_Leg_b
+  rotate: true
+  xy: 94, 4
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+A_Body_Leg_bb
+  rotate: true
+  xy: 132, 4
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+A_Body_Leg_c
+  rotate: true
+  xy: 161, 77
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+A_Body_Leg_cc
+  rotate: true
+  xy: 170, 2
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+A_Body_Wing
+  rotate: false
+  xy: 2, 13
+  size: 82, 41
+  orig: 82, 41
+  offset: 0, 0
+  index: -1
+A_Body_Wing_B
+  rotate: false
+  xy: 2, 13
+  size: 82, 41
+  orig: 82, 41
+  offset: 0, 0
+  index: -1
+A_Body_Wing_A
+  rotate: false
+  xy: 2, 36
+  size: 91, 50
+  orig: 91, 50
+  offset: 0, 0
+  index: -1
+A_Body_Wing_Bb
+  rotate: false
+  xy: 2, 36
+  size: 91, 50
+  orig: 91, 50
+  offset: 0, 0
+  index: -1

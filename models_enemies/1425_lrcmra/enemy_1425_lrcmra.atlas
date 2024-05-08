@@ -1,0 +1,377 @@
+
+enemy_1425_lrcmra.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_WingA
+  rotate: true
+  xy: 2, 263
+  size: 83, 116
+  orig: 83, 116
+  offset: 0, 0
+  index: -1
+B_WingB
+  rotate: true
+  xy: 318, 399
+  size: 111, 114
+  orig: 112, 115
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 176, 221
+  size: 117, 122
+  orig: 117, 146
+  offset: 0, 24
+  index: -1
+F_WingA
+  rotate: false
+  xy: 177, 415
+  size: 139, 95
+  orig: 139, 95
+  offset: 0, 0
+  index: -1
+F_WingB
+  rotate: false
+  xy: 2, 433
+  size: 173, 77
+  orig: 173, 77
+  offset: 0, 0
+  index: -1
+F_WingC
+  rotate: true
+  xy: 411, 230
+  size: 72, 94
+  orig: 72, 94
+  offset: 0, 0
+  index: -1
+Fire_A
+  rotate: 180
+  xy: 429, 73
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+Fire_B
+  rotate: 180
+  xy: 47, 129
+  size: 78, 68
+  orig: 78, 68
+  offset: 0, 0
+  index: -1
+Fire_C
+  rotate: true
+  xy: 63, 182
+  size: 105, 142
+  orig: 105, 142
+  offset: 0, 0
+  index: -1
+Fire_D
+  rotate: false
+  xy: 128, 117
+  size: 95, 82
+  orig: 95, 82
+  offset: 0, 0
+  index: -1
+Fire_E
+  rotate: true
+  xy: 264, 88
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 323, 268
+  size: 77, 130
+  orig: 77, 130
+  offset: 0, 0
+  index: -1
+Horn_L
+  rotate: false
+  xy: 401, 304
+  size: 92, 94
+  orig: 92, 94
+  offset: 0, 0
+  index: -1
+L_Finger1A
+  rotate: false
+  xy: 187, 354
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+L_Finger1B
+  rotate: false
+  xy: 178, 261
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+L_Finger2A
+  rotate: false
+  xy: 492, 476
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+L_Finger2B
+  rotate: false
+  xy: 79, 242
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+L_Finger2C
+  rotate: false
+  xy: 257, 398
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+L_Finger3A
+  rotate: false
+  xy: 290, 384
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+L_Finger3B
+  rotate: false
+  xy: 304, 274
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+L_Finger3C
+  rotate: false
+  xy: 302, 370
+  size: 17, 12
+  orig: 18, 12
+  offset: 1, 0
+  index: -1
+L_Finger4A
+  rotate: false
+  xy: 492, 452
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+L_Finger4B
+  rotate: false
+  xy: 120, 322
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+L_Finger4C
+  rotate: false
+  xy: 120, 289
+  size: 19, 8
+  orig: 19, 9
+  offset: 0, 1
+  index: -1
+L_Finger5A
+  rotate: false
+  xy: 492, 403
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+L_Finger5B
+  rotate: false
+  xy: 495, 382
+  size: 12, 19
+  orig: 13, 19
+  offset: 1, 0
+  index: -1
+L_Finger5C
+  rotate: false
+  xy: 183, 314
+  size: 16, 12
+  orig: 17, 12
+  offset: 1, 0
+  index: -1
+L_FootA
+  rotate: false
+  xy: 225, 114
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+L_FootB
+  rotate: true
+  xy: 478, 115
+  size: 65, 32
+  orig: 65, 32
+  offset: 0, 0
+  index: -1
+L_Forearm
+  rotate: true
+  xy: 294, 192
+  size: 74, 115
+  orig: 75, 116
+  offset: 0, 1
+  index: -1
+L_Palm
+  rotate: false
+  xy: 2, 118
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+L_PalmB
+  rotate: false
+  xy: 495, 367
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+L_Shank
+  rotate: false
+  xy: 113, 93
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+L_Thigh
+  rotate: true
+  xy: 193, 167
+  size: 51, 80
+  orig: 51, 80
+  offset: 0, 0
+  index: -1
+L_Upperarm
+  rotate: true
+  xy: 434, 413
+  size: 97, 56
+  orig: 97, 56
+  offset: 0, 0
+  index: -1
+Mask
+  rotate: true
+  xy: 411, 168
+  size: 60, 88
+  orig: 60, 88
+  offset: 0, 0
+  index: -1
+Mask_L
+  rotate: false
+  xy: 330, 129
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1
+Mask_R
+  rotate: true
+  xy: 2, 348
+  size: 84, 150
+  orig: 84, 150
+  offset: 0, 0
+  index: -1
+R_Finger1A
+  rotate: false
+  xy: 170, 330
+  size: 20, 22
+  orig: 20, 23
+  offset: 0, 1
+  index: -1
+R_Finger1B
+  rotate: false
+  xy: 492, 422
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+R_Finger2A
+  rotate: false
+  xy: 154, 406
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+R_Finger2B
+  rotate: false
+  xy: 434, 400
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+R_Finger3A
+  rotate: false
+  xy: 192, 328
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+R_Finger3B
+  rotate: false
+  xy: 456, 402
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+R_FootA
+  rotate: true
+  xy: 330, 90
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+R_FootB
+  rotate: false
+  xy: 45, 103
+  size: 66, 29
+  orig: 66, 29
+  offset: 0, 0
+  index: -1
+R_Forearm
+  rotate: false
+  xy: 390, 125
+  size: 53, 41
+  orig: 53, 42
+  offset: 0, 1
+  index: -1
+R_Palm
+  rotate: false
+  xy: 445, 120
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+R_PalmB
+  rotate: false
+  xy: 276, 401
+  size: 12, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+R_Shank
+  rotate: false
+  xy: 380, 93
+  size: 47, 30
+  orig: 49, 32
+  offset: 1, 1
+  index: -1
+R_Thigh
+  rotate: false
+  xy: 2, 168
+  size: 63, 76
+  orig: 64, 76
+  offset: 1, 0
+  index: -1
+R_Upperarm
+  rotate: false
+  xy: 275, 121
+  size: 53, 69
+  orig: 53, 69
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 133, 272
+  size: 188, 141
+  orig: 188, 141
+  offset: 0, 0
+  index: -1
