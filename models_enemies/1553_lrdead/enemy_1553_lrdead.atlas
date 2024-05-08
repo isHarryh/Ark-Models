@@ -1,0 +1,394 @@
+
+enemy_1553_lrdead.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chest
+  rotate: false
+  xy: 2, 61
+  size: 465, 441
+  orig: 465, 441
+  offset: 0, 0
+  index: -1
+Chest3
+  rotate: false
+  xy: 218, 12
+  size: 246, 138
+  orig: 246, 138
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 2, 24
+  size: 127, 103
+  orig: 185, 103
+  offset: 0, 0
+  index: -1
+Mouth_B
+  rotate: 270
+  xy: 414, 424
+  size: 79, 87
+  orig: 79, 87
+  offset: 0, 0
+  index: -1
+Open_Tooth_DB
+  rotate: false
+  xy: 130, 12
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+Open_Tooth_DF
+  rotate: false
+  xy: 268, 85
+  size: 53, 43
+  orig: 53, 43
+  offset: 0, 0
+  index: -1
+Open_Tooth_UB
+  rotate: false
+  xy: 69, 468
+  size: 67, 35
+  orig: 67, 35
+  offset: 0, 0
+  index: -1
+Open_Tooth_UF
+  rotate: false
+  xy: 2, 463
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+Tooth_A1
+  rotate: false
+  xy: 2, 425
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+Tooth_A2
+  rotate: false
+  xy: 2, 386
+  size: 14, 37
+  orig: 14, 37
+  offset: 0, 0
+  index: -1
+Tooth_A3
+  rotate: false
+  xy: 137, 466
+  size: 13, 36
+  orig: 13, 36
+  offset: 0, 0
+  index: -1
+Tooth_A4
+  rotate: false
+  xy: 2, 347
+  size: 14, 37
+  orig: 14, 37
+  offset: 0, 0
+  index: -1
+Tooth_B1
+  rotate: false
+  xy: 60, 443
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+Tooth_B2
+  rotate: false
+  xy: 24, 441
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+Tooth_B3
+  rotate: false
+  xy: 42, 441
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+Tooth_B4
+  rotate: false
+  xy: 79, 445
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+
+enemy_1553_lrdead2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 3
+  size: 397, 486
+  orig: 397, 486
+  offset: 0, 0
+  index: -1
+L_Wing_B
+  rotate: true
+  xy: 400, 6
+  size: 482, 84
+  orig: 482, 84
+  offset: 0, 0
+  index: -1
+Open_Mouth_B
+  rotate: false
+  xy: 270, 379
+  size: 100, 109
+  orig: 100, 109
+  offset: 0, 0
+  index: -1
+
+enemy_1553_lrdead3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Head
+  rotate: 180
+  xy: 2, 23
+  size: 240, 188
+  orig: 240, 188
+  offset: 0, 0
+  index: -1
+Open_Mouth
+  rotate: true
+  xy: 350, 327
+  size: 177, 153
+  orig: 177, 153
+  offset: 0, 0
+  index: -1
+Weapon2
+  rotate: false
+  xy: 2, 118
+  size: 391, 386
+  orig: 391, 386
+  offset: 0, 0
+  index: -1
+
+enemy_1553_lrdead4.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+R_Forearm
+  rotate: false
+  xy: 2, 13
+  size: 271, 448
+  orig: 271, 448
+  offset: 0, 0
+  index: -1
+R_Shoulder2
+  rotate: false
+  xy: 274, 2
+  size: 173, 458
+  orig: 173, 458
+  offset: 0, 0
+  index: -1
+
+enemy_1553_lrdead5.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fire_D
+  rotate: 180
+  xy: 5, 4
+  size: 440, 71
+  orig: 440, 71
+  offset: 0, 0
+  index: -1
+L_Forearrm
+  rotate: false
+  xy: 2, 42
+  size: 354, 468
+  orig: 354, 468
+  offset: 0, 0
+  index: -1
+L_Wing2
+  rotate: 270
+  xy: 307, 82
+  size: 429, 199
+  orig: 429, 199
+  offset: 0, 0
+  index: -1
+
+enemy_1553_lrdead6.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_Wing_C
+  rotate: true
+  xy: 346, 37
+  size: 449, 140
+  orig: 449, 140
+  offset: 0, 0
+  index: -1
+Open_L_Horn
+  rotate: false
+  xy: 2, 262
+  size: 342, 224
+  orig: 342, 224
+  offset: 0, 0
+  index: -1
+Open_R_Horn
+  rotate: false
+  xy: 2, 8
+  size: 274, 252
+  orig: 274, 252
+  offset: 0, 0
+  index: -1
+
+enemy_1553_lrdead7.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_Arm
+  rotate: 270
+  xy: 101, 2
+  size: 231, 307
+  orig: 231, 307
+  offset: 0, 0
+  index: -1
+R_Wing
+  rotate: false
+  xy: 2, 183
+  size: 158, 327
+  orig: 158, 327
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 2, 28
+  size: 415, 483
+  orig: 415, 483
+  offset: 0, 0
+  index: -1
+
+enemy_1553_lrdead8.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_Wing3
+  rotate: false
+  xy: 2, 155
+  size: 422, 284
+  orig: 422, 284
+  offset: 0, 0
+  index: -1
+R_Shoulder
+  rotate: true
+  xy: 2, 3
+  size: 150, 411
+  orig: 150, 411
+  offset: 0, 0
+  index: -1
+
+enemy_1553_lrdead9.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Open_Head
+  rotate: true
+  xy: 302, 256
+  size: 240, 193
+  orig: 240, 193
+  offset: 0, 0
+  index: -1
+R_Horn
+  rotate: 270
+  xy: 211, 62
+  size: 278, 255
+  orig: 278, 255
+  offset: 0, 0
+  index: -1
+Weapon4
+  rotate: false
+  xy: 2, 162
+  size: 298, 335
+  orig: 298, 335
+  offset: 0, 0
+  index: -1
+
+enemy_1553_lrdead10.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_Horn
+  rotate: true
+  xy: 287, 136
+  size: 345, 223
+  orig: 345, 223
+  offset: 0, 0
+  index: -1
+L_Wing
+  rotate: false
+  xy: 2, 125
+  size: 326, 386
+  orig: 338, 386
+  offset: 12, 0
+  index: -1
+R_Hand
+  rotate: 180
+  xy: 167, 86
+  size: 243, 192
+  orig: 243, 192
+  offset: 0, 0
+  index: -1
+
+enemy_1553_lrdead11.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chest2
+  rotate: false
+  xy: 28, 3
+  size: 335, 230
+  orig: 335, 230
+  offset: 0, 0
+  index: -1
+Fire_A
+  rotate: false
+  xy: 2, 174
+  size: 240, 337
+  orig: 240, 337
+  offset: 0, 0
+  index: -1
+Weapon3
+  rotate: false
+  xy: 2, 39
+  size: 308, 471
+  orig: 308, 471
+  offset: 0, 0
+  index: -1
+
+enemy_1553_lrdead12.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fire_B
+  rotate: 180
+  xy: 72, 140
+  size: 432, 366
+  orig: 432, 366
+  offset: 0, 0
+  index: -1
+Fire_C
+  rotate: false
+  xy: 2, 248
+  size: 473, 257
+  orig: 473, 257
+  offset: 0, 0
+  index: -1

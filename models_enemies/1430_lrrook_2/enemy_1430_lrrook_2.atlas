@@ -1,0 +1,55 @@
+
+enemy_1430_lrrook_2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 42
+  size: 188, 202
+  orig: 188, 202
+  offset: 0, 0
+  index: -1
+C_Fire_1
+  rotate: false
+  xy: 179, 16
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+C_Fire_2
+  rotate: true
+  xy: 100, 18
+  size: 22, 77
+  orig: 22, 77
+  offset: 0, 0
+  index: -1
+C_Fire_3
+  rotate: true
+  xy: 2, 4
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+C_Fire_4
+  rotate: 270
+  xy: 111, 3
+  size: 23, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+C_Fire_5
+  rotate: true
+  xy: 84, 5
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+C_Fire_6
+  rotate: false
+  xy: 2, 13
+  size: 96, 27
+  orig: 96, 27
+  offset: 0, 0
+  index: -1
