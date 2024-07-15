@@ -1,0 +1,132 @@
+
+enemy_4010_mubsbl.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ball
+  rotate: false
+  xy: 152, 398
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Chest
+  rotate: 270
+  xy: 79, 425
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 422
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: true
+  xy: 382, 430
+  size: 80, 40
+  orig: 80, 40
+  offset: 0, 0
+  index: -1
+L_Foot
+  rotate: false
+  xy: 46, 405
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1
+L_Forearm
+  rotate: true
+  xy: 465, 401
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: true
+  xy: 330, 458
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+L_Shank
+  rotate: true
+  xy: 462, 463
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+L_Thigh
+  rotate: false
+  xy: 247, 400
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+L_Upperarm
+  rotate: 270
+  xy: 423, 450
+  size: 61, 37
+  orig: 61, 37
+  offset: 0, 0
+  index: -1
+R_Foot
+  rotate: false
+  xy: 89, 398
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+R_Forearm
+  rotate: false
+  xy: 449, 429
+  size: 61, 30
+  orig: 61, 30
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: 270
+  xy: 217, 433
+  size: 77, 66
+  orig: 77, 66
+  offset: 0, 0
+  index: -1
+R_Shank
+  rotate: 180
+  xy: 194, 407
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+R_Thigh
+  rotate: false
+  xy: 406, 398
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+R_Upperarm
+  rotate: 270
+  xy: 327, 413
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: 270
+  xy: 283, 415
+  size: 95, 46
+  orig: 95, 46
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: 270
+  xy: 153, 436
+  size: 75, 66
+  orig: 75, 68
+  offset: 0, 2
+  index: -1

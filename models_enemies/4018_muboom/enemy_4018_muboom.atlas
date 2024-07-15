@@ -1,0 +1,83 @@
+
+enemy_4018_muboom.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 178
+  size: 125, 96
+  orig: 125, 96
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: false
+  xy: 2, 187
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: false
+  xy: 113, 181
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 209, 228
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+HeadB
+  rotate: true
+  xy: 128, 185
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+L_LegA
+  rotate: false
+  xy: 252, 230
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+L_LegB
+  rotate: true
+  xy: 172, 197
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+L_LegC
+  rotate: false
+  xy: 126, 239
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+R_LegA
+  rotate: false
+  xy: 213, 192
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+R_LegB
+  rotate: false
+  xy: 239, 197
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+R_LegC
+  rotate: true
+  xy: 172, 177
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

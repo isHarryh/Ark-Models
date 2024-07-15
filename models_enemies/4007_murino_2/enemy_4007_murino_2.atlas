@@ -1,0 +1,181 @@
+
+enemy_4007_murino_2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 398
+  size: 149, 110
+  orig: 155, 136
+  offset: 6, 26
+  index: -1
+C_Box
+  rotate: true
+  xy: 423, 417
+  size: 91, 79
+  orig: 91, 79
+  offset: 0, 0
+  index: -1
+C_Box_L
+  rotate: false
+  xy: 180, 359
+  size: 43, 19
+  orig: 43, 19
+  offset: 0, 0
+  index: -1
+C_Box_R
+  rotate: false
+  xy: 135, 363
+  size: 43, 19
+  orig: 43, 19
+  offset: 0, 0
+  index: -1
+C_Can_1
+  rotate: true
+  xy: 358, 401
+  size: 35, 57
+  orig: 35, 57
+  offset: 0, 0
+  index: -1
+C_Can_2
+  rotate: true
+  xy: 135, 384
+  size: 35, 57
+  orig: 35, 57
+  offset: 0, 0
+  index: -1
+C_Eye
+  rotate: false
+  xy: 81, 371
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+C_Eye_Closed
+  rotate: false
+  xy: 401, 499
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+C_Eye_D
+  rotate: false
+  xy: 326, 384
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+C_Eye_In
+  rotate: false
+  xy: 338, 427
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+C_Eye_U
+  rotate: false
+  xy: 321, 372
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: true
+  xy: 152, 421
+  size: 87, 134
+  orig: 87, 134
+  offset: 0, 0
+  index: -1
+C_L_Ear
+  rotate: true
+  xy: 339, 363
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+C_L_Leg_1_1
+  rotate: false
+  xy: 472, 374
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+C_L_Leg_1_2
+  rotate: 270
+  xy: 2, 376
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+C_L_Leg_2_1
+  rotate: true
+  xy: 92, 370
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+C_L_Leg_2_2
+  rotate: 270
+  xy: 281, 365
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+C_Mouth
+  rotate: false
+  xy: 194, 380
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+C_R_Leg_1_1
+  rotate: true
+  xy: 417, 374
+  size: 41, 54
+  orig: 41, 54
+  offset: 0, 0
+  index: -1
+C_R_Leg_1_2
+  rotate: false
+  xy: 43, 361
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+C_R_Leg_2_1
+  rotate: 270
+  xy: 420, 353
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+C_R_Leg_2_2
+  rotate: 270
+  xy: 384, 361
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+C_R_Sleeve
+  rotate: false
+  xy: 242, 379
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+C_Sheild
+  rotate: true
+  xy: 287, 438
+  size: 70, 134
+  orig: 70, 134
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: 180
+  xy: 287, 400
+  size: 69, 46
+  orig: 69, 46
+  offset: 0, 0
+  index: -1

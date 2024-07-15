@@ -1,0 +1,90 @@
+
+enemy_1437_dsfull.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Head
+  rotate: false
+  xy: 2, 107
+  size: 112, 107
+  orig: 112, 107
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: false
+  xy: 116, 137
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+C_L_Foot_2
+  rotate: true
+  xy: 163, 90
+  size: 36, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 38, 3
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+C_L_Hand_2
+  rotate: false
+  xy: 73, 35
+  size: 29, 18
+  orig: 37, 31
+  offset: 8, 13
+  index: -1
+C_L_Hand_3
+  rotate: 180
+  xy: 157, 171
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: false
+  xy: 163, 63
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+C_R_Foot_2
+  rotate: true
+  xy: 161, 130
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: 270
+  xy: 121, 81
+  size: 71, 51
+  orig: 71, 51
+  offset: 0, 0
+  index: -1
+C_R_Hand_2
+  rotate: true
+  xy: 142, 3
+  size: 88, 39
+  orig: 88, 39
+  offset: 0, 0
+  index: -1
+C_R_Hand_3
+  rotate: false
+  xy: 116, 148
+  size: 52, 67
+  orig: 52, 69
+  offset: 0, 2
+  index: -1
+C_body
+  rotate: false
+  xy: 2, 5
+  size: 133, 101
+  orig: 135, 104
+  offset: 0, 3
+  index: -1

@@ -1,0 +1,132 @@
+
+enemy_1440_dselec.png
+size: 264,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: 270
+  xy: 177, 105
+  size: 76, 85
+  orig: 77, 85
+  offset: 0, 0
+  index: -1
+C_Cloth
+  rotate: true
+  xy: 110, 7
+  size: 33, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: true
+  xy: 106, 83
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+C_Hip
+  rotate: false
+  xy: 51, 16
+  size: 58, 30
+  orig: 58, 30
+  offset: 0, 0
+  index: -1
+C_L_Arm_1
+  rotate: true
+  xy: 2, 20
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+C_L_Arm_2
+  rotate: true
+  xy: 104, 161
+  size: 78, 124
+  orig: 78, 124
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: false
+  xy: 2, 94
+  size: 103, 56
+  orig: 103, 56
+  offset: 0, 0
+  index: -1
+C_L_Leg_1
+  rotate: true
+  xy: 69, 47
+  size: 46, 50
+  orig: 48, 50
+  offset: 1, 0
+  index: -1
+C_L_Leg_2
+  rotate: true
+  xy: 183, 49
+  size: 53, 59
+  orig: 53, 59
+  offset: 0, 0
+  index: -1
+C_R_Arm_1
+  rotate: 270
+  xy: 120, 41
+  size: 53, 50
+  orig: 69, 50
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: false
+  xy: 104, 210
+  size: 51, 28
+  orig: 51, 28
+  offset: 0, 0
+  index: -1
+C_R_Leg_1
+  rotate: true
+  xy: 172, 9
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+C_R_Leg_2
+  rotate: false
+  xy: 2, 60
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+C_Weapon
+  rotate: false
+  xy: 2, 150
+  size: 101, 89
+  orig: 101, 89
+  offset: 0, 0
+  index: -1
+C_Weapon_A
+  rotate: false
+  xy: 238, 4
+  size: 24, 45
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+C_Weapon_B
+  rotate: false
+  xy: 225, 190
+  size: 22, 49
+  orig: 22, 49
+  offset: 0, 0
+  index: -1
+C_Weapon_Close
+  rotate: false
+  xy: 104, 188
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+C_Weapon_Eye
+  rotate: false
+  xy: 247, 174
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1

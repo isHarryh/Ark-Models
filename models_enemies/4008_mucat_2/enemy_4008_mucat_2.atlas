@@ -1,0 +1,216 @@
+
+enemy_4008_mucat_2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Base
+  rotate: true
+  xy: 184, 295
+  size: 98, 35
+  orig: 98, 35
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 124, 276
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+Bottle
+  rotate: false
+  xy: 220, 347
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+Box
+  rotate: true
+  xy: 75, 312
+  size: 82, 49
+  orig: 82, 49
+  offset: 0, 0
+  index: -1
+Box_L
+  rotate: false
+  xy: 181, 278
+  size: 37, 15
+  orig: 37, 15
+  offset: 0, 0
+  index: -1
+Box_R
+  rotate: false
+  xy: 320, 278
+  size: 37, 14
+  orig: 37, 14
+  offset: 0, 0
+  index: -1
+Eyes_A
+  rotate: true
+  xy: 379, 284
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+Eyes_B
+  rotate: false
+  xy: 75, 303
+  size: 24, 7
+  orig: 24, 7
+  offset: 0, 0
+  index: -1
+Flag_A
+  rotate: true
+  xy: 2, 278
+  size: 21, 113
+  orig: 21, 113
+  offset: 0, 0
+  index: -1
+Flag_B
+  rotate: false
+  xy: 277, 346
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+Hammer_A
+  rotate: false
+  xy: 2, 301
+  size: 71, 92
+  orig: 71, 92
+  offset: 0, 0
+  index: -1
+Hammer_B
+  rotate: true
+  xy: 126, 332
+  size: 61, 56
+  orig: 61, 56
+  offset: 0, 0
+  index: -1
+Hammer_B_L
+  rotate: true
+  xy: 260, 289
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+Hammer_B_R
+  rotate: true
+  xy: 294, 289
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: true
+  xy: 258, 328
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 220, 284
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+L_Ear
+  rotate: true
+  xy: 353, 289
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+L_Forearm
+  rotate: 180
+  xy: 220, 273
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+L_ForearmA
+  rotate: 180
+  xy: 332, 369
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+L_Paw
+  rotate: true
+  xy: 373, 333
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+L_PawA
+  rotate: true
+  xy: 347, 310
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+L_Upperarm
+  rotate: 270
+  xy: 354, 275
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+L_UpperarmA
+  rotate: false
+  xy: 371, 309
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 241, 275
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+R_Ear
+  rotate: true
+  xy: 369, 353
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+R_Forearm
+  rotate: 180
+  xy: 356, 369
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+R_Paw
+  rotate: true
+  xy: 352, 333
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+R_Upperarm
+  rotate: true
+  xy: 373, 374
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+Tail_A
+  rotate: true
+  xy: 326, 294
+  size: 38, 22
+  orig: 38, 22
+  offset: 0, 0
+  index: -1
+Tail_B
+  rotate: true
+  xy: 314, 328
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1

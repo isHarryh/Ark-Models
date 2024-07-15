@@ -1,0 +1,76 @@
+
+enemy_1439_dslntf_2.png
+size: 228,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_B_Arm
+  rotate: false
+  xy: 2, 55
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+C_B_Forearm
+  rotate: true
+  xy: 2, 172
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+C_B_Hand
+  rotate: true
+  xy: 171, 138
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: true
+  xy: 26, 7
+  size: 68, 137
+  orig: 68, 137
+  offset: 0, 0
+  index: -1
+C_Body_gj
+  rotate: false
+  xy: 47, 205
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+C_F_Arm
+  rotate: false
+  xy: 2, 5
+  size: 17, 48
+  orig: 17, 48
+  offset: 0, 0
+  index: -1
+C_F_Forearm
+  rotate: false
+  xy: 172, 173
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+C_F_Hand
+  rotate: true
+  xy: 165, 4
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 2, 54
+  size: 169, 168
+  orig: 169, 168
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: true
+  xy: 152, 44
+  size: 91, 68
+  orig: 91, 68
+  offset: 0, 0
+  index: -1

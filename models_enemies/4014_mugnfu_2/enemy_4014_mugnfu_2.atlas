@@ -1,0 +1,146 @@
+
+enemy_4014_mugnfu_2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 271
+  size: 63, 92
+  orig: 67, 92
+  offset: 0, 0
+  index: -1
+Cap
+  rotate: true
+  xy: 2, 86
+  size: 61, 33
+  orig: 61, 33
+  offset: 0, 0
+  index: -1
+Ear_L
+  rotate: true
+  xy: 57, 48
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+Ear_R
+  rotate: 180
+  xy: 88, 22
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 59, 28
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+FaceB
+  rotate: false
+  xy: 52, 13
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 38, 104
+  size: 63, 49
+  orig: 63, 49
+  offset: 0, 0
+  index: -1
+L_Foot
+  rotate: true
+  xy: 2, 22
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+R_Foot
+  rotate: true
+  xy: 2, 22
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+L_Forearm
+  rotate: false
+  xy: 2, 64
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: true
+  xy: 28, 19
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: 270
+  xy: 37, 68
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+L_Upperarm
+  rotate: false
+  xy: 2, 5
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+R_Forearm
+  rotate: true
+  xy: 78, 72
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: true
+  xy: 85, 3
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: false
+  xy: 63, 317
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+R_Upperarm
+  rotate: true
+  xy: 32, 42
+  size: 26, 25
+  orig: 27, 25
+  offset: 1, 0
+  index: -1
+Tail
+  rotate: 180
+  xy: 2, 149
+  size: 98, 52
+  orig: 98, 52
+  offset: 0, 0
+  index: -1
+WeaponA
+  rotate: false
+  xy: 63, 208
+  size: 39, 101
+  orig: 39, 101
+  offset: 0, 0
+  index: -1
+WeaponB
+  rotate: true
+  xy: 2, 194
+  size: 75, 59
+  orig: 75, 59
+  offset: 0, 0
+  index: -1
