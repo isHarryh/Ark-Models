@@ -1,0 +1,139 @@
+
+enemy_4012_mumssi.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 363
+  size: 70, 91
+  orig: 70, 91
+  offset: 0, 0
+  index: -1
+Ear_L
+  rotate: 180
+  xy: 36, 170
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+Ear_R
+  rotate: true
+  xy: 2, 145
+  size: 24, 53
+  orig: 24, 53
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 41, 5
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+EyeC
+  rotate: false
+  xy: 22, 5
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: true
+  xy: 2, 52
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+Hair_Dcrt
+  rotate: 180
+  xy: 2, 4
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 306
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+L_Foot
+  rotate: false
+  xy: 22, 37
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+L_Forearm
+  rotate: false
+  xy: 2, 180
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+L_Shank
+  rotate: 180
+  xy: 29, 116
+  size: 47, 33
+  orig: 47, 33
+  offset: 0, 0
+  index: -1
+L_ShankL
+  rotate: false
+  xy: 47, 282
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+L_Thigh
+  rotate: false
+  xy: 2, 263
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+L_Upperarm
+  rotate: false
+  xy: 2, 88
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+R_Foot
+  rotate: 180
+  xy: 29, 26
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+R_Forearm
+  rotate: false
+  xy: 38, 88
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: 180
+  xy: 31, 237
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+R_Upperarm
+  rotate: false
+  xy: 38, 62
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: 180
+  xy: 2, 213
+  size: 75, 28
+  orig: 75, 28
+  offset: 0, 0
+  index: -1

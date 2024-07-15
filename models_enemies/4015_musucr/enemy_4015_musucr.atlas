@@ -1,0 +1,20 @@
+
+enemy_4015_musucr.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ball
+  rotate: false
+  xy: 2, 4
+  size: 114, 113
+  orig: 114, 121
+  offset: 0, 0
+  index: -1
+C_EX_Point
+  rotate: false
+  xy: 2, 101
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1

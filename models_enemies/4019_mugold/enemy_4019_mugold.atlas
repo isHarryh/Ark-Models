@@ -1,0 +1,41 @@
+
+enemy_4019_mugold.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Ball
+  rotate: false
+  xy: 2, 160
+  size: 103, 99
+  orig: 103, 99
+  offset: 0, 0
+  index: -1
+C_Ball_Ex
+  rotate: 180
+  xy: 99, 161
+  size: 103, 99
+  orig: 103, 99
+  offset: 0, 0
+  index: -1
+C_Ball_Light_2
+  rotate: false
+  xy: 204, 203
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+C_EX_Point
+  rotate: false
+  xy: 2, 243
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+C_Light
+  rotate: false
+  xy: 194, 172
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1

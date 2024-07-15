@@ -1,0 +1,41 @@
+
+enemy_4020_muboun.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 59
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+C_Eye
+  rotate: true
+  xy: 96, 4
+  size: 128, 37
+  orig: 128, 37
+  offset: 0, 0
+  index: -1
+C_Star_1
+  rotate: false
+  xy: 66, 4
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+C_Star_2
+  rotate: false
+  xy: 106, 133
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+C_Star_3
+  rotate: true
+  xy: 2, 5
+  size: 52, 62
+  orig: 52, 62
+  offset: 0, 0
+  index: -1

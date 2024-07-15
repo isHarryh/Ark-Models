@@ -1,0 +1,27 @@
+
+enemy_4017_muinbl.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ball
+  rotate: false
+  xy: 2, 2
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+EX
+  rotate: false
+  xy: 2, 99
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+EX2
+  rotate: false
+  xy: 2, 11
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1

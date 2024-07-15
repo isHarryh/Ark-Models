@@ -1,0 +1,160 @@
+
+enemy_4009_murgby_2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ball
+  rotate: false
+  xy: 318, 436
+  size: 53, 67
+  orig: 53, 67
+  offset: 0, 0
+  index: -1
+Chest
+  rotate: false
+  xy: 2, 399
+  size: 141, 104
+  orig: 141, 104
+  offset: 0, 0
+  index: -1
+Chest_Dcrt
+  rotate: true
+  xy: 373, 438
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 232, 399
+  size: 87, 105
+  orig: 87, 105
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: true
+  xy: 427, 404
+  size: 100, 52
+  orig: 100, 52
+  offset: 0, 0
+  index: -1
+Hip_Dcrt
+  rotate: false
+  xy: 473, 480
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+L_Foot
+  rotate: false
+  xy: 321, 341
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+L_Forearm
+  rotate: 270
+  xy: 198, 328
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: false
+  xy: 2, 356
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+L_Shank
+  rotate: false
+  xy: 100, 354
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+L_Shoulder
+  rotate: 270
+  xy: 390, 380
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+L_Thigh
+  rotate: false
+  xy: 225, 357
+  size: 53, 43
+  orig: 53, 43
+  offset: 0, 0
+  index: -1
+L_Upperarm
+  rotate: 270
+  xy: 377, 346
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+R_Foot
+  rotate: false
+  xy: 434, 336
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+R_Forearm
+  rotate: true
+  xy: 153, 356
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: true
+  xy: 328, 404
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+R_Shank
+  rotate: 270
+  xy: 274, 344
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+R_Shoulder
+  rotate: true
+  xy: 452, 359
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+R_Thigh
+  rotate: false
+  xy: 40, 326
+  size: 48, 39
+  orig: 48, 42
+  offset: 0, 3
+  index: -1
+R_Upperarm
+  rotate: true
+  xy: 46, 366
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: 180
+  xy: 290, 365
+  size: 91, 52
+  orig: 91, 52
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: true
+  xy: 145, 395
+  size: 108, 85
+  orig: 108, 85
+  offset: 0, 0
+  index: -1

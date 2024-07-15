@@ -1,0 +1,97 @@
+
+enemy_1438_dspred_2.png
+size: 240,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 33
+  size: 48, 76
+  orig: 48, 76
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 148, 71
+  size: 64, 71
+  orig: 64, 72
+  offset: 0, 1
+  index: -1
+C_L_Ear
+  rotate: false
+  xy: 202, 35
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 2, 103
+  size: 145, 131
+  orig: 146, 131
+  offset: 1, 0
+  index: -1
+C_L_Hands
+  rotate: false
+  xy: 71, 96
+  size: 34, 68
+  orig: 34, 68
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: false
+  xy: 8, 116
+  size: 27, 54
+  orig: 27, 54
+  offset: 0, 0
+  index: -1
+C_R_Ear
+  rotate: false
+  xy: 211, 174
+  size: 18, 60
+  orig: 18, 62
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: 180
+  xy: 34, 51
+  size: 97, 130
+  orig: 97, 130
+  offset: 0, 0
+  index: -1
+C_R_Hands
+  rotate: true
+  xy: 72, 203
+  size: 31, 60
+  orig: 31, 60
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: false
+  xy: 215, 127
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+C_ke_1
+  rotate: true
+  xy: 52, 3
+  size: 46, 62
+  orig: 46, 62
+  offset: 0, 0
+  index: -1
+C_ke_2
+  rotate: false
+  xy: 140, 144
+  size: 69, 89
+  orig: 69, 89
+  offset: 0, 0
+  index: -1
+C_ke_3
+  rotate: false
+  xy: 130, 8
+  size: 64, 61
+  orig: 64, 62
+  offset: 0, 1
+  index: -1

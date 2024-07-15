@@ -1,0 +1,167 @@
+
+enemy_4013_mubufn.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 110, 406
+  size: 153, 105
+  orig: 162, 136
+  offset: 9, 31
+  index: -1
+C_Body_Cloth
+  rotate: 270
+  xy: 263, 400
+  size: 111, 102
+  orig: 162, 130
+  offset: 51, 28
+  index: -1
+C_EyeWhite
+  rotate: false
+  xy: 426, 440
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+C_Eye_Closed
+  rotate: false
+  xy: 254, 502
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+C_Eyeball
+  rotate: false
+  xy: 496, 493
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+C_Eyeball_2
+  rotate: false
+  xy: 428, 422
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+C_Eyebrow
+  rotate: false
+  xy: 110, 504
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+C_Eyelash_D
+  rotate: false
+  xy: 123, 505
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+C_Eyelash_U
+  rotate: false
+  xy: 200, 399
+  size: 26, 10
+  orig: 26, 10
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 2, 391
+  size: 106, 120
+  orig: 106, 120
+  offset: 0, 0
+  index: -1
+C_L_Ear
+  rotate: true
+  xy: 455, 462
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+C_L_Leg_1_1
+  rotate: false
+  xy: 366, 418
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+C_L_Leg_1_2
+  rotate: false
+  xy: 449, 418
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+C_L_Leg_2_1
+  rotate: 180
+  xy: 483, 394
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+C_L_Leg_2_2
+  rotate: 180
+  xy: 228, 394
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+C_R_Ear
+  rotate: false
+  xy: 401, 399
+  size: 26, 59
+  orig: 26, 59
+  offset: 0, 0
+  index: -1
+C_R_Leg_1_1
+  rotate: true
+  xy: 428, 390
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+C_R_Leg_1_2
+  rotate: 270
+  xy: 110, 396
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+C_R_Leg_1_Sleeve
+  rotate: 180
+  xy: 405, 457
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+C_R_Sleeve
+  rotate: 180
+  xy: 405, 457
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+C_R_Leg_2_1
+  rotate: false
+  xy: 373, 383
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+C_R_Leg_2_2
+  rotate: 180
+  xy: 334, 384
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: false
+  xy: 334, 462
+  size: 70, 49
+  orig: 70, 49
+  offset: 0, 0
+  index: -1

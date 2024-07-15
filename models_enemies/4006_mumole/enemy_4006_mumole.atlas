@@ -1,0 +1,244 @@
+
+enemy_4006_mumole.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Back_Hair
+  rotate: false
+  xy: 224, 372
+  size: 79, 53
+  orig: 79, 53
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: false
+  xy: 2, 361
+  size: 99, 65
+  orig: 99, 65
+  offset: 0, 0
+  index: -1
+C_Box
+  rotate: true
+  xy: 305, 353
+  size: 72, 29
+  orig: 72, 29
+  offset: 0, 0
+  index: -1
+C_Box_Bag
+  rotate: false
+  xy: 336, 380
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+C_Box_Tape
+  rotate: 270
+  xy: 379, 323
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+C_Box_Wheel_1
+  rotate: false
+  xy: 413, 351
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+C_Box_Wheel_2
+  rotate: false
+  xy: 413, 351
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+C_Box_Wheel_3
+  rotate: false
+  xy: 413, 338
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+C_Box_Wheel_4
+  rotate: false
+  xy: 413, 338
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+C_Cloth
+  rotate: false
+  xy: 103, 356
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+C_Cloth_Number
+  rotate: true
+  xy: 37, 330
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+C_Face
+  rotate: false
+  xy: 160, 325
+  size: 41, 15
+  orig: 41, 15
+  offset: 0, 0
+  index: -1
+C_Flag_1
+  rotate: true
+  xy: 29, 322
+  size: 5, 86
+  orig: 5, 86
+  offset: 0, 0
+  index: -1
+C_Flag_2
+  rotate: 180
+  xy: 266, 335
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+C_Hair
+  rotate: false
+  xy: 165, 342
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: true
+  xy: 176, 367
+  size: 58, 47
+  orig: 58, 47
+  offset: 0, 0
+  index: -1
+C_L_Ear
+  rotate: false
+  xy: 378, 342
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+C_L_Foot_1
+  rotate: true
+  xy: 409, 398
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+C_L_Foot_2
+  rotate: true
+  xy: 402, 329
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+C_L_Leg_1_1
+  rotate: 270
+  xy: 224, 348
+  size: 33, 41
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+C_L_Leg_1_2
+  rotate: true
+  xy: 345, 324
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+C_L_Leg_2
+  rotate: true
+  xy: 308, 326
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+C_L_Sleeve
+  rotate: 180
+  xy: 92, 329
+  size: 35, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+C_L_Sleeve_IN
+  rotate: true
+  xy: 72, 331
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+C_Mouth
+  rotate: 270
+  xy: 395, 393
+  size: 33, 13
+  orig: 33, 13
+  offset: 0, 0
+  index: -1
+C_R_Ear
+  rotate: true
+  xy: 379, 369
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+C_R_Foot_1
+  rotate: false
+  xy: 285, 324
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+C_R_Foot_2
+  rotate: true
+  xy: 409, 375
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+C_R_Leg_1_1
+  rotate: false
+  xy: 128, 330
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+C_R_Leg_1_2
+  rotate: 270
+  xy: 208, 324
+  size: 28, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+C_R_Leg_2
+  rotate: true
+  xy: 336, 352
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+C_R_Sleeve
+  rotate: true
+  xy: 2, 328
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: 180
+  xy: 240, 321
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+C_Teeth
+  rotate: true
+  xy: 403, 351
+  size: 22, 9
+  orig: 22, 9
+  offset: 0, 0
+  index: -1
