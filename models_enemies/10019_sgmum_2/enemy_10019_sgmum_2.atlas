@@ -1,0 +1,188 @@
+
+enemy_10019_sgmum_2.png
+size: 300,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chest
+  rotate: 180
+  xy: 168, 160
+  size: 71, 58
+  orig: 72, 58
+  offset: 0, 0
+  index: -1
+Coat_Down
+  rotate: false
+  xy: 104, 27
+  size: 77, 22
+  orig: 77, 22
+  offset: 0, 0
+  index: -1
+Coat_Up
+  rotate: 180
+  xy: 238, 4
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+Ear_Dcrt
+  rotate: false
+  xy: 99, 192
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+Hair_A
+  rotate: false
+  xy: 2, 173
+  size: 13, 53
+  orig: 13, 53
+  offset: 0, 0
+  index: -1
+Hair_B
+  rotate: false
+  xy: 2, 227
+  size: 14, 56
+  orig: 14, 56
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 103, 209
+  size: 69, 75
+  orig: 69, 75
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: false
+  xy: 75, 64
+  size: 64, 31
+  orig: 64, 31
+  offset: 0, 0
+  index: -1
+L_Ear
+  rotate: false
+  xy: 265, 81
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+L_FootA
+  rotate: false
+  xy: 62, 29
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+L_FootB
+  rotate: false
+  xy: 265, 66
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+L_Forearm
+  rotate: false
+  xy: 174, 219
+  size: 54, 64
+  orig: 54, 64
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: false
+  xy: 98, 97
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+L_Shank
+  rotate: false
+  xy: 141, 45
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+L_Thigh
+  rotate: false
+  xy: 223, 60
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+L_Upperarm
+  rotate: true
+  xy: 240, 169
+  size: 59, 43
+  orig: 59, 43
+  offset: 0, 0
+  index: -1
+R_Ear
+  rotate: false
+  xy: 175, 14
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+R_FootA
+  rotate: false
+  xy: 2, 4
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+R_FootB
+  rotate: false
+  xy: 192, 81
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+R_Forearm
+  rotate: 180
+  xy: 98, 144
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 230, 230
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+R_Shank
+  rotate: false
+  xy: 184, 97
+  size: 39, 62
+  orig: 39, 62
+  offset: 0, 0
+  index: -1
+R_Thigh
+  rotate: 270
+  xy: 195, 18
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+R_Upperarm
+  rotate: false
+  xy: 146, 99
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+Shield
+  rotate: false
+  xy: 2, 29
+  size: 101, 255
+  orig: 101, 255
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: true
+  xy: 235, 112
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1

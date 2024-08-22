@@ -1,0 +1,118 @@
+
+enemy_10018_sgrobh.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Base
+  rotate: false
+  xy: 129, 116
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 82, 125
+  size: 69, 45
+  orig: 69, 45
+  offset: 0, 0
+  index: -1
+Collar_B
+  rotate: false
+  xy: 82, 105
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+Collar_F
+  rotate: true
+  xy: 117, 65
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+EarRing_L
+  rotate: false
+  xy: 144, 139
+  size: 10, 55
+  orig: 10, 55
+  offset: 0, 0
+  index: -1
+EarRing_R
+  rotate: false
+  xy: 154, 114
+  size: 10, 55
+  orig: 10, 55
+  offset: 0, 0
+  index: -1
+Ear_L
+  rotate: false
+  xy: 120, 8
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+Ear_R
+  rotate: false
+  xy: 82, 56
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: false
+  xy: 2, 4
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+Eye_Lb
+  rotate: false
+  xy: 59, 94
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: false
+  xy: 70, 80
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+Eye_Rb
+  rotate: false
+  xy: 104, 111
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 24
+  size: 79, 91
+  orig: 79, 91
+  offset: 0, 0
+  index: -1
+Mask
+  rotate: false
+  xy: 73, 3
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+Stick
+  rotate: false
+  xy: 129, 156
+  size: 13, 38
+  orig: 14, 40
+  offset: 0, 1
+  index: -1
+Wheel
+  rotate: false
+  xy: 2, 116
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1

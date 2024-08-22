@@ -1,0 +1,202 @@
+
+enemy_10020_sgcat.png
+size: 328,328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 220
+  size: 190, 96
+  orig: 190, 98
+  offset: 0, 2
+  index: -1
+C_Head
+  rotate: false
+  xy: 247, 132
+  size: 67, 59
+  orig: 67, 59
+  offset: 0, 0
+  index: -1
+C_L_Ears
+  rotate: true
+  xy: 231, 13
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+C_L_Eye
+  rotate: false
+  xy: 163, 91
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+C_L_Eye_1
+  rotate: false
+  xy: 75, 6
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+C_L_Foot_d
+  rotate: false
+  xy: 135, 140
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+C_L_Foot_u
+  rotate: false
+  xy: 166, 200
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+C_L_Jewel
+  rotate: false
+  xy: 194, 192
+  size: 65, 123
+  orig: 65, 123
+  offset: 0, 0
+  index: -1
+C_L_Jewel_2
+  rotate: true
+  xy: 2, 166
+  size: 53, 163
+  orig: 53, 163
+  offset: 0, 0
+  index: -1
+C_L_Jewel_3
+  rotate: true
+  xy: 111, 7
+  size: 18, 59
+  orig: 18, 59
+  offset: 0, 0
+  index: -1
+C_L_Jewel_4
+  rotate: true
+  xy: 2, 125
+  size: 38, 131
+  orig: 38, 131
+  offset: 0, 0
+  index: -1
+C_L_Jewel_5
+  rotate: false
+  xy: 261, 246
+  size: 49, 68
+  orig: 49, 68
+  offset: 0, 0
+  index: -1
+C_L_Leg_d
+  rotate: false
+  xy: 282, 2
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+C_L_Leg_u
+  rotate: false
+  xy: 48, 14
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+C_L_Thigh_u
+  rotate: true
+  xy: 77, 26
+  size: 60, 63
+  orig: 60, 63
+  offset: 0, 0
+  index: -1
+C_L_Thighs_d
+  rotate: true
+  xy: 46, 60
+  size: 65, 92
+  orig: 65, 92
+  offset: 0, 0
+  index: -1
+C_L_Thighs_u
+  rotate: false
+  xy: 166, 112
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+C_Neck
+  rotate: false
+  xy: 189, 29
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+C_R_Ears
+  rotate: true
+  xy: 2, 12
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+C_R_Eye
+  rotate: false
+  xy: 2, 307
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+C_R_Eye_1
+  rotate: false
+  xy: 54, 308
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+C_R_Foot_d
+  rotate: false
+  xy: 205, 7
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+C_R_Foot_u
+  rotate: false
+  xy: 171, 5
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+C_R_Leg_d
+  rotate: false
+  xy: 261, 197
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+C_R_Leg_u
+  rotate: true
+  xy: 137, 27
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+C_R_Thigh_d
+  rotate: false
+  xy: 2, 37
+  size: 44, 83
+  orig: 44, 83
+  offset: 0, 0
+  index: -1
+C_R_Thigh_u
+  rotate: false
+  xy: 270, 53
+  size: 43, 76
+  orig: 43, 76
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: true
+  xy: 140, 55
+  size: 75, 128
+  orig: 75, 128
+  offset: 0, 0
+  index: -1

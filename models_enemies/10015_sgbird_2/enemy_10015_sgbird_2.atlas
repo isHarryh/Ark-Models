@@ -1,0 +1,34 @@
+
+enemy_10015_sgbird_2.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body_1
+  rotate: false
+  xy: 91, 2
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+C_Body_2
+  rotate: false
+  xy: 48, 6
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+C_Body_3
+  rotate: true
+  xy: 130, 11
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 2, 3
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1

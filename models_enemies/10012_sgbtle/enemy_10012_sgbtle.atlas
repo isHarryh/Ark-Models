@@ -1,0 +1,83 @@
+
+enemy_10012_sgbtle.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Bi_1
+  rotate: false
+  xy: 64, 125
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+C_Bi_2
+  rotate: 180
+  xy: 36, 143
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+C_Bi_2s
+  rotate: 180
+  xy: 31, 3
+  size: 44, 72
+  orig: 44, 72
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: false
+  xy: 2, 97
+  size: 37, 118
+  orig: 37, 118
+  offset: 0, 0
+  index: -1
+C_Body_1
+  rotate: true
+  xy: 2, 15
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+C_Cy_1
+  rotate: false
+  xy: 46, 78
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+C_Cy_2
+  rotate: true
+  xy: 40, 97
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+C_Head_1
+  rotate: 270
+  xy: 24, 155
+  size: 59, 34
+  orig: 59, 34
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: false
+  xy: 58, 2
+  size: 9, 29
+  orig: 9, 29
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: false
+  xy: 60, 184
+  size: 9, 31
+  orig: 9, 31
+  offset: 0, 0
+  index: -1
+C_Si
+  rotate: false
+  xy: 2, 53
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1

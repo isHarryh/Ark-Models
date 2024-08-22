@@ -1,0 +1,335 @@
+
+enemy_2074_skzgly.png
+size: 488,488
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 114, 155
+  size: 63, 65
+  orig: 63, 65
+  offset: 0, 0
+  index: -1
+C_Chest
+  rotate: false
+  xy: 337, 419
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+C_Cloak
+  rotate: 180
+  xy: 269, 341
+  size: 148, 123
+  orig: 148, 123
+  offset: 0, 0
+  index: -1
+C_Cloth_B
+  rotate: false
+  xy: 369, 209
+  size: 90, 69
+  orig: 90, 69
+  offset: 0, 0
+  index: -1
+C_Face
+  rotate: false
+  xy: 276, 156
+  size: 58, 74
+  orig: 58, 74
+  offset: 0, 0
+  index: -1
+C_Hair
+  rotate: true
+  xy: 198, 315
+  size: 97, 60
+  orig: 99, 61
+  offset: 2, 0
+  index: -1
+C_Hair_B_1
+  rotate: false
+  xy: 179, 117
+  size: 91, 77
+  orig: 91, 77
+  offset: 0, 0
+  index: -1
+C_Hair_B_2
+  rotate: false
+  xy: 2, 11
+  size: 90, 66
+  orig: 90, 66
+  offset: 0, 0
+  index: -1
+C_Hair_B_3
+  rotate: true
+  xy: 158, 427
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: 270
+  xy: 399, 280
+  size: 74, 83
+  orig: 74, 83
+  offset: 0, 0
+  index: -1
+C_Hip
+  rotate: false
+  xy: 112, 59
+  size: 61, 45
+  orig: 61, 45
+  offset: 0, 0
+  index: -1
+C_Hip_Armor
+  rotate: true
+  xy: 395, 53
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+C_L_Arm_1
+  rotate: false
+  xy: 375, 157
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+C_L_Arm_2
+  rotate: false
+  xy: 175, 31
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+C_L_Arm_3
+  rotate: false
+  xy: 277, 14
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+C_L_Cloth
+  rotate: false
+  xy: 385, 359
+  size: 67, 106
+  orig: 68, 106
+  offset: 0, 0
+  index: -1
+C_L_Ear
+  rotate: false
+  xy: 333, 315
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+C_L_Finger
+  rotate: false
+  xy: 355, 65
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+C_L_Finger_2
+  rotate: false
+  xy: 451, 407
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: false
+  xy: 223, 18
+  size: 52, 37
+  orig: 52, 37
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 324, 16
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+C_L_Horn
+  rotate: false
+  xy: 276, 102
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+C_L_Leg_1
+  rotate: false
+  xy: 447, 181
+  size: 39, 59
+  orig: 39, 59
+  offset: 0, 0
+  index: -1
+C_L_Leg_2
+  rotate: true
+  xy: 114, 105
+  size: 47, 64
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+C_L_Rope
+  rotate: 180
+  xy: 147, 4
+  size: 80, 44
+  orig: 82, 44
+  offset: 2, 0
+  index: -1
+C_L_Rope_2
+  rotate: false
+  xy: 368, 402
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+C_L_Shoulder
+  rotate: false
+  xy: 179, 77
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+C_L_Shoulder_Armor
+  rotate: false
+  xy: 239, 56
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+C_L_Shoulder_Cloth
+  rotate: true
+  xy: 114, 228
+  size: 72, 38
+  orig: 72, 38
+  offset: 0, 0
+  index: -1
+C_R_Arm_1
+  rotate: false
+  xy: 298, 56
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+C_R_Arm_2
+  rotate: false
+  xy: 451, 366
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+C_R_Collar
+  rotate: false
+  xy: 395, 101
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+C_R_Ear
+  rotate: false
+  xy: 179, 197
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+C_R_Finger
+  rotate: true
+  xy: 2, 14
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+C_R_Finger_2
+  rotate: false
+  xy: 469, 407
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+C_R_Finger_3
+  rotate: false
+  xy: 201, 414
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: false
+  xy: 93, 20
+  size: 52, 37
+  orig: 52, 37
+  offset: 0, 0
+  index: -1
+C_R_Hair
+  rotate: false
+  xy: 374, 283
+  size: 25, 58
+  orig: 25, 58
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: false
+  xy: 453, 424
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+C_R_Hand_2
+  rotate: false
+  xy: 370, 13
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+C_R_Horn
+  rotate: false
+  xy: 336, 100
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+C_R_Leg_1
+  rotate: false
+  xy: 63, 67
+  size: 47, 60
+  orig: 47, 60
+  offset: 0, 0
+  index: -1
+C_R_Leg_2
+  rotate: true
+  xy: 2, 78
+  size: 49, 60
+  orig: 49, 60
+  offset: 0, 0
+  index: -1
+C_Sword
+  rotate: false
+  xy: 2, 129
+  size: 110, 335
+  orig: 110, 335
+  offset: 0, 0
+  index: -1
+C_Sword_Hold
+  rotate: true
+  xy: 212, 165
+  size: 299, 161
+  orig: 299, 161
+  offset: 0, 0
+  index: -1
+C_Sword_Hold_B
+  rotate: true
+  xy: 114, 150
+  size: 315, 160
+  orig: 320, 160
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: true
+  xy: 438, 35
+  size: 98, 48
+  orig: 98, 48
+  offset: 0, 0
+  index: -1
