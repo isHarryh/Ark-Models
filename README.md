@@ -1,14 +1,14 @@
 Ark-Models
 ==========
-Arknights Spine Models (Excerpt)  
-明日方舟Spine动画小人模型(节选)  
+Arknights Spine Models (Excerpt)
+明日方舟Spine动画小人模型(节选)
 
 **🇨🇳中文** **|** [🔤English](README-eng.md)
 
 ## 状态
 
 当前更新至：
-- 故事集 **熔炉“还魂”记** 中新增的干员、时装和敌人模型
+- 活动 **太阳甩在身后** 中新增的干员、时装和敌人模型
 
 本仓库收集了中国服《明日方舟》中的部分Spine模型文件，包括：
 | 文件夹           | 内 容           |
