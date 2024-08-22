@@ -20,7 +20,7 @@
         "Rarity_5": "五星",
         "Rarity_6": "六星"
     },
-    "gameDataVersionDescription": "Producer: ArkUnpacker 3\nDate: 2024-07-15\n",
+    "gameDataVersionDescription": "Producer: ArkUnpacker 3\nDate: 2024-08-21\n",
     "gameDataServerRegion": "zh_CN",
     "data": {
         "285_medic2": {
@@ -2925,6 +2925,24 @@
                 ".skel": "build_char_336_folivo.skel"
             }
         },
+        "4140_lasher": {
+            "assetId": "build_char_4140_lasher",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "衡沙",
+            "appellation": "Sand Reckoner",
+            "skinGroupId": "DEFAULT",
+            "skinGroupName": "默认服装",
+            "sortTags": [
+                "Operator",
+                "Rarity_5"
+            ],
+            "assetList": {
+                ".atlas": "build_char_4140_lasher.atlas",
+                ".png": "build_char_4140_lasher.png",
+                ".skel": "build_char_4140_lasher.skel"
+            }
+        },
         "108_silent": {
             "assetId": "build_char_108_silent",
             "type": "Operator",
@@ -3140,6 +3158,24 @@
                 ".atlas": "build_char_4071_peper.atlas",
                 ".png": "build_char_4071_peper.png",
                 ".skel": "build_char_4071_peper.skel"
+            }
+        },
+        "4139_papyrs": {
+            "assetId": "build_char_4139_papyrs",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "莎草",
+            "appellation": "Papyrus",
+            "skinGroupId": "DEFAULT",
+            "skinGroupName": "默认服装",
+            "sortTags": [
+                "Operator",
+                "Rarity_5"
+            ],
+            "assetList": {
+                ".atlas": "build_char_4139_papyrs.atlas",
+                ".png": "build_char_4139_papyrs.png",
+                ".skel": "build_char_4139_papyrs.skel"
             }
         },
         "148_nearl": {
@@ -4169,6 +4205,24 @@
                 ".skel": "build_char_4124_iana.skel"
             }
         },
+        "4151_tinman": {
+            "assetId": "build_char_4151_tinman",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "锡人",
+            "appellation": "Tin Man",
+            "skinGroupId": "DEFAULT",
+            "skinGroupName": "默认服装",
+            "sortTags": [
+                "Operator",
+                "Rarity_5"
+            ],
+            "assetList": {
+                ".atlas": "build_char_4151_tinman.atlas",
+                ".png": "build_char_4151_tinman.png",
+                ".skel": "build_char_4151_tinman.skel"
+            }
+        },
         "103_angel": {
             "assetId": "build_char_103_angel",
             "type": "Operator",
@@ -4421,6 +4475,24 @@
                 ".atlas": "build_char_4117_ray.atlas",
                 ".png": "build_char_4117_ray.png",
                 ".skel": "build_char_4117_ray.skel"
+            }
+        },
+        "4138_narant": {
+            "assetId": "build_char_4138_narant",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "娜仁图亚",
+            "appellation": "Narantuya",
+            "skinGroupId": "DEFAULT",
+            "skinGroupName": "默认服装",
+            "sortTags": [
+                "Operator",
+                "Rarity_6"
+            ],
+            "assetList": {
+                ".atlas": "build_char_4138_narant.atlas",
+                ".png": "build_char_4138_narant.png",
+                ".skel": "build_char_4138_narant.skel"
             }
         },
         "112_siege": {
@@ -5636,6 +5708,24 @@
                 ".atlas": "build_char_4145_ulpia.atlas",
                 ".png": "build_char_4145_ulpia.png",
                 ".skel": "build_char_4145_ulpia.skel"
+            }
+        },
+        "4058_pepe": {
+            "assetId": "build_char_4058_pepe",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "佩佩",
+            "appellation": "Pepe",
+            "skinGroupId": "DEFAULT",
+            "skinGroupName": "默认服装",
+            "sortTags": [
+                "Operator",
+                "Rarity_6"
+            ],
+            "assetList": {
+                ".atlas": "build_char_4058_pepe.atlas",
+                ".png": "build_char_4058_pepe.png",
+                ".skel": "build_char_4058_pepe.skel"
             }
         },
         "010_chen": {
@@ -7615,6 +7705,45 @@
                 ".atlas": "build_char_4006_melnte_epoque#33.atlas",
                 ".png": "build_char_4006_melnte_epoque#33.png",
                 ".skel": "build_char_4006_melnte_epoque#33.skel"
+            }
+        },
+        "1016_agoat2_epoque#34": {
+            "assetId": "build_char_1016_agoat2_epoque#34",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "纯烬艾雅法拉",
+            "appellation": "Eyjafjalla the Hvít Aska",
+            "skinGroupId": "2024#epoque#5",
+            "skinGroupName": "时代/XXXIV",
+            "sortTags": [
+                "Operator",
+                "Special",
+                "Rarity_6",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_1016_agoat2_epoque#34.atlas",
+                ".png": "build_char_1016_agoat2_epoque#34.png",
+                ".skel": "build_char_1016_agoat2_epoque#34.skel"
+            }
+        },
+        "488_buildr_epoque#34": {
+            "assetId": "build_char_488_buildr_epoque#34",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "青枳",
+            "appellation": "Poncirus",
+            "skinGroupId": "2024#epoque#5",
+            "skinGroupName": "时代/XXXIV",
+            "sortTags": [
+                "Operator",
+                "Rarity_5",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_488_buildr_epoque#34.atlas",
+                ".png": "build_char_488_buildr_epoque#34.png",
+                ".skel": "build_char_488_buildr_epoque#34.skel"
             }
         },
         "120_hibisc_nian#1": {
@@ -12205,6 +12334,25 @@
                 ".skel": "build_char_4122_grabds_yun#3.skel"
             }
         },
+        "128_plosis_yun#4": {
+            "assetId": "build_char_128_plosis_yun#4",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "白面鸮",
+            "appellation": "Ptilopsis",
+            "skinGroupId": "2024#yun#3",
+            "skinGroupName": "0011/韵系列/IV",
+            "sortTags": [
+                "Operator",
+                "Rarity_5",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_128_plosis_yun#4.atlas",
+                ".png": "build_char_128_plosis_yun#4.png",
+                ".skel": "build_char_128_plosis_yun#4.skel"
+            }
+        },
         "4048_doroth_witch#4": {
             "assetId": "build_char_4048_doroth_witch#4",
             "type": "Operator",
@@ -12378,6 +12526,63 @@
                 ".skel": "build_char_271_spikes_unveiling#1.skel"
             }
         },
+        "179_cgbird_sightseer#1": {
+            "assetId": "build_char_179_cgbird_sightseer#1",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "夜莺",
+            "appellation": "Nightingale",
+            "skinGroupId": "2024#sightseer",
+            "skinGroupName": "错位巡礼/I",
+            "sortTags": [
+                "Operator",
+                "Rarity_6",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_179_cgbird_sightseer#1.atlas",
+                ".png": "build_char_179_cgbird_sightseer#1.png",
+                ".skel": "build_char_179_cgbird_sightseer#1.skel"
+            }
+        },
+        "4088_hodrer_sightseer#1": {
+            "assetId": "build_char_4088_hodrer_sightseer#1",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "赫德雷",
+            "appellation": "Hoederer",
+            "skinGroupId": "2024#sightseer",
+            "skinGroupName": "错位巡礼/I",
+            "sortTags": [
+                "Operator",
+                "Rarity_6",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_4088_hodrer_sightseer#1.atlas",
+                ".png": "build_char_4088_hodrer_sightseer#1.png",
+                ".skel": "build_char_4088_hodrer_sightseer#1.skel"
+            }
+        },
+        "400_weedy_sightseer#1": {
+            "assetId": "build_char_400_weedy_sightseer#1",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "温蒂",
+            "appellation": "Weedy",
+            "skinGroupId": "2024#sightseer",
+            "skinGroupName": "错位巡礼/I",
+            "sortTags": [
+                "Operator",
+                "Rarity_6",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_400_weedy_sightseer#1.atlas",
+                ".png": "build_char_400_weedy_sightseer#1.png",
+                ".skel": "build_char_400_weedy_sightseer#1.skel"
+            }
+        },
         "1037_amiya3": {
             "assetId": "build_char_1037_amiya3",
             "type": "Operator",
@@ -12396,6 +12601,20 @@
                 ".png": "build_char_1037_amiya3.png",
                 ".skel": "build_char_1037_amiya3.skel"
             }
+        },
+        "10009_sggem": {
+            "assetId": "enemy_10009_sggem",
+            "type": "Enemy",
+            "style": null,
+            "name": "结晶",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {}
         },
         "1000_gopro": {
             "assetId": "enemy_1000_gopro",
@@ -12451,6 +12670,366 @@
                 ".skel": "enemy_1000_gopro_3.skel"
             }
         },
+        "10010_sgnja": {
+            "assetId": "enemy_10010_sgnja",
+            "type": "Enemy",
+            "style": null,
+            "name": "市井盗贼",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10010_sgnja.atlas",
+                ".png": "enemy_10010_sgnja.png",
+                ".skel": "enemy_10010_sgnja.skel"
+            }
+        },
+        "10010_sgnja_2": {
+            "assetId": "enemy_10010_sgnja_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "市井流窜盗贼",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10010_sgnja_2.atlas",
+                ".png": "enemy_10010_sgnja_2.png",
+                ".skel": "enemy_10010_sgnja_2.skel"
+            }
+        },
+        "10011_sgshot": {
+            "assetId": "enemy_10011_sgshot",
+            "type": "Enemy",
+            "style": null,
+            "name": "市井猎手",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10011_sgshot.atlas",
+                ".png": "enemy_10011_sgshot.png",
+                ".skel": "enemy_10011_sgshot.skel"
+            }
+        },
+        "10011_sgshot_2": {
+            "assetId": "enemy_10011_sgshot_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "市井流窜猎手",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10011_sgshot_2.atlas",
+                ".png": "enemy_10011_sgshot_2.png",
+                ".skel": "enemy_10011_sgshot_2.skel"
+            }
+        },
+        "10012_sgbtle": {
+            "assetId": "enemy_10012_sgbtle",
+            "type": "Enemy",
+            "style": null,
+            "name": "237-1号展柜文物",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10012_sgbtle.atlas",
+                ".png": "enemy_10012_sgbtle.png",
+                ".skel": "enemy_10012_sgbtle.skel"
+            }
+        },
+        "10012_sgbtle_2": {
+            "assetId": "enemy_10012_sgbtle_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "237-2号展柜文物",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10012_sgbtle_2.atlas",
+                ".png": "enemy_10012_sgbtle_2.png",
+                ".skel": "enemy_10012_sgbtle_2.skel"
+            }
+        },
+        "10013_sgrob": {
+            "assetId": "enemy_10013_sgrob",
+            "type": "Enemy",
+            "style": null,
+            "name": "风情区小型车辇",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10013_sgrob.atlas",
+                ".png": "enemy_10013_sgrob.png",
+                ".skel": "enemy_10013_sgrob.skel"
+            }
+        },
+        "10013_sgrob_2": {
+            "assetId": "enemy_10013_sgrob_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "风情区大型车辇",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10013_sgrob_2.atlas",
+                ".png": "enemy_10013_sgrob_2.png",
+                ".skel": "enemy_10013_sgrob_2.skel"
+            }
+        },
+        "10014_sgrich": {
+            "assetId": "enemy_10014_sgrich",
+            "type": "Enemy",
+            "style": null,
+            "name": "小型破损器皿",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10014_sgrich.atlas",
+                ".png": "enemy_10014_sgrich.png",
+                ".skel": "enemy_10014_sgrich.skel"
+            }
+        },
+        "10014_sgrich_2": {
+            "assetId": "enemy_10014_sgrich_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "大型破碎器皿",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10014_sgrich_2.atlas",
+                ".png": "enemy_10014_sgrich_2.png",
+                ".skel": "enemy_10014_sgrich_2.skel"
+            }
+        },
+        "10015_sgbird": {
+            "assetId": "enemy_10015_sgbird",
+            "type": "Enemy",
+            "style": null,
+            "name": "“滑翔的玩具”",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10015_sgbird.atlas",
+                ".png": "enemy_10015_sgbird.png",
+                ".skel": "enemy_10015_sgbird.skel"
+            }
+        },
+        "10015_sgbird_2": {
+            "assetId": "enemy_10015_sgbird_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "“喷射式冠冕”",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10015_sgbird_2.atlas",
+                ".png": "enemy_10015_sgbird_2.png",
+                ".skel": "enemy_10015_sgbird_2.skel"
+            }
+        },
+        "10016_sggint": {
+            "assetId": "enemy_10016_sggint",
+            "type": "Enemy",
+            "style": null,
+            "name": "“愤怒蹬踏”",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10016_sggint.atlas",
+                ".png": "enemy_10016_sggint.png",
+                ".skel": "enemy_10016_sggint.skel"
+            }
+        },
+        "10016_sggint_2": {
+            "assetId": "enemy_10016_sggint_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "“连续地愤怒蹬踏”",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10016_sggint_2.atlas",
+                ".png": "enemy_10016_sggint_2.png",
+                ".skel": "enemy_10016_sggint_2.skel"
+            }
+        },
+        "10017_sgass": {
+            "assetId": "enemy_10017_sgass",
+            "type": "Enemy",
+            "style": null,
+            "name": "殿堂左侧雕像",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10017_sgass.atlas",
+                ".png": "enemy_10017_sgass.png",
+                ".skel": "enemy_10017_sgass.skel"
+            }
+        },
+        "10017_sgass_2": {
+            "assetId": "enemy_10017_sgass_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "殿堂右侧雕像",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10017_sgass_2.atlas",
+                ".png": "enemy_10017_sgass_2.png",
+                ".skel": "enemy_10017_sgass_2.skel"
+            }
+        },
+        "10018_sgrobh": {
+            "assetId": "enemy_10018_sgrobh",
+            "type": "Enemy",
+            "style": null,
+            "name": "“独轮车玩具”",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10018_sgrobh.atlas",
+                ".png": "enemy_10018_sgrobh.png",
+                ".skel": "enemy_10018_sgrobh.skel"
+            }
+        },
+        "10018_sgrobh_2": {
+            "assetId": "enemy_10018_sgrobh_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "“弹跳独轮车”",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10018_sgrobh_2.atlas",
+                ".png": "enemy_10018_sgrobh_2.png",
+                ".skel": "enemy_10018_sgrobh_2.skel"
+            }
+        },
+        "10019_sgmum": {
+            "assetId": "enemy_10019_sgmum",
+            "type": "Enemy",
+            "style": null,
+            "name": "“以板之名”",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10019_sgmum.atlas",
+                ".png": "enemy_10019_sgmum.png",
+                ".skel": "enemy_10019_sgmum.skel"
+            }
+        },
+        "10019_sgmum_2": {
+            "assetId": "enemy_10019_sgmum_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "“愿板与你同在”",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10019_sgmum_2.atlas",
+                ".png": "enemy_10019_sgmum_2.png",
+                ".skel": "enemy_10019_sgmum_2.skel"
+            }
+        },
         "1001_bigbo": {
             "assetId": "enemy_1001_bigbo",
             "type": "Enemy",
@@ -12485,6 +13064,24 @@
                 ".atlas": "enemy_1001_bigbo_2.atlas",
                 ".png": "enemy_1001_bigbo_2.png",
                 ".skel": "enemy_1001_bigbo_2.skel"
+            }
+        },
+        "10020_sgcat": {
+            "assetId": "enemy_10020_sgcat",
+            "type": "Enemy",
+            "style": null,
+            "name": "米奥，热烈的考验者",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10020_sgcat.atlas",
+                ".png": "enemy_10020_sgcat.png",
+                ".skel": "enemy_10020_sgcat.skel"
             }
         },
         "1002_nsabr": {
@@ -29008,6 +29605,24 @@
                 ".skel": "enemy_1556_dsbish.skel"
             }
         },
+        "1558_sgactr": {
+            "assetId": "enemy_1558_sgactr",
+            "type": "Enemy",
+            "style": null,
+            "name": "祖巴伊达姆，从往昔来",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {
+                ".atlas": "enemy_1558_sgactr.atlas",
+                ".png": "enemy_1558_sgactr.png",
+                ".skel": "enemy_1558_sgactr.skel"
+            }
+        },
         "2001_duckmi": {
             "assetId": "enemy_2001_duckmi",
             "type": "Enemy",
@@ -30115,6 +30730,458 @@
                 ".png": "enemy_2062_smcar.png",
                 ".skel": "enemy_2062_smcar.skel"
             }
+        },
+        "2063_skzlch": {
+            "assetId": "enemy_2063_skzlch",
+            "type": "Enemy",
+            "style": null,
+            "name": "萨卡兹迷宫劝导者",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_2063_skzlch.atlas",
+                ".png": "enemy_2063_skzlch.png",
+                ".skel": "enemy_2063_skzlch.skel"
+            }
+        },
+        "2064_skzwdd": {
+            "assetId": "enemy_2064_skzwdd",
+            "type": "Enemy",
+            "style": null,
+            "name": "萨卡兹迷宫归乡者",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_2064_skzwdd.atlas",
+                ".png": "enemy_2064_skzwdd.png",
+                ".skel": "enemy_2064_skzwdd.skel"
+            }
+        },
+        "2065_skzjs": {
+            "assetId": "enemy_2065_skzjs",
+            "type": "Enemy",
+            "style": null,
+            "name": "恐卡兹",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_2065_skzjs.atlas",
+                ".png": "enemy_2065_skzjs.png",
+                ".skel": "enemy_2065_skzjs.skel"
+            }
+        },
+        "2066_skzlcp": {
+            "assetId": "enemy_2066_skzlcp",
+            "type": "Enemy",
+            "style": null,
+            "name": "萨卡兹迷宫织咒者",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_2066_skzlcp.atlas",
+                ".png": "enemy_2066_skzlcp.png",
+                ".skel": "enemy_2066_skzlcp.skel"
+            }
+        },
+        "2067_skzcy": {
+            "assetId": "enemy_2067_skzcy",
+            "type": "Enemy",
+            "style": null,
+            "name": "“门”",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_2067_skzcy.atlas",
+                ".png": "enemy_2067_skzcy.png",
+                ".skel": "enemy_2067_skzcy.skel"
+            }
+        },
+        "2068_skzirn": {
+            "assetId": "enemy_2068_skzirn",
+            "type": "Enemy",
+            "style": null,
+            "name": "圣卫自动机",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_2068_skzirn.atlas",
+                ".png": "enemy_2068_skzirn.png",
+                ".skel": "enemy_2068_skzirn.skel"
+            }
+        },
+        "2069_skzbox": {
+            "assetId": "enemy_2069_skzbox",
+            "type": "Enemy",
+            "style": null,
+            "name": "迷珍巧械",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_2069_skzbox.atlas",
+                ".png": "enemy_2069_skzbox.png",
+                ".skel": "enemy_2069_skzbox.skel"
+            }
+        },
+        "2070_skzfbx": {
+            "assetId": "enemy_2070_skzfbx",
+            "type": "Enemy",
+            "style": null,
+            "name": "迷珍飞械",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_2070_skzfbx.atlas",
+                ".png": "enemy_2070_skzfbx.png",
+                ".skel": "enemy_2070_skzfbx.skel"
+            }
+        },
+        "2071_skzdny": {
+            "assetId": "enemy_2071_skzdny",
+            "type": "Enemy",
+            "style": null,
+            "name": "菈玛莲",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {
+                ".atlas": "enemy_2071_skzdny.atlas",
+                ".png": "enemy_2071_skzdny.png",
+                ".skel": "enemy_2071_skzdny.skel"
+            }
+        },
+        "2072_skdny2": {
+            "assetId": "enemy_2072_skdny2",
+            "type": "Enemy",
+            "style": null,
+            "name": "编织泪水的术师",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {
+                ".atlas": "enemy_2072_skdny2.atlas",
+                ".png": "enemy_2072_skdny2.png",
+                ".skel": "enemy_2072_skdny2.skel"
+            }
+        },
+        "2073_skzrck": {
+            "assetId": "enemy_2073_skzrck",
+            "type": "Enemy",
+            "style": null,
+            "name": "饮泣之刺",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_2073_skzrck.atlas",
+                ".png": "enemy_2073_skzrck.png",
+                ".skel": "enemy_2073_skzrck.skel"
+            }
+        },
+        "2074_skzgly": {
+            "assetId": "enemy_2074_skzgly",
+            "type": "Enemy",
+            "style": null,
+            "name": "歌利亚",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {
+                ".atlas": "enemy_2074_skzgly.atlas",
+                ".png": "enemy_2074_skzgly.png",
+                ".skel": "enemy_2074_skzgly.skel"
+            }
+        },
+        "2075_skgly2": {
+            "assetId": "enemy_2075_skgly2",
+            "type": "Enemy",
+            "style": null,
+            "name": "遗忘创伤的战士",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {
+                ".atlas": "enemy_2075_skgly2.atlas",
+                ".png": "enemy_2075_skgly2.png",
+                ".skel": "enemy_2075_skgly2.skel"
+            }
+        },
+        "2076_skzklz": {
+            "assetId": "enemy_2076_skzklz",
+            "type": "Enemy",
+            "style": null,
+            "name": "凯尔希",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {
+                ".atlas": "enemy_2076_skzklz.atlas",
+                ".png": "enemy_2076_skzklz.png",
+                ".skel": "enemy_2076_skzklz.skel"
+            }
+        },
+        "2077_skklz2": {
+            "assetId": "enemy_2077_skklz2",
+            "type": "Enemy",
+            "style": null,
+            "name": "预见末日的贤人",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {
+                ".atlas": "enemy_2077_skklz2.atlas",
+                ".png": "enemy_2077_skklz2.png",
+                ".skel": "enemy_2077_skklz2.skel"
+            }
+        },
+        "2078_skzmst": {
+            "assetId": "enemy_2078_skzmst",
+            "type": "Enemy",
+            "style": null,
+            "name": "Mon2tr",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {
+                ".atlas": "enemy_2078_skzmst.atlas",
+                ".png": "enemy_2078_skzmst.png",
+                ".skel": "enemy_2078_skzmst.skel"
+            }
+        },
+        "2079_skmst2": {
+            "assetId": "enemy_2079_skmst2",
+            "type": "Enemy",
+            "style": null,
+            "name": "迭代的怪物",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {
+                ".atlas": "enemy_2079_skmst2.atlas",
+                ".png": "enemy_2079_skmst2.png",
+                ".skel": "enemy_2079_skmst2.skel"
+            }
+        },
+        "2080_skzlwy": {
+            "assetId": "enemy_2080_skzlwy",
+            "type": "Enemy",
+            "style": null,
+            "name": "弗莱蒙特，诸思之解答",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {
+                ".atlas": "enemy_2080_skzlwy.atlas",
+                ".png": "enemy_2080_skzlwy.png",
+                ".skel": "enemy_2080_skzlwy.skel"
+            }
+        },
+        "2081_skztxs": {
+            "assetId": "enemy_2081_skztxs",
+            "type": "Enemy",
+            "style": null,
+            "name": "特雷西斯，黑冠尊主",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {
+                ".atlas": "enemy_2081_skztxs.atlas",
+                ".png": "enemy_2081_skztxs.png",
+                ".skel": "enemy_2081_skztxs.skel"
+            }
+        },
+        "2082_skzdd": {
+            "assetId": "enemy_2082_skzdd",
+            "type": "Enemy",
+            "style": null,
+            "name": "博卓卡斯替，圣卫铳骑",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {
+                ".atlas": "enemy_2082_skzdd.atlas",
+                ".png": "enemy_2082_skzdd.png",
+                ".skel": "enemy_2082_skzdd.skel"
+            }
+        },
+        "2083_skzhg": {
+            "assetId": "enemy_2083_skzhg",
+            "type": "Enemy",
+            "style": null,
+            "name": "“放逐的黑棺”",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {}
+        },
+        "2084_skzcan": {
+            "assetId": "enemy_2084_skzcan",
+            "type": "Enemy",
+            "style": null,
+            "name": "古德因纳夫先生",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {
+                ".atlas": "enemy_2084_skzcan.atlas",
+                ".png": "enemy_2084_skzcan.png",
+                ".skel": "enemy_2084_skzcan.skel"
+            }
+        },
+        "2085_skzjxd": {
+            "assetId": "enemy_2085_skzjxd",
+            "type": "Enemy",
+            "style": null,
+            "name": "圆仔",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_2085_skzjxd.atlas",
+                ".png": "enemy_2085_skzjxd.png",
+                ".skel": "enemy_2085_skzjxd.skel"
+            }
+        },
+        "2086_skzdwx": {
+            "assetId": "enemy_2086_skzdwx",
+            "type": "Enemy",
+            "style": null,
+            "name": "年代印痕",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {}
+        },
+        "2087_skzdwy": {
+            "assetId": "enemy_2087_skzdwy",
+            "type": "Enemy",
+            "style": null,
+            "name": "年代印痕",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {}
+        },
+        "2088_skzdwz": {
+            "assetId": "enemy_2088_skzdwz",
+            "type": "Enemy",
+            "style": null,
+            "name": "年代印痕",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {}
         },
         "3001_upeopl": {
             "assetId": "enemy_3001_upeopl",
@@ -32062,6 +33129,60 @@
                 ".skel": "enemy_6024_crnbug.skel"
             }
         },
+        "6025_tinker": {
+            "assetId": "enemy_6025_tinker",
+            "type": "Enemy",
+            "style": null,
+            "name": "怨恨祭坛",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {
+                ".atlas": "enemy_6025_tinker.atlas",
+                ".png": "enemy_6025_tinker.png",
+                ".skel": "enemy_6025_tinker.skel"
+            }
+        },
+        "6026_techn": {
+            "assetId": "enemy_6026_techn",
+            "type": "Enemy",
+            "style": null,
+            "name": "巫术石球",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_6026_techn.atlas",
+                ".png": "enemy_6026_techn.png",
+                ".skel": "enemy_6026_techn.skel"
+            }
+        },
+        "6027_bqthie": {
+            "assetId": "enemy_6027_bqthie",
+            "type": "Enemy",
+            "style": null,
+            "name": "“飞檐客”叶无轻",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {
+                ".atlas": "enemy_6027_bqthie.atlas",
+                ".png": "enemy_6027_bqthie.png",
+                ".skel": "enemy_6027_bqthie.skel"
+            }
+        },
         "7001_blwzad": {
             "assetId": "enemy_7001_blwzad",
             "type": "Enemy",
@@ -33585,6 +34706,33 @@
                 ".skel": "dyn_illust_char_1016_agoat2.skel"
             }
         },
+        "dyn_illust_1016_agoat2_epoque#34": {
+            "assetId": "dyn_illust_1016_agoat2_epoque#34",
+            "type": "DynIllust",
+            "style": null,
+            "name": "纯烬艾雅法拉",
+            "appellation": "Eyjafjalla the Hvít Aska",
+            "skinGroupId": "2024#epoque#5",
+            "skinGroupName": "时代/XXXIV",
+            "sortTags": [
+                "Operator",
+                "Special",
+                "Rarity_6",
+                "Skinned",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": [
+                    "dyn_illust_char_1016_agoat2_epoque#34.atlas",
+                    "dyn_illust_char_1016_agoat2_epoque#34_Start.atlas"
+                ],
+                ".png": [
+                    "dyn_illust_char_1016_agoat2_epoque#34.png",
+                    "dyn_illust_char_1016_agoat2_epoque#34_Start.png"
+                ],
+                ".skel": "dyn_illust_char_1016_agoat2_epoque#34_Start.skel"
+            }
+        },
         "dyn_illust_1020_reed2_epoque#30": {
             "assetId": "dyn_illust_1020_reed2_epoque#30",
             "type": "DynIllust",
@@ -33845,6 +34993,26 @@
                     "dyn_illust_char_172_svrash_ambienceSynesthesia#4$0.skel",
                     "dyn_illust_char_172_svrash_ambienceSynesthesia#4.skel"
                 ]
+            }
+        },
+        "dyn_illust_179_cgbird_sightseer#1": {
+            "assetId": "dyn_illust_179_cgbird_sightseer#1",
+            "type": "DynIllust",
+            "style": null,
+            "name": "夜莺",
+            "appellation": "Nightingale",
+            "skinGroupId": "2024#sightseer",
+            "skinGroupName": "错位巡礼/I",
+            "sortTags": [
+                "Operator",
+                "Rarity_6",
+                "Skinned",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": "dyn_illust_char_179_cgbird_sightseer#1.atlas",
+                ".png": "dyn_illust_char_179_cgbird_sightseer#1.png",
+                ".skel": "dyn_illust_char_179_cgbird_sightseer#1.skel"
             }
         },
         "dyn_illust_2014_nian": {
@@ -34261,6 +35429,25 @@
                 ".atlas": "dyn_illust_char_4055_bgsnow_wild#7.atlas",
                 ".png": "dyn_illust_char_4055_bgsnow_wild#7.png",
                 ".skel": "dyn_illust_char_4055_bgsnow_wild#7.skel"
+            }
+        },
+        "dyn_illust_4058_pepe": {
+            "assetId": "dyn_illust_4058_pepe",
+            "type": "DynIllust",
+            "style": null,
+            "name": "佩佩",
+            "appellation": "Pepe",
+            "skinGroupId": "DEFAULT",
+            "skinGroupName": "默认服装",
+            "sortTags": [
+                "Operator",
+                "Rarity_6",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": "dyn_illust_char_4058_pepe.atlas",
+                ".png": "dyn_illust_char_4058_pepe.png",
+                ".skel": "dyn_illust_char_4058_pepe.skel"
             }
         },
         "dyn_illust_4064_mlynar_epoque#28": {

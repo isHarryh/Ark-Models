@@ -1,0 +1,76 @@
+
+enemy_2070_skzfbx.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_L_WheelA
+  rotate: true
+  xy: 25, 4
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+A_L_WheelB
+  rotate: false
+  xy: 50, 7
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+A_L_WheelC
+  rotate: false
+  xy: 75, 7
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+A_R_WheelA
+  rotate: true
+  xy: 2, 2
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+A_R_WheelB
+  rotate: false
+  xy: 137, 9
+  size: 13, 13
+  orig: 14, 14
+  offset: 0, 1
+  index: -1
+A_R_WheelC
+  rotate: false
+  xy: 137, 24
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Base
+  rotate: true
+  xy: 133, 69
+  size: 127, 52
+  orig: 127, 52
+  offset: 0, 0
+  index: -1
+Base_Fly
+  rotate: false
+  xy: 2, 68
+  size: 71, 127
+  orig: 71, 127
+  offset: 0, 0
+  index: -1
+Lid
+  rotate: true
+  xy: 75, 73
+  size: 122, 56
+  orig: 122, 56
+  offset: 0, 0
+  index: -1
+Stack
+  rotate: true
+  xy: 2, 25
+  size: 41, 67
+  orig: 42, 67
+  offset: 0, 0
+  index: -1

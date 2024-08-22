@@ -1,0 +1,97 @@
+
+enemy_10014_sgrich_2.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_2Body
+  rotate: false
+  xy: 2, 78
+  size: 87, 117
+  orig: 87, 117
+  offset: 0, 0
+  index: -1
+C_2L_Arm
+  rotate: true
+  xy: 2, 2
+  size: 74, 105
+  orig: 74, 105
+  offset: 0, 0
+  index: -1
+C_2L_Foot
+  rotate: false
+  xy: 35, 12
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+C_2L_Leg
+  rotate: true
+  xy: 44, 57
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+C_2Line_A
+  rotate: false
+  xy: 126, 127
+  size: 16, 68
+  orig: 16, 68
+  offset: 0, 0
+  index: -1
+C_2Line_B
+  rotate: false
+  xy: 142, 111
+  size: 12, 69
+  orig: 12, 69
+  offset: 0, 0
+  index: -1
+C_2Line_C
+  rotate: false
+  xy: 20, 48
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+C_2R_Arm
+  rotate: false
+  xy: 72, 87
+  size: 86, 108
+  orig: 93, 108
+  offset: 7, 0
+  index: -1
+C_2R_Foot
+  rotate: false
+  xy: 76, 65
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+C_2R_Leg
+  rotate: true
+  xy: 2, 6
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+C_2Rock_A
+  rotate: false
+  xy: 102, 41
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+C_2Rock_B
+  rotate: false
+  xy: 108, 5
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+C_2Rock_C
+  rotate: true
+  xy: 138, 14
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
