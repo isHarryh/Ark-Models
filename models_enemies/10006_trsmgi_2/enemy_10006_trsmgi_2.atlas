@@ -1,0 +1,223 @@
+
+enemy_10006_trsmgi_2.png
+size: 340,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: 180
+  xy: 2, 232
+  size: 118, 99
+  orig: 118, 99
+  offset: 0, 0
+  index: -1
+C_Body_a
+  rotate: 270
+  xy: 243, 55
+  size: 61, 63
+  orig: 61, 63
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 257, 192
+  size: 81, 79
+  orig: 81, 79
+  offset: 0, 0
+  index: -1
+C_Head_L
+  rotate: true
+  xy: 118, 237
+  size: 94, 143
+  orig: 94, 143
+  offset: 0, 0
+  index: -1
+C_Head_R
+  rotate: 270
+  xy: 180, 140
+  size: 56, 110
+  orig: 56, 110
+  offset: 0, 0
+  index: -1
+C_Head_S
+  rotate: true
+  xy: 122, 294
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: true
+  xy: 160, 196
+  size: 66, 95
+  orig: 66, 98
+  offset: 0, 0
+  index: -1
+C_L_Arm_A
+  rotate: 270
+  xy: 136, 69
+  size: 56, 83
+  orig: 56, 83
+  offset: 0, 0
+  index: -1
+C_L_Arm_Aa
+  rotate: 180
+  xy: 2, 3
+  size: 60, 44
+  orig: 60, 44
+  offset: 0, 0
+  index: -1
+C_L_Claf
+  rotate: 270
+  xy: 201, 29
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+C_L_Claf_a
+  rotate: false
+  xy: 238, 13
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: false
+  xy: 54, 12
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: true
+  xy: 67, 127
+  size: 59, 86
+  orig: 59, 86
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 77, 79
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+C_L_Hand_a
+  rotate: false
+  xy: 105, 8
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: false
+  xy: 103, 39
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+C_L_Shoulder
+  rotate: false
+  xy: 66, 188
+  size: 92, 45
+  orig: 92, 45
+  offset: 0, 0
+  index: -1
+C_L_Shoulder_S
+  rotate: true
+  xy: 291, 87
+  size: 80, 46
+  orig: 80, 46
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: false
+  xy: 2, 142
+  size: 69, 94
+  orig: 69, 109
+  offset: 0, 15
+  index: -1
+C_R_Arm_S
+  rotate: false
+  xy: 135, 5
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+C_R_Arm_Sa
+  rotate: true
+  xy: 146, 42
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+C_R_Arm_a
+  rotate: 270
+  xy: 283, 28
+  size: 46, 55
+  orig: 46, 55
+  offset: 0, 0
+  index: -1
+C_R_Calf
+  rotate: false
+  xy: 54, 38
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+C_R_Calf_a
+  rotate: 180
+  xy: 174, 8
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: false
+  xy: 283, 171
+  size: 47, 19
+  orig: 47, 19
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: false
+  xy: 2, 86
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: false
+  xy: 256, 282
+  size: 75, 49
+  orig: 75, 49
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: 270
+  xy: 2, 43
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+C_Snow
+  rotate: false
+  xy: 309, 10
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+C_Snow_a
+  rotate: false
+  xy: 235, 317
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+C_Waist
+  rotate: false
+  xy: 188, 102
+  size: 91, 46
+  orig: 91, 46
+  offset: 0, 0
+  index: -1

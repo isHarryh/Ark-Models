@@ -1,0 +1,104 @@
+
+enemy_10007_trspsb_2.png
+size: 276,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 109
+  size: 160, 137
+  orig: 160, 137
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: 270
+  xy: 157, 126
+  size: 121, 78
+  orig: 121, 78
+  offset: 0, 0
+  index: -1
+C_Head_A
+  rotate: false
+  xy: 2, 43
+  size: 86, 44
+  orig: 86, 44
+  offset: 0, 0
+  index: -1
+C_Head_Aa
+  rotate: 180
+  xy: 207, 54
+  size: 67, 36
+  orig: 67, 36
+  offset: 0, 0
+  index: -1
+C_Head_Aaa
+  rotate: false
+  xy: 42, 68
+  size: 85, 40
+  orig: 85, 40
+  offset: 0, 0
+  index: -1
+C_Leg_A
+  rotate: true
+  xy: 144, 72
+  size: 38, 74
+  orig: 38, 74
+  offset: 0, 0
+  index: -1
+C_Leg_Aa
+  rotate: false
+  xy: 58, 14
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+C_Leg_B
+  rotate: false
+  xy: 236, 192
+  size: 29, 55
+  orig: 29, 55
+  offset: 0, 0
+  index: -1
+C_Leg_C
+  rotate: false
+  xy: 2, 88
+  size: 39, 74
+  orig: 39, 74
+  offset: 0, 0
+  index: -1
+C_Leg_D
+  rotate: true
+  xy: 111, 14
+  size: 29, 55
+  orig: 29, 55
+  offset: 0, 0
+  index: -1
+C_Mouth
+  rotate: 270
+  xy: 215, 4
+  size: 22, 59
+  orig: 38, 59
+  offset: 0, 0
+  index: -1
+C_Mouth_d
+  rotate: false
+  xy: 198, 26
+  size: 64, 26
+  orig: 64, 26
+  offset: 0, 0
+  index: -1
+C_Mouth_f
+  rotate: false
+  xy: 129, 44
+  size: 68, 27
+  orig: 68, 27
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: 180
+  xy: 214, 106
+  size: 59, 83
+  orig: 59, 83
+  offset: 0, 0
+  index: -1
