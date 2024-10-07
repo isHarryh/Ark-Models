@@ -1,0 +1,279 @@
+
+enemy_8009_eltufo.png
+size: 228,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmB_A
+  rotate: false
+  xy: 57, 89
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+ArmB_B
+  rotate: false
+  xy: 111, 81
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+ArmB_C
+  rotate: true
+  xy: 109, 24
+  size: 18, 42
+  orig: 18, 42
+  offset: 0, 0
+  index: -1
+ArmF_A
+  rotate: 180
+  xy: 204, 39
+  size: 22, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+ArmF_B
+  rotate: false
+  xy: 2, 89
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+ArmF_C
+  rotate: false
+  xy: 112, 164
+  size: 85, 51
+  orig: 85, 51
+  offset: 0, 0
+  index: -1
+AxleB_A
+  rotate: false
+  xy: 2, 165
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+AxleB_B
+  rotate: false
+  xy: 18, 165
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+AxleB_C
+  rotate: false
+  xy: 18, 165
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+AxleF_A
+  rotate: false
+  xy: 18, 165
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+AxleF_B
+  rotate: false
+  xy: 18, 165
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+AxleF_C
+  rotate: false
+  xy: 18, 165
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+Base
+  rotate: false
+  xy: 138, 59
+  size: 64, 20
+  orig: 64, 20
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 166, 85
+  size: 57, 42
+  orig: 57, 42
+  offset: 0, 0
+  index: -1
+Box
+  rotate: false
+  xy: 2, 175
+  size: 109, 41
+  orig: 109, 41
+  offset: 0, 0
+  index: -1
+Box_Box
+  rotate: false
+  xy: 2, 175
+  size: 109, 41
+  orig: 109, 41
+  offset: 0, 0
+  index: -1
+Box_Inside
+  rotate: false
+  xy: 43, 45
+  size: 93, 16
+  orig: 93, 16
+  offset: 0, 0
+  index: -1
+Box_Lid
+  rotate: false
+  xy: 2, 138
+  size: 111, 24
+  orig: 111, 24
+  offset: 0, 0
+  index: -1
+Lid
+  rotate: false
+  xy: 2, 138
+  size: 111, 24
+  orig: 111, 24
+  offset: 0, 0
+  index: -1
+Box_LockA
+  rotate: false
+  xy: 62, 7
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+LockA
+  rotate: false
+  xy: 62, 7
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+Box_LockB
+  rotate: true
+  xy: 193, 128
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+Box_LockC
+  rotate: true
+  xy: 2, 3
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+Box_LockD
+  rotate: false
+  xy: 2, 21
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+FrameA
+  rotate: false
+  xy: 115, 128
+  size: 76, 35
+  orig: 76, 35
+  offset: 0, 0
+  index: -1
+FrameB
+  rotate: true
+  xy: 32, 6
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+FunB_A
+  rotate: false
+  xy: 62, 66
+  size: 72, 13
+  orig: 72, 13
+  offset: 0, 0
+  index: -1
+FunB_B
+  rotate: true
+  xy: 199, 146
+  size: 69, 12
+  orig: 69, 12
+  offset: 0, 0
+  index: -1
+FunB_C
+  rotate: true
+  xy: 213, 146
+  size: 69, 12
+  orig: 69, 12
+  offset: 0, 0
+  index: -1
+FunF_A
+  rotate: false
+  xy: 138, 44
+  size: 64, 13
+  orig: 64, 13
+  offset: 0, 0
+  index: -1
+FunF_B
+  rotate: false
+  xy: 43, 30
+  size: 64, 13
+  orig: 64, 13
+  offset: 0, 0
+  index: -1
+FunF_C
+  rotate: false
+  xy: 43, 30
+  size: 64, 13
+  orig: 64, 13
+  offset: 0, 0
+  index: -1
+Gun
+  rotate: false
+  xy: 2, 44
+  size: 59, 45
+  orig: 80, 64
+  offset: 21, 19
+  index: -1
+LightA
+  rotate: false
+  xy: 153, 16
+  size: 26, 26
+  orig: 28, 27
+  offset: 1, 0
+  index: -1
+LightB
+  rotate: false
+  xy: 153, 16
+  size: 26, 26
+  orig: 28, 27
+  offset: 1, 0
+  index: -1
+LightC
+  rotate: false
+  xy: 153, 16
+  size: 26, 26
+  orig: 28, 27
+  offset: 1, 0
+  index: -1
+LockB
+  rotate: true
+  xy: 92, 6
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+LockC
+  rotate: true
+  xy: 116, 7
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+LockD
+  rotate: false
+  xy: 181, 16
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1

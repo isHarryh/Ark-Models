@@ -1,0 +1,111 @@
+
+enemy_10008_trbbox.png
+size: 316,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Close_Base
+  rotate: false
+  xy: 102, 142
+  size: 111, 39
+  orig: 111, 40
+  offset: 0, 1
+  index: -1
+Close_DcrtA
+  rotate: false
+  xy: 2, 56
+  size: 60, 54
+  orig: 60, 54
+  offset: 0, 0
+  index: -1
+Close_DcrtB
+  rotate: false
+  xy: 126, 112
+  size: 123, 28
+  orig: 124, 28
+  offset: 0, 0
+  index: -1
+Close_DcrtC
+  rotate: false
+  xy: 2, 229
+  size: 137, 74
+  orig: 137, 74
+  offset: 0, 0
+  index: -1
+Close_Lid
+  rotate: false
+  xy: 2, 177
+  size: 112, 50
+  orig: 112, 50
+  offset: 0, 0
+  index: -1
+CoreA
+  rotate: false
+  xy: 102, 8
+  size: 41, 43
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+CoreB
+  rotate: false
+  xy: 215, 143
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+HandA
+  rotate: false
+  xy: 2, 113
+  size: 123, 60
+  orig: 123, 60
+  offset: 0, 0
+  index: -1
+HandB
+  rotate: false
+  xy: 10, 4
+  size: 98, 66
+  orig: 98, 66
+  offset: 0, 0
+  index: -1
+HandC
+  rotate: 180
+  xy: 220, 53
+  size: 80, 111
+  orig: 80, 111
+  offset: 0, 0
+  index: -1
+HandD
+  rotate: false
+  xy: 64, 54
+  size: 92, 62
+  orig: 93, 62
+  offset: 0, 0
+  index: -1
+Open_BaseA
+  rotate: true
+  xy: 252, 194
+  size: 109, 42
+  orig: 110, 42
+  offset: 0, 0
+  index: -1
+Open_BaseB
+  rotate: false
+  xy: 116, 183
+  size: 109, 44
+  orig: 109, 65
+  offset: 0, 21
+  index: -1
+Open_Gold
+  rotate: true
+  xy: 158, 25
+  size: 85, 31
+  orig: 87, 31
+  offset: 1, 0
+  index: -1
+Open_Lid
+  rotate: false
+  xy: 141, 230
+  size: 109, 69
+  orig: 109, 69
+  offset: 0, 0
+  index: -1
