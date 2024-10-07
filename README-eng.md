@@ -1,7 +1,7 @@
 Ark-Models
 ==========
-Arknights Spine Models (Excerpt)  
-明日方舟Spine动画小人模型(节选)  
+Arknights Spine Models (Excerpt)
+明日方舟Spine动画小人模型(节选)
 
 [🇨🇳中文](README.md) **|** **🔤English**
 
@@ -25,11 +25,12 @@ Just click the green button `Code` on the upper right of this webpage, then clic
 
 The models depends on [Spine Runtime](https://github.com/EsotericSoftware/spine-runtimes) v3.8. A Spine model is usually composed of one `.atlas` file, one `.skel` file and one `.png` image file.
 
-In this repo, Spine models will be stored into their directories respectively.  
+In this repo, Spine models will be stored into their directories respectively.
 The dataset file `models_data.json` recorded the detailed information of each model.
 
 ## Breaking Changes
 
+- Aug.2024：In CN server, we found that there are very few models whose skeleton files are not in binary format but in JSON format.
 - Jul.2024: Stopped using the dataset provided by [ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData) since ArkUnpacker v3.0 has implemented the decoding of such data.
 - Feb.2024: Added dynamic illustrations (skins included) to this repo. Changed the dataset file.
 - Jan.2024: `Premultiplied Alpha` should be disabled when rendering the new models due to the update of Arknights v2.1.41.
