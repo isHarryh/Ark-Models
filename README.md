@@ -33,6 +33,7 @@ Arknights Spine Models (Excerpt)
 
 ## 重要变更
 
+- 2024年8月：已发现中国服官方有极个别模型的骨骼文件不是二进制格式，而是 JSON 格式。
 - 2024年7月：本仓库不再使用由 [ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData) 提供的数据集（因为 ArkUnpacker v3.0 已实现了这些数据的解码）。同时，对仓库的历史提交进行了重写。
 - 2024年2月：本仓库新增干员动态立绘（含时装）的模型。同时，数据集的格式发生变更。
 - 2024年1月：自《明日方舟》v2.1.41 起，新增的模型在渲染时需要禁用 `Premultiplied Alpha`，否则可能导致Alpha图层纹理异常。
