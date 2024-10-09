@@ -1,0 +1,293 @@
+
+enemy_10027_vtsk.png
+size: 464,464
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cannon
+  rotate: true
+  xy: 183, 236
+  size: 83, 90
+  orig: 83, 90
+  offset: 0, 0
+  index: -1
+Cannon_A
+  rotate: false
+  xy: 275, 227
+  size: 81, 82
+  orig: 81, 82
+  offset: 0, 0
+  index: -1
+Cannon_B
+  rotate: false
+  xy: 2, 350
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+Chains
+  rotate: false
+  xy: 2, 310
+  size: 17, 38
+  orig: 17, 38
+  offset: 0, 0
+  index: -1
+Chest
+  rotate: 180
+  xy: 202, 321
+  size: 98, 110
+  orig: 98, 110
+  offset: 0, 0
+  index: -1
+Chest_A
+  rotate: false
+  xy: 46, 397
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+Chest_B
+  rotate: 180
+  xy: 377, 13
+  size: 72, 52
+  orig: 72, 52
+  offset: 0, 0
+  index: -1
+Chest_Back
+  rotate: false
+  xy: 102, 391
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+Head
+  rotate: 270
+  xy: 311, 90
+  size: 80, 90
+  orig: 80, 90
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: true
+  xy: 261, 170
+  size: 56, 89
+  orig: 56, 89
+  offset: 0, 0
+  index: -1
+L_Arm_A
+  rotate: false
+  xy: 373, 234
+  size: 88, 111
+  orig: 88, 111
+  offset: 0, 0
+  index: -1
+L_Arm_B
+  rotate: false
+  xy: 387, 345
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+L_Calf
+  rotate: false
+  xy: 2, 94
+  size: 45, 63
+  orig: 45, 63
+  offset: 0, 0
+  index: -1
+L_Foot
+  rotate: 180
+  xy: 395, 51
+  size: 67, 48
+  orig: 70, 48
+  offset: 3, 0
+  index: -1
+L_Foot_A
+  rotate: true
+  xy: 209, 8
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+L_Forearm
+  rotate: false
+  xy: 394, 367
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: true
+  xy: 72, 35
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+L_Knee
+  rotate: 270
+  xy: 273, 20
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: true
+  xy: 358, 167
+  size: 66, 88
+  orig: 68, 88
+  offset: 1, 0
+  index: -1
+R_Arm
+  rotate: true
+  xy: 141, 127
+  size: 47, 89
+  orig: 47, 89
+  offset: 0, 0
+  index: -1
+R_Arm_A
+  rotate: true
+  xy: 133, 43
+  size: 42, 85
+  orig: 42, 85
+  offset: 0, 0
+  index: -1
+R_Arm_Aa
+  rotate: true
+  xy: 158, 176
+  size: 58, 101
+  orig: 58, 101
+  offset: 0, 0
+  index: -1
+R_Calf
+  rotate: false
+  xy: 2, 371
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1
+R_Foot
+  rotate: 180
+  xy: 2, 40
+  size: 69, 46
+  orig: 69, 46
+  offset: 0, 0
+  index: -1
+R_Foot_A
+  rotate: true
+  xy: 2, 7
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+R_Forearm
+  rotate: 270
+  xy: 316, 44
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 324, 9
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+R_Hand_A
+  rotate: false
+  xy: 163, 8
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+R_Knee
+  rotate: false
+  xy: 358, 236
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: false
+  xy: 232, 82
+  size: 45, 87
+  orig: 45, 87
+  offset: 0, 0
+  index: -1
+R_Sword
+  rotate: false
+  xy: 220, 45
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+Skirt_L
+  rotate: 270
+  xy: 377, 99
+  size: 66, 84
+  orig: 66, 84
+  offset: 0, 0
+  index: -1
+Skirt_M
+  rotate: true
+  xy: 113, 22
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+Skirt_R
+  rotate: true
+  xy: 49, 75
+  size: 26, 82
+  orig: 26, 82
+  offset: 0, 0
+  index: -1
+Sword
+  rotate: false
+  xy: 2, 158
+  size: 117, 273
+  orig: 117, 273
+  offset: 0, 0
+  index: -1
+Sword_A
+  rotate: false
+  xy: 41, 3
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+Sword_B
+  rotate: 180
+  xy: 277, 61
+  size: 42, 107
+  orig: 42, 107
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: false
+  xy: 133, 87
+  size: 81, 38
+  orig: 81, 38
+  offset: 0, 0
+  index: -1
+Weapon_Ha
+  rotate: false
+  xy: 80, 169
+  size: 122, 261
+  orig: 122, 261
+  offset: 0, 0
+  index: -1
+Weapon_Hb
+  rotate: false
+  xy: 296, 311
+  size: 96, 119
+  orig: 96, 119
+  offset: 0, 0
+  index: -1
+Weapon_Hc
+  rotate: true
+  xy: 56, 104
+  size: 76, 78
+  orig: 76, 78
+  offset: 0, 0
+  index: -1

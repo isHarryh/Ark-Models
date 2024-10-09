@@ -1,0 +1,34 @@
+
+enemy_10029_vtshld.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Box
+  rotate: false
+  xy: 2, 86
+  size: 148, 82
+  orig: 148, 82
+  offset: 0, 0
+  index: -1
+C_Bubble
+  rotate: false
+  xy: 2, 2
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+C_L_Light
+  rotate: false
+  xy: 86, 25
+  size: 59, 59
+  orig: 65, 65
+  offset: 3, 3
+  index: -1
+C_R_Light
+  rotate: false
+  xy: 86, 25
+  size: 59, 59
+  orig: 65, 65
+  offset: 3, 3
+  index: -1
