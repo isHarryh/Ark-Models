@@ -20,7 +20,7 @@
         "Rarity_5": "五星",
         "Rarity_6": "六星"
     },
-    "gameDataVersionDescription": "Producer: ArkUnpacker 3\nDate: 2024-10-07\n",
+    "gameDataVersionDescription": "Producer: ArkUnpacker 3\nDate: 2024-10-09\n",
     "gameDataServerRegion": "zh_CN",
     "data": {
         "285_medic2": {
@@ -3989,6 +3989,24 @@
                 ".skel": "build_char_433_windft.skel"
             }
         },
+        "4162_cathy": {
+            "assetId": "build_char_4162_cathy",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "凯瑟琳",
+            "appellation": "Catherine",
+            "skinGroupId": "DEFAULT",
+            "skinGroupName": "默认服装",
+            "sortTags": [
+                "Operator",
+                "Rarity_5"
+            ],
+            "assetList": {
+                ".atlas": "build_char_4162_cathy.atlas",
+                ".png": "build_char_4162_cathy.png",
+                ".skel": "build_char_4162_cathy.skel"
+            }
+        },
         "101_sora": {
             "assetId": "build_char_101_sora",
             "type": "Operator",
@@ -4095,6 +4113,24 @@
                 ".atlas": "build_char_4102_threye.atlas",
                 ".png": "build_char_4102_threye.png",
                 ".skel": "build_char_4102_threye.skel"
+            }
+        },
+        "487_bobb": {
+            "assetId": "build_char_487_bobb",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "波卜",
+            "appellation": "Bobbing",
+            "skinGroupId": "DEFAULT",
+            "skinGroupName": "默认服装",
+            "sortTags": [
+                "Operator",
+                "Rarity_5"
+            ],
+            "assetList": {
+                ".atlas": "build_char_487_bobb.atlas",
+                ".png": "build_char_487_bobb.png",
+                ".skel": "build_char_487_bobb.skel"
             }
         },
         "215_mantic": {
@@ -5925,6 +5961,25 @@
                 ".atlas": "build_char_4098_vvana.atlas",
                 ".png": "build_char_4098_vvana.png",
                 ".skel": "build_char_4098_vvana.skel"
+            }
+        },
+        "1019_siege2": {
+            "assetId": "build_char_1019_siege2",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "维娜·维多利亚",
+            "appellation": "Vina Victoria",
+            "skinGroupId": "DEFAULT",
+            "skinGroupName": "默认服装",
+            "sortTags": [
+                "Operator",
+                "Special",
+                "Rarity_6"
+            ],
+            "assetList": {
+                ".atlas": "build_char_1019_siege2.atlas",
+                ".png": "build_char_1019_siege2.png",
+                ".skel": "build_char_1019_siege2.skel"
             }
         },
         "188_helage": {
@@ -9855,6 +9910,158 @@
                 ".skel": "build_char_4016_kazema_witch#3.skel"
             }
         },
+        "4048_doroth_witch#4": {
+            "assetId": "build_char_4048_doroth_witch#4",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "多萝西",
+            "appellation": "Dorothy",
+            "skinGroupId": "2023#witch",
+            "skinGroupName": "巫异盛宴/IV",
+            "sortTags": [
+                "Operator",
+                "Rarity_6",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_4048_doroth_witch#4.atlas",
+                ".png": "build_char_4048_doroth_witch#4.png",
+                ".skel": "build_char_4048_doroth_witch#4.skel"
+            }
+        },
+        "300_phenxi_witch#4": {
+            "assetId": "build_char_300_phenxi_witch#4",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "菲亚梅塔",
+            "appellation": "Fiammetta",
+            "skinGroupId": "2023#witch",
+            "skinGroupName": "巫异盛宴/IV",
+            "sortTags": [
+                "Operator",
+                "Rarity_6",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_300_phenxi_witch#4.atlas",
+                ".png": "build_char_300_phenxi_witch#4.png",
+                ".skel": "build_char_300_phenxi_witch#4.skel"
+            }
+        },
+        "492_quercu_witch#4": {
+            "assetId": "build_char_492_quercu_witch#4",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "夏栎",
+            "appellation": "Quercus",
+            "skinGroupId": "2023#witch",
+            "skinGroupName": "巫异盛宴/IV",
+            "sortTags": [
+                "Operator",
+                "Rarity_5",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_492_quercu_witch#4.atlas",
+                ".png": "build_char_492_quercu_witch#4.png",
+                ".skel": "build_char_492_quercu_witch#4.skel"
+            }
+        },
+        "436_whispr_witch#4": {
+            "assetId": "build_char_436_whispr_witch#4",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "絮雨",
+            "appellation": "Whisperain",
+            "skinGroupId": "2023#witch",
+            "skinGroupName": "巫异盛宴/IV",
+            "sortTags": [
+                "Operator",
+                "Rarity_5",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_436_whispr_witch#4.atlas",
+                ".png": "build_char_436_whispr_witch#4.png",
+                ".skel": "build_char_436_whispr_witch#4.skel"
+            }
+        },
+        "4116_blkkgt_witch#5": {
+            "assetId": "build_char_4116_blkkgt_witch#5",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "锏",
+            "appellation": "Degenbrecher",
+            "skinGroupId": "2024#witch",
+            "skinGroupName": "巫异盛宴/V",
+            "sortTags": [
+                "Operator",
+                "Rarity_6",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_4116_blkkgt_witch#5.atlas",
+                ".png": "build_char_4116_blkkgt_witch#5.png",
+                ".skel": "build_char_4116_blkkgt_witch#5.skel"
+            }
+        },
+        "017_huang_witch#5": {
+            "assetId": "build_char_017_huang_witch#5",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "煌",
+            "appellation": "Blaze",
+            "skinGroupId": "2024#witch",
+            "skinGroupName": "巫异盛宴/V",
+            "sortTags": [
+                "Operator",
+                "Rarity_6",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_017_huang_witch#5.atlas",
+                ".png": "build_char_017_huang_witch#5.png",
+                ".skel": "build_char_017_huang_witch#5.skel"
+            }
+        },
+        "4109_baslin_witch#5": {
+            "assetId": "build_char_4109_baslin_witch#5",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "深律",
+            "appellation": "Bassline",
+            "skinGroupId": "2024#witch",
+            "skinGroupName": "巫异盛宴/V",
+            "sortTags": [
+                "Operator",
+                "Rarity_5",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_4109_baslin_witch#5.atlas",
+                ".png": "build_char_4109_baslin_witch#5.png",
+                ".skel": "build_char_4109_baslin_witch#5.skel"
+            }
+        },
+        "281_popka_witch#5": {
+            "assetId": "build_char_281_popka_witch#5",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "泡普卡",
+            "appellation": "Popukar",
+            "skinGroupId": "2024#witch",
+            "skinGroupName": "巫异盛宴/V",
+            "sortTags": [
+                "Operator",
+                "Rarity_3",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_281_popka_witch#5.atlas",
+                ".png": "build_char_281_popka_witch#5.png",
+                ".skel": "build_char_281_popka_witch#5.skel"
+            }
+        },
         "102_texas_winter#1": {
             "assetId": "build_char_102_texas_winter#1",
             "type": "Operator",
@@ -12597,82 +12804,6 @@
                 ".skel": "build_char_4083_chimes_yun#5.skel"
             }
         },
-        "4048_doroth_witch#4": {
-            "assetId": "build_char_4048_doroth_witch#4",
-            "type": "Operator",
-            "style": "BuildingSkin",
-            "name": "多萝西",
-            "appellation": "Dorothy",
-            "skinGroupId": "2023#witch",
-            "skinGroupName": "巫异盛宴/IV",
-            "sortTags": [
-                "Operator",
-                "Rarity_6",
-                "Skinned"
-            ],
-            "assetList": {
-                ".atlas": "build_char_4048_doroth_witch#4.atlas",
-                ".png": "build_char_4048_doroth_witch#4.png",
-                ".skel": "build_char_4048_doroth_witch#4.skel"
-            }
-        },
-        "300_phenxi_witch#4": {
-            "assetId": "build_char_300_phenxi_witch#4",
-            "type": "Operator",
-            "style": "BuildingSkin",
-            "name": "菲亚梅塔",
-            "appellation": "Fiammetta",
-            "skinGroupId": "2023#witch",
-            "skinGroupName": "巫异盛宴/IV",
-            "sortTags": [
-                "Operator",
-                "Rarity_6",
-                "Skinned"
-            ],
-            "assetList": {
-                ".atlas": "build_char_300_phenxi_witch#4.atlas",
-                ".png": "build_char_300_phenxi_witch#4.png",
-                ".skel": "build_char_300_phenxi_witch#4.skel"
-            }
-        },
-        "492_quercu_witch#4": {
-            "assetId": "build_char_492_quercu_witch#4",
-            "type": "Operator",
-            "style": "BuildingSkin",
-            "name": "夏栎",
-            "appellation": "Quercus",
-            "skinGroupId": "2023#witch",
-            "skinGroupName": "巫异盛宴/IV",
-            "sortTags": [
-                "Operator",
-                "Rarity_5",
-                "Skinned"
-            ],
-            "assetList": {
-                ".atlas": "build_char_492_quercu_witch#4.atlas",
-                ".png": "build_char_492_quercu_witch#4.png",
-                ".skel": "build_char_492_quercu_witch#4.skel"
-            }
-        },
-        "436_whispr_witch#4": {
-            "assetId": "build_char_436_whispr_witch#4",
-            "type": "Operator",
-            "style": "BuildingSkin",
-            "name": "絮雨",
-            "appellation": "Whisperain",
-            "skinGroupId": "2023#witch",
-            "skinGroupName": "巫异盛宴/IV",
-            "sortTags": [
-                "Operator",
-                "Rarity_5",
-                "Skinned"
-            ],
-            "assetList": {
-                ".atlas": "build_char_436_whispr_witch#4.atlas",
-                ".png": "build_char_436_whispr_witch#4.png",
-                ".skel": "build_char_436_whispr_witch#4.skel"
-            }
-        },
         "1028_texas2_iteration#1": {
             "assetId": "build_char_1028_texas2_iteration#1",
             "type": "Operator",
@@ -13635,6 +13766,258 @@
                 ".skel": "enemy_10020_sgcat.skel"
             }
         },
+        "10021_vtcar": {
+            "assetId": "enemy_10021_vtcar",
+            "type": "Enemy",
+            "style": null,
+            "name": "货运轨道车",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10021_vtcar.atlas",
+                ".png": "enemy_10021_vtcar.png",
+                ".skel": "enemy_10021_vtcar.skel"
+            }
+        },
+        "10022_vtskny": {
+            "assetId": "enemy_10022_vtskny",
+            "type": "Enemy",
+            "style": null,
+            "name": "新手拾荒者",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10022_vtskny.atlas",
+                ".png": "enemy_10022_vtskny.png",
+                ".skel": "enemy_10022_vtskny.skel"
+            }
+        },
+        "10022_vtskny_2": {
+            "assetId": "enemy_10022_vtskny_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "老练拾荒者",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10022_vtskny_2.atlas",
+                ".png": "enemy_10022_vtskny_2.png",
+                ".skel": "enemy_10022_vtskny_2.skel"
+            }
+        },
+        "10023_vtsnky": {
+            "assetId": "enemy_10023_vtsnky",
+            "type": "Enemy",
+            "style": null,
+            "name": "“护目镜”帮派窃贼",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10023_vtsnky.atlas",
+                ".png": "enemy_10023_vtsnky.png",
+                ".skel": "enemy_10023_vtsnky.skel"
+            }
+        },
+        "10023_vtsnky_2": {
+            "assetId": "enemy_10023_vtsnky_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "“护目镜”帮派打手",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10023_vtsnky_2.atlas",
+                ".png": "enemy_10023_vtsnky_2.png",
+                ".skel": "enemy_10023_vtsnky_2.skel"
+            }
+        },
+        "10024_vtstrn": {
+            "assetId": "enemy_10024_vtstrn",
+            "type": "Enemy",
+            "style": null,
+            "name": "“街区自治队”成员",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10024_vtstrn.atlas",
+                ".png": "enemy_10024_vtstrn.png",
+                ".skel": "enemy_10024_vtstrn.skel"
+            }
+        },
+        "10024_vtstrn_2": {
+            "assetId": "enemy_10024_vtstrn_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "“街区自治队”队长",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10024_vtstrn_2.atlas",
+                ".png": "enemy_10024_vtstrn_2.png",
+                ".skel": "enemy_10024_vtstrn_2.skel"
+            }
+        },
+        "10025_vtmstr": {
+            "assetId": "enemy_10025_vtmstr",
+            "type": "Enemy",
+            "style": null,
+            "name": "“铣痕”团伙佣兵",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10025_vtmstr.atlas",
+                ".png": "enemy_10025_vtmstr.png",
+                ".skel": "enemy_10025_vtmstr.skel"
+            }
+        },
+        "10025_vtmstr_2": {
+            "assetId": "enemy_10025_vtmstr_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "“铣痕”团伙精锐佣兵",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10025_vtmstr_2.atlas",
+                ".png": "enemy_10025_vtmstr_2.png",
+                ".skel": "enemy_10025_vtmstr_2.skel"
+            }
+        },
+        "10026_vtzepl": {
+            "assetId": "enemy_10026_vtzepl",
+            "type": "Enemy",
+            "style": null,
+            "name": "物资运输艇",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10026_vtzepl.atlas",
+                ".png": "enemy_10026_vtzepl.png",
+                ".skel": "enemy_10026_vtzepl.skel"
+            }
+        },
+        "10026_vtzepl_2": {
+            "assetId": "enemy_10026_vtzepl_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "大容量物资运输艇",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10026_vtzepl_2.atlas",
+                ".png": "enemy_10026_vtzepl_2.png",
+                ".skel": "enemy_10026_vtzepl_2.skel"
+            }
+        },
+        "10027_vtsk": {
+            "assetId": "enemy_10027_vtsk",
+            "type": "Enemy",
+            "style": null,
+            "name": "“帝国的甲胄”",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10027_vtsk.atlas",
+                ".png": "enemy_10027_vtsk.png",
+                ".skel": "enemy_10027_vtsk.skel"
+            }
+        },
+        "10028_vtswd": {
+            "assetId": "enemy_10028_vtswd",
+            "type": "Enemy",
+            "style": null,
+            "name": "未装配刀片",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10028_vtswd.atlas",
+                ".png": "enemy_10028_vtswd.png",
+                ".skel": "enemy_10028_vtswd.skel"
+            }
+        },
+        "10029_vtshld": {
+            "assetId": "enemy_10029_vtshld",
+            "type": "Enemy",
+            "style": null,
+            "name": "防护背心",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10029_vtshld.atlas",
+                ".png": "enemy_10029_vtshld.png",
+                ".skel": "enemy_10029_vtshld.skel"
+            }
+        },
         "1002_nsabr": {
             "assetId": "enemy_1002_nsabr",
             "type": "Enemy",
@@ -13651,6 +14034,24 @@
                 ".atlas": "enemy_1002_nsabr.atlas",
                 ".png": "enemy_1002_nsabr.png",
                 ".skel": "enemy_1002_nsabr.skel"
+            }
+        },
+        "10030_vtwand": {
+            "assetId": "enemy_10030_vtwand",
+            "type": "Enemy",
+            "style": null,
+            "name": "冲击式施术单元",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10030_vtwand.atlas",
+                ".png": "enemy_10030_vtwand.png",
+                ".skel": "enemy_10030_vtwand.skel"
             }
         },
         "1003_ncbow": {
@@ -30192,6 +30593,24 @@
                 ".skel": "enemy_1558_sgactr.skel"
             }
         },
+        "1559_vtlionk": {
+            "assetId": "enemy_1559_vtlionk",
+            "type": "Enemy",
+            "style": null,
+            "name": "阿利斯泰尔，帝国余晖",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {
+                ".atlas": "enemy_1559_vtlionk.atlas",
+                ".png": "enemy_1559_vtlionk.png",
+                ".skel": "enemy_1559_vtlionk.skel"
+            }
+        },
         "2001_duckmi": {
             "assetId": "enemy_2001_duckmi",
             "type": "Enemy",
@@ -36448,6 +36867,26 @@
                 ".atlas": "dyn_illust_char_4087_ines_boc#8.atlas",
                 ".png": "dyn_illust_char_4087_ines_boc#8.png",
                 ".skel": "dyn_illust_char_4087_ines_boc#8.skel"
+            }
+        },
+        "dyn_illust_4116_blkkgt_witch#5": {
+            "assetId": "dyn_illust_4116_blkkgt_witch#5",
+            "type": "DynIllust",
+            "style": null,
+            "name": "锏",
+            "appellation": "Degenbrecher",
+            "skinGroupId": "2024#witch",
+            "skinGroupName": "巫异盛宴/V",
+            "sortTags": [
+                "Operator",
+                "Rarity_6",
+                "Skinned",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": "dyn_illust_char_4116_blkkgt_witch#5.atlas",
+                ".png": "dyn_illust_char_4116_blkkgt_witch#5.png",
+                ".skel": "dyn_illust_char_4116_blkkgt_witch#5.skel"
             }
         },
         "dyn_illust_437_mizuki_sale#7": {

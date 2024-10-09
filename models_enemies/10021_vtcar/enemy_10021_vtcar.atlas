@@ -1,0 +1,174 @@
+
+enemy_10021_vtcar.png
+size: 240,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_B_Foot_R
+  rotate: false
+  xy: 105, 78
+  size: 59, 20
+  orig: 59, 20
+  offset: 0, 0
+  index: -1
+C_B_Leg_R
+  rotate: true
+  xy: 172, 64
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+C_B_Screw
+  rotate: false
+  xy: 2, 195
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+C_L_Screw
+  rotate: false
+  xy: 2, 195
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+C_R_Screw
+  rotate: false
+  xy: 2, 195
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: false
+  xy: 2, 176
+  size: 156, 37
+  orig: 156, 37
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: false
+  xy: 2, 68
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+C_L_Leg_R
+  rotate: false
+  xy: 2, 68
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+C_L_Tank_2
+  rotate: false
+  xy: 79, 130
+  size: 73, 44
+  orig: 73, 45
+  offset: 0, 1
+  index: -1
+C_L_Tank_3
+  rotate: false
+  xy: 159, 166
+  size: 75, 46
+  orig: 75, 46
+  offset: 0, 0
+  index: -1
+C_L_Tank_4
+  rotate: false
+  xy: 2, 128
+  size: 75, 46
+  orig: 75, 46
+  offset: 0, 0
+  index: -1
+C_L_Tank_6
+  rotate: false
+  xy: 2, 27
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+C_L_Tank_7
+  rotate: false
+  xy: 19, 202
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+C_L_Tank_8
+  rotate: false
+  xy: 66, 49
+  size: 79, 48
+  orig: 79, 48
+  offset: 0, 0
+  index: -1
+C_L_Tank_9
+  rotate: false
+  xy: 79, 99
+  size: 91, 29
+  orig: 91, 35
+  offset: 0, 6
+  index: -1
+C_L_column
+  rotate: false
+  xy: 147, 43
+  size: 74, 22
+  orig: 74, 22
+  offset: 0, 0
+  index: -1
+C_L_wire
+  rotate: 270
+  xy: 113, 17
+  size: 24, 52
+  orig: 24, 52
+  offset: 0, 0
+  index: -1
+C_L_wire_1
+  rotate: false
+  xy: 2, 81
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: false
+  xy: 45, 28
+  size: 67, 20
+  orig: 67, 20
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: true
+  xy: 172, 98
+  size: 66, 60
+  orig: 73, 60
+  offset: 0, 0
+  index: -1
+C_R_column
+  rotate: false
+  xy: 167, 19
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+C_R_wire
+  rotate: 180
+  xy: 204, 3
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+C_chain
+  rotate: false
+  xy: 27, 6
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+C_fixed
+  rotate: false
+  xy: 53, 98
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
