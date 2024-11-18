@@ -20,7 +20,7 @@
         "Rarity_5": "五星",
         "Rarity_6": "六星"
     },
-    "gameDataVersionDescription": "Producer: ArkUnpacker 3\nDate: 2024-10-09\n",
+    "gameDataVersionDescription": "Producer: ArkUnpacker 3\nDate: 2024-11-18\n",
     "gameDataServerRegion": "zh_CN",
     "data": {
         "285_medic2": {
@@ -1515,6 +1515,24 @@
                 ".atlas": "build_char_4107_vrdant.atlas",
                 ".png": "build_char_4107_vrdant.png",
                 ".skel": "build_char_4107_vrdant.skel"
+            }
+        },
+        "4165_ctrail": {
+            "assetId": "build_char_4165_ctrail",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "云迹",
+            "appellation": "Contrail",
+            "skinGroupId": "DEFAULT",
+            "skinGroupName": "默认服装",
+            "sortTags": [
+                "Operator",
+                "Rarity_4"
+            ],
+            "assetList": {
+                ".atlas": "build_char_4165_ctrail.atlas",
+                ".png": "build_char_4165_ctrail.png",
+                ".skel": "build_char_4165_ctrail.skel"
             }
         },
         "128_plosis": {
@@ -3358,6 +3376,24 @@
                 ".skel": "build_char_455_nothin.skel"
             }
         },
+        "4155_talr": {
+            "assetId": "build_char_4155_talr",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "裁度",
+            "appellation": "Figurino",
+            "skinGroupId": "DEFAULT",
+            "skinGroupName": "默认服装",
+            "sortTags": [
+                "Operator",
+                "Rarity_5"
+            ],
+            "assetList": {
+                ".atlas": "build_char_4155_talr.atlas",
+                ".png": "build_char_4155_talr.png",
+                ".skel": "build_char_4155_talr.skel"
+            }
+        },
         "107_liskam": {
             "assetId": "build_char_107_liskam",
             "type": "Operator",
@@ -3608,6 +3644,24 @@
                 ".atlas": "build_char_464_cement.atlas",
                 ".png": "build_char_464_cement.png",
                 ".skel": "build_char_464_cement.skel"
+            }
+        },
+        "4148_philae": {
+            "assetId": "build_char_4148_philae",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "菲莱",
+            "appellation": "Philae",
+            "skinGroupId": "DEFAULT",
+            "skinGroupName": "默认服装",
+            "sortTags": [
+                "Operator",
+                "Rarity_5"
+            ],
+            "assetList": {
+                ".atlas": "build_char_4148_philae.atlas",
+                ".png": "build_char_4148_philae.png",
+                ".skel": "build_char_4148_philae.skel"
             }
         },
         "145_prove": {
@@ -4639,6 +4693,24 @@
                 ".skel": "build_char_362_saga.skel"
             }
         },
+        "4026_vulpis": {
+            "assetId": "build_char_4026_vulpis",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "忍冬",
+            "appellation": "Vulpisfoglia",
+            "skinGroupId": "DEFAULT",
+            "skinGroupName": "默认服装",
+            "sortTags": [
+                "Operator",
+                "Rarity_6"
+            ],
+            "assetList": {
+                ".atlas": "build_char_4026_vulpis.atlas",
+                ".png": "build_char_4026_vulpis.png",
+                ".skel": "build_char_4026_vulpis.skel"
+            }
+        },
         "479_sleach": {
             "assetId": "build_char_479_sleach",
             "type": "Operator",
@@ -4945,6 +5017,25 @@
                 ".skel": "build_char_377_gdglow.skel"
             }
         },
+        "1038_whitw2": {
+            "assetId": "build_char_1038_whitw2",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "荒芜拉普兰德",
+            "appellation": "Lappland the Decadenza",
+            "skinGroupId": "DEFAULT",
+            "skinGroupName": "默认服装",
+            "sortTags": [
+                "Operator",
+                "Special",
+                "Rarity_6"
+            ],
+            "assetList": {
+                ".atlas": "build_char_1038_whitw2.atlas",
+                ".png": "build_char_1038_whitw2.png",
+                ".skel": "build_char_1038_whitw2.skel"
+            }
+        },
         "4046_ebnhlz": {
             "assetId": "build_char_4046_ebnhlz",
             "type": "Operator",
@@ -5217,6 +5308,24 @@
                 ".atlas": "build_char_1029_yato2.atlas",
                 ".png": "build_char_1029_yato2.png",
                 ".skel": "build_char_1029_yato2.skel"
+            }
+        },
+        "1502_crosly": {
+            "assetId": "build_char_1502_crosly",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "弑君者",
+            "appellation": "Crownslayer",
+            "skinGroupId": "DEFAULT",
+            "skinGroupName": "默认服装",
+            "sortTags": [
+                "Operator",
+                "Rarity_6"
+            ],
+            "assetList": {
+                ".atlas": "build_char_1502_crosly.atlas",
+                ".png": "build_char_1502_crosly.png",
+                ".skel": "build_char_1502_crosly.skel"
             }
         },
         "322_lmlee": {
@@ -6518,6 +6627,45 @@
                 ".atlas": "build_char_4151_tinman_sale#11.atlas",
                 ".png": "build_char_4151_tinman_sale#11.png",
                 ".skel": "build_char_4151_tinman_sale#11.skel"
+            }
+        },
+        "245_cello_sale#12": {
+            "assetId": "build_char_245_cello_sale#12",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "塑心",
+            "appellation": "Virtuosa",
+            "skinGroupId": "2024#sale#3",
+            "skinGroupName": "忒斯特收藏/XIII",
+            "sortTags": [
+                "Operator",
+                "Rarity_6",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_245_cello_sale#12.atlas",
+                ".png": "build_char_245_cello_sale#12.png",
+                ".skel": "build_char_245_cello_sale#12.skel"
+            }
+        },
+        "1032_excu2_sale#12": {
+            "assetId": "build_char_1032_excu2_sale#12",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "圣约送葬人",
+            "appellation": "Executor the Ex Foedere",
+            "skinGroupId": "2024#sale#3",
+            "skinGroupName": "忒斯特收藏/XIII",
+            "sortTags": [
+                "Operator",
+                "Special",
+                "Rarity_6",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_1032_excu2_sale#12.atlas",
+                ".png": "build_char_1032_excu2_sale#12.png",
+                ".skel": "build_char_1032_excu2_sale#12.skel"
             }
         },
         "208_melan_epoque#1": {
@@ -7910,6 +8058,22 @@
                 ".png": "build_char_4106_bryota_epoque#34.png",
                 ".skel": "build_char_4106_bryota_epoque#34.skel"
             }
+        },
+        "1028_texas2_epoque#36": {
+            "assetId": "build_char_1028_texas2_epoque#36",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "缄默德克萨斯",
+            "appellation": "Texas the Omertosa",
+            "skinGroupId": "2024#epoque#7",
+            "skinGroupName": "时代/XXXVI",
+            "sortTags": [
+                "Operator",
+                "Special",
+                "Rarity_6",
+                "Skinned"
+            ],
+            "assetList": {}
         },
         "120_hibisc_nian#1": {
             "assetId": "build_char_120_hibisc_nian#1",
@@ -10231,6 +10395,44 @@
                 ".atlas": "build_char_110_deepcl_winter#3.atlas",
                 ".png": "build_char_110_deepcl_winter#3.png",
                 ".skel": "build_char_110_deepcl_winter#3.skel"
+            }
+        },
+        "4081_warmy_winter#4": {
+            "assetId": "build_char_4081_warmy_winter#4",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "温米",
+            "appellation": "Warmy",
+            "skinGroupId": "2024#winter",
+            "skinGroupName": "寒武纪/IV",
+            "sortTags": [
+                "Operator",
+                "Rarity_5",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_4081_warmy_winter#4.atlas",
+                ".png": "build_char_4081_warmy_winter#4.png",
+                ".skel": "build_char_4081_warmy_winter#4.skel"
+            }
+        },
+        "298_susuro_winter#4": {
+            "assetId": "build_char_298_susuro_winter#4",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "苏苏洛",
+            "appellation": "Sussurro",
+            "skinGroupId": "2024#winter",
+            "skinGroupName": "寒武纪/IV",
+            "sortTags": [
+                "Operator",
+                "Rarity_4",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_298_susuro_winter#4.atlas",
+                ".png": "build_char_298_susuro_winter#4.png",
+                ".skel": "build_char_298_susuro_winter#4.skel"
             }
         },
         "340_shwaz_snow#1": {
@@ -14054,6 +14256,330 @@
                 ".skel": "enemy_10030_vtwand.skel"
             }
         },
+        "10031_cnvsld": {
+            "assetId": "enemy_10031_cnvsld",
+            "type": "Enemy",
+            "style": null,
+            "name": "业余竞演者",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10031_cnvsld.atlas",
+                ".png": "enemy_10031_cnvsld.png",
+                ".skel": "enemy_10031_cnvsld.skel"
+            }
+        },
+        "10031_cnvsld_2": {
+            "assetId": "enemy_10031_cnvsld_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "专业竞演者",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10031_cnvsld_2.atlas",
+                ".png": "enemy_10031_cnvsld_2.png",
+                ".skel": "enemy_10031_cnvsld_2.skel"
+            }
+        },
+        "10032_cnvsnp": {
+            "assetId": "enemy_10032_cnvsnp",
+            "type": "Enemy",
+            "style": null,
+            "name": "礼花零售商",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10032_cnvsnp.atlas",
+                ".png": "enemy_10032_cnvsnp.png",
+                ".skel": "enemy_10032_cnvsnp.skel"
+            }
+        },
+        "10032_cnvsnp_2": {
+            "assetId": "enemy_10032_cnvsnp_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "礼花经销商",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10032_cnvsnp_2.atlas",
+                ".png": "enemy_10032_cnvsnp_2.png",
+                ".skel": "enemy_10032_cnvsnp_2.skel"
+            }
+        },
+        "10033_cnvbsk": {
+            "assetId": "enemy_10033_cnvbsk",
+            "type": "Enemy",
+            "style": null,
+            "name": "街头火舞艺人",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10033_cnvbsk.atlas",
+                ".png": "enemy_10033_cnvbsk.png",
+                ".skel": "enemy_10033_cnvbsk.skel"
+            }
+        },
+        "10033_cnvbsk_2": {
+            "assetId": "enemy_10033_cnvbsk_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "街头火舞明星",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10033_cnvbsk_2.atlas",
+                ".png": "enemy_10033_cnvbsk_2.png",
+                ".skel": "enemy_10033_cnvbsk_2.skel"
+            }
+        },
+        "10034_cnvsax": {
+            "assetId": "enemy_10034_cnvsax",
+            "type": "Enemy",
+            "style": null,
+            "name": "节日爵士乐手",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10034_cnvsax.atlas",
+                ".png": "enemy_10034_cnvsax.png",
+                ".skel": "enemy_10034_cnvsax.skel"
+            }
+        },
+        "10034_cnvsax_2": {
+            "assetId": "enemy_10034_cnvsax_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "巡游爵士乐手",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10034_cnvsax_2.atlas",
+                ".png": "enemy_10034_cnvsax_2.png",
+                ".skel": "enemy_10034_cnvsax_2.skel"
+            }
+        },
+        "10035_cnvdnc": {
+            "assetId": "enemy_10035_cnvdnc",
+            "type": "Enemy",
+            "style": null,
+            "name": "热烈舞团独舞者",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10035_cnvdnc.atlas",
+                ".png": "enemy_10035_cnvdnc.png",
+                ".skel": "enemy_10035_cnvdnc.skel"
+            }
+        },
+        "10035_cnvdnc_2": {
+            "assetId": "enemy_10035_cnvdnc_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "热烈舞团领舞者",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10035_cnvdnc_2.atlas",
+                ".png": "enemy_10035_cnvdnc_2.png",
+                ".skel": "enemy_10035_cnvdnc_2.skel"
+            }
+        },
+        "10036_cnvpvd": {
+            "assetId": "enemy_10036_cnvpvd",
+            "type": "Enemy",
+            "style": null,
+            "name": "节日零食商贩",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10036_cnvpvd.atlas",
+                ".png": "enemy_10036_cnvpvd.png",
+                ".skel": "enemy_10036_cnvpvd.skel"
+            }
+        },
+        "10036_cnvpvd_2": {
+            "assetId": "enemy_10036_cnvpvd_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "巡游零食商贩",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10036_cnvpvd_2.atlas",
+                ".png": "enemy_10036_cnvpvd_2.png",
+                ".skel": "enemy_10036_cnvpvd_2.skel"
+            }
+        },
+        "10037_cnvpcar": {
+            "assetId": "enemy_10037_cnvpcar",
+            "type": "Enemy",
+            "style": null,
+            "name": "节日零食车",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10037_cnvpcar.atlas",
+                ".png": "enemy_10037_cnvpcar.png",
+                ".skel": "enemy_10037_cnvpcar.skel"
+            }
+        },
+        "10037_cnvpcar_2": {
+            "assetId": "enemy_10037_cnvpcar_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "巡游零食车",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10037_cnvpcar_2.atlas",
+                ".png": "enemy_10037_cnvpcar_2.png",
+                ".skel": "enemy_10037_cnvpcar_2.skel"
+            }
+        },
+        "10038_cnvpiz": {
+            "assetId": "enemy_10038_cnvpiz",
+            "type": "Enemy",
+            "style": null,
+            "name": "“方便快餐”",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10038_cnvpiz.atlas",
+                ".png": "enemy_10038_cnvpiz.png",
+                ".skel": "enemy_10038_cnvpiz.skel"
+            }
+        },
+        "10038_cnvpiz_2": {
+            "assetId": "enemy_10038_cnvpiz_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "“美食速递”",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10038_cnvpiz_2.atlas",
+                ".png": "enemy_10038_cnvpiz_2.png",
+                ".skel": "enemy_10038_cnvpiz_2.skel"
+            }
+        },
+        "10039_cnvber": {
+            "assetId": "enemy_10039_cnvber",
+            "type": "Enemy",
+            "style": null,
+            "name": "“开怀畅饮”",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10039_cnvber.atlas",
+                ".png": "enemy_10039_cnvber.png",
+                ".skel": "enemy_10039_cnvber.skel"
+            }
+        },
+        "10039_cnvber_2": {
+            "assetId": "enemy_10039_cnvber_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "“醉后狂欢”",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10039_cnvber_2.atlas",
+                ".png": "enemy_10039_cnvber_2.png",
+                ".skel": "enemy_10039_cnvber_2.skel"
+            }
+        },
         "1003_ncbow": {
             "assetId": "enemy_1003_ncbow",
             "type": "Enemy",
@@ -14089,6 +14615,56 @@
                 ".png": "enemy_1003_ncbow_2.png",
                 ".skel": "enemy_1003_ncbow_2.skel"
             }
+        },
+        "10040_cnvbln": {
+            "assetId": "enemy_10040_cnvbln",
+            "type": "Enemy",
+            "style": null,
+            "name": "节日气球",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10040_cnvbln.atlas",
+                ".png": "enemy_10040_cnvbln.png",
+                ".skel": "enemy_10040_cnvbln.skel"
+            }
+        },
+        "10040_cnvbln_2": {
+            "assetId": "enemy_10040_cnvbln_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "巡游气球",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_10040_cnvbln_2.atlas",
+                ".png": "enemy_10040_cnvbln_2.png",
+                ".skel": "enemy_10040_cnvbln_2.skel"
+            }
+        },
+        "10041_cnvfire": {
+            "assetId": "enemy_10041_cnvfire",
+            "type": "Enemy",
+            "style": null,
+            "name": "引线火焰",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {}
         },
         "1004_mslime": {
             "assetId": "enemy_1004_mslime",
@@ -30611,6 +31187,24 @@
                 ".skel": "enemy_1559_vtlionk.skel"
             }
         },
+        "1560_cnvlap": {
+            "assetId": "enemy_1560_cnvlap",
+            "type": "Enemy",
+            "style": null,
+            "name": "“狂欢之主”",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {
+                ".atlas": "enemy_1560_cnvlap.atlas",
+                ".png": "enemy_1560_cnvlap.png",
+                ".skel": "enemy_1560_cnvlap.skel"
+            }
+        },
         "2001_duckmi": {
             "assetId": "enemy_2001_duckmi",
             "type": "Enemy",
@@ -32170,6 +32764,60 @@
                 "EnemyNormal"
             ],
             "assetList": {}
+        },
+        "2089_skzjkl": {
+            "assetId": "enemy_2089_skzjkl",
+            "type": "Enemy",
+            "style": null,
+            "name": "奎隆，摩诃萨埵权化",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {
+                ".atlas": "enemy_2089_skzjkl.atlas",
+                ".png": "enemy_2089_skzjkl.png",
+                ".skel": "enemy_2089_skzjkl.skel"
+            }
+        },
+        "2090_skzjbc": {
+            "assetId": "enemy_2090_skzjbc",
+            "type": "Enemy",
+            "style": null,
+            "name": "托生莲座",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_2090_skzjbc.atlas",
+                ".png": "enemy_2090_skzjbc.png",
+                ".skel": "enemy_2090_skzjbc.skel"
+            }
+        },
+        "2091_skzgds": {
+            "assetId": "enemy_2091_skzgds",
+            "type": "Enemy",
+            "style": null,
+            "name": "“窗”",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_2091_skzgds.atlas",
+                ".png": "enemy_2091_skzgds.png",
+                ".skel": "enemy_2091_skzgds.skel"
+            }
         },
         "3001_upeopl": {
             "assetId": "enemy_3001_upeopl",
@@ -35851,6 +36499,154 @@
                 ".skel": "enemy_8009_eltufo.skel"
             }
         },
+        "dyn_illust_1012_skadi2_boc#4": {
+            "assetId": "dyn_illust_1012_skadi2_boc#4",
+            "type": "DynIllust",
+            "style": null,
+            "name": "浊心斯卡蒂",
+            "appellation": "Skadi the Corrupting Heart",
+            "skinGroupId": "2022#boc",
+            "skinGroupName": "斗争血脉/IV",
+            "sortTags": [
+                "Operator",
+                "Special",
+                "Rarity_6",
+                "Skinned",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": "dyn_illust_char_1012_skadi2_boc#4.atlas",
+                ".png": "dyn_illust_char_1012_skadi2_boc#4.png",
+                ".skel": "dyn_illust_char_1012_skadi2_boc#4.skel"
+            }
+        },
+        "dyn_illust_1013_chen2": {
+            "assetId": "dyn_illust_1013_chen2",
+            "type": "DynIllust",
+            "style": null,
+            "name": "假日威龙陈",
+            "appellation": "Ch'en the Holungday",
+            "skinGroupId": "DEFAULT",
+            "skinGroupName": "默认服装",
+            "sortTags": [
+                "Operator",
+                "Special",
+                "Rarity_6",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": "dyn_illust_char_1013_chen2.atlas",
+                ".png": "dyn_illust_char_1013_chen2.png",
+                ".skel": "dyn_illust_char_1013_chen2.skel"
+            }
+        },
+        "dyn_illust_1023_ghost2_boc#6": {
+            "assetId": "dyn_illust_1023_ghost2_boc#6",
+            "type": "DynIllust",
+            "style": null,
+            "name": "归溟幽灵鲨",
+            "appellation": "Specter the Unchained",
+            "skinGroupId": "2023#boc",
+            "skinGroupName": "斗争血脉/VI",
+            "sortTags": [
+                "Operator",
+                "Special",
+                "Rarity_6",
+                "Skinned",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": "dyn_illust_char_1023_ghost2_boc#6.atlas",
+                ".png": "dyn_illust_char_1023_ghost2_boc#6.png",
+                ".skel": "dyn_illust_char_1023_ghost2_boc#6.skel"
+            }
+        },
+        "dyn_illust_1012_skadi2": {
+            "assetId": "dyn_illust_1012_skadi2",
+            "type": "DynIllust",
+            "style": null,
+            "name": "浊心斯卡蒂",
+            "appellation": "Skadi the Corrupting Heart",
+            "skinGroupId": "DEFAULT",
+            "skinGroupName": "默认服装",
+            "sortTags": [
+                "Operator",
+                "Special",
+                "Rarity_6",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": "dyn_illust_char_1012_skadi2.atlas",
+                ".png": "dyn_illust_char_1012_skadi2.png",
+                ".skel": "dyn_illust_char_1012_skadi2.skel"
+            }
+        },
+        "dyn_illust_1020_reed2_summer#17": {
+            "assetId": "dyn_illust_1020_reed2_summer#17",
+            "type": "DynIllust",
+            "style": null,
+            "name": "焰影苇草",
+            "appellation": "Reed The Flame Shadow",
+            "skinGroupId": "2024#summer#2",
+            "skinGroupName": "珊瑚海岸/XVII",
+            "sortTags": [
+                "Operator",
+                "Special",
+                "Rarity_6",
+                "Skinned",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": "dyn_illust_char_1020_reed2_summer#17.atlas",
+                ".png": "dyn_illust_char_1020_reed2_summer#17.png",
+                ".skel": "dyn_illust_char_1020_reed2_summer#17"
+            }
+        },
+        "dyn_illust_1026_gvial2_summer#12": {
+            "assetId": "dyn_illust_1026_gvial2_summer#12",
+            "type": "DynIllust",
+            "style": null,
+            "name": "百炼嘉维尔",
+            "appellation": "Gavial the Invincible",
+            "skinGroupId": "2023#summer#2",
+            "skinGroupName": "珊瑚海岸/XII",
+            "sortTags": [
+                "Operator",
+                "Special",
+                "Rarity_6",
+                "Skinned",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": "dyn_illust_char_1026_gvial2_summer#12.atlas",
+                ".png": "dyn_illust_char_1026_gvial2_summer#12.png",
+                ".skel": "dyn_illust_char_1026_gvial2_summer#12.skel"
+            }
+        },
+        "dyn_illust_1013_chen2_boc#6": {
+            "assetId": "dyn_illust_1013_chen2_boc#6",
+            "type": "DynIllust",
+            "style": null,
+            "name": "假日威龙陈",
+            "appellation": "Ch'en the Holungday",
+            "skinGroupId": "2023#boc",
+            "skinGroupName": "斗争血脉/VI",
+            "sortTags": [
+                "Operator",
+                "Special",
+                "Rarity_6",
+                "Skinned",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": "dyn_illust_char_1013_chen2_boc#6.atlas",
+                ".png": [
+                    "dyn_illust_char_1013_chen2_boc#6.png",
+                    "dyn_illust_char_1013_chen2_boc#62.png"
+                ],
+                ".skel": "dyn_illust_char_1013_chen2_boc#6.skel"
+            }
+        },
         "dyn_illust_003_kalts_boc#6": {
             "assetId": "dyn_illust_003_kalts_boc#6",
             "type": "DynIllust",
@@ -35880,12 +36676,33 @@
                 ]
             }
         },
-        "dyn_illust_1012_skadi2": {
-            "assetId": "dyn_illust_1012_skadi2",
+        "dyn_illust_1028_texas2_epoque#36": {
+            "assetId": "dyn_illust_1028_texas2_epoque#36",
             "type": "DynIllust",
             "style": null,
-            "name": "浊心斯卡蒂",
-            "appellation": "Skadi the Corrupting Heart",
+            "name": "缄默德克萨斯",
+            "appellation": "Texas the Omertosa",
+            "skinGroupId": "2024#epoque#7",
+            "skinGroupName": "时代/XXXVI",
+            "sortTags": [
+                "Operator",
+                "Special",
+                "Rarity_6",
+                "Skinned",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": "dyn_illust_char_1028_texas2_epoque#36.atlas",
+                ".png": "dyn_illust_char_1028_texas2_epoque#36.png",
+                ".skel": "dyn_illust_char_1028_texas2_epoque#36.skel"
+            }
+        },
+        "dyn_illust_1026_gvial2": {
+            "assetId": "dyn_illust_1026_gvial2",
+            "type": "DynIllust",
+            "style": null,
+            "name": "百炼嘉维尔",
+            "appellation": "Gavial the Invincible",
             "skinGroupId": "DEFAULT",
             "skinGroupName": "默认服装",
             "sortTags": [
@@ -35895,68 +36712,17 @@
                 "DynIllust"
             ],
             "assetList": {
-                ".atlas": "dyn_illust_char_1012_skadi2.atlas",
-                ".png": "dyn_illust_char_1012_skadi2.png",
-                ".skel": "dyn_illust_char_1012_skadi2.skel"
+                ".atlas": "dyn_illust_char_1026_gvial2.atlas",
+                ".png": "dyn_illust_char_1026_gvial2.png",
+                ".skel": "dyn_illust_char_1026_gvial2.skel"
             }
         },
-        "dyn_illust_1012_skadi2_boc#4": {
-            "assetId": "dyn_illust_1012_skadi2_boc#4",
+        "dyn_illust_1023_ghost2": {
+            "assetId": "dyn_illust_1023_ghost2",
             "type": "DynIllust",
             "style": null,
-            "name": "浊心斯卡蒂",
-            "appellation": "Skadi the Corrupting Heart",
-            "skinGroupId": "2022#boc",
-            "skinGroupName": "斗争血脉/IV",
-            "sortTags": [
-                "Operator",
-                "Special",
-                "Rarity_6",
-                "Skinned",
-                "DynIllust"
-            ],
-            "assetList": {
-                ".atlas": "dyn_illust_char_1012_skadi2_boc#4.atlas",
-                ".png": "dyn_illust_char_1012_skadi2_boc#4.png",
-                ".skel": "dyn_illust_char_1012_skadi2_boc#4.skel"
-            }
-        },
-        "dyn_illust_1012_skadi2_iteration#2": {
-            "assetId": "dyn_illust_1012_skadi2_iteration#2",
-            "type": "DynIllust",
-            "style": null,
-            "name": "浊心斯卡蒂",
-            "appellation": "Skadi the Corrupting Heart",
-            "skinGroupId": "2024#iteration",
-            "skinGroupName": "命途迭代/II",
-            "sortTags": [
-                "Operator",
-                "Special",
-                "Rarity_6",
-                "Skinned",
-                "DynIllust"
-            ],
-            "assetList": {
-                ".atlas": [
-                    "dyn_illust_char_1012_skadi2_iteration#2.atlas",
-                    "dyn_illust_char_1012_skadi2_iteration#2_Start.atlas"
-                ],
-                ".png": [
-                    "dyn_illust_char_1012_skadi2_iteration#2.png",
-                    "dyn_illust_char_1012_skadi2_iteration#2_Start.png"
-                ],
-                ".skel": [
-                    "dyn_illust_char_1012_skadi2_iteration#2.skel",
-                    "dyn_illust_char_1012_skadi2_iteration#2_Start.skel"
-                ]
-            }
-        },
-        "dyn_illust_1013_chen2": {
-            "assetId": "dyn_illust_1013_chen2",
-            "type": "DynIllust",
-            "style": null,
-            "name": "假日威龙陈",
-            "appellation": "Ch'en the Holungday",
+            "name": "归溟幽灵鲨",
+            "appellation": "Specter the Unchained",
             "skinGroupId": "DEFAULT",
             "skinGroupName": "默认服装",
             "sortTags": [
@@ -35966,19 +36732,19 @@
                 "DynIllust"
             ],
             "assetList": {
-                ".atlas": "dyn_illust_char_1013_chen2.atlas",
-                ".png": "dyn_illust_char_1013_chen2.png",
-                ".skel": "dyn_illust_char_1013_chen2.skel"
+                ".atlas": "dyn_illust_char_1023_ghost2.atlas",
+                ".png": "dyn_illust_char_1023_ghost2.png",
+                ".skel": "dyn_illust_char_1023_ghost2.skel"
             }
         },
-        "dyn_illust_1013_chen2_boc#6": {
-            "assetId": "dyn_illust_1013_chen2_boc#6",
+        "dyn_illust_1020_reed2_epoque#30": {
+            "assetId": "dyn_illust_1020_reed2_epoque#30",
             "type": "DynIllust",
             "style": null,
-            "name": "假日威龙陈",
-            "appellation": "Ch'en the Holungday",
-            "skinGroupId": "2023#boc",
-            "skinGroupName": "斗争血脉/VI",
+            "name": "焰影苇草",
+            "appellation": "Reed The Flame Shadow",
+            "skinGroupId": "2024#epoque",
+            "skinGroupName": "时代/XXX",
             "sortTags": [
                 "Operator",
                 "Special",
@@ -35987,12 +36753,30 @@
                 "DynIllust"
             ],
             "assetList": {
-                ".atlas": "dyn_illust_char_1013_chen2_boc#6.atlas",
-                ".png": [
-                    "dyn_illust_char_1013_chen2_boc#6.png",
-                    "dyn_illust_char_1013_chen2_boc#62.png"
-                ],
-                ".skel": "dyn_illust_char_1013_chen2_boc#6.skel"
+                ".atlas": "dyn_illust_char_1020_reed2_epoque#30.atlas",
+                ".png": "dyn_illust_char_1020_reed2_epoque#30.png",
+                ".skel": "dyn_illust_char_1020_reed2_epoque#30.skel"
+            }
+        },
+        "dyn_illust_1028_texas2_iteration#1": {
+            "assetId": "dyn_illust_1028_texas2_iteration#1",
+            "type": "DynIllust",
+            "style": null,
+            "name": "缄默德克萨斯",
+            "appellation": "Texas the Omertosa",
+            "skinGroupId": "2023#iteration",
+            "skinGroupName": "命途迭代",
+            "sortTags": [
+                "Operator",
+                "Special",
+                "Rarity_6",
+                "Skinned",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": "dyn_illust_char_1028_texas2_iteration#1.atlas",
+                ".png": "dyn_illust_char_1028_texas2_iteration#1.png",
+                ".skel": "dyn_illust_char_1028_texas2_iteration#1.skel"
             }
         },
         "dyn_illust_1014_nearl2": {
@@ -36036,6 +36820,26 @@
                 ".skel": "dyn_illust_char_1014_nearl2_epoque#17.skel"
             }
         },
+        "dyn_illust_1028_texas2": {
+            "assetId": "dyn_illust_1028_texas2",
+            "type": "DynIllust",
+            "style": null,
+            "name": "缄默德克萨斯",
+            "appellation": "Texas the Omertosa",
+            "skinGroupId": "DEFAULT",
+            "skinGroupName": "默认服装",
+            "sortTags": [
+                "Operator",
+                "Special",
+                "Rarity_6",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": "dyn_illust_char_1028_texas2.atlas",
+                ".png": "dyn_illust_char_1028_texas2.png",
+                ".skel": "dyn_illust_char_1028_texas2.skel"
+            }
+        },
         "dyn_illust_1016_agoat2": {
             "assetId": "dyn_illust_1016_agoat2",
             "type": "DynIllust",
@@ -36054,6 +36858,76 @@
                 ".atlas": "dyn_illust_char_1016_agoat2.atlas",
                 ".png": "dyn_illust_char_1016_agoat2.png",
                 ".skel": "dyn_illust_char_1016_agoat2.skel"
+            }
+        },
+        "dyn_illust_1032_excu2_sale#12": {
+            "assetId": "dyn_illust_1032_excu2_sale#12",
+            "type": "DynIllust",
+            "style": null,
+            "name": "圣约送葬人",
+            "appellation": "Executor the Ex Foedere",
+            "skinGroupId": "2024#sale#3",
+            "skinGroupName": "忒斯特收藏/XIII",
+            "sortTags": [
+                "Operator",
+                "Special",
+                "Rarity_6",
+                "Skinned",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": [
+                    "dyn_illust_char_1032_excu2_sale#12.atlas",
+                    "dyn_illust_char_1032_excu2_sale#12_Start.atlas"
+                ],
+                ".png": [
+                    "dyn_illust_char_1032_excu2_sale#12.png",
+                    "dyn_illust_char_1032_excu2_sale#12_Start.png"
+                ],
+                ".skel": [
+                    "dyn_illust_char_1032_excu2_sale#12.skel",
+                    "dyn_illust_char_1032_excu2_sale#12_Start.skel"
+                ]
+            }
+        },
+        "dyn_illust_1035_wisdel": {
+            "assetId": "dyn_illust_1035_wisdel",
+            "type": "DynIllust",
+            "style": null,
+            "name": "维什戴尔",
+            "appellation": "Wiš'adel",
+            "skinGroupId": "DEFAULT",
+            "skinGroupName": "默认服装",
+            "sortTags": [
+                "Operator",
+                "Special",
+                "Rarity_6",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": "dyn_illust_char_1035_wisdel.atlas",
+                ".png": "dyn_illust_char_1035_wisdel.png",
+                ".skel": "dyn_illust_char_1035_wisdel.skel"
+            }
+        },
+        "dyn_illust_1038_whitw2": {
+            "assetId": "dyn_illust_1038_whitw2",
+            "type": "DynIllust",
+            "style": null,
+            "name": "荒芜拉普兰德",
+            "appellation": "Lappland the Decadenza",
+            "skinGroupId": "DEFAULT",
+            "skinGroupName": "默认服装",
+            "sortTags": [
+                "Operator",
+                "Special",
+                "Rarity_6",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": "dyn_illust_char_1038_whitw2.atlas",
+                ".png": "dyn_illust_char_1038_whitw2.png",
+                ".skel": "dyn_illust_char_1038_whitw2.skel"
             }
         },
         "dyn_illust_1016_agoat2_epoque#34": {
@@ -36083,14 +36957,14 @@
                 ".skel": "dyn_illust_char_1016_agoat2_epoque#34_Start.skel"
             }
         },
-        "dyn_illust_1020_reed2_epoque#30": {
-            "assetId": "dyn_illust_1020_reed2_epoque#30",
+        "dyn_illust_1012_skadi2_iteration#2": {
+            "assetId": "dyn_illust_1012_skadi2_iteration#2",
             "type": "DynIllust",
             "style": null,
-            "name": "焰影苇草",
-            "appellation": "Reed The Flame Shadow",
-            "skinGroupId": "2024#epoque",
-            "skinGroupName": "时代/XXX",
+            "name": "浊心斯卡蒂",
+            "appellation": "Skadi the Corrupting Heart",
+            "skinGroupId": "2024#iteration",
+            "skinGroupName": "命途迭代/II",
             "sortTags": [
                 "Operator",
                 "Special",
@@ -36099,173 +36973,18 @@
                 "DynIllust"
             ],
             "assetList": {
-                ".atlas": "dyn_illust_char_1020_reed2_epoque#30.atlas",
-                ".png": "dyn_illust_char_1020_reed2_epoque#30.png",
-                ".skel": "dyn_illust_char_1020_reed2_epoque#30.skel"
-            }
-        },
-        "dyn_illust_1020_reed2_summer#17": {
-            "assetId": "dyn_illust_1020_reed2_summer#17",
-            "type": "DynIllust",
-            "style": null,
-            "name": "焰影苇草",
-            "appellation": "Reed The Flame Shadow",
-            "skinGroupId": "2024#summer#2",
-            "skinGroupName": "珊瑚海岸/XVII",
-            "sortTags": [
-                "Operator",
-                "Special",
-                "Rarity_6",
-                "Skinned",
-                "DynIllust"
-            ],
-            "assetList": {
-                ".atlas": "dyn_illust_char_1020_reed2_summer#17.atlas",
-                ".png": "dyn_illust_char_1020_reed2_summer#17.png",
-                ".skel": "dyn_illust_char_1020_reed2_summer#17"
-            }
-        },
-        "dyn_illust_1023_ghost2": {
-            "assetId": "dyn_illust_1023_ghost2",
-            "type": "DynIllust",
-            "style": null,
-            "name": "归溟幽灵鲨",
-            "appellation": "Specter the Unchained",
-            "skinGroupId": "DEFAULT",
-            "skinGroupName": "默认服装",
-            "sortTags": [
-                "Operator",
-                "Special",
-                "Rarity_6",
-                "DynIllust"
-            ],
-            "assetList": {
-                ".atlas": "dyn_illust_char_1023_ghost2.atlas",
-                ".png": "dyn_illust_char_1023_ghost2.png",
-                ".skel": "dyn_illust_char_1023_ghost2.skel"
-            }
-        },
-        "dyn_illust_1023_ghost2_boc#6": {
-            "assetId": "dyn_illust_1023_ghost2_boc#6",
-            "type": "DynIllust",
-            "style": null,
-            "name": "归溟幽灵鲨",
-            "appellation": "Specter the Unchained",
-            "skinGroupId": "2023#boc",
-            "skinGroupName": "斗争血脉/VI",
-            "sortTags": [
-                "Operator",
-                "Special",
-                "Rarity_6",
-                "Skinned",
-                "DynIllust"
-            ],
-            "assetList": {
-                ".atlas": "dyn_illust_char_1023_ghost2_boc#6.atlas",
-                ".png": "dyn_illust_char_1023_ghost2_boc#6.png",
-                ".skel": "dyn_illust_char_1023_ghost2_boc#6.skel"
-            }
-        },
-        "dyn_illust_1026_gvial2": {
-            "assetId": "dyn_illust_1026_gvial2",
-            "type": "DynIllust",
-            "style": null,
-            "name": "百炼嘉维尔",
-            "appellation": "Gavial the Invincible",
-            "skinGroupId": "DEFAULT",
-            "skinGroupName": "默认服装",
-            "sortTags": [
-                "Operator",
-                "Special",
-                "Rarity_6",
-                "DynIllust"
-            ],
-            "assetList": {
-                ".atlas": "dyn_illust_char_1026_gvial2.atlas",
-                ".png": "dyn_illust_char_1026_gvial2.png",
-                ".skel": "dyn_illust_char_1026_gvial2.skel"
-            }
-        },
-        "dyn_illust_1026_gvial2_summer#12": {
-            "assetId": "dyn_illust_1026_gvial2_summer#12",
-            "type": "DynIllust",
-            "style": null,
-            "name": "百炼嘉维尔",
-            "appellation": "Gavial the Invincible",
-            "skinGroupId": "2023#summer#2",
-            "skinGroupName": "珊瑚海岸/XII",
-            "sortTags": [
-                "Operator",
-                "Special",
-                "Rarity_6",
-                "Skinned",
-                "DynIllust"
-            ],
-            "assetList": {
-                ".atlas": "dyn_illust_char_1026_gvial2_summer#12.atlas",
-                ".png": "dyn_illust_char_1026_gvial2_summer#12.png",
-                ".skel": "dyn_illust_char_1026_gvial2_summer#12.skel"
-            }
-        },
-        "dyn_illust_1028_texas2": {
-            "assetId": "dyn_illust_1028_texas2",
-            "type": "DynIllust",
-            "style": null,
-            "name": "缄默德克萨斯",
-            "appellation": "Texas the Omertosa",
-            "skinGroupId": "DEFAULT",
-            "skinGroupName": "默认服装",
-            "sortTags": [
-                "Operator",
-                "Special",
-                "Rarity_6",
-                "DynIllust"
-            ],
-            "assetList": {
-                ".atlas": "dyn_illust_char_1028_texas2.atlas",
-                ".png": "dyn_illust_char_1028_texas2.png",
-                ".skel": "dyn_illust_char_1028_texas2.skel"
-            }
-        },
-        "dyn_illust_1028_texas2_iteration#1": {
-            "assetId": "dyn_illust_1028_texas2_iteration#1",
-            "type": "DynIllust",
-            "style": null,
-            "name": "缄默德克萨斯",
-            "appellation": "Texas the Omertosa",
-            "skinGroupId": "2023#iteration",
-            "skinGroupName": "命途迭代",
-            "sortTags": [
-                "Operator",
-                "Special",
-                "Rarity_6",
-                "Skinned",
-                "DynIllust"
-            ],
-            "assetList": {
-                ".atlas": "dyn_illust_char_1028_texas2_iteration#1.atlas",
-                ".png": "dyn_illust_char_1028_texas2_iteration#1.png",
-                ".skel": "dyn_illust_char_1028_texas2_iteration#1.skel"
-            }
-        },
-        "dyn_illust_1035_wisdel": {
-            "assetId": "dyn_illust_1035_wisdel",
-            "type": "DynIllust",
-            "style": null,
-            "name": "维什戴尔",
-            "appellation": "Wiš'adel",
-            "skinGroupId": "DEFAULT",
-            "skinGroupName": "默认服装",
-            "sortTags": [
-                "Operator",
-                "Special",
-                "Rarity_6",
-                "DynIllust"
-            ],
-            "assetList": {
-                ".atlas": "dyn_illust_char_1035_wisdel.atlas",
-                ".png": "dyn_illust_char_1035_wisdel.png",
-                ".skel": "dyn_illust_char_1035_wisdel.skel"
+                ".atlas": [
+                    "dyn_illust_char_1012_skadi2_iteration#2.atlas",
+                    "dyn_illust_char_1012_skadi2_iteration#2_Start.atlas"
+                ],
+                ".png": [
+                    "dyn_illust_char_1012_skadi2_iteration#2.png",
+                    "dyn_illust_char_1012_skadi2_iteration#2_Start.png"
+                ],
+                ".skel": [
+                    "dyn_illust_char_1012_skadi2_iteration#2.skel",
+                    "dyn_illust_char_1012_skadi2_iteration#2_Start.skel"
+                ]
             }
         },
         "dyn_illust_113_cqbw": {
@@ -36316,55 +37035,6 @@
                 ]
             }
         },
-        "dyn_illust_172_svrash_ambiencesynesthesia#4": {
-            "assetId": "dyn_illust_172_svrash_ambiencesynesthesia#4",
-            "type": "DynIllust",
-            "style": null,
-            "name": "银灰",
-            "appellation": "SilverAsh",
-            "skinGroupId": "2024#ambienceSynesthesia",
-            "skinGroupName": "音律联觉/IV",
-            "sortTags": [
-                "Operator",
-                "Rarity_6",
-                "Skinned",
-                "DynIllust"
-            ],
-            "assetList": {
-                ".atlas": [
-                    "dyn_illust_char_172_svrash_ambienceSynesthesia#4$0.atlas",
-                    "dyn_illust_char_172_svrash_ambienceSynesthesia#4.atlas"
-                ],
-                ".png": [
-                    "dyn_illust_char_172_svrash_ambienceSynesthesia#4$0.png",
-                    "dyn_illust_char_172_svrash_ambienceSynesthesia#4.png"
-                ],
-                ".skel": [
-                    "dyn_illust_char_172_svrash_ambienceSynesthesia#4$0.skel",
-                    "dyn_illust_char_172_svrash_ambienceSynesthesia#4.skel"
-                ]
-            }
-        },
-        "dyn_illust_179_cgbird_sightseer#1": {
-            "assetId": "dyn_illust_179_cgbird_sightseer#1",
-            "type": "DynIllust",
-            "style": null,
-            "name": "夜莺",
-            "appellation": "Nightingale",
-            "skinGroupId": "2024#sightseer",
-            "skinGroupName": "错位巡礼/I",
-            "sortTags": [
-                "Operator",
-                "Rarity_6",
-                "Skinned",
-                "DynIllust"
-            ],
-            "assetList": {
-                ".atlas": "dyn_illust_char_179_cgbird_sightseer#1.atlas",
-                ".png": "dyn_illust_char_179_cgbird_sightseer#1.png",
-                ".skel": "dyn_illust_char_179_cgbird_sightseer#1.skel"
-            }
-        },
         "dyn_illust_2014_nian": {
             "assetId": "dyn_illust_2014_nian",
             "type": "DynIllust",
@@ -36407,25 +37077,6 @@
                 ".skel": "dyn_illust_char_2014_nian_nian#4.skel"
             }
         },
-        "dyn_illust_2015_dusk": {
-            "assetId": "dyn_illust_2015_dusk",
-            "type": "DynIllust",
-            "style": null,
-            "name": "夕",
-            "appellation": "Dusk",
-            "skinGroupId": "DEFAULT",
-            "skinGroupName": "默认服装",
-            "sortTags": [
-                "Operator",
-                "Rarity_6",
-                "DynIllust"
-            ],
-            "assetList": {
-                ".atlas": "dyn_illust_char_2015_dusk.atlas",
-                ".png": "dyn_illust_char_2015_dusk.png",
-                ".skel": "dyn_illust_char_2015_dusk.skel"
-            }
-        },
         "dyn_illust_2015_dusk_nian#7": {
             "assetId": "dyn_illust_2015_dusk_nian#7",
             "type": "DynIllust",
@@ -36447,6 +37098,46 @@
                     "dyn_illust_char_2015_dusk_nian#72.png"
                 ],
                 ".skel": "dyn_illust_char_2015_dusk_nian#7.skel"
+            }
+        },
+        "dyn_illust_2023_ling_ncg#1": {
+            "assetId": "dyn_illust_2023_ling_ncg#1",
+            "type": "DynIllust",
+            "style": null,
+            "name": "令",
+            "appellation": "Ling",
+            "skinGroupId": "2023#ncg",
+            "skinGroupName": "国家地理",
+            "sortTags": [
+                "Operator",
+                "Rarity_6",
+                "Skinned",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": "dyn_illust_char_2023_ling_ncg#1.atlas",
+                ".png": "dyn_illust_char_2023_ling_ncg#1.png",
+                ".skel": "dyn_illust_char_2023_ling_ncg#1.skel"
+            }
+        },
+        "dyn_illust_179_cgbird_sightseer#1": {
+            "assetId": "dyn_illust_179_cgbird_sightseer#1",
+            "type": "DynIllust",
+            "style": null,
+            "name": "夜莺",
+            "appellation": "Nightingale",
+            "skinGroupId": "2024#sightseer",
+            "skinGroupName": "错位巡礼/I",
+            "sortTags": [
+                "Operator",
+                "Rarity_6",
+                "Skinned",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": "dyn_illust_char_179_cgbird_sightseer#1.atlas",
+                ".png": "dyn_illust_char_179_cgbird_sightseer#1.png",
+                ".skel": "dyn_illust_char_179_cgbird_sightseer#1.skel"
             }
         },
         "dyn_illust_2023_ling": {
@@ -36471,14 +37162,14 @@
                 ".skel": "dyn_illust_char_2023_ling.skel"
             }
         },
-        "dyn_illust_2023_ling_ncg#1": {
-            "assetId": "dyn_illust_2023_ling_ncg#1",
+        "dyn_illust_2024_chyue_nian#10": {
+            "assetId": "dyn_illust_2024_chyue_nian#10",
             "type": "DynIllust",
             "style": null,
-            "name": "令",
-            "appellation": "Ling",
-            "skinGroupId": "2023#ncg",
-            "skinGroupName": "国家地理",
+            "name": "重岳",
+            "appellation": "Chongyue",
+            "skinGroupId": "2024#nian",
+            "skinGroupName": "0011制造/IX",
             "sortTags": [
                 "Operator",
                 "Rarity_6",
@@ -36486,9 +37177,9 @@
                 "DynIllust"
             ],
             "assetList": {
-                ".atlas": "dyn_illust_char_2023_ling_ncg#1.atlas",
-                ".png": "dyn_illust_char_2023_ling_ncg#1.png",
-                ".skel": "dyn_illust_char_2023_ling_ncg#1.skel"
+                ".atlas": "dyn_illust_char_2024_chyue_nian#10.atlas",
+                ".png": "dyn_illust_char_2024_chyue_nian#10.png",
+                ".skel": "dyn_illust_char_2024_chyue_nian#10.skel"
             }
         },
         "dyn_illust_2023_ling_nian#9": {
@@ -36530,32 +37221,12 @@
                 ".skel": "dyn_illust_char_2024_chyue.skel"
             }
         },
-        "dyn_illust_2024_chyue_nian#10": {
-            "assetId": "dyn_illust_2024_chyue_nian#10",
+        "dyn_illust_2015_dusk": {
+            "assetId": "dyn_illust_2015_dusk",
             "type": "DynIllust",
             "style": null,
-            "name": "重岳",
-            "appellation": "Chongyue",
-            "skinGroupId": "2024#nian",
-            "skinGroupName": "0011制造/IX",
-            "sortTags": [
-                "Operator",
-                "Rarity_6",
-                "Skinned",
-                "DynIllust"
-            ],
-            "assetList": {
-                ".atlas": "dyn_illust_char_2024_chyue_nian#10.atlas",
-                ".png": "dyn_illust_char_2024_chyue_nian#10.png",
-                ".skel": "dyn_illust_char_2024_chyue_nian#10.skel"
-            }
-        },
-        "dyn_illust_2025_shu": {
-            "assetId": "dyn_illust_2025_shu",
-            "type": "DynIllust",
-            "style": null,
-            "name": "黍",
-            "appellation": "Shu",
+            "name": "夕",
+            "appellation": "Dusk",
             "skinGroupId": "DEFAULT",
             "skinGroupName": "默认服装",
             "sortTags": [
@@ -36564,9 +37235,38 @@
                 "DynIllust"
             ],
             "assetList": {
-                ".atlas": "dyn_illust_char_2025_shu.atlas",
-                ".png": "dyn_illust_char_2025_shu.png",
-                ".skel": "dyn_illust_char_2025_shu.skel"
+                ".atlas": "dyn_illust_char_2015_dusk.atlas",
+                ".png": "dyn_illust_char_2015_dusk.png",
+                ".skel": "dyn_illust_char_2015_dusk.skel"
+            }
+        },
+        "dyn_illust_172_svrash_ambiencesynesthesia#4": {
+            "assetId": "dyn_illust_172_svrash_ambiencesynesthesia#4",
+            "type": "DynIllust",
+            "style": null,
+            "name": "银灰",
+            "appellation": "SilverAsh",
+            "skinGroupId": "2024#ambienceSynesthesia",
+            "skinGroupName": "音律联觉/IV",
+            "sortTags": [
+                "Operator",
+                "Rarity_6",
+                "Skinned",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": [
+                    "dyn_illust_char_172_svrash_ambienceSynesthesia#4$0.atlas",
+                    "dyn_illust_char_172_svrash_ambienceSynesthesia#4.atlas"
+                ],
+                ".png": [
+                    "dyn_illust_char_172_svrash_ambienceSynesthesia#4$0.png",
+                    "dyn_illust_char_172_svrash_ambienceSynesthesia#4.png"
+                ],
+                ".skel": [
+                    "dyn_illust_char_172_svrash_ambienceSynesthesia#4$0.skel",
+                    "dyn_illust_char_172_svrash_ambienceSynesthesia#4.skel"
+                ]
             }
         },
         "dyn_illust_245_cello": {
@@ -36588,12 +37288,12 @@
                 ".skel": "dyn_illust_char_245_cello.skel"
             }
         },
-        "dyn_illust_249_mlyss": {
-            "assetId": "dyn_illust_249_mlyss",
+        "dyn_illust_2025_shu": {
+            "assetId": "dyn_illust_2025_shu",
             "type": "DynIllust",
             "style": null,
-            "name": "缪尔赛思",
-            "appellation": "Muelsyse",
+            "name": "黍",
+            "appellation": "Shu",
             "skinGroupId": "DEFAULT",
             "skinGroupName": "默认服装",
             "sortTags": [
@@ -36602,9 +37302,61 @@
                 "DynIllust"
             ],
             "assetList": {
-                ".atlas": "dyn_illust_char_249_mlyss.atlas",
-                ".png": "dyn_illust_char_249_mlyss.png",
-                ".skel": "dyn_illust_char_249_mlyss.skel"
+                ".atlas": "dyn_illust_char_2025_shu.atlas",
+                ".png": "dyn_illust_char_2025_shu.png",
+                ".skel": "dyn_illust_char_2025_shu.skel"
+            }
+        },
+        "dyn_illust_250_phatom_sale#4": {
+            "assetId": "dyn_illust_250_phatom_sale#4",
+            "type": "DynIllust",
+            "style": null,
+            "name": "傀影",
+            "appellation": "Phantom",
+            "skinGroupId": "2022#sale",
+            "skinGroupName": "忒斯特收藏/V",
+            "sortTags": [
+                "Operator",
+                "Rarity_6",
+                "Skinned",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": "dyn_illust_char_250_phatom_sale#4.atlas",
+                ".png": [
+                    "dyn_illust_char_250_phatom_sale#4.png",
+                    "dyn_illust_char_250_phatom_sale#42.png"
+                ],
+                ".skel": "dyn_illust_char_250_phatom_sale#4.skel"
+            }
+        },
+        "dyn_illust_245_cello_sale#12": {
+            "assetId": "dyn_illust_245_cello_sale#12",
+            "type": "DynIllust",
+            "style": null,
+            "name": "塑心",
+            "appellation": "Virtuosa",
+            "skinGroupId": "2024#sale#3",
+            "skinGroupName": "忒斯特收藏/XIII",
+            "sortTags": [
+                "Operator",
+                "Rarity_6",
+                "Skinned",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": [
+                    "dyn_illust_char_245_cello_sale#12.atlas",
+                    "dyn_illust_char_245_cello_sale#12_Start.atlas"
+                ],
+                ".png": [
+                    "dyn_illust_char_245_cello_sale#12.png",
+                    "dyn_illust_char_245_cello_sale#12_Start.png"
+                ],
+                ".skel": [
+                    "dyn_illust_char_245_cello_sale#12.skel",
+                    "dyn_illust_char_245_cello_sale#12_Start.skel"
+                ]
             }
         },
         "dyn_illust_249_mlyss_boc#8": {
@@ -36636,37 +37388,33 @@
                 ]
             }
         },
-        "dyn_illust_250_phatom_sale#4": {
-            "assetId": "dyn_illust_250_phatom_sale#4",
+        "dyn_illust_249_mlyss": {
+            "assetId": "dyn_illust_249_mlyss",
             "type": "DynIllust",
             "style": null,
-            "name": "傀影",
-            "appellation": "Phantom",
-            "skinGroupId": "2022#sale",
-            "skinGroupName": "忒斯特收藏/V",
+            "name": "缪尔赛思",
+            "appellation": "Muelsyse",
+            "skinGroupId": "DEFAULT",
+            "skinGroupName": "默认服装",
             "sortTags": [
                 "Operator",
                 "Rarity_6",
-                "Skinned",
                 "DynIllust"
             ],
             "assetList": {
-                ".atlas": "dyn_illust_char_250_phatom_sale#4.atlas",
-                ".png": [
-                    "dyn_illust_char_250_phatom_sale#4.png",
-                    "dyn_illust_char_250_phatom_sale#42.png"
-                ],
-                ".skel": "dyn_illust_char_250_phatom_sale#4.skel"
+                ".atlas": "dyn_illust_char_249_mlyss.atlas",
+                ".png": "dyn_illust_char_249_mlyss.png",
+                ".skel": "dyn_illust_char_249_mlyss.skel"
             }
         },
-        "dyn_illust_322_lmlee_witch#3": {
-            "assetId": "dyn_illust_322_lmlee_witch#3",
+        "dyn_illust_4055_bgsnow_wild#7": {
+            "assetId": "dyn_illust_4055_bgsnow_wild#7",
             "type": "DynIllust",
             "style": null,
-            "name": "老鲤",
-            "appellation": "Lee",
-            "skinGroupId": "2022#witch",
-            "skinGroupName": "巫异盛宴/III",
+            "name": "鸿雪",
+            "appellation": "Позёмка",
+            "skinGroupId": "2023#wild",
+            "skinGroupName": "生命之地/VII",
             "sortTags": [
                 "Operator",
                 "Rarity_6",
@@ -36674,9 +37422,29 @@
                 "DynIllust"
             ],
             "assetList": {
-                ".atlas": "dyn_illust_char_322_lmlee_witch#3.atlas",
-                ".png": "dyn_illust_char_322_lmlee_witch#3.png",
-                ".skel": "dyn_illust_char_322_lmlee_witch#3.skel"
+                ".atlas": "dyn_illust_char_4055_bgsnow_wild#7.atlas",
+                ".png": "dyn_illust_char_4055_bgsnow_wild#7.png",
+                ".skel": "dyn_illust_char_4055_bgsnow_wild#7.skel"
+            }
+        },
+        "dyn_illust_391_rosmon_epoque#17": {
+            "assetId": "dyn_illust_391_rosmon_epoque#17",
+            "type": "DynIllust",
+            "style": null,
+            "name": "迷迭香",
+            "appellation": "Rosmontis",
+            "skinGroupId": "2022#epoque#4",
+            "skinGroupName": "时代/XVII",
+            "sortTags": [
+                "Operator",
+                "Rarity_6",
+                "Skinned",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": "dyn_illust_char_391_rosmon_epoque#17.atlas",
+                ".png": "dyn_illust_char_391_rosmon_epoque#17.png",
+                ".skel": "dyn_illust_char_391_rosmon_epoque#17.skel"
             }
         },
         "dyn_illust_350_surtr_summer#9": {
@@ -36722,33 +37490,14 @@
                 ".skel": "dyn_illust_char_377_gdglow_summer#12.skel"
             }
         },
-        "dyn_illust_391_rosmon": {
-            "assetId": "dyn_illust_391_rosmon",
+        "dyn_illust_322_lmlee_witch#3": {
+            "assetId": "dyn_illust_322_lmlee_witch#3",
             "type": "DynIllust",
             "style": null,
-            "name": "迷迭香",
-            "appellation": "Rosmontis",
-            "skinGroupId": "DEFAULT",
-            "skinGroupName": "默认服装",
-            "sortTags": [
-                "Operator",
-                "Rarity_6",
-                "DynIllust"
-            ],
-            "assetList": {
-                ".atlas": "dyn_illust_char_391_rosmon.atlas",
-                ".png": "dyn_illust_char_391_rosmon.png",
-                ".skel": "dyn_illust_char_391_rosmon.skel"
-            }
-        },
-        "dyn_illust_391_rosmon_epoque#17": {
-            "assetId": "dyn_illust_391_rosmon_epoque#17",
-            "type": "DynIllust",
-            "style": null,
-            "name": "迷迭香",
-            "appellation": "Rosmontis",
-            "skinGroupId": "2022#epoque#4",
-            "skinGroupName": "时代/XVII",
+            "name": "老鲤",
+            "appellation": "Lee",
+            "skinGroupId": "2022#witch",
+            "skinGroupName": "巫异盛宴/III",
             "sortTags": [
                 "Operator",
                 "Rarity_6",
@@ -36756,29 +37505,9 @@
                 "DynIllust"
             ],
             "assetList": {
-                ".atlas": "dyn_illust_char_391_rosmon_epoque#17.atlas",
-                ".png": "dyn_illust_char_391_rosmon_epoque#17.png",
-                ".skel": "dyn_illust_char_391_rosmon_epoque#17.skel"
-            }
-        },
-        "dyn_illust_4055_bgsnow_wild#7": {
-            "assetId": "dyn_illust_4055_bgsnow_wild#7",
-            "type": "DynIllust",
-            "style": null,
-            "name": "鸿雪",
-            "appellation": "Позёмка",
-            "skinGroupId": "2023#wild",
-            "skinGroupName": "生命之地/VII",
-            "sortTags": [
-                "Operator",
-                "Rarity_6",
-                "Skinned",
-                "DynIllust"
-            ],
-            "assetList": {
-                ".atlas": "dyn_illust_char_4055_bgsnow_wild#7.atlas",
-                ".png": "dyn_illust_char_4055_bgsnow_wild#7.png",
-                ".skel": "dyn_illust_char_4055_bgsnow_wild#7.skel"
+                ".atlas": "dyn_illust_char_322_lmlee_witch#3.atlas",
+                ".png": "dyn_illust_char_322_lmlee_witch#3.png",
+                ".skel": "dyn_illust_char_322_lmlee_witch#3.skel"
             }
         },
         "dyn_illust_4058_pepe": {
@@ -36798,115 +37527,6 @@
                 ".atlas": "dyn_illust_char_4058_pepe.atlas",
                 ".png": "dyn_illust_char_4058_pepe.png",
                 ".skel": "dyn_illust_char_4058_pepe"
-            }
-        },
-        "dyn_illust_4064_mlynar_epoque#28": {
-            "assetId": "dyn_illust_4064_mlynar_epoque#28",
-            "type": "DynIllust",
-            "style": null,
-            "name": "玛恩纳",
-            "appellation": "Młynar",
-            "skinGroupId": "2023#epoque#10",
-            "skinGroupName": "时代/XXVIII",
-            "sortTags": [
-                "Operator",
-                "Rarity_6",
-                "Skinned",
-                "DynIllust"
-            ],
-            "assetList": {
-                ".atlas": [
-                    "dyn_illust_char_4064_mlynar_epoque#28.atlas",
-                    "dyn_illust_char_4064_mlynar_epoque#28_Start.atlas"
-                ],
-                ".png": [
-                    "dyn_illust_char_4064_mlynar_epoque#28.png",
-                    "dyn_illust_char_4064_mlynar_epoque#28_Start.png"
-                ],
-                ".skel": [
-                    "dyn_illust_char_4064_mlynar_epoque#28.skel",
-                    "dyn_illust_char_4064_mlynar_epoque#28_Start.skel"
-                ]
-            }
-        },
-        "dyn_illust_4080_lin_nian#10": {
-            "assetId": "dyn_illust_4080_lin_nian#10",
-            "type": "DynIllust",
-            "style": null,
-            "name": "林",
-            "appellation": "Lin",
-            "skinGroupId": "2024#nian",
-            "skinGroupName": "0011制造/IX",
-            "sortTags": [
-                "Operator",
-                "Rarity_6",
-                "Skinned",
-                "DynIllust"
-            ],
-            "assetList": {
-                ".atlas": "dyn_illust_char_4080_lin_nian#10.atlas",
-                ".png": "dyn_illust_char_4080_lin_nian#10.png",
-                ".skel": "dyn_illust_char_4080_lin_nian#10.skel"
-            }
-        },
-        "dyn_illust_4087_ines_boc#8": {
-            "assetId": "dyn_illust_4087_ines_boc#8",
-            "type": "DynIllust",
-            "style": null,
-            "name": "伊内丝",
-            "appellation": "Ines",
-            "skinGroupId": "2024#boc",
-            "skinGroupName": "斗争血脉/VIII",
-            "sortTags": [
-                "Operator",
-                "Rarity_6",
-                "Skinned",
-                "DynIllust"
-            ],
-            "assetList": {
-                ".atlas": "dyn_illust_char_4087_ines_boc#8.atlas",
-                ".png": "dyn_illust_char_4087_ines_boc#8.png",
-                ".skel": "dyn_illust_char_4087_ines_boc#8.skel"
-            }
-        },
-        "dyn_illust_4116_blkkgt_witch#5": {
-            "assetId": "dyn_illust_4116_blkkgt_witch#5",
-            "type": "DynIllust",
-            "style": null,
-            "name": "锏",
-            "appellation": "Degenbrecher",
-            "skinGroupId": "2024#witch",
-            "skinGroupName": "巫异盛宴/V",
-            "sortTags": [
-                "Operator",
-                "Rarity_6",
-                "Skinned",
-                "DynIllust"
-            ],
-            "assetList": {
-                ".atlas": "dyn_illust_char_4116_blkkgt_witch#5.atlas",
-                ".png": "dyn_illust_char_4116_blkkgt_witch#5.png",
-                ".skel": "dyn_illust_char_4116_blkkgt_witch#5.skel"
-            }
-        },
-        "dyn_illust_437_mizuki_sale#7": {
-            "assetId": "dyn_illust_437_mizuki_sale#7",
-            "type": "DynIllust",
-            "style": null,
-            "name": "水月",
-            "appellation": "Mizuki",
-            "skinGroupId": "2022#sale#4",
-            "skinGroupName": "忒斯特收藏/VIII",
-            "sortTags": [
-                "Operator",
-                "Rarity_6",
-                "Skinned",
-                "DynIllust"
-            ],
-            "assetList": {
-                ".atlas": "dyn_illust_char_437_mizuki_sale#7.atlas",
-                ".png": "dyn_illust_char_437_mizuki_sale#7.png",
-                ".skel": "dyn_illust_char_437_mizuki_sale#7.skel"
             }
         },
         "dyn_illust_472_pasngr_epoque#17": {
@@ -36935,6 +37555,134 @@
                 ".skel": [
                     "dyn_illust_char_472_pasngr_epoque#17.skel",
                     "dyn_illust_char_472_pasngr_epoque#17_Start.skel"
+                ]
+            }
+        },
+        "dyn_illust_4080_lin_nian#10": {
+            "assetId": "dyn_illust_4080_lin_nian#10",
+            "type": "DynIllust",
+            "style": null,
+            "name": "林",
+            "appellation": "Lin",
+            "skinGroupId": "2024#nian",
+            "skinGroupName": "0011制造/IX",
+            "sortTags": [
+                "Operator",
+                "Rarity_6",
+                "Skinned",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": "dyn_illust_char_4080_lin_nian#10.atlas",
+                ".png": "dyn_illust_char_4080_lin_nian#10.png",
+                ".skel": "dyn_illust_char_4080_lin_nian#10.skel"
+            }
+        },
+        "dyn_illust_391_rosmon": {
+            "assetId": "dyn_illust_391_rosmon",
+            "type": "DynIllust",
+            "style": null,
+            "name": "迷迭香",
+            "appellation": "Rosmontis",
+            "skinGroupId": "DEFAULT",
+            "skinGroupName": "默认服装",
+            "sortTags": [
+                "Operator",
+                "Rarity_6",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": "dyn_illust_char_391_rosmon.atlas",
+                ".png": "dyn_illust_char_391_rosmon.png",
+                ".skel": "dyn_illust_char_391_rosmon.skel"
+            }
+        },
+        "dyn_illust_4087_ines_boc#8": {
+            "assetId": "dyn_illust_4087_ines_boc#8",
+            "type": "DynIllust",
+            "style": null,
+            "name": "伊内丝",
+            "appellation": "Ines",
+            "skinGroupId": "2024#boc",
+            "skinGroupName": "斗争血脉/VIII",
+            "sortTags": [
+                "Operator",
+                "Rarity_6",
+                "Skinned",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": "dyn_illust_char_4087_ines_boc#8.atlas",
+                ".png": "dyn_illust_char_4087_ines_boc#8.png",
+                ".skel": "dyn_illust_char_4087_ines_boc#8.skel"
+            }
+        },
+        "dyn_illust_437_mizuki_sale#7": {
+            "assetId": "dyn_illust_437_mizuki_sale#7",
+            "type": "DynIllust",
+            "style": null,
+            "name": "水月",
+            "appellation": "Mizuki",
+            "skinGroupId": "2022#sale#4",
+            "skinGroupName": "忒斯特收藏/VIII",
+            "sortTags": [
+                "Operator",
+                "Rarity_6",
+                "Skinned",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": "dyn_illust_char_437_mizuki_sale#7.atlas",
+                ".png": "dyn_illust_char_437_mizuki_sale#7.png",
+                ".skel": "dyn_illust_char_437_mizuki_sale#7.skel"
+            }
+        },
+        "dyn_illust_4116_blkkgt_witch#5": {
+            "assetId": "dyn_illust_4116_blkkgt_witch#5",
+            "type": "DynIllust",
+            "style": null,
+            "name": "锏",
+            "appellation": "Degenbrecher",
+            "skinGroupId": "2024#witch",
+            "skinGroupName": "巫异盛宴/V",
+            "sortTags": [
+                "Operator",
+                "Rarity_6",
+                "Skinned",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": "dyn_illust_char_4116_blkkgt_witch#5.atlas",
+                ".png": "dyn_illust_char_4116_blkkgt_witch#5.png",
+                ".skel": "dyn_illust_char_4116_blkkgt_witch#5.skel"
+            }
+        },
+        "dyn_illust_4064_mlynar_epoque#28": {
+            "assetId": "dyn_illust_4064_mlynar_epoque#28",
+            "type": "DynIllust",
+            "style": null,
+            "name": "玛恩纳",
+            "appellation": "Młynar",
+            "skinGroupId": "2023#epoque#10",
+            "skinGroupName": "时代/XXVIII",
+            "sortTags": [
+                "Operator",
+                "Rarity_6",
+                "Skinned",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": [
+                    "dyn_illust_char_4064_mlynar_epoque#28.atlas",
+                    "dyn_illust_char_4064_mlynar_epoque#28_Start.atlas"
+                ],
+                ".png": [
+                    "dyn_illust_char_4064_mlynar_epoque#28.png",
+                    "dyn_illust_char_4064_mlynar_epoque#28_Start.png"
+                ],
+                ".skel": [
+                    "dyn_illust_char_4064_mlynar_epoque#28.skel",
+                    "dyn_illust_char_4064_mlynar_epoque#28_Start.skel"
                 ]
             }
         }
