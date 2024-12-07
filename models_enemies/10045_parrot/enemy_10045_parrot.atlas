@@ -1,0 +1,223 @@
+
+enemy_10045_parrot.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_D_Bag
+  rotate: false
+  xy: 2, 81
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+C_D_Body_1
+  rotate: true
+  xy: 120, 119
+  size: 81, 38
+  orig: 81, 38
+  offset: 0, 0
+  index: -1
+C_D_Body_2
+  rotate: 180
+  xy: 37, 53
+  size: 98, 36
+  orig: 98, 36
+  offset: 0, 0
+  index: -1
+C_D_Bone
+  rotate: false
+  xy: 36, 22
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+C_D_Eye
+  rotate: false
+  xy: 2, 191
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+C_D_Wing_L
+  rotate: 180
+  xy: 135, 50
+  size: 72, 29
+  orig: 72, 29
+  offset: 0, 0
+  index: -1
+C_T_1
+  rotate: false
+  xy: 2, 116
+  size: 69, 84
+  orig: 69, 84
+  offset: 0, 0
+  index: -1
+C_T_2
+  rotate: false
+  xy: 103, 94
+  size: 47, 19
+  orig: 47, 19
+  offset: 0, 0
+  index: -1
+C_T_3
+  rotate: false
+  xy: 65, 107
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+C_T_Arm_L
+  rotate: false
+  xy: 196, 65
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+C_T_Arm_R
+  rotate: true
+  xy: 186, 18
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+C_T_Eye
+  rotate: false
+  xy: 110, 188
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+C_T_Forearm_L
+  rotate: 270
+  xy: 73, 4
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+C_T_Forearm_R
+  rotate: false
+  xy: 79, 30
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+C_T_Glass
+  rotate: false
+  xy: 139, 29
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+C_T_Hand_L
+  rotate: false
+  xy: 139, 7
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+C_T_Hand_R_1
+  rotate: false
+  xy: 191, 5
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+C_T_Hand_R_2
+  rotate: true
+  xy: 197, 182
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+C_Up_Body
+  rotate: 270
+  xy: 56, 67
+  size: 134, 63
+  orig: 134, 63
+  offset: 0, 0
+  index: -1
+C_Up_Bone
+  rotate: false
+  xy: 99, 21
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+C_Up_Line_1
+  rotate: false
+  xy: 72, 146
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+C_Up_Line_2
+  rotate: false
+  xy: 38, 92
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+C_Up_Line_3
+  rotate: false
+  xy: 2, 38
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+C_Up_Line_4
+  rotate: false
+  xy: 100, 4
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+C_Up_Line_5
+  rotate: true
+  xy: 116, 80
+  size: 12, 25
+  orig: 12, 25
+  offset: 0, 0
+  index: -1
+C_Up_Wing_L_1
+  rotate: false
+  xy: 152, 77
+  size: 62, 61
+  orig: 62, 65
+  offset: 0, 4
+  index: -1
+C_Up_Wing_L_2
+  rotate: true
+  xy: 162, 6
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+C_Up_Wing_L_3
+  rotate: false
+  xy: 2, 12
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+C_Up_Wing_R_1
+  rotate: false
+  xy: 159, 142
+  size: 37, 58
+  orig: 37, 58
+  offset: 0, 0
+  index: -1
+C_Up_Wing_R_2
+  rotate: true
+  xy: 43, 3
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+C_Wing_R
+  rotate: true
+  xy: 192, 129
+  size: 52, 22
+  orig: 52, 22
+  offset: 0, 0
+  index: -1
