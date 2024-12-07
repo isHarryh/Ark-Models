@@ -1,0 +1,286 @@
+
+enemy_9003_askate.png
+size: 340,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_Balloon_A
+  rotate: 270
+  xy: 184, 154
+  size: 98, 131
+  orig: 98, 131
+  offset: 0, 0
+  index: -1
+F_Balloon_B
+  rotate: false
+  xy: 102, 172
+  size: 68, 161
+  orig: 68, 161
+  offset: 0, 0
+  index: -1
+F_Bangs
+  rotate: 180
+  xy: 268, 77
+  size: 61, 44
+  orig: 61, 44
+  offset: 0, 0
+  index: -1
+F_Base
+  rotate: true
+  xy: 165, 208
+  size: 125, 81
+  orig: 125, 81
+  offset: 0, 0
+  index: -1
+F_Belt
+  rotate: false
+  xy: 199, 7
+  size: 64, 24
+  orig: 64, 24
+  offset: 0, 0
+  index: -1
+F_Body
+  rotate: true
+  xy: 2, 118
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+F_Box_A
+  rotate: false
+  xy: 224, 33
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+F_Box_B
+  rotate: false
+  xy: 2, 184
+  size: 98, 148
+  orig: 98, 148
+  offset: 0, 0
+  index: -1
+F_Box_C
+  rotate: true
+  xy: 183, 45
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+F_Coat_A
+  rotate: false
+  xy: 146, 70
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+F_Coat_B
+  rotate: false
+  xy: 247, 300
+  size: 13, 33
+  orig: 13, 33
+  offset: 0, 0
+  index: -1
+F_Coat_C
+  rotate: 180
+  xy: 42, 20
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+F_Coat_D
+  rotate: false
+  xy: 27, 69
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+F_Glass
+  rotate: false
+  xy: 228, 115
+  size: 69, 36
+  orig: 69, 36
+  offset: 0, 0
+  index: -1
+F_Head
+  rotate: true
+  xy: 247, 222
+  size: 111, 78
+  orig: 111, 78
+  offset: 0, 0
+  index: -1
+F_Hip
+  rotate: false
+  xy: 88, 49
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+F_L_Arm
+  rotate: true
+  xy: 2, 24
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+F_L_Finger
+  rotate: false
+  xy: 134, 4
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+F_L_Foot
+  rotate: false
+  xy: 2, 5
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+F_R_Foot
+  rotate: false
+  xy: 2, 5
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+F_L_Forearm
+  rotate: true
+  xy: 171, 180
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+F_L_Hand
+  rotate: true
+  xy: 299, 14
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+F_L_Leg
+  rotate: true
+  xy: 86, 86
+  size: 39, 64
+  orig: 39, 64
+  offset: 0, 0
+  index: -1
+F_L_Thigh
+  rotate: false
+  xy: 2, 57
+  size: 31, 52
+  orig: 31, 52
+  offset: 0, 0
+  index: -1
+F_L_Wing
+  rotate: true
+  xy: 71, 126
+  size: 44, 77
+  orig: 44, 77
+  offset: 0, 0
+  index: -1
+F_Neck
+  rotate: 180
+  xy: 89, 6
+  size: 50, 33
+  orig: 50, 33
+  offset: 0, 0
+  index: -1
+F_R_Arm
+  rotate: true
+  xy: 255, 12
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+F_R_Finger
+  rotate: false
+  xy: 168, 5
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+F_R_Forearm
+  rotate: false
+  xy: 141, 24
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+F_R_Hand
+  rotate: false
+  xy: 299, 128
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+F_R_Leg
+  rotate: true
+  xy: 198, 75
+  size: 39, 58
+  orig: 39, 58
+  offset: 0, 0
+  index: -1
+F_R_Thigh
+  rotate: false
+  xy: 102, 260
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+F_R_Wing
+  rotate: true
+  xy: 149, 126
+  size: 44, 77
+  orig: 44, 77
+  offset: 0, 0
+  index: -1
+F_Ring
+  rotate: false
+  xy: 258, 52
+  size: 57, 23
+  orig: 57, 23
+  offset: 0, 0
+  index: -1
+F_Temple
+  rotate: true
+  xy: 156, 249
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1
+F_Tool
+  rotate: false
+  xy: 208, 323
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+F_Wheel_A
+  rotate: true
+  xy: 50, 3
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+F_Wheel_B
+  rotate: true
+  xy: 50, 3
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+F_Wheel_C
+  rotate: true
+  xy: 50, 3
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+F_Wheel_D
+  rotate: true
+  xy: 50, 3
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1

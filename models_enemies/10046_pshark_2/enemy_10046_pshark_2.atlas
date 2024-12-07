@@ -1,0 +1,104 @@
+
+enemy_10046_pshark_2.png
+size: 228,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+S_Body
+  rotate: false
+  xy: 2, 115
+  size: 151, 105
+  orig: 151, 106
+  offset: 0, 0
+  index: -1
+S_Eye
+  rotate: false
+  xy: 2, 165
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+S_EyeB
+  rotate: false
+  xy: 2, 174
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+S_Head
+  rotate: false
+  xy: 95, 63
+  size: 78, 63
+  orig: 78, 63
+  offset: 0, 0
+  index: -1
+S_HornB
+  rotate: false
+  xy: 154, 124
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+S_HornL
+  rotate: false
+  xy: 64, 7
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+S_HornM
+  rotate: false
+  xy: 87, 7
+  size: 62, 47
+  orig: 63, 47
+  offset: 0, 0
+  index: -1
+S_HornR
+  rotate: false
+  xy: 2, 137
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+S_LegL
+  rotate: 180
+  xy: 2, 53
+  size: 101, 81
+  orig: 101, 83
+  offset: 0, 0
+  index: -1
+S_LegR
+  rotate: 180
+  xy: 162, 56
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+S_Tail
+  rotate: false
+  xy: 2, 9
+  size: 64, 47
+  orig: 66, 47
+  offset: 0, 0
+  index: -1
+S_TailB
+  rotate: false
+  xy: 151, 12
+  size: 34, 42
+  orig: 34, 44
+  offset: 0, 2
+  index: -1
+S_ToothL
+  rotate: true
+  xy: 153, 193
+  size: 26, 54
+  orig: 27, 54
+  offset: 1, 0
+  index: -1
+S_ToothR
+  rotate: false
+  xy: 206, 3
+  size: 20, 53
+  orig: 21, 54
+  offset: 1, 1
+  index: -1

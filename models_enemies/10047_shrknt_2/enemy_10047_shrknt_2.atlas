@@ -1,0 +1,314 @@
+
+enemy_10047_shrknt_2.png
+size: 364,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+P_Band
+  rotate: false
+  xy: 2, 30
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+P_Belt
+  rotate: true
+  xy: 338, 78
+  size: 49, 13
+  orig: 49, 13
+  offset: 0, 0
+  index: -1
+P_BeltB
+  rotate: false
+  xy: 63, 25
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+P_Body
+  rotate: false
+  xy: 117, 77
+  size: 46, 43
+  orig: 46, 48
+  offset: 0, 5
+  index: -1
+P_Collar
+  rotate: false
+  xy: 244, 187
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+P_EarL
+  rotate: false
+  xy: 252, 14
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+P_EarR
+  rotate: false
+  xy: 99, 7
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+P_FeatherA
+  rotate: true
+  xy: 2, 9
+  size: 19, 50
+  orig: 19, 50
+  offset: 0, 0
+  index: -1
+P_FeatherB
+  rotate: 180
+  xy: 148, 23
+  size: 72, 32
+  orig: 72, 32
+  offset: 0, 0
+  index: -1
+P_FingerR
+  rotate: false
+  xy: 336, 56
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+P_FootL
+  rotate: 180
+  xy: 219, 19
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+P_FootR
+  rotate: false
+  xy: 176, 311
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+P_ForearmL
+  rotate: false
+  xy: 54, 3
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+P_ForearmR
+  rotate: false
+  xy: 2, 258
+  size: 17, 26
+  orig: 17, 28
+  offset: 0, 2
+  index: -1
+P_Hair
+  rotate: false
+  xy: 2, 64
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+P_HairB
+  rotate: true
+  xy: 2, 148
+  size: 88, 111
+  orig: 88, 111
+  offset: 0, 0
+  index: -1
+P_HandL
+  rotate: false
+  xy: 248, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+P_HandR
+  rotate: false
+  xy: 341, 243
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+P_HatA
+  rotate: false
+  xy: 53, 65
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: -1
+P_HatB
+  rotate: false
+  xy: 232, 74
+  size: 103, 49
+  orig: 103, 49
+  offset: 0, 0
+  index: -1
+P_Head
+  rotate: false
+  xy: 42, 95
+  size: 57, 53
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+P_Hip
+  rotate: false
+  xy: 99, 30
+  size: 46, 16
+  orig: 47, 17
+  offset: 0, 1
+  index: -1
+P_Hook
+  rotate: false
+  xy: 314, 128
+  size: 41, 52
+  orig: 41, 53
+  offset: 0, 1
+  index: -1
+P_Mouth
+  rotate: false
+  xy: 114, 175
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+P_Skirt
+  rotate: false
+  xy: 131, 10
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+P_SkirtB
+  rotate: true
+  xy: 184, 7
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+P_ThighL
+  rotate: false
+  xy: 2, 117
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+P_ThighR
+  rotate: true
+  xy: 323, 22
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+P_UpperarmL
+  rotate: false
+  xy: 165, 67
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+P_UpperarmR
+  rotate: false
+  xy: 291, 20
+  size: 30, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+S_Body
+  rotate: false
+  xy: 2, 236
+  size: 151, 105
+  orig: 151, 106
+  offset: 0, 0
+  index: -1
+S_Eye
+  rotate: false
+  xy: 151, 333
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+S_EyeB
+  rotate: false
+  xy: 140, 335
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+S_Head
+  rotate: true
+  xy: 289, 182
+  size: 78, 63
+  orig: 78, 63
+  offset: 0, 0
+  index: -1
+S_HornB
+  rotate: true
+  xy: 252, 125
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+S_HornLa
+  rotate: false
+  xy: 100, 121
+  size: 62, 50
+  orig: 63, 50
+  offset: 0, 0
+  index: -1
+S_HornRa
+  rotate: true
+  xy: 192, 56
+  size: 30, 54
+  orig: 30, 54
+  offset: 0, 0
+  index: -1
+S_LegL
+  rotate: false
+  xy: 255, 260
+  size: 101, 81
+  orig: 101, 83
+  offset: 0, 0
+  index: -1
+S_LegR
+  rotate: 270
+  xy: 164, 88
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+S_Tail
+  rotate: false
+  xy: 2, 206
+  size: 64, 47
+  orig: 66, 47
+  offset: 0, 0
+  index: -1
+S_TailB
+  rotate: true
+  xy: 292, 49
+  size: 34, 42
+  orig: 34, 44
+  offset: 0, 2
+  index: -1
+S_ToothL
+  rotate: true
+  xy: 114, 48
+  size: 26, 54
+  orig: 27, 54
+  offset: 1, 0
+  index: -1
+WeaponA
+  rotate: 180
+  xy: 118, 133
+  size: 132, 129
+  orig: 132, 129
+  offset: 0, 0
+  index: -1
+WeaponB
+  rotate: 180
+  xy: 154, 217
+  size: 141, 124
+  orig: 141, 124
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,244 @@
+
+enemy_9004_anlock.png
+size: 288,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_Bag
+  rotate: true
+  xy: 252, 168
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+F_Bangs
+  rotate: false
+  xy: 148, 5
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+F_Body
+  rotate: true
+  xy: 94, 212
+  size: 60, 47
+  orig: 60, 47
+  offset: 0, 0
+  index: -1
+F_Chest
+  rotate: true
+  xy: 2, 64
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+F_Head
+  rotate: false
+  xy: 2, 190
+  size: 96, 90
+  orig: 96, 90
+  offset: 0, 0
+  index: -1
+F_Hip
+  rotate: true
+  xy: 143, 27
+  size: 61, 35
+  orig: 61, 35
+  offset: 0, 0
+  index: -1
+F_LT_A
+  rotate: false
+  xy: 2, 19
+  size: 114, 58
+  orig: 114, 58
+  offset: 0, 0
+  index: -1
+F_LT_B
+  rotate: true
+  xy: 197, 203
+  size: 59, 42
+  orig: 59, 42
+  offset: 0, 0
+  index: -1
+F_LT_C
+  rotate: 270
+  xy: 191, 57
+  size: 62, 30
+  orig: 62, 30
+  offset: 0, 0
+  index: -1
+F_L_Arm
+  rotate: false
+  xy: 143, 181
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+F_L_Foot
+  rotate: false
+  xy: 213, 16
+  size: 45, 23
+  orig: 45, 25
+  offset: 0, 2
+  index: -1
+F_L_Forearm
+  rotate: 180
+  xy: 179, 234
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+F_L_Hand_A
+  rotate: true
+  xy: 213, 40
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+F_L_Hand_B
+  rotate: true
+  xy: 61, 3
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+F_L_Horn
+  rotate: false
+  xy: 263, 235
+  size: 16, 46
+  orig: 16, 46
+  offset: 0, 0
+  index: -1
+F_L_Leg
+  rotate: false
+  xy: 140, 225
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+F_L_Legring
+  rotate: true
+  xy: 241, 229
+  size: 51, 21
+  orig: 51, 21
+  offset: 0, 0
+  index: -1
+F_L_Sleeve
+  rotate: false
+  xy: 208, 122
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+F_L_Thigh
+  rotate: true
+  xy: 88, 12
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+F_R_Arm
+  rotate: false
+  xy: 167, 83
+  size: 38, 54
+  orig: 38, 54
+  offset: 0, 0
+  index: -1
+F_R_Foot
+  rotate: false
+  xy: 40, 169
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+F_R_Footline
+  rotate: false
+  xy: 245, 52
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+F_R_Forearm
+  rotate: true
+  xy: 217, 77
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+F_R_Hand_A
+  rotate: true
+  xy: 252, 198
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+F_R_Hand_B
+  rotate: false
+  xy: 245, 133
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+F_R_Hand_C
+  rotate: false
+  xy: 2, 263
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+F_R_Horn
+  rotate: false
+  xy: 222, 166
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+F_R_Leg
+  rotate: 180
+  xy: 76, 80
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1
+F_R_Sleeve
+  rotate: false
+  xy: 180, 15
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+F_R_Thigh
+  rotate: true
+  xy: 99, 160
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+F_Stone_A
+  rotate: true
+  xy: 180, 150
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+F_Stone_B
+  rotate: false
+  xy: 128, 138
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+F_Tail
+  rotate: true
+  xy: 116, 75
+  size: 94, 63
+  orig: 94, 63
+  offset: 0, 0
+  index: -1
+F_Weapon
+  rotate: false
+  xy: 2, 125
+  size: 98, 64
+  orig: 98, 64
+  offset: 0, 0
+  index: -1

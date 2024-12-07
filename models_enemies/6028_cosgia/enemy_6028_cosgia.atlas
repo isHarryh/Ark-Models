@@ -1,0 +1,265 @@
+
+enemy_6028_cosgia.png
+size: 464,464
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: 180
+  xy: 337, 137
+  size: 78, 91
+  orig: 78, 91
+  offset: 0, 0
+  index: -1
+C_Head_1
+  rotate: false
+  xy: 115, 262
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+C_Head_2
+  rotate: false
+  xy: 230, 301
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+C_Head_3
+  rotate: false
+  xy: 176, 234
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+C_Head_4
+  rotate: false
+  xy: 230, 287
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+C_Head_5
+  rotate: false
+  xy: 376, 209
+  size: 55, 76
+  orig: 63, 85
+  offset: 0, 0
+  index: -1
+C_Head_6
+  rotate: true
+  xy: 295, 349
+  size: 112, 94
+  orig: 112, 94
+  offset: 0, 0
+  index: -1
+C_Head_7
+  rotate: 180
+  xy: 410, 394
+  size: 47, 67
+  orig: 58, 67
+  offset: 11, 0
+  index: -1
+C_L_Arm
+  rotate: false
+  xy: 206, 315
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+C_L_Body
+  rotate: false
+  xy: 337, 67
+  size: 53, 67
+  orig: 53, 67
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: false
+  xy: 206, 286
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: true
+  xy: 206, 365
+  size: 47, 37
+  orig: 47, 38
+  offset: 0, 1
+  index: -1
+C_L_Leg_1
+  rotate: false
+  xy: 285, 6
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+C_L_Leg_2
+  rotate: false
+  xy: 295, 271
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+C_L_Leg_3
+  rotate: 270
+  xy: 402, 165
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+C_L_Leg_4
+  rotate: false
+  xy: 413, 238
+  size: 43, 53
+  orig: 43, 53
+  offset: 0, 0
+  index: -1
+C_L_Leg_5
+  rotate: false
+  xy: 371, 293
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+C_Neck
+  rotate: true
+  xy: 302, 218
+  size: 130, 73
+  orig: 130, 73
+  offset: 0, 0
+  index: -1
+C_Neck_1
+  rotate: false
+  xy: 337, 25
+  size: 104, 55
+  orig: 104, 55
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: false
+  xy: 206, 414
+  size: 38, 46
+  orig: 38, 47
+  offset: 0, 1
+  index: -1
+C_R_Body
+  rotate: true
+  xy: 375, 102
+  size: 53, 67
+  orig: 53, 67
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: false
+  xy: 295, 246
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+C_R_Leg_1
+  rotate: false
+  xy: 388, 365
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+C_R_Leg_2
+  rotate: false
+  xy: 140, 3
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+C_R_Leg_3
+  rotate: false
+  xy: 115, 227
+  size: 59, 48
+  orig: 59, 52
+  offset: 0, 4
+  index: -1
+C_R_Leg_4
+  rotate: false
+  xy: 174, 248
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+C_R_Leg_5
+  rotate: false
+  xy: 97, 3
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+C_R_Leg_6
+  rotate: false
+  xy: 367, 401
+  size: 52, 59
+  orig: 52, 59
+  offset: 0, 0
+  index: -1
+C_R_Leg_7
+  rotate: false
+  xy: 247, 6
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+C_Weapon_L1
+  rotate: false
+  xy: 247, 48
+  size: 43, 195
+  orig: 43, 195
+  offset: 0, 0
+  index: -1
+C_Weapon_L2
+  rotate: false
+  xy: 194, 24
+  size: 51, 250
+  orig: 51, 250
+  offset: 0, 0
+  index: -1
+C_Weapon_L3
+  rotate: false
+  xy: 247, 245
+  size: 46, 215
+  orig: 46, 217
+  offset: 0, 1
+  index: -1
+C_Weapon_L4
+  rotate: false
+  xy: 292, 48
+  size: 43, 195
+  orig: 43, 195
+  offset: 0, 0
+  index: -1
+C_Weapon_R1
+  rotate: false
+  xy: 115, 276
+  size: 89, 184
+  orig: 89, 184
+  offset: 0, 0
+  index: -1
+C_Weapon_R2
+  rotate: false
+  xy: 2, 225
+  size: 111, 235
+  orig: 111, 235
+  offset: 0, 0
+  index: -1
+C_Weapon_R3
+  rotate: false
+  xy: 2, 18
+  size: 98, 205
+  orig: 98, 205
+  offset: 0, 0
+  index: -1
+C_Weapon_R4
+  rotate: false
+  xy: 102, 39
+  size: 90, 184
+  orig: 90, 184
+  offset: 0, 0
+  index: -1
