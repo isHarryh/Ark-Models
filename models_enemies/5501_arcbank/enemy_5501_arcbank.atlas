@@ -1,0 +1,139 @@
+
+enemy_5501_arcbank.png
+size: 240,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: true
+  xy: 110, 25
+  size: 78, 92
+  orig: 78, 92
+  offset: 0, 0
+  index: -1
+C_Box
+  rotate: false
+  xy: 2, 91
+  size: 106, 121
+  orig: 106, 121
+  offset: 0, 0
+  index: -1
+C_Cane
+  rotate: true
+  xy: 2, 15
+  size: 10, 60
+  orig: 10, 60
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: true
+  xy: 110, 105
+  size: 107, 83
+  orig: 107, 83
+  offset: 0, 0
+  index: -1
+C_Hip
+  rotate: false
+  xy: 2, 27
+  size: 67, 28
+  orig: 67, 28
+  offset: 0, 0
+  index: -1
+C_L_Arm_1
+  rotate: false
+  xy: 195, 167
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+C_L_Arm_2
+  rotate: false
+  xy: 204, 7
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: true
+  xy: 225, 130
+  size: 36, 11
+  orig: 36, 11
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 103, 4
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+C_L_Leg_1
+  rotate: false
+  xy: 204, 71
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+C_L_Leg_2
+  rotate: false
+  xy: 71, 8
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+C_R_Arm_1
+  rotate: false
+  xy: 71, 56
+  size: 35, 33
+  orig: 35, 43
+  offset: 0, 10
+  index: -1
+C_R_Arm_2
+  rotate: true
+  xy: 204, 35
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: false
+  xy: 2, 2
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: false
+  xy: 130, 4
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+C_R_Leg_1
+  rotate: true
+  xy: 71, 30
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+C_R_Leg_2
+  rotate: false
+  xy: 157, 4
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+C_Tail_1
+  rotate: true
+  xy: 195, 106
+  size: 59, 28
+  orig: 59, 28
+  offset: 0, 0
+  index: -1
+C_Tail_2
+  rotate: true
+  xy: 2, 57
+  size: 32, 67
+  orig: 32, 67
+  offset: 0, 0
+  index: -1

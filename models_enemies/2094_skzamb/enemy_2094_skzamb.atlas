@@ -1,0 +1,90 @@
+
+enemy_2094_skzamb.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 128
+  size: 65, 84
+  orig: 65, 84
+  offset: 0, 0
+  index: -1
+Ball
+  rotate: true
+  xy: 2, 3
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+Eye_Close
+  rotate: true
+  xy: 72, 93
+  size: 30, 11
+  orig: 30, 11
+  offset: 0, 0
+  index: -1
+Eye_O
+  rotate: true
+  xy: 69, 125
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+Eye_OLight
+  rotate: true
+  xy: 48, 14
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+Eye_OPupil
+  rotate: true
+  xy: 69, 189
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+Light
+  rotate: true
+  xy: 2, 49
+  size: 77, 68
+  orig: 79, 70
+  offset: 1, 1
+  index: -1
+LineA
+  rotate: 270
+  xy: 68, 4
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
+LineB
+  rotate: true
+  xy: 72, 65
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+LineC
+  rotate: true
+  xy: 83, 161
+  size: 28, 6
+  orig: 29, 7
+  offset: 1, 1
+  index: -1
+LineD
+  rotate: false
+  xy: 69, 142
+  size: 23, 46
+  orig: 23, 46
+  offset: 0, 0
+  index: -1
+LineE
+  rotate: true
+  xy: 72, 50
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1

@@ -20,7 +20,7 @@
         "Rarity_5": "五星",
         "Rarity_6": "六星"
     },
-    "gameDataVersionDescription": "Producer: ArkUnpacker 3\nDate: 2024-12-07\n",
+    "gameDataVersionDescription": "Producer: ArkUnpacker 3\nDate: 2025-01-13\n",
     "gameDataServerRegion": "zh_CN",
     "data": {
         "285_medic2": {
@@ -6723,6 +6723,25 @@
                 ".skel": "build_char_1032_excu2_sale#12.skel"
             }
         },
+        "1037_amiya3_sale#13": {
+            "assetId": "build_char_1037_amiya3_sale#13",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "阿米娅",
+            "appellation": "Amiya",
+            "skinGroupId": "2024#sale#4",
+            "skinGroupName": "忒斯特收藏/XIV",
+            "sortTags": [
+                "Operator",
+                "Rarity_5",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_1037_amiya3_sale#13.atlas",
+                ".png": "build_char_1037_amiya3_sale#13.png",
+                ".skel": "build_char_1037_amiya3_sale#13.skel"
+            }
+        },
         "208_melan_epoque#1": {
             "assetId": "build_char_208_melan_epoque#1",
             "type": "Operator",
@@ -9962,6 +9981,25 @@
                 ".skel": "build_char_376_therex_marthe#7.skel"
             }
         },
+        "301_cutter_marthe#8": {
+            "assetId": "build_char_301_cutter_marthe#8",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "刻刀",
+            "appellation": "Cutter",
+            "skinGroupId": "2025#marthe",
+            "skinGroupName": "玛尔特/VIII",
+            "sortTags": [
+                "Operator",
+                "Rarity_4",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_301_cutter_marthe#8.atlas",
+                ".png": "build_char_301_cutter_marthe#8.png",
+                ".skel": "build_char_301_cutter_marthe#8"
+            }
+        },
         "179_cgbird_witch#1": {
             "assetId": "build_char_179_cgbird_witch#1",
             "type": "Operator",
@@ -10873,6 +10911,25 @@
                 ".atlas": "build_char_466_qanik_snow#6.atlas",
                 ".png": "build_char_466_qanik_snow#6.png",
                 ".skel": "build_char_466_qanik_snow#6.skel"
+            }
+        },
+        "4114_harold_snow#7": {
+            "assetId": "build_char_4114_harold_snow#7",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "哈洛德",
+            "appellation": "Harold",
+            "skinGroupId": "2024#xmas",
+            "skinGroupName": "冰原信使/VII",
+            "sortTags": [
+                "Operator",
+                "Rarity_5",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_4114_harold_snow#7.atlas",
+                ".png": "build_char_4114_harold_snow#7.png",
+                ".skel": "build_char_4114_harold_snow#7.skel"
             }
         },
         "103_angel_wild#1": {
@@ -13331,6 +13388,64 @@
                 ".atlas": "build_char_4141_marcil_dungeon#1.atlas",
                 ".png": "build_char_4141_marcil_dungeon#1.png",
                 ".skel": "build_char_4141_marcil_dungeon#1.skel"
+            }
+        },
+        "1034_jesca2_cfa#1": {
+            "assetId": "build_char_1034_jesca2_cfa#1",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "涤火杰西卡",
+            "appellation": "Jessica the Liberated",
+            "skinGroupId": "2024#cfa",
+            "skinGroupName": "中国电影资料馆",
+            "sortTags": [
+                "Operator",
+                "Special",
+                "Rarity_6",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_1034_jesca2_cfa#1.atlas",
+                ".png": "build_char_1034_jesca2_cfa#1.png",
+                ".skel": "build_char_1034_jesca2_cfa#1.skel"
+            }
+        },
+        "2014_nian_cfa#1": {
+            "assetId": "build_char_2014_nian_cfa#1",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "年",
+            "appellation": "Nian",
+            "skinGroupId": "2024#cfa",
+            "skinGroupName": "中国电影资料馆",
+            "sortTags": [
+                "Operator",
+                "Rarity_6",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_2014_nian_cfa#1.atlas",
+                ".png": "build_char_2014_nian_cfa#1.png",
+                ".skel": "build_char_2014_nian_cfa#1.skel"
+            }
+        },
+        "2024_chyue_cfa#1": {
+            "assetId": "build_char_2024_chyue_cfa#1",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "重岳",
+            "appellation": "Chongyue",
+            "skinGroupId": "2024#cfa",
+            "skinGroupName": "中国电影资料馆",
+            "sortTags": [
+                "Operator",
+                "Rarity_6",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_2024_chyue_cfa#1.atlas",
+                ".png": "build_char_2024_chyue_cfa#1.png",
+                ".skel": "build_char_2024_chyue_cfa#1.skel"
             }
         },
         "1037_amiya3": {
@@ -33293,6 +33408,144 @@
                 ".skel": "enemy_2091_skzgds.skel"
             }
         },
+        "2092_skzamy": {
+            "assetId": "enemy_2092_skzamy",
+            "type": "Enemy",
+            "style": null,
+            "name": "“阿米娅”，炉芯终曲",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {
+                ".atlas": "enemy_2092_skzamy.atlas",
+                ".png": "enemy_2092_skzamy.png",
+                ".skel": "enemy_2092_skzamy.skel"
+            }
+        },
+        "2093_skzams": {
+            "assetId": "enemy_2093_skzams",
+            "type": "Enemy",
+            "style": null,
+            "name": "终曲合声",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {
+                ".atlas": "enemy_2093_skzams.atlas",
+                ".png": "enemy_2093_skzams.png",
+                ".skel": "enemy_2093_skzams.skel"
+            }
+        },
+        "2094_skzamb": {
+            "assetId": "enemy_2094_skzamb",
+            "type": "Enemy",
+            "style": null,
+            "name": "仅剩的创意",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_2094_skzamb.atlas",
+                ".png": "enemy_2094_skzamb.png",
+                ".skel": "enemy_2094_skzamb.skel"
+            }
+        },
+        "2095_skzamf": {
+            "assetId": "enemy_2095_skzamf",
+            "type": "Enemy",
+            "style": null,
+            "name": "昔日道标",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {}
+        },
+        "2096_skzamj": {
+            "assetId": "enemy_2096_skzamj",
+            "type": "Enemy",
+            "style": null,
+            "name": "昔日道标",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {}
+        },
+        "2097_skzfdd": {
+            "assetId": "enemy_2097_skzfdd",
+            "type": "Enemy",
+            "style": null,
+            "name": "博卓卡斯替，圣卫铳骑",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {}
+        },
+        "2098_skzftx": {
+            "assetId": "enemy_2098_skzftx",
+            "type": "Enemy",
+            "style": null,
+            "name": "特雷西斯，黑冠尊主",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {}
+        },
+        "2099_skzfkl": {
+            "assetId": "enemy_2099_skzfkl",
+            "type": "Enemy",
+            "style": null,
+            "name": "奎隆，摩诃萨埵权化",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {}
+        },
+        "2100_skzfmf": {
+            "assetId": "enemy_2100_skzfmf",
+            "type": "Enemy",
+            "style": null,
+            "name": "曼弗雷德",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {}
+        },
         "3001_upeopl": {
             "assetId": "enemy_3001_upeopl",
             "type": "Enemy",
@@ -34814,6 +35067,132 @@
                 "EnemyBoss"
             ],
             "assetList": {}
+        },
+        "5501_arcbank": {
+            "assetId": "enemy_5501_arcbank",
+            "type": "Enemy",
+            "style": null,
+            "name": "大富翁",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_5501_arcbank.atlas",
+                ".png": "enemy_5501_arcbank.png",
+                ".skel": "enemy_5501_arcbank.skel"
+            }
+        },
+        "5502_arcthf": {
+            "assetId": "enemy_5502_arcthf",
+            "type": "Enemy",
+            "style": null,
+            "name": "宝藏神偷",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_5502_arcthf.atlas",
+                ".png": "enemy_5502_arcthf.png",
+                ".skel": "enemy_5502_arcthf.skel"
+            }
+        },
+        "5503_arcslma": {
+            "assetId": "enemy_5503_arcslma",
+            "type": "Enemy",
+            "style": null,
+            "name": "果冻小子",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_5503_arcslma.atlas",
+                ".png": "enemy_5503_arcslma.png",
+                ".skel": "enemy_5503_arcslma.skel"
+            }
+        },
+        "5504_arcslmi": {
+            "assetId": "enemy_5504_arcslmi",
+            "type": "Enemy",
+            "style": null,
+            "name": "果冻丁",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_5504_arcslmi.atlas",
+                ".png": "enemy_5504_arcslmi.png",
+                ".skel": "enemy_5504_arcslmi.skel"
+            }
+        },
+        "5505_arctxi": {
+            "assetId": "enemy_5505_arctxi",
+            "type": "Enemy",
+            "style": null,
+            "name": "“两栖号”船车",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_5505_arctxi.atlas",
+                ".png": "enemy_5505_arctxi.png",
+                ".skel": "enemy_5505_arctxi.skel"
+            }
+        },
+        "5506_arcgo": {
+            "assetId": "enemy_5506_arcgo",
+            "type": "Enemy",
+            "style": null,
+            "name": "“搁浅零件”",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_5506_arcgo.atlas",
+                ".png": "enemy_5506_arcgo.png",
+                ".skel": "enemy_5506_arcgo.skel"
+            }
+        },
+        "5507_arctolm": {
+            "assetId": "enemy_5507_arctolm",
+            "type": "Enemy",
+            "style": null,
+            "name": "喷泉“汽水侠”",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_5507_arctolm.atlas",
+                ".png": "enemy_5507_arctolm.png",
+                ".skel": "enemy_5507_arctolm.skel"
+            }
         },
         "6001_trsgst": {
             "assetId": "enemy_6001_trsgst",
@@ -37549,6 +37928,26 @@
                 ".skel": "dyn_illust_char_1035_wisdel.skel"
             }
         },
+        "dyn_illust_1037_amiya3_sale#13": {
+            "assetId": "dyn_illust_1037_amiya3_sale#13",
+            "type": "DynIllust",
+            "style": null,
+            "name": "阿米娅",
+            "appellation": "Amiya",
+            "skinGroupId": "2024#sale#4",
+            "skinGroupName": "忒斯特收藏/XIV",
+            "sortTags": [
+                "Operator",
+                "Rarity_5",
+                "Skinned",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": "dyn_illust_char_1037_amiya3_sale#13.atlas",
+                ".png": "dyn_illust_char_1037_amiya3_sale#13.png",
+                ".skel": "dyn_illust_char_1037_amiya3_sale#13.skel"
+            }
+        },
         "dyn_illust_1038_whitw2": {
             "assetId": "dyn_illust_1038_whitw2",
             "type": "DynIllust",
@@ -37686,6 +38085,26 @@
                     "dyn_illust_char_2014_nian2.png"
                 ],
                 ".skel": "dyn_illust_char_2014_nian2.skel"
+            }
+        },
+        "dyn_illust_2014_nian_cfa#1": {
+            "assetId": "dyn_illust_2014_nian_cfa#1",
+            "type": "DynIllust",
+            "style": null,
+            "name": "年",
+            "appellation": "Nian",
+            "skinGroupId": "2024#cfa",
+            "skinGroupName": "中国电影资料馆",
+            "sortTags": [
+                "Operator",
+                "Rarity_6",
+                "Skinned",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": "dyn_illust_char_2014_nian_cfa#1.atlas",
+                ".png": "dyn_illust_char_2014_nian_cfa#1.png",
+                ".skel": "dyn_illust_char_2014_nian_cfa#1.skel"
             }
         },
         "dyn_illust_2014_nian_nian#4": {
@@ -37829,6 +38248,35 @@
                 ".atlas": "dyn_illust_char_2024_chyue.atlas",
                 ".png": "dyn_illust_char_2024_chyue.png",
                 ".skel": "dyn_illust_char_2024_chyue.skel"
+            }
+        },
+        "dyn_illust_2024_chyue_cfa#1": {
+            "assetId": "dyn_illust_2024_chyue_cfa#1",
+            "type": "DynIllust",
+            "style": null,
+            "name": "重岳",
+            "appellation": "Chongyue",
+            "skinGroupId": "2024#cfa",
+            "skinGroupName": "中国电影资料馆",
+            "sortTags": [
+                "Operator",
+                "Rarity_6",
+                "Skinned",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": [
+                    "dyn_illust_char_2024_chyue_cfa#1.atlas",
+                    "dyn_illust_char_2024_chyue_cfa#1_Start.atlas"
+                ],
+                ".png": [
+                    "dyn_illust_char_2024_chyue_cfa#1.png",
+                    "dyn_illust_char_2024_chyue_cfa#1_Start.png"
+                ],
+                ".skel": [
+                    "dyn_illust_char_2024_chyue_cfa#1.skel",
+                    "dyn_illust_char_2024_chyue_cfa#1_Start.skel"
+                ]
             }
         },
         "dyn_illust_2024_chyue_nian#10": {
