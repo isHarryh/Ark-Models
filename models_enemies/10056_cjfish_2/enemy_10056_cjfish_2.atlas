@@ -1,0 +1,34 @@
+
+enemy_10056_cjfish_2.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_A
+  rotate: true
+  xy: 118, 105
+  size: 71, 48
+  orig: 71, 48
+  offset: 0, 0
+  index: -1
+Body_B
+  rotate: false
+  xy: 2, 94
+  size: 114, 85
+  orig: 114, 85
+  offset: 0, 0
+  index: -1
+Body_C
+  rotate: 270
+  xy: 2, 15
+  size: 78, 101
+  orig: 78, 101
+  offset: 0, 0
+  index: -1
+Body_D
+  rotate: 270
+  xy: 103, 4
+  size: 159, 111
+  orig: 159, 111
+  offset: 0, 0
+  index: -1

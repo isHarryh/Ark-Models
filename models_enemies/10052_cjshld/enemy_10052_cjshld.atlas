@@ -1,0 +1,83 @@
+
+enemy_10052_cjshld.png
+size: 328,328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_A
+  rotate: true
+  xy: 2, 8
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+Body_B
+  rotate: true
+  xy: 53, 3
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+Body_C
+  rotate: false
+  xy: 112, 43
+  size: 99, 62
+  orig: 99, 62
+  offset: 0, 0
+  index: -1
+Body_D
+  rotate: 180
+  xy: 99, 5
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+Body_E
+  rotate: true
+  xy: 189, 10
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+Body_F
+  rotate: true
+  xy: 2, 30
+  size: 76, 108
+  orig: 76, 108
+  offset: 0, 0
+  index: -1
+Head_A
+  rotate: true
+  xy: 140, 6
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+Head_B
+  rotate: true
+  xy: 248, 6
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1
+Head_C
+  rotate: false
+  xy: 209, 31
+  size: 89, 74
+  orig: 89, 74
+  offset: 0, 0
+  index: -1
+Weapon_A
+  rotate: false
+  xy: 150, 107
+  size: 136, 211
+  orig: 136, 211
+  offset: 0, 0
+  index: -1
+Weapon_B
+  rotate: false
+  xy: 2, 108
+  size: 146, 210
+  orig: 146, 210
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+enemy_10063_cjdoor.png
+size: 240,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 7
+  size: 150, 231
+  orig: 150, 231
+  offset: 0, 0
+  index: -1
+C_Ya_D
+  rotate: false
+  xy: 2, 205
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+C_Ya_U
+  rotate: true
+  xy: 116, 4
+  size: 72, 43
+  orig: 72, 43
+  offset: 0, 0
+  index: -1

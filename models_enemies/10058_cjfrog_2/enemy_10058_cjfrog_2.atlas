@@ -1,0 +1,153 @@
+
+enemy_10058_cjfrog_2.png
+size: 288,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_BL_Foot
+  rotate: false
+  xy: 83, 15
+  size: 47, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1
+C_BL_Leg_1
+  rotate: false
+  xy: 242, 241
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+C_BL_Leg_2
+  rotate: 270
+  xy: 123, 32
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+C_BR_Foot
+  rotate: false
+  xy: 209, 3
+  size: 47, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1
+C_BR_Leg_1
+  rotate: 270
+  xy: 2, 48
+  size: 43, 56
+  orig: 43, 57
+  offset: 0, 1
+  index: -1
+C_Body
+  rotate: false
+  xy: 2, 138
+  size: 132, 143
+  orig: 132, 143
+  offset: 0, 0
+  index: -1
+C_Coin
+  rotate: false
+  xy: 217, 97
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+C_Eye
+  rotate: false
+  xy: 217, 151
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+C_Eye_D
+  rotate: false
+  xy: 163, 12
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+C_Eye_Up
+  rotate: 270
+  xy: 28, 6
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+C_FL_Foot
+  rotate: false
+  xy: 174, 40
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+C_FL_Leg_1
+  rotate: true
+  xy: 224, 51
+  size: 45, 62
+  orig: 45, 66
+  offset: 0, 4
+  index: -1
+C_FL_Leg_2
+  rotate: 270
+  xy: 2, 97
+  size: 56, 68
+  orig: 56, 68
+  offset: 0, 0
+  index: -1
+C_FR_Foot
+  rotate: false
+  xy: 239, 25
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+C_FR_Leg_1
+  rotate: false
+  xy: 98, 214
+  size: 32, 69
+  orig: 32, 69
+  offset: 0, 0
+  index: -1
+C_FR_Leg_2
+  rotate: true
+  xy: 131, 67
+  size: 39, 68
+  orig: 39, 68
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: true
+  xy: 135, 107
+  size: 78, 80
+  orig: 78, 80
+  offset: 0, 0
+  index: -1
+C_Head_2
+  rotate: false
+  xy: 58, 51
+  size: 63, 26
+  orig: 63, 26
+  offset: 0, 0
+  index: -1
+C_Head_Fire_B
+  rotate: false
+  xy: 49, 80
+  size: 85, 52
+  orig: 85, 52
+  offset: 0, 0
+  index: -1
+C_Head_Fire_F
+  rotate: true
+  xy: 206, 148
+  size: 133, 65
+  orig: 133, 65
+  offset: 0, 0
+  index: -1
+C_Tape
+  rotate: true
+  xy: 134, 187
+  size: 94, 70
+  orig: 94, 70
+  offset: 0, 0
+  index: -1
