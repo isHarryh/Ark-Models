@@ -1,0 +1,69 @@
+
+enemy_10057_cjstel.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 86
+  size: 105, 104
+  orig: 105, 104
+  offset: 0, 0
+  index: -1
+C_Fire
+  rotate: false
+  xy: 177, 42
+  size: 35, 58
+  orig: 35, 58
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: 180
+  xy: 102, 68
+  size: 110, 121
+  orig: 110, 121
+  offset: 0, 0
+  index: -1
+C_L_Hand_BB
+  rotate: false
+  xy: 103, 156
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+C_R_Hand_BB
+  rotate: false
+  xy: 103, 156
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+C_L_Hand_FF
+  rotate: false
+  xy: 143, 4
+  size: 40, 63
+  orig: 40, 63
+  offset: 0, 0
+  index: -1
+C_R_Hand_FF
+  rotate: false
+  xy: 143, 4
+  size: 40, 63
+  orig: 40, 63
+  offset: 0, 0
+  index: -1
+C_Stick_1
+  rotate: false
+  xy: 2, 32
+  size: 139, 34
+  orig: 139, 34
+  offset: 0, 0
+  index: -1
+C_Stick_2
+  rotate: false
+  xy: 2, 3
+  size: 139, 27
+  orig: 139, 27
+  offset: 0, 0
+  index: -1
