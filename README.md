@@ -8,7 +8,7 @@ Arknights Spine Models (Excerpt)
 ## 状态
 
 当前更新至：
-- 活动 **相见欢** 中新增的干员、时装和敌人模型
+- 危机合约 **净罪作战** 中新增的干员、时装和敌人模型
 
 本仓库收集了中国服《明日方舟》中的部分Spine模型文件，包括：
 | 文件夹           | 内 容           |
@@ -17,11 +17,11 @@ Arknights Spine Models (Excerpt)
 | `models_enemies` | 敌人战斗小人 |
 | `models_illust`  | 干员动态立绘（含时装） |
 
-> 本仓库为不定期更新，欢迎提交 PR 来完善仓库。本仓库使用的提取模型文件的工具是 [ArkUnpacker](https://github.com/isHarryh/Ark-Unpacker) v3.4。
+> 本仓库为不定期更新，欢迎提交 PR 来完善仓库。本仓库使用的提取模型文件的工具是 [ArkUnpacker](https://github.com/isHarryh/Ark-Unpacker) v3.5。
 
 ## 仓库下载
 
-可以通过以下链接来下载本仓库的压缩包（压缩包大小为 500+MB）。
+可以通过以下链接来下载本仓库的压缩包（压缩包大小为 600+MB）。
 - [从 GitHub 下载](https://github.com/isHarryh/Ark-Models/archive/refs/heads/main.zip)
 - [从 Cloudflare 代理源下载](https://ghproxy.harryh.cn/?q=https%3A%2F%2Fgithub.com%2FisHarryh%2FArk-Models%2Farchive%2Frefs%2Fheads%2Fmain.zip)
 
