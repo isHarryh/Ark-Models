@@ -20,7 +20,7 @@
         "Rarity_5": "五星",
         "Rarity_6": "六星"
     },
-    "gameDataVersionDescription": "Producer: ArkUnpacker 3\nDate: 2025-01-23\n",
+    "gameDataVersionDescription": "Producer: ArkUnpacker 3\nDate: 2025-02-05\n",
     "gameDataServerRegion": "zh_CN",
     "data": {
         "285_medic2": {
@@ -8283,6 +8283,25 @@
                 ".skel": "build_char_369_bena_epoque#38.skel"
             }
         },
+        "4063_quartz_epoque#39": {
+            "assetId": "build_char_4063_quartz_epoque#39",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "石英",
+            "appellation": "Quartz",
+            "skinGroupId": "2025#epoque",
+            "skinGroupName": "时代/XXXVIII",
+            "sortTags": [
+                "Operator",
+                "Rarity_4",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_4063_quartz_epoque#39.atlas",
+                ".png": "build_char_4063_quartz_epoque#39.png",
+                ".skel": "build_char_4063_quartz_epoque#39.skel"
+            }
+        },
         "120_hibisc_nian#1": {
             "assetId": "build_char_120_hibisc_nian#1",
             "type": "Operator",
@@ -13461,6 +13480,45 @@
                 ".atlas": "build_char_271_spikes_unveiling#1.atlas",
                 ".png": "build_char_271_spikes_unveiling#1.png",
                 ".skel": "build_char_271_spikes_unveiling#1.skel"
+            }
+        },
+        "164_nightm_unveiling#2": {
+            "assetId": "build_char_164_nightm_unveiling#2",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "夜魔",
+            "appellation": "Nightmare",
+            "skinGroupId": "2025#unveiling",
+            "skinGroupName": "待予花冠/II",
+            "sortTags": [
+                "Operator",
+                "Rarity_5",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_164_nightm_unveiling#2.atlas",
+                ".png": "build_char_164_nightm_unveiling#2.png",
+                ".skel": "build_char_164_nightm_unveiling#2.skel"
+            }
+        },
+        "1024_hbisc2_unveiling#2": {
+            "assetId": "build_char_1024_hbisc2_unveiling#2",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "濯尘芙蓉",
+            "appellation": "Hibiscus the Purifier",
+            "skinGroupId": "2025#unveiling",
+            "skinGroupName": "待予花冠/II",
+            "sortTags": [
+                "Operator",
+                "Special",
+                "Rarity_5",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_1024_hbisc2_unveiling#2.atlas",
+                ".png": "build_char_1024_hbisc2_unveiling#2.png",
+                ".skel": "build_char_1024_hbisc2_unveiling#2.skel"
             }
         },
         "179_cgbird_sightseer#1": {
