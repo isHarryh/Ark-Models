@@ -8,7 +8,7 @@ Arknights Spine Models (Excerpt)
 ## 状态
 
 当前更新至：
-- 危机合约 **净罪作战** 中新增的干员、时装和敌人模型
+- 活动 **挽歌燃烧殆尽** 中新增的干员、时装和敌人模型
 
 本仓库收集了中国服《明日方舟》中的部分Spine模型文件，包括：
 | 文件夹           | 内 容           |
@@ -17,7 +17,7 @@ Arknights Spine Models (Excerpt)
 | `models_enemies` | 敌人战斗小人 |
 | `models_illust`  | 干员动态立绘（含时装） |
 
-> 本仓库为不定期更新，欢迎提交 PR 来完善仓库。本仓库使用的提取模型文件的工具是 [ArkUnpacker](https://github.com/isHarryh/Ark-Unpacker) v3.5。
+> 本仓库为不定期更新，欢迎提交 PR 来完善仓库。本仓库使用的提取模型文件的工具是 [ArkUnpacker](https://github.com/isHarryh/Ark-Unpacker) v3.6。
 
 ## 仓库下载
 
@@ -33,10 +33,11 @@ Arknights Spine Models (Excerpt)
 
 ## 重要变更
 
+- 2025年3月：已对所有的模型纹理图启用 Premultiplied Alpha (PMA)。
 - 2024年8月：已发现中国服官方有极个别模型的骨骼文件不是二进制格式，而是 JSON 格式。
 - 2024年7月：本仓库不再使用由 [ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData) 提供的数据集（因为 ArkUnpacker v3.0 已实现了这些数据的解码）。同时，对仓库的历史提交进行了重写。
 - 2024年2月：本仓库新增干员动态立绘（含时装）的模型。同时，数据集的格式发生变更。
-- 2024年1月：自《明日方舟》v2.1.41 起，新增的模型在渲染时需要禁用 `Premultiplied Alpha`，否则可能导致Alpha图层纹理异常。
+- ~~2024年1月：自《明日方舟》v2.1.41 起，新增的模型在渲染时需要禁用 Premultiplied Alpha (PMA)。~~
 - 2023年4月：本仓库新增敌人战斗小人的模型。同时，数据集的格式发生变更。
 
 ## 版权声明
