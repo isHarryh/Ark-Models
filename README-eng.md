@@ -15,7 +15,7 @@ This repository collected the Spine models from the game Arknights (CN server), 
 | `models_enemies` | Enemies' battle models |
 | `models_illust`  | Dynamic illustrations (skins included) |
 
-> We will do updates irregularly, you are welcome to send PR to improve the repository. The tool we use to unpack the model files is [ArkUnpacker](https://github.com/isHarryh/Ark-Unpacker) v3.5.
+> We will do updates irregularly, you are welcome to send PR to improve the repository. The tool we use to unpack the model files is [ArkUnpacker](https://github.com/isHarryh/Ark-Unpacker) v3.6.
 
 ## Download
 
@@ -30,10 +30,11 @@ The dataset file `models_data.json` recorded the detailed information of each mo
 
 ## Breaking Changes
 
+- Mar.2025: Premultiplied Alpha (PMA) was forcibly enabled for all the model textures.
 - Aug.2024：In CN server, we found that there are very few models whose skeleton files are not in binary format but in JSON format.
 - Jul.2024: Stopped using the dataset provided by [ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData) since ArkUnpacker v3.0 has implemented the decoding of such data.
 - Feb.2024: Added dynamic illustrations (skins included) to this repo. Changed the dataset file.
-- Jan.2024: `Premultiplied Alpha` should be disabled when rendering the new models due to the update of Arknights v2.1.41.
+- ~~Jan.2024: Premultiplied Alpha (PMA) should be disabled when rendering the new models due to the update of Arknights v2.1.41.~~
 - Apr.2023: Added enemies' battle models to this repo. Changed the dataset file.
 
 ## Copyright Notice
