@@ -1,0 +1,90 @@
+
+enemy_10064_ftyzss.png
+size: 264,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_B_Body
+  rotate: false
+  xy: 246, 229
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+C_B_Body_1
+  rotate: false
+  xy: 149, 36
+  size: 65, 56
+  orig: 65, 56
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: 270
+  xy: 2, 52
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+C_L_Body
+  rotate: false
+  xy: 167, 166
+  size: 78, 82
+  orig: 78, 82
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: 180
+  xy: 53, 14
+  size: 89, 50
+  orig: 89, 50
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: true
+  xy: 112, 105
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: 270
+  xy: 143, 4
+  size: 34, 58
+  orig: 34, 58
+  offset: 0, 0
+  index: -1
+C_L_Leg_2
+  rotate: false
+  xy: 2, 17
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+C_L_Leg_2_1
+  rotate: true
+  xy: 222, 52
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: false
+  xy: 163, 95
+  size: 74, 90
+  orig: 74, 90
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: false
+  xy: 217, 78
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+C_Weapon
+  rotate: false
+  xy: 2, 151
+  size: 163, 98
+  orig: 163, 98
+  offset: 0, 0
+  index: -1

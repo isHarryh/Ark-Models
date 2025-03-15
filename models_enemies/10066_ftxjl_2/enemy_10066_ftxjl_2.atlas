@@ -1,0 +1,90 @@
+
+enemy_10066_ftxjl_2.png
+size: 300,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: true
+  xy: 230, 133
+  size: 142, 66
+  orig: 142, 66
+  offset: 0, 0
+  index: -1
+C_Body_A
+  rotate: false
+  xy: 119, 64
+  size: 132, 72
+  orig: 132, 72
+  offset: 0, 0
+  index: -1
+C_Egg_C
+  rotate: false
+  xy: 119, 9
+  size: 102, 53
+  orig: 102, 53
+  offset: 0, 0
+  index: -1
+C_Egg_D
+  rotate: false
+  xy: 2, 36
+  size: 115, 100
+  orig: 115, 101
+  offset: 0, 1
+  index: -1
+C_Egg_E
+  rotate: false
+  xy: 118, 138
+  size: 110, 136
+  orig: 110, 136
+  offset: 0, 0
+  index: -1
+C_Egg_a
+  rotate: false
+  xy: 39, 3
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+C_Egg_b
+  rotate: true
+  xy: 2, 3
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+C_Egg_big
+  rotate: false
+  xy: 2, 141
+  size: 114, 133
+  orig: 116, 133
+  offset: 1, 0
+  index: -1
+C_L_Arm
+  rotate: false
+  xy: 248, 92
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: false
+  xy: 223, 11
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: 270
+  xy: 223, 38
+  size: 41, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: false
+  xy: 74, 8
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
