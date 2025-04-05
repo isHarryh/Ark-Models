@@ -1,0 +1,146 @@
+
+enemy_4039_mufbse.png
+size: 276,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Chest
+  rotate: true
+  xy: 156, 181
+  size: 82, 56
+  orig: 82, 56
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 2, 169
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+C_Head_Tape
+  rotate: true
+  xy: 181, 30
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+C_Hip
+  rotate: false
+  xy: 2, 125
+  size: 90, 42
+  orig: 90, 42
+  offset: 0, 0
+  index: -1
+C_L_Arm_1
+  rotate: true
+  xy: 213, 200
+  size: 64, 57
+  orig: 64, 57
+  offset: 0, 0
+  index: -1
+C_L_Arm_2
+  rotate: false
+  xy: 109, 8
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: false
+  xy: 2, 25
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 80, 63
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+C_L_Leg_2
+  rotate: false
+  xy: 64, 10
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+C_Medal_1
+  rotate: 270
+  xy: 197, 52
+  size: 61, 77
+  orig: 61, 77
+  offset: 0, 0
+  index: -1
+C_Medal_2
+  rotate: true
+  xy: 152, 94
+  size: 54, 91
+  orig: 54, 91
+  offset: 0, 0
+  index: -1
+C_Medal_3
+  rotate: true
+  xy: 2, 61
+  size: 64, 77
+  orig: 66, 77
+  offset: 2, 0
+  index: -1
+C_R_Arm_1
+  rotate: true
+  xy: 93, 107
+  size: 61, 57
+  orig: 61, 57
+  offset: 0, 0
+  index: -1
+C_R_Arm_2
+  rotate: 270
+  xy: 228, 9
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: true
+  xy: 154, 4
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: false
+  xy: 132, 49
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+C_R_Leg_2
+  rotate: false
+  xy: 30, 3
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+C_Scarf
+  rotate: false
+  xy: 30, 32
+  size: 84, 29
+  orig: 84, 29
+  offset: 0, 0
+  index: -1
+C_Waist
+  rotate: true
+  xy: 98, 174
+  size: 89, 56
+  orig: 89, 56
+  offset: 0, 0
+  index: -1
+C_Walk
+  rotate: 180
+  xy: 156, 141
+  size: 98, 38
+  orig: 98, 38
+  offset: 0, 0
+  index: -1
