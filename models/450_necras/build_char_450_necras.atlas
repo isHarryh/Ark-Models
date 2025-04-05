@@ -34,7 +34,7 @@ F_A_Finger_A
   index: -1
 F_A_Finger_B
   rotate: true
-  xy: 336, 63
+  xy: 360, 72
   size: 12, 16
   orig: 13, 17
   offset: 1, 1
@@ -187,8 +187,8 @@ F_L_C_Eye_A
   offset: 0, 0
   index: -1
 F_L_C_Eye_B
-  rotate: false
-  xy: 348, 103
+  rotate: true
+  xy: 303, 7
   size: 20, 7
   orig: 20, 7
   offset: 0, 0
@@ -230,14 +230,14 @@ F_L_Eye_A
   index: -1
 F_L_Eye_B
   rotate: false
-  xy: 306, 27
+  xy: 346, 67
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 F_L_Eye_C
-  rotate: false
-  xy: 281, 2
+  rotate: true
+  xy: 312, 7
   size: 20, 11
   orig: 20, 11
   offset: 0, 0
@@ -257,22 +257,22 @@ F_L_Eyelash_A
   offset: 0, 0
   index: -1
 F_L_Eyelash_B
-  rotate: false
-  xy: 372, 112
+  rotate: true
+  xy: 336, 76
   size: 25, 8
   orig: 25, 8
   offset: 0, 0
   index: -1
 F_L_Eyelash_C
   rotate: false
-  xy: 201, 274
+  xy: 368, 128
   size: 6, 4
   orig: 6, 4
   offset: 0, 0
   index: -1
 F_L_Eyelid_A
-  rotate: false
-  xy: 370, 105
+  rotate: true
+  xy: 393, 105
   size: 15, 5
   orig: 16, 5
   offset: 0, 0
@@ -293,21 +293,21 @@ F_L_Eyelid_C
   index: -1
 F_L_Finger_A
   rotate: false
-  xy: 316, 41
+  xy: 378, 72
   size: 13, 13
   orig: 13, 13
   offset: 0, 0
   index: -1
 F_L_Finger_B
   rotate: false
-  xy: 375, 72
+  xy: 376, 87
   size: 14, 14
   orig: 14, 14
   offset: 0, 0
   index: -1
 F_L_Finger_C
-  rotate: false
-  xy: 303, 11
+  rotate: true
+  xy: 377, 57
   size: 13, 14
   orig: 13, 14
   offset: 0, 0
@@ -383,8 +383,8 @@ F_L_Temples_A
   offset: 0, 0
   index: -1
 F_Mouth_A
-  rotate: true
-  xy: 387, 105
+  rotate: false
+  xy: 348, 103
   size: 5, 3
   orig: 5, 3
   offset: 0, 0
@@ -482,42 +482,42 @@ F_R_Eyelash_A
   index: -1
 F_R_Eyelid_A
   rotate: false
-  xy: 336, 58
+  xy: 281, 2
   size: 7, 3
   orig: 7, 3
   offset: 0, 0
   index: -1
 F_R_Finger_A
-  rotate: false
-  xy: 281, 15
+  rotate: true
+  xy: 346, 81
   size: 20, 12
   orig: 20, 12
   offset: 0, 0
   index: -1
 F_R_Finger_B
-  rotate: false
-  xy: 320, 27
+  rotate: true
+  xy: 306, 29
   size: 10, 12
   orig: 10, 12
   offset: 0, 0
   index: -1
 F_R_Finger_C
-  rotate: true
-  xy: 320, 56
+  rotate: false
+  xy: 316, 41
   size: 12, 14
   orig: 12, 14
   offset: 0, 0
   index: -1
 F_R_Finger_D
   rotate: false
-  xy: 375, 88
+  xy: 360, 86
   size: 14, 15
   orig: 14, 15
   offset: 0, 0
   index: -1
 F_R_Finger_E
   rotate: true
-  xy: 318, 13
+  xy: 360, 58
   size: 12, 15
   orig: 12, 15
   offset: 0, 0
@@ -559,8 +559,8 @@ F_R_Forearm_C
   index: -1
 F_R_Hand_A
   rotate: false
-  xy: 348, 112
-  size: 22, 20
+  xy: 281, 7
+  size: 20, 20
   orig: 22, 20
   offset: 0, 0
   index: -1
@@ -608,21 +608,21 @@ F_Star_A
   index: -1
 F_Star_B
   rotate: false
-  xy: 303, 2
+  xy: 320, 32
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
   index: -1
 F_Star_C
   rotate: false
-  xy: 312, 2
+  xy: 336, 67
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
   index: -1
 F_Star_D
   rotate: false
-  xy: 336, 77
+  xy: 348, 108
   size: 18, 24
   orig: 18, 24
   offset: 0, 0
@@ -656,8 +656,8 @@ F_Tail_D
   offset: 0, 0
   index: -1
 F_Tail_E
-  rotate: false
-  xy: 356, 78
+  rotate: true
+  xy: 368, 103
   size: 17, 23
   orig: 17, 23
   offset: 0, 0
