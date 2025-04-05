@@ -20,7 +20,7 @@
         "Rarity_5": "五星",
         "Rarity_6": "六星"
     },
-    "gameDataVersionDescription": "Producer: ArkUnpacker 3\nDate: 2025-03-15\n",
+    "gameDataVersionDescription": "Producer: ArkUnpacker 3\nDate: 2025-04-05\n",
     "gameDataServerRegion": "zh_CN",
     "data": {
         "285_medic2": {
@@ -8523,6 +8523,25 @@
                 ".atlas": "build_char_260_durnar_epoque#42.atlas",
                 ".png": "build_char_260_durnar_epoque#42.png",
                 ".skel": "build_char_260_durnar_epoque#42.skel"
+            }
+        },
+        "190_clour_epoque#43": {
+            "assetId": "build_char_190_clour_epoque#43",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "红云",
+            "appellation": "Vermeil",
+            "skinGroupId": "2025#epoque#5",
+            "skinGroupName": "时代/XLII",
+            "sortTags": [
+                "Operator",
+                "Rarity_4",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_190_clour_epoque#43.atlas",
+                ".png": "build_char_190_clour_epoque#43.png",
+                ".skel": "build_char_190_clour_epoque#43.skel"
             }
         },
         "120_hibisc_nian#1": {
@@ -35520,6 +35539,492 @@
             ],
             "assetList": {}
         },
+        "4022_mushtm": {
+            "assetId": "enemy_4022_mushtm",
+            "type": "Enemy",
+            "style": null,
+            "name": "战术队击球手",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_4022_mushtm.atlas",
+                ".png": "enemy_4022_mushtm.png",
+                ".skel": "enemy_4022_mushtm.skel"
+            }
+        },
+        "4022_mushtm_2": {
+            "assetId": "enemy_4022_mushtm_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "战术队精英击球手",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_4022_mushtm_2.atlas",
+                ".png": "enemy_4022_mushtm_2.png",
+                ".skel": "enemy_4022_mushtm_2.skel"
+            }
+        },
+        "4023_mushtb": {
+            "assetId": "enemy_4023_mushtb",
+            "type": "Enemy",
+            "style": null,
+            "name": "战术队守门员",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_4023_mushtb.atlas",
+                ".png": "enemy_4023_mushtb.png",
+                ".skel": "enemy_4023_mushtb.skel"
+            }
+        },
+        "4023_mushtb_2": {
+            "assetId": "enemy_4023_mushtb_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "战术队精英守门员",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_4023_mushtb_2.atlas",
+                ".png": "enemy_4023_mushtb_2.png",
+                ".skel": "enemy_4023_mushtb_2.skel"
+            }
+        },
+        "4024_mushtg": {
+            "assetId": "enemy_4024_mushtg",
+            "type": "Enemy",
+            "style": null,
+            "name": "战术队击人手",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_4024_mushtg.atlas",
+                ".png": "enemy_4024_mushtg.png",
+                ".skel": "enemy_4024_mushtg.skel"
+            }
+        },
+        "4024_mushtg_2": {
+            "assetId": "enemy_4024_mushtg_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "战术队精英击人手",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_4024_mushtg_2.atlas",
+                ".png": "enemy_4024_mushtg_2.png",
+                ".skel": "enemy_4024_mushtg_2.skel"
+            }
+        },
+        "4025_muhrym": {
+            "assetId": "enemy_4025_muhrym",
+            "type": "Enemy",
+            "style": null,
+            "name": "爱球会击球手",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_4025_muhrym.atlas",
+                ".png": "enemy_4025_muhrym.png",
+                ".skel": "enemy_4025_muhrym.skel"
+            }
+        },
+        "4025_muhrym_2": {
+            "assetId": "enemy_4025_muhrym_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "爱球会荣誉击球手",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_4025_muhrym_2.atlas",
+                ".png": "enemy_4025_muhrym_2.png",
+                ".skel": "enemy_4025_muhrym_2.skel"
+            }
+        },
+        "4026_muhryb": {
+            "assetId": "enemy_4026_muhryb",
+            "type": "Enemy",
+            "style": null,
+            "name": "爱球会守门员",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_4026_muhryb.atlas",
+                ".png": "enemy_4026_muhryb.png",
+                ".skel": "enemy_4026_muhryb.skel"
+            }
+        },
+        "4026_muhryb_2": {
+            "assetId": "enemy_4026_muhryb_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "爱球会荣誉守门员",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_4026_muhryb_2.atlas",
+                ".png": "enemy_4026_muhryb_2.png",
+                ".skel": "enemy_4026_muhryb_2.skel"
+            }
+        },
+        "4027_muhryg": {
+            "assetId": "enemy_4027_muhryg",
+            "type": "Enemy",
+            "style": null,
+            "name": "爱球会击人手",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_4027_muhryg.atlas",
+                ".png": "enemy_4027_muhryg.png",
+                ".skel": "enemy_4027_muhryg.skel"
+            }
+        },
+        "4027_muhryg_2": {
+            "assetId": "enemy_4027_muhryg_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "爱球会荣誉击人手",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_4027_muhryg_2.atlas",
+                ".png": "enemy_4027_muhryg_2.png",
+                ".skel": "enemy_4027_muhryg_2.skel"
+            }
+        },
+        "4028_mukfum": {
+            "assetId": "enemy_4028_mukfum",
+            "type": "Enemy",
+            "style": null,
+            "name": "球德联击球手",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_4028_mukfum.atlas",
+                ".png": "enemy_4028_mukfum.png",
+                ".skel": "enemy_4028_mukfum.skel"
+            }
+        },
+        "4028_mukfum_2": {
+            "assetId": "enemy_4028_mukfum_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "球德联老牌击球手",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_4028_mukfum_2.atlas",
+                ".png": "enemy_4028_mukfum_2.png",
+                ".skel": "enemy_4028_mukfum_2.skel"
+            }
+        },
+        "4029_mukfub": {
+            "assetId": "enemy_4029_mukfub",
+            "type": "Enemy",
+            "style": null,
+            "name": "球德联守门员",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_4029_mukfub.atlas",
+                ".png": "enemy_4029_mukfub.png",
+                ".skel": "enemy_4029_mukfub.skel"
+            }
+        },
+        "4029_mukfub_2": {
+            "assetId": "enemy_4029_mukfub_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "球德联老牌守门员",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_4029_mukfub_2.atlas",
+                ".png": "enemy_4029_mukfub_2.png",
+                ".skel": "enemy_4029_mukfub_2.skel"
+            }
+        },
+        "4030_mukfug": {
+            "assetId": "enemy_4030_mukfug",
+            "type": "Enemy",
+            "style": null,
+            "name": "球德联击人手",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_4030_mukfug.atlas",
+                ".png": "enemy_4030_mukfug.png",
+                ".skel": "enemy_4030_mukfug.skel"
+            }
+        },
+        "4030_mukfug_2": {
+            "assetId": "enemy_4030_mukfug_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "球德联老牌击人手",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_4030_mukfug_2.atlas",
+                ".png": "enemy_4030_mukfug_2.png",
+                ".skel": "enemy_4030_mukfug_2.skel"
+            }
+        },
+        "4031_muftsn": {
+            "assetId": "enemy_4031_muftsn",
+            "type": "Enemy",
+            "style": null,
+            "name": "漏气甲虫球",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_4031_muftsn.atlas",
+                ".png": "enemy_4031_muftsn.png",
+                ".skel": "enemy_4031_muftsn.skel"
+            }
+        },
+        "4032_muftmg": {
+            "assetId": "enemy_4032_muftmg",
+            "type": "Enemy",
+            "style": null,
+            "name": "膨胀甲虫球",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_4032_muftmg.atlas",
+                ".png": "enemy_4032_muftmg.png",
+                ".skel": "enemy_4032_muftmg.skel"
+            }
+        },
+        "4033_muftic": {
+            "assetId": "enemy_4033_muftic",
+            "type": "Enemy",
+            "style": null,
+            "name": "北境意志球",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_4033_muftic.atlas",
+                ".png": "enemy_4033_muftic.png",
+                ".skel": "enemy_4033_muftic.skel"
+            }
+        },
+        "4034_muftgl": {
+            "assetId": "enemy_4034_muftgl",
+            "type": "Enemy",
+            "style": null,
+            "name": "底海滑动球",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_4034_muftgl.atlas",
+                ".png": "enemy_4034_muftgl.png",
+                ".skel": "enemy_4034_muftgl.skel"
+            }
+        },
+        "4035_mufbsa": {
+            "assetId": "enemy_4035_mufbsa",
+            "type": "Enemy",
+            "style": null,
+            "name": "巨力丰碑",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_4035_mufbsa.atlas",
+                ".png": "enemy_4035_mufbsa.png",
+                ".skel": "enemy_4035_mufbsa.skel"
+            }
+        },
+        "4036_mufbsb": {
+            "assetId": "enemy_4036_mufbsb",
+            "type": "Enemy",
+            "style": null,
+            "name": "坚韧丰碑",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_4036_mufbsb.atlas",
+                ".png": "enemy_4036_mufbsb.png",
+                ".skel": "enemy_4036_mufbsb.skel"
+            }
+        },
+        "4037_mufbsc": {
+            "assetId": "enemy_4037_mufbsc",
+            "type": "Enemy",
+            "style": null,
+            "name": "神射丰碑",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_4037_mufbsc.atlas",
+                ".png": "enemy_4037_mufbsc.png",
+                ".skel": "enemy_4037_mufbsc.skel"
+            }
+        },
+        "4038_mufbsd": {
+            "assetId": "enemy_4038_mufbsd",
+            "type": "Enemy",
+            "style": null,
+            "name": "热情丰碑",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_4038_mufbsd.atlas",
+                ".png": "enemy_4038_mufbsd.png",
+                ".skel": "enemy_4038_mufbsd.skel"
+            }
+        },
+        "4039_mufbse": {
+            "assetId": "enemy_4039_mufbse",
+            "type": "Enemy",
+            "style": null,
+            "name": "狂奔丰碑",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_4039_mufbse.atlas",
+                ".png": "enemy_4039_mufbse.png",
+                ".skel": "enemy_4039_mufbse.skel"
+            }
+        },
         "5001_lazdfd": {
             "assetId": "enemy_5001_lazdfd",
             "type": "Enemy",
@@ -36279,6 +36784,154 @@
                 "EnemyBoss"
             ],
             "assetList": {}
+        },
+        "5056_yrnorm": {
+            "assetId": "enemy_5056_yrnorm",
+            "type": "Enemy",
+            "style": null,
+            "name": "士兵",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {}
+        },
+        "5059_yrlanc": {
+            "assetId": "enemy_5059_yrlanc",
+            "type": "Enemy",
+            "style": null,
+            "name": "萨卡兹穿刺手",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {}
+        },
+        "5060_yrghos": {
+            "assetId": "enemy_5060_yrghos",
+            "type": "Enemy",
+            "style": null,
+            "name": "幽灵",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {}
+        },
+        "5061_yrpeop": {
+            "assetId": "enemy_5061_yrpeop",
+            "type": "Enemy",
+            "style": null,
+            "name": "乌萨斯平民",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {}
+        },
+        "5062_yrduck": {
+            "assetId": "enemy_5062_yrduck",
+            "type": "Enemy",
+            "style": null,
+            "name": "鸭爵",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {}
+        },
+        "5063_yrjump": {
+            "assetId": "enemy_5063_yrjump",
+            "type": "Enemy",
+            "style": null,
+            "name": "破烂拼凑者",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {}
+        },
+        "5064_yrcoin": {
+            "assetId": "enemy_5064_yrcoin",
+            "type": "Enemy",
+            "style": null,
+            "name": "罗德岛标志",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_5064_yrcoin.atlas",
+                ".png": "enemy_5064_yrcoin.png",
+                ".skel": "enemy_5064_yrcoin.skel"
+            }
+        },
+        "5065_yrcflwr": {
+            "assetId": "enemy_5065_yrcflwr",
+            "type": "Enemy",
+            "style": null,
+            "name": "钵海收割者",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {}
+        },
+        "5066_yrstkt": {
+            "assetId": "enemy_5066_yrstkt",
+            "type": "Enemy",
+            "style": null,
+            "name": "“最后的蒸汽骑士”",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {}
+        },
+        "5067_yrtikt": {
+            "assetId": "enemy_5067_yrtikt",
+            "type": "Enemy",
+            "style": null,
+            "name": "友好生物",
+            "appellation": null,
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyNormal"
+            ],
+            "assetList": {
+                ".atlas": "enemy_5067_yrtikt.atlas",
+                ".png": "enemy_5067_yrtikt.png",
+                ".skel": "enemy_5067_yrtikt.skel"
+            }
         },
         "5501_arcbank": {
             "assetId": "enemy_5501_arcbank",

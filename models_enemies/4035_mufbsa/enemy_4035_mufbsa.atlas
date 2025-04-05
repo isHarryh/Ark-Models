@@ -1,0 +1,153 @@
+
+enemy_4035_mufbsa.png
+size: 316,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chest_A
+  rotate: true
+  xy: 86, 81
+  size: 67, 78
+  orig: 67, 78
+  offset: 0, 0
+  index: -1
+Chest_B
+  rotate: 270
+  xy: 236, 115
+  size: 62, 78
+  orig: 62, 78
+  offset: 0, 0
+  index: -1
+Chest_C
+  rotate: true
+  xy: 173, 143
+  size: 55, 92
+  orig: 55, 92
+  offset: 0, 0
+  index: -1
+Chest_D
+  rotate: false
+  xy: 91, 149
+  size: 80, 56
+  orig: 80, 57
+  offset: 0, 1
+  index: -1
+Chest_E
+  rotate: false
+  xy: 2, 148
+  size: 87, 57
+  orig: 87, 57
+  offset: 0, 0
+  index: -1
+Foot_L_A
+  rotate: 180
+  xy: 51, 44
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+Foot_L_B
+  rotate: false
+  xy: 198, 13
+  size: 47, 24
+  orig: 47, 24
+  offset: 0, 0
+  index: -1
+Foot_L_C
+  rotate: false
+  xy: 273, 29
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+Foot_R_A
+  rotate: 270
+  xy: 151, 3
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Foot_R_B
+  rotate: false
+  xy: 96, 12
+  size: 47, 24
+  orig: 47, 24
+  offset: 0, 0
+  index: -1
+Foot_R_C
+  rotate: true
+  xy: 222, 39
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+Hand_L_A
+  rotate: true
+  xy: 2, 38
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+Hand_L_B
+  rotate: false
+  xy: 2, 86
+  size: 50, 61
+  orig: 50, 61
+  offset: 0, 0
+  index: -1
+Hand_L_C
+  rotate: true
+  xy: 228, 79
+  size: 40, 55
+  orig: 41, 55
+  offset: 1, 0
+  index: -1
+Hand_R_A
+  rotate: false
+  xy: 51, 13
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+Hand_R_B
+  rotate: false
+  xy: 103, 38
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+Hand_R_C
+  rotate: true
+  xy: 165, 91
+  size: 50, 61
+  orig: 50, 61
+  offset: 0, 0
+  index: -1
+Hand_R_D
+  rotate: true
+  xy: 165, 49
+  size: 40, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 186, 195
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: true
+  xy: 279, 198
+  size: 89, 34
+  orig: 89, 34
+  offset: 0, 0
+  index: -1
+Weapon_A
+  rotate: false
+  xy: 2, 207
+  size: 182, 79
+  orig: 182, 79
+  offset: 0, 0
+  index: -1

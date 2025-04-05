@@ -1,0 +1,132 @@
+
+enemy_4022_mushtm.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Arm_L
+  rotate: 270
+  xy: 117, 69
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+C_Arm_R
+  rotate: true
+  xy: 126, 168
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: false
+  xy: 2, 105
+  size: 69, 89
+  orig: 69, 89
+  offset: 0, 0
+  index: -1
+C_Ear_L
+  rotate: true
+  xy: 82, 158
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+C_Ear_R
+  rotate: 180
+  xy: 105, 95
+  size: 24, 52
+  orig: 24, 52
+  offset: 0, 0
+  index: -1
+C_Eye_Close
+  rotate: false
+  xy: 64, 187
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+C_Eye_Open
+  rotate: false
+  xy: 2, 115
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+C_Foot_L
+  rotate: true
+  xy: 140, 30
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+C_Foot_R
+  rotate: true
+  xy: 131, 11
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+C_Forearm_L
+  rotate: true
+  xy: 105, 33
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+C_Forearm_R
+  rotate: true
+  xy: 129, 104
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+C_Glass
+  rotate: false
+  xy: 2, 3
+  size: 70, 43
+  orig: 70, 43
+  offset: 0, 0
+  index: -1
+C_Hair_1
+  rotate: 180
+  xy: 107, 4
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 2, 48
+  size: 62, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1
+C_Leg_L
+  rotate: true
+  xy: 65, 76
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+C_Leg_R
+  rotate: false
+  xy: 68, 123
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+C_Line
+  rotate: false
+  xy: 130, 140
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: 270
+  xy: 82, 8
+  size: 72, 27
+  orig: 72, 27
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+enemy_5064_yrcoin.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin
+  rotate: false
+  xy: 100, 6
+  size: 90, 114
+  orig: 90, 114
+  offset: 0, 0
+  index: -1
+coin2
+  rotate: false
+  xy: 2, 2
+  size: 97, 117
+  orig: 97, 117
+  offset: 0, 0
+  index: -1

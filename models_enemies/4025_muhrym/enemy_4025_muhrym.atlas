@@ -1,0 +1,146 @@
+
+enemy_4025_muhrym.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Arm_L
+  rotate: 270
+  xy: 140, 3
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+C_Arm_R
+  rotate: true
+  xy: 152, 180
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: false
+  xy: 2, 41
+  size: 69, 89
+  orig: 69, 89
+  offset: 0, 0
+  index: -1
+C_Ear_L
+  rotate: 180
+  xy: 120, 142
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+C_Ear_R
+  rotate: false
+  xy: 127, 74
+  size: 32, 50
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+C_Eye_Close
+  rotate: false
+  xy: 133, 199
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+C_Eye_Open
+  rotate: false
+  xy: 78, 192
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+C_Flag
+  rotate: false
+  xy: 153, 41
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+C_Foot_L
+  rotate: true
+  xy: 154, 139
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+C_Foot_R
+  rotate: 180
+  xy: 128, 51
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+C_Forearm_L
+  rotate: true
+  xy: 118, 14
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+C_Forearm_R
+  rotate: false
+  xy: 97, 182
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+C_Hair_1
+  rotate: true
+  xy: 135, 116
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+C_Hat_1
+  rotate: false
+  xy: 2, 132
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+C_Hat_2
+  rotate: false
+  xy: 78, 106
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: true
+  xy: 71, 42
+  size: 63, 55
+  orig: 63, 55
+  offset: 0, 0
+  index: -1
+C_Leg_L
+  rotate: false
+  xy: 78, 144
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+C_Leg_R
+  rotate: 270
+  xy: 2, 9
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+C_Line
+  rotate: 270
+  xy: 151, 90
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: false
+  xy: 46, 13
+  size: 73, 28
+  orig: 73, 28
+  offset: 0, 0
+  index: -1
