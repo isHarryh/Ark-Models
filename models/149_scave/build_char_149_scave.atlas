@@ -1,251 +1,251 @@
 
 build_char_149_scave.png
-size: 512,512
+size: 532,532
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 F_B_Hair
   rotate: false
-  xy: 2, 302
-  size: 80, 89
-  orig: 80, 89
+  xy: 2, 115
+  size: 160, 178
+  orig: 160, 178
   offset: 0, 0
   index: -1
 F_Bag
-  rotate: false
-  xy: 108, 313
-  size: 20, 23
-  orig: 20, 23
+  rotate: true
+  xy: 293, 220
+  size: 40, 46
+  orig: 40, 46
   offset: 0, 0
   index: -1
 F_Belt
   rotate: false
-  xy: 107, 338
-  size: 43, 23
-  orig: 43, 23
-  offset: 0, 0
+  xy: 190, 4
+  size: 86, 41
+  orig: 86, 45
+  offset: 0, 4
   index: -1
 F_Chain
   rotate: true
-  xy: 256, 447
-  size: 12, 36
-  orig: 12, 36
+  xy: 284, 58
+  size: 23, 72
+  orig: 23, 72
   offset: 0, 0
   index: -1
 F_Chest
-  rotate: true
-  xy: 453, 481
-  size: 29, 34
-  orig: 29, 34
-  offset: 0, 0
+  rotate: false
+  xy: 331, 462
+  size: 56, 67
+  orig: 57, 67
+  offset: 1, 0
   index: -1
 F_Eyebrow
   rotate: false
-  xy: 314, 464
-  size: 38, 9
-  orig: 38, 9
+  xy: 2, 3
+  size: 76, 17
+  orig: 76, 17
   offset: 0, 0
   index: -1
 F_Eyes
-  rotate: true
-  xy: 2, 64
-  size: 45, 26
-  orig: 45, 26
+  rotate: false
+  xy: 232, 363
+  size: 90, 52
+  orig: 90, 52
   offset: 0, 0
   index: -1
 F_Eyes_Close
-  rotate: false
-  xy: 107, 363
-  size: 44, 28
-  orig: 44, 28
+  rotate: true
+  xy: 457, 169
+  size: 87, 56
+  orig: 87, 56
   offset: 0, 0
   index: -1
 F_F_Hair
-  rotate: false
-  xy: 256, 461
-  size: 56, 49
-  orig: 56, 49
+  rotate: true
+  xy: 232, 417
+  size: 112, 97
+  orig: 112, 97
   offset: 0, 0
   index: -1
 F_Face
   rotate: false
-  xy: 314, 475
-  size: 46, 35
-  orig: 46, 35
+  xy: 438, 11
+  size: 92, 70
+  orig: 92, 70
   offset: 0, 0
   index: -1
 F_Head
   rotate: false
-  xy: 190, 446
-  size: 64, 64
-  orig: 64, 64
+  xy: 164, 166
+  size: 127, 127
+  orig: 127, 127
   offset: 0, 0
   index: -1
 F_L_Arm
-  rotate: false
-  xy: 79, 239
-  size: 20, 27
-  orig: 20, 27
+  rotate: true
+  xy: 396, 431
+  size: 39, 54
+  orig: 39, 54
   offset: 0, 0
   index: -1
 F_L_Calf
   rotate: false
-  xy: 2, 111
-  size: 35, 46
-  orig: 35, 46
+  xy: 457, 437
+  size: 69, 92
+  orig: 69, 92
   offset: 0, 0
   index: -1
 F_L_Ear
-  rotate: false
-  xy: 84, 296
-  size: 22, 32
-  orig: 22, 32
+  rotate: true
+  xy: 278, 2
+  size: 43, 63
+  orig: 43, 63
   offset: 0, 0
   index: -1
 F_L_Finger
   rotate: true
-  xy: 190, 426
-  size: 18, 22
-  orig: 18, 22
+  xy: 394, 225
+  size: 36, 43
+  orig: 36, 43
   offset: 0, 0
   index: -1
 F_L_Foot
-  rotate: false
-  xy: 409, 482
-  size: 42, 28
-  orig: 42, 28
+  rotate: true
+  xy: 457, 84
+  size: 83, 55
+  orig: 83, 55
   offset: 0, 0
   index: -1
 F_L_Hair
-  rotate: false
-  xy: 84, 330
-  size: 21, 61
-  orig: 21, 61
+  rotate: true
+  xy: 164, 123
+  size: 41, 122
+  orig: 41, 122
   offset: 0, 0
   index: -1
 F_L_Hand
-  rotate: false
-  xy: 194, 400
-  size: 22, 24
-  orig: 22, 24
+  rotate: true
+  xy: 344, 259
+  size: 43, 48
+  orig: 43, 48
   offset: 0, 0
   index: -1
 F_L_Hand_A
-  rotate: false
-  xy: 130, 314
-  size: 20, 22
-  orig: 20, 22
+  rotate: true
+  xy: 394, 263
+  size: 39, 43
+  orig: 39, 43
   offset: 0, 0
   index: -1
 F_L_Leg
-  rotate: true
-  xy: 118, 393
-  size: 31, 43
-  orig: 31, 43
+  rotate: false
+  xy: 457, 258
+  size: 62, 85
+  orig: 62, 85
   offset: 0, 0
   index: -1
 F_L_Shoulder
   rotate: false
-  xy: 2, 2
-  size: 30, 26
-  orig: 30, 26
+  xy: 324, 363
+  size: 60, 52
+  orig: 60, 52
   offset: 0, 0
   index: -1
 F_Mask
-  rotate: true
-  xy: 489, 478
-  size: 32, 19
-  orig: 32, 19
+  rotate: false
+  xy: 331, 422
+  size: 63, 38
+  orig: 63, 38
   offset: 0, 0
   index: -1
 F_Mouth
-  rotate: false
-  xy: 41, 201
-  size: 5, 4
-  orig: 5, 4
+  rotate: true
+  xy: 80, 11
+  size: 9, 8
+  orig: 9, 8
   offset: 0, 0
   index: -1
 F_R_Arm
-  rotate: false
-  xy: 79, 212
-  size: 22, 25
-  orig: 22, 25
+  rotate: true
+  xy: 293, 262
+  size: 43, 49
+  orig: 43, 49
   offset: 0, 0
   index: -1
 F_R_Calf
-  rotate: false
-  xy: 2, 159
-  size: 37, 46
-  orig: 37, 46
+  rotate: true
+  xy: 190, 47
+  size: 74, 92
+  orig: 74, 92
   offset: 0, 0
   index: -1
 F_R_Ear
-  rotate: true
-  xy: 2, 30
-  size: 32, 29
-  orig: 32, 29
+  rotate: false
+  xy: 389, 472
+  size: 64, 57
+  orig: 64, 57
   offset: 0, 0
   index: -1
 F_R_Foot
-  rotate: true
-  xy: 50, 209
-  size: 42, 27
-  orig: 42, 27
+  rotate: false
+  xy: 293, 307
+  size: 83, 54
+  orig: 83, 54
   offset: 0, 0
   index: -1
 F_R_Hair
-  rotate: false
-  xy: 118, 426
-  size: 70, 84
-  orig: 70, 84
+  rotate: true
+  xy: 288, 83
+  size: 81, 167
+  orig: 139, 167
   offset: 0, 0
   index: -1
 F_R_Hand
-  rotate: false
-  xy: 79, 268
-  size: 26, 26
-  orig: 26, 26
+  rotate: true
+  xy: 386, 368
+  size: 52, 51
+  orig: 52, 51
   offset: 0, 0
   index: -1
 F_R_Leg
-  rotate: true
-  xy: 362, 477
-  size: 33, 45
-  orig: 33, 45
+  rotate: false
+  xy: 457, 345
+  size: 65, 90
+  orig: 65, 90
   offset: 0, 0
   index: -1
 F_R_Shoulder
-  rotate: true
-  xy: 163, 393
-  size: 31, 29
-  orig: 31, 29
+  rotate: false
+  xy: 378, 304
+  size: 62, 57
+  orig: 62, 57
   offset: 0, 0
   index: -1
 F_Skirt
-  rotate: true
-  xy: 50, 253
-  size: 47, 27
-  orig: 47, 27
+  rotate: false
+  xy: 343, 2
+  size: 93, 54
+  orig: 93, 54
   offset: 0, 0
   index: -1
 F_Tail
-  rotate: true
-  xy: 2, 207
-  size: 93, 46
-  orig: 93, 46
+  rotate: false
+  xy: 2, 22
+  size: 186, 91
+  orig: 186, 91
   offset: 0, 0
   index: -1
 F_Waist
   rotate: false
-  xy: 153, 366
-  size: 30, 25
-  orig: 30, 25
-  offset: 0, 0
+  xy: 232, 298
+  size: 59, 45
+  orig: 59, 49
+  offset: 0, 4
   index: -1
 F_Weapon
   rotate: false
-  xy: 2, 393
-  size: 114, 117
-  orig: 114, 117
+  xy: 2, 295
+  size: 228, 234
+  orig: 228, 234
   offset: 0, 0
   index: -1

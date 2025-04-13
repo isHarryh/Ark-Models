@@ -1,181 +1,181 @@
 
 build_char_285_medic2.png
-size: 512,512
+size: 532,532
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 C_Electricity_B
   rotate: false
-  xy: 2, 295
-  size: 157, 130
-  orig: 157, 130
+  xy: 2, 268
+  size: 314, 260
+  orig: 314, 260
   offset: 0, 0
   index: -1
 C_Weapon_B
   rotate: false
-  xy: 124, 210
-  size: 12, 12
-  orig: 12, 12
+  xy: 507, 504
+  size: 23, 24
+  orig: 23, 24
   offset: 0, 0
   index: -1
 F_Body
   rotate: false
-  xy: 2, 197
-  size: 120, 96
-  orig: 120, 96
-  offset: 0, 0
+  xy: 2, 77
+  size: 238, 189
+  orig: 240, 191
+  offset: 1, 1
   index: -1
 F_Body_B
-  rotate: false
-  xy: 2, 123
-  size: 84, 72
-  orig: 84, 72
-  offset: 0, 0
+  rotate: true
+  xy: 242, 100
+  size: 166, 142
+  orig: 168, 143
+  offset: 2, 0
   index: -1
 F_Cover_A
   rotate: false
-  xy: 88, 148
-  size: 32, 16
-  orig: 32, 16
+  xy: 308, 66
+  size: 63, 32
+  orig: 63, 32
   offset: 0, 0
   index: -1
 F_Cover_B
   rotate: false
-  xy: 2, 9
-  size: 24, 16
-  orig: 24, 16
-  offset: 0, 0
+  xy: 386, 261
+  size: 45, 29
+  orig: 47, 31
+  offset: 1, 1
   index: -1
 F_Cover_C
   rotate: false
-  xy: 393, 409
-  size: 32, 16
-  orig: 32, 16
+  xy: 242, 66
+  size: 64, 32
+  orig: 64, 32
   offset: 0, 0
   index: -1
 F_Floor
-  rotate: false
-  xy: 161, 366
-  size: 123, 59
-  orig: 123, 59
-  offset: 0, 0
+  rotate: true
+  xy: 318, 292
+  size: 236, 116
+  orig: 245, 118
+  offset: 3, 1
   index: -1
 F_Floor_B
   rotate: false
-  xy: 161, 341
-  size: 108, 23
-  orig: 108, 23
-  offset: 0, 0
+  xy: 2, 32
+  size: 214, 43
+  orig: 216, 45
+  offset: 1, 1
   index: -1
 F_Front
-  rotate: false
-  xy: 286, 389
-  size: 70, 36
-  orig: 70, 36
-  offset: 0, 0
+  rotate: true
+  xy: 436, 389
+  size: 139, 69
+  orig: 140, 71
+  offset: 0, 1
   index: -1
 F_Radar
   rotate: false
-  xy: 2, 58
-  size: 41, 63
-  orig: 41, 63
+  xy: 436, 261
+  size: 82, 126
+  orig: 82, 126
   offset: 0, 0
   index: -1
 F_Radar_B
-  rotate: true
-  xy: 271, 341
-  size: 23, 11
-  orig: 23, 11
+  rotate: false
+  xy: 318, 268
+  size: 46, 22
+  orig: 46, 22
   offset: 0, 0
   index: -1
 F_Tyre_A_A
-  rotate: false
-  xy: 124, 264
-  size: 33, 29
-  orig: 33, 29
-  offset: 0, 0
+  rotate: true
+  xy: 469, 196
+  size: 63, 55
+  orig: 65, 57
+  offset: 1, 1
   index: -1
 F_Tyre_A_B
   rotate: false
-  xy: 45, 75
-  size: 15, 15
-  orig: 15, 15
-  offset: 0, 0
+  xy: 80, 2
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
   index: -1
 F_Tyre_B_A
-  rotate: false
-  xy: 88, 166
-  size: 33, 29
-  orig: 33, 29
-  offset: 0, 0
+  rotate: true
+  xy: 469, 131
+  size: 63, 55
+  orig: 65, 57
+  offset: 1, 1
   index: -1
 F_Tyre_B_B
   rotate: false
-  xy: 257, 324
-  size: 15, 15
-  orig: 15, 15
-  offset: 0, 0
+  xy: 110, 2
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
   index: -1
 F_Tyre_C_A
   rotate: false
-  xy: 358, 396
-  size: 33, 29
-  orig: 33, 29
-  offset: 0, 0
+  xy: 467, 74
+  size: 63, 55
+  orig: 65, 57
+  offset: 1, 1
   index: -1
 F_Tyre_C_B
   rotate: false
-  xy: 328, 372
-  size: 15, 15
-  orig: 15, 15
-  offset: 0, 0
+  xy: 140, 2
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
   index: -1
 F_Tyre_D_A
   rotate: false
-  xy: 2, 27
-  size: 33, 29
-  orig: 33, 29
-  offset: 0, 0
+  xy: 218, 9
+  size: 63, 55
+  orig: 65, 57
+  offset: 1, 1
   index: -1
 F_Tyre_D_B
   rotate: false
-  xy: 139, 247
-  size: 15, 15
-  orig: 15, 15
-  offset: 0, 0
+  xy: 170, 2
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
   index: -1
 F_Tyre_E
   rotate: false
-  xy: 45, 92
-  size: 33, 29
-  orig: 33, 29
-  offset: 0, 0
+  xy: 283, 9
+  size: 63, 55
+  orig: 65, 57
+  offset: 1, 1
   index: -1
 F_Tyre_F
   rotate: false
-  xy: 222, 310
-  size: 33, 29
-  orig: 33, 29
-  offset: 0, 0
+  xy: 348, 9
+  size: 63, 55
+  orig: 65, 57
+  offset: 1, 1
   index: -1
 F_Weapon
-  rotate: true
-  xy: 161, 298
-  size: 41, 59
-  orig: 41, 59
+  rotate: false
+  xy: 386, 141
+  size: 81, 118
+  orig: 81, 118
   offset: 0, 0
   index: -1
 F_Wire_A
   rotate: false
-  xy: 286, 370
-  size: 40, 17
-  orig: 40, 17
+  xy: 386, 106
+  size: 79, 33
+  orig: 79, 33
   offset: 0, 0
   index: -1
 F_Wire_B
-  rotate: true
-  xy: 124, 224
-  size: 38, 13
-  orig: 38, 13
+  rotate: false
+  xy: 2, 4
+  size: 76, 26
+  orig: 76, 26
   offset: 0, 0
   index: -1

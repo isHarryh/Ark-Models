@@ -1,307 +1,307 @@
 
 build_char_311_mudrok.png
-size: 512,512
+size: 640,640
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 Armor_Chest
-  rotate: false
-  xy: 2, 383
-  size: 98, 54
-  orig: 98, 54
+  rotate: true
+  xy: 2, 295
+  size: 195, 107
+  orig: 195, 107
   offset: 0, 0
   index: -1
 Armor_Down
   rotate: false
-  xy: 2, 272
-  size: 60, 65
-  orig: 60, 65
-  offset: 0, 0
+  xy: 215, 504
+  size: 117, 129
+  orig: 119, 130
+  offset: 1, 1
   index: -1
 Armor_Down_a
   rotate: true
-  xy: 126, 275
-  size: 44, 23
-  orig: 44, 23
+  xy: 249, 21
+  size: 87, 44
+  orig: 87, 45
   offset: 0, 0
   index: -1
 B_L_Leg
-  rotate: true
-  xy: 337, 460
-  size: 50, 73
-  orig: 50, 73
+  rotate: false
+  xy: 111, 344
+  size: 99, 146
+  orig: 99, 146
   offset: 0, 0
   index: -1
 Bag_Leg
-  rotate: true
-  xy: 107, 147
-  size: 26, 38
-  orig: 26, 38
-  offset: 0, 0
+  rotate: false
+  xy: 295, 5
+  size: 49, 75
+  orig: 51, 76
+  offset: 1, 1
   index: -1
 Chest
   rotate: false
-  xy: 2, 439
-  size: 106, 71
-  orig: 106, 71
+  xy: 2, 492
+  size: 211, 141
+  orig: 211, 141
   offset: 0, 0
   index: -1
 Grenade
-  rotate: true
-  xy: 100, 275
-  size: 44, 24
-  orig: 44, 24
+  rotate: false
+  xy: 476, 51
+  size: 87, 47
+  orig: 87, 47
   offset: 0, 0
   index: -1
 Grenade_Ring
-  rotate: false
-  xy: 134, 134
-  size: 10, 11
-  orig: 10, 11
-  offset: 0, 0
+  rotate: true
+  xy: 334, 509
+  size: 17, 21
+  orig: 19, 22
+  offset: 1, 1
   index: -1
 Head
   rotate: true
-  xy: 52, 206
-  size: 63, 55
-  orig: 63, 55
-  offset: 0, 0
+  xy: 2, 169
+  size: 124, 107
+  orig: 126, 109
+  offset: 1, 1
   index: -1
 Head_Helmet
-  rotate: false
-  xy: 110, 450
-  size: 76, 60
-  orig: 76, 60
+  rotate: true
+  xy: 215, 350
+  size: 152, 116
+  orig: 152, 120
   offset: 0, 0
   index: -1
 Head_Helmet_back
   rotate: true
-  xy: 161, 427
-  size: 21, 25
-  orig: 21, 25
-  offset: 0, 0
+  xy: 74, 2
+  size: 38, 47
+  orig: 41, 49
+  offset: 1, 1
   index: -1
 Head_Helmet_front
-  rotate: false
-  xy: 147, 380
-  size: 24, 38
-  orig: 24, 38
-  offset: 0, 0
+  rotate: true
+  xy: 333, 350
+  size: 45, 73
+  orig: 47, 75
+  offset: 1, 1
   index: -1
 L_Arm
   rotate: true
-  xy: 188, 457
-  size: 53, 73
-  orig: 53, 73
+  xy: 334, 528
+  size: 105, 133
+  orig: 105, 145
   offset: 0, 0
   index: -1
 L_Calf
-  rotate: false
-  xy: 52, 160
-  size: 53, 44
-  orig: 53, 44
-  offset: 0, 0
+  rotate: true
+  xy: 111, 84
+  size: 104, 86
+  orig: 106, 88
+  offset: 1, 1
   index: -1
 L_Calf_Jar
   rotate: false
-  xy: 2, 116
-  size: 43, 76
-  orig: 43, 76
+  xy: 208, 110
+  size: 86, 152
+  orig: 86, 152
   offset: 0, 0
   index: -1
 L_Foot
-  rotate: false
-  xy: 95, 354
-  size: 48, 26
-  orig: 48, 26
-  offset: 0, 0
+  rotate: true
+  xy: 367, 59
+  size: 93, 49
+  orig: 95, 51
+  offset: 1, 1
   index: -1
 L_Foot_back
-  rotate: false
-  xy: 145, 351
-  size: 34, 27
-  orig: 34, 27
-  offset: 0, 0
+  rotate: true
+  xy: 585, 201
+  size: 66, 52
+  orig: 68, 54
+  offset: 1, 1
   index: -1
 L_Forearm
-  rotate: false
-  xy: 45, 71
-  size: 47, 43
-  orig: 47, 43
+  rotate: true
+  xy: 2, 73
+  size: 94, 86
+  orig: 94, 86
   offset: 0, 0
   index: -1
 L_Hand
-  rotate: false
-  xy: 107, 175
-  size: 36, 29
-  orig: 36, 29
-  offset: 0, 0
+  rotate: true
+  xy: 565, 7
+  size: 68, 55
+  orig: 71, 57
+  offset: 2, 1
   index: -1
 L_Hand_Up
-  rotate: false
-  xy: 97, 117
-  size: 35, 28
-  orig: 35, 28
-  offset: 0, 0
+  rotate: true
+  xy: 418, 17
+  size: 68, 54
+  orig: 70, 56
+  offset: 1, 1
   index: -1
 L_Hand_Up_back
   rotate: false
-  xy: 463, 444
-  size: 34, 23
-  orig: 34, 23
-  offset: 0, 0
+  xy: 408, 351
+  size: 66, 44
+  orig: 68, 46
+  offset: 1, 1
   index: -1
 L_Leg
   rotate: true
-  xy: 263, 457
-  size: 53, 72
-  orig: 53, 72
-  offset: 0, 0
+  xy: 333, 397
+  size: 105, 143
+  orig: 105, 144
+  offset: 0, 1
   index: -1
 L_Leg_Jar
   rotate: false
-  xy: 173, 391
-  size: 29, 34
-  orig: 29, 34
-  offset: 0, 0
+  xy: 418, 87
+  size: 56, 65
+  orig: 58, 67
+  offset: 1, 1
   index: -1
 Mask_a
   rotate: false
-  xy: 109, 240
-  size: 35, 33
-  orig: 35, 33
+  xy: 2, 6
+  size: 70, 65
+  orig: 70, 65
   offset: 0, 0
   index: -1
 Mask_b
   rotate: true
-  xy: 412, 469
-  size: 41, 78
-  orig: 41, 78
+  xy: 478, 420
+  size: 82, 156
+  orig: 82, 156
   offset: 0, 0
   index: -1
 Neck
   rotate: false
-  xy: 188, 431
-  size: 81, 24
-  orig: 81, 24
+  xy: 469, 585
+  size: 162, 48
+  orig: 162, 48
   offset: 0, 0
   index: -1
 R_Arm
-  rotate: false
-  xy: 271, 400
-  size: 57, 55
-  orig: 57, 55
-  offset: 0, 0
+  rotate: true
+  xy: 396, 236
+  size: 112, 103
+  orig: 114, 109
+  offset: 1, 5
   index: -1
 R_Calf
-  rotate: false
-  xy: 102, 382
-  size: 43, 36
-  orig: 43, 36
-  offset: 0, 0
+  rotate: true
+  xy: 296, 82
+  size: 83, 69
+  orig: 85, 71
+  offset: 1, 1
   index: -1
 R_Foot
-  rotate: false
-  xy: 110, 420
-  size: 49, 28
-  orig: 49, 28
-  offset: 0, 0
+  rotate: true
+  xy: 583, 77
+  size: 96, 54
+  orig: 98, 56
+  offset: 1, 1
   index: -1
 R_Foot_back
   rotate: true
-  xy: 151, 283
-  size: 36, 24
-  orig: 36, 24
-  offset: 0, 0
+  xy: 590, 513
+  size: 70, 45
+  orig: 72, 47
+  offset: 1, 1
   index: -1
 R_Forearm
-  rotate: false
-  xy: 47, 116
-  size: 48, 42
-  orig: 48, 42
+  rotate: true
+  xy: 296, 167
+  size: 95, 84
+  orig: 95, 84
   offset: 0, 0
   index: -1
 R_Hand
-  rotate: false
-  xy: 100, 321
-  size: 38, 31
-  orig: 38, 31
-  offset: 0, 0
+  rotate: true
+  xy: 522, 100
+  size: 73, 59
+  orig: 75, 61
+  offset: 1, 1
   index: -1
 R_Hand_Cliose_Finger
   rotate: true
-  xy: 140, 321
-  size: 28, 32
-  orig: 28, 32
-  offset: 0, 0
+  xy: 346, 3
+  size: 54, 62
+  orig: 56, 64
+  offset: 1, 1
   index: -1
 R_Hand_Close
-  rotate: false
-  xy: 109, 206
-  size: 35, 32
-  orig: 35, 32
-  offset: 0, 0
+  rotate: true
+  xy: 522, 175
+  size: 67, 61
+  orig: 69, 63
+  offset: 1, 1
   index: -1
 R_Leg
-  rotate: false
-  xy: 2, 44
-  size: 41, 70
-  orig: 41, 70
-  offset: 0, 0
+  rotate: true
+  xy: 382, 154
+  size: 80, 138
+  orig: 82, 139
+  offset: 1, 1
   index: -1
 R_Tube_Leg
-  rotate: true
-  xy: 45, 45
-  size: 24, 50
-  orig: 24, 50
+  rotate: false
+  xy: 199, 8
+  size: 48, 100
+  orig: 48, 100
   offset: 0, 0
   index: -1
 Shoudler
   rotate: false
-  xy: 2, 2
-  size: 60, 40
-  orig: 60, 40
+  xy: 469, 504
+  size: 119, 79
+  orig: 119, 79
   offset: 0, 0
   index: -1
 Shouldler_strap
   rotate: false
-  xy: 2, 194
-  size: 48, 76
-  orig: 48, 76
+  xy: 111, 190
+  size: 95, 152
+  orig: 95, 152
   offset: 0, 0
   index: -1
 Tube_Arm
   rotate: true
-  xy: 492, 497
-  size: 13, 18
-  orig: 13, 18
-  offset: 0, 0
+  xy: 501, 244
+  size: 23, 33
+  orig: 25, 35
+  offset: 1, 1
   index: -1
 Tube_Leg
-  rotate: false
-  xy: 64, 271
-  size: 34, 66
-  orig: 34, 66
+  rotate: true
+  xy: 478, 350
+  size: 68, 132
+  orig: 68, 132
   offset: 0, 0
   index: -1
 Tube_Leg_down
   rotate: true
-  xy: 412, 447
-  size: 20, 49
-  orig: 20, 49
+  xy: 90, 42
+  size: 40, 98
+  orig: 40, 98
   offset: 0, 0
   index: -1
 Waist
   rotate: false
-  xy: 2, 339
-  size: 91, 42
-  orig: 91, 42
+  xy: 212, 264
+  size: 182, 84
+  orig: 182, 84
   offset: 0, 0
   index: -1
 Wire_Back
   rotate: false
-  xy: 64, 3
-  size: 44, 40
-  orig: 44, 40
+  xy: 501, 269
+  size: 88, 79
+  orig: 88, 79
   offset: 0, 0
   index: -1
