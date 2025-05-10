@@ -24,7 +24,7 @@ jobs:
 
       # - uses: MirrorChyan/release-note-action@v1
       #   with:
-      #     mirrorchyan_rid: MaaResource
+      #     mirrorchyan_rid: ArkModelsRepo
 
       #     version_name: ${{ steps.version_name.outputs.version }}
       #     release_note: ${{ steps.version_name.outputs.release_note }}
