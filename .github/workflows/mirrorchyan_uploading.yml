@@ -17,7 +17,7 @@ jobs:
         run: |
           zip -r mirrorchyan.zip `ls`
           
-          version=$(md5sum models_data.json)
+          version=$(md5sum models_data.json | awk '{ print $1 }')
           
           echo "version=$version" | tee -a "$GITHUB_OUTPUT"
           # echo "release_note=$release_note" | tee -a "$GITHUB_OUTPUT"
