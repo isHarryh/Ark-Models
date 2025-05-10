@@ -1,0 +1,41 @@
+name: mirrorchyan_uploading
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - "main"
+
+jobs:
+  mirrorchyan_full:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Version Name
+        id: version_name
+        run: |
+          zip -r mirrorchyan.zip `ls`
+          
+          version=$(md5sum models_data.json)
+          
+          echo "version=$version" | tee -a "$GITHUB_OUTPUT"
+          # echo "release_note=$release_note" | tee -a "$GITHUB_OUTPUT"
+
+      # - uses: MirrorChyan/release-note-action@v1
+      #   with:
+      #     mirrorchyan_rid: MaaResource
+
+      #     version_name: ${{ steps.version_name.outputs.version }}
+      #     release_note: ${{ steps.version_name.outputs.release_note }}
+          
+      #     upload_token: ${{ secrets.MirrorChyanUploadToken }}
+      #     github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: MirrorChyan/uploading-action@v1
+        with:
+          filetype: local
+          mirrorchyan_rid: ArkModelsRepo
+          filename: mirrorchyan.zip
+          version_name: ${{ steps.version_name.outputs.version }}
+          upload_token: ${{ secrets.MirrorChyanUploadToken }}
