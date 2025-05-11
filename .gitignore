@@ -1,6 +1,7 @@
 # Ignore non-repository files in Git
 
 /*
+!/.github/
 !/models/
 !/models_enemies/
 !/models_illust/
