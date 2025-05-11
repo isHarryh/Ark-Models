@@ -1,4 +1,4 @@
-name: mirrorchyan_uploading
+name: mirrorchyan_upload
 
 on:
   workflow_dispatch:
@@ -10,32 +10,35 @@ jobs:
   mirrorchyan_full:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repo
+        uses: actions/checkout@v4
 
-      - name: Version Name
+      - name: Get Version Name
         id: version_name
         run: |
           zip -r mirrorchyan.zip `ls`
-          
+
           version=$(md5sum models_data.json | awk '{ print $1 }')
-          
+
           echo "version=$version" | tee -a "$GITHUB_OUTPUT"
           # echo "release_note=$release_note" | tee -a "$GITHUB_OUTPUT"
 
-      # - uses: MirrorChyan/release-note-action@v1
+      # - name: Upload Release Note
+      #   uses: MirrorChyan/release-note-action@v1
       #   with:
       #     mirrorchyan_rid: ArkModelsRepo
 
       #     version_name: ${{ steps.version_name.outputs.version }}
       #     release_note: ${{ steps.version_name.outputs.release_note }}
-          
-      #     upload_token: ${{ secrets.MirrorChyanUploadToken }}
+
+      #     upload_token: ${{ secrets.MIRROR_CHYAN_TOKEN }}
       #     github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      - uses: MirrorChyan/uploading-action@v1
+      - name: Upload Archive
+        uses: MirrorChyan/uploading-action@v1
         with:
           filetype: local
           mirrorchyan_rid: ArkModelsRepo
           filename: mirrorchyan.zip
           version_name: ${{ steps.version_name.outputs.version }}
-          upload_token: ${{ secrets.MirrorChyanUploadToken }}
+          upload_token: ${{ secrets.MIRROR_CHYAN_TOKEN }}
