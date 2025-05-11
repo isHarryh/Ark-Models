@@ -5,6 +5,8 @@ on:
   push:
     branches:
       - "main"
+    paths:
+      - "models_data.json"
 
 jobs:
   mirrorchyan_full:
@@ -13,11 +15,13 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v4
 
-      - name: Get Version Name
-        id: version_name
+      - name: Create Archive
         run: |
           zip -r mirrorchyan.zip `ls`
 
+      - name: Get Version Name
+        id: version_name
+        run: |
           version=$(md5sum models_data.json | awk '{ print $1 }')
 
           echo "version=$version" | tee -a "$GITHUB_OUTPUT"
