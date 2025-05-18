@@ -21,6 +21,8 @@ This repository collected the Spine models from the game Arknights (CN server), 
 
 [Click here to download the ZIP archive file.](https://github.com/isHarryh/Ark-Models/archive/refs/heads/main.zip) However, the size of the entire repository is very large, so downloading the specific files you want may be faster.
 
+If you want to clone this repo via Git, it is recommended to use `--depth=1` to prevent massive cloning.
+
 ## Formats
 
 The models depends on [Spine Runtime](https://github.com/EsotericSoftware/spine-runtimes) v3.8. A Spine model is usually composed of one `.atlas` file, one `.skel` file and one `.png` image file.

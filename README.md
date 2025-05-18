@@ -8,9 +8,7 @@ Arknights Spine Models (Excerpt)
 ## 状态
 
 当前更新至：
-- 活动 **众生行记** 中新增的干员和时装
-
-> 受到《明日方舟》v2.5.60 数据结构变更影响，敌人模型更新暂缓。
+- 活动 **矢量突破：无机物** 中新增的干员、时装和敌人模型
 
 本仓库收集了中国服《明日方舟》中的部分Spine模型文件，包括：
 | 文件夹           | 内 容           |
@@ -23,12 +21,14 @@ Arknights Spine Models (Excerpt)
 
 ## 仓库下载
 
-可以通过以下链接来下载本仓库的完整压缩包（压缩包大小为 600+MB）。
+可以通过以下链接来下载本仓库的完整压缩包（压缩包大小为 800+MB）。
 
 - [从 GitHub 下载](https://github.com/isHarryh/Ark-Models/archive/refs/heads/main.zip)
 - [从 Cloudflare 代理源下载](https://ghproxy.harryh.cn/?q=https%3A%2F%2Fgithub.com%2FisHarryh%2FArk-Models%2Farchive%2Frefs%2Fheads%2Fmain.zip)
 
 或者，您可以在仓库中检索具体的模型文件来单独下载它们。
+
+如需使用 Git 来克隆本仓库，建议使用 `--depth=1` 参数来减少克隆的总大小。
 
 ## 格式说明
 
