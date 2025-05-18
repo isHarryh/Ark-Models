@@ -1,0 +1,258 @@
+
+enemy_8012_mcnd.png
+size: 264,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_BodyACC_A
+  rotate: false
+  xy: 149, 137
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+F_BodyACC_B
+  rotate: false
+  xy: 109, 81
+  size: 44, 97
+  orig: 44, 97
+  offset: 0, 0
+  index: -1
+F_BodyACC_C
+  rotate: true
+  xy: 174, 133
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
+F_BodyACC_D
+  rotate: false
+  xy: 128, 39
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+F_BodyACC_E
+  rotate: false
+  xy: 154, 106
+  size: 43, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+F_BodyACC_F
+  rotate: 270
+  xy: 2, 83
+  size: 40, 84
+  orig: 40, 84
+  offset: 0, 0
+  index: -1
+F_BodyACC_G
+  rotate: true
+  xy: 232, 175
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+F_Body_A
+  rotate: true
+  xy: 232, 139
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+F_Body_B
+  rotate: false
+  xy: 34, 114
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+F_Coat
+  rotate: 180
+  xy: 81, 179
+  size: 91, 81
+  orig: 91, 81
+  offset: 0, 0
+  index: -1
+F_Foot_L_A
+  rotate: false
+  xy: 191, 8
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+F_Foot_L_B
+  rotate: true
+  xy: 170, 27
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+F_Foot_L_C
+  rotate: 270
+  xy: 206, 96
+  size: 40, 51
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+F_Foot_R_A
+  rotate: false
+  xy: 34, 7
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+F_Foot_R_B
+  rotate: 270
+  xy: 2, 58
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+F_Foot_R_C
+  rotate: false
+  xy: 221, 216
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+F_Hand_L_A
+  rotate: true
+  xy: 2, 133
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+F_Hand_L_B
+  rotate: true
+  xy: 50, 49
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+F_Hand_L_C
+  rotate: false
+  xy: 2, 25
+  size: 30, 30
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+F_Hand_L_D
+  rotate: true
+  xy: 228, 4
+  size: 23, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+F_Hand_L_Weapon
+  rotate: true
+  xy: 213, 56
+  size: 38, 30
+  orig: 38, 32
+  offset: 0, 1
+  index: -1
+F_Hand_R_A
+  rotate: true
+  xy: 173, 61
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+F_Hand_R_B
+  rotate: false
+  xy: 149, 6
+  size: 22, 23
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+F_Hand_R_C
+  rotate: true
+  xy: 85, 21
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+F_Hand_R_D
+  rotate: true
+  xy: 118, 12
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+F_Hand_R_Weapon
+  rotate: false
+  xy: 85, 50
+  size: 41, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+F_Head_A
+  rotate: true
+  xy: 71, 3
+  size: 17, 33
+  orig: 17, 34
+  offset: 0, 1
+  index: -1
+F_Head_B
+  rotate: false
+  xy: 66, 97
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+F_Head_C
+  rotate: false
+  xy: 2, 182
+  size: 78, 78
+  orig: 79, 78
+  offset: 1, 0
+  index: -1
+F_Head_D
+  rotate: 180
+  xy: 151, 225
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+F_Hip
+  rotate: false
+  xy: 34, 28
+  size: 41, 19
+  orig: 41, 19
+  offset: 0, 0
+  index: -1
+F_Shield_A
+  rotate: true
+  xy: 210, 29
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+F_Shield_B
+  rotate: false
+  xy: 252, 77
+  size: 10, 32
+  orig: 12, 32
+  offset: 1, 0
+  index: -1
+F_Shield_C
+  rotate: false
+  xy: 174, 183
+  size: 45, 77
+  orig: 45, 77
+  offset: 0, 0
+  index: -1
+F_Tail_B
+  rotate: 180
+  xy: 90, 66
+  size: 82, 49
+  orig: 83, 49
+  offset: 0, 0
+  index: -1
+F_Tape
+  rotate: false
+  xy: 2, 107
+  size: 123, 73
+  orig: 123, 73
+  offset: 0, 0
+  index: -1

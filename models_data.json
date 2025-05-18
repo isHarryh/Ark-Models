@@ -20,7 +20,7 @@
         "Rarity_5": "五星",
         "Rarity_6": "六星"
     },
-    "gameDataVersionDescription": "Producer: ArkUnpacker 4\nDate: 2025-05-03\n",
+    "gameDataVersionDescription": "Producer: ArkUnpacker 4\nDate: 2025-05-18\n",
     "gameDataServerRegion": "zh_CN",
     "data": {
         "285_medic2": {
@@ -12688,6 +12688,25 @@
                 ".skel": "build_char_4136_phonor_boc#9.skel"
             }
         },
+        "163_hpsts_boc#10": {
+            "assetId": "build_char_163_hpsts_boc#10",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "火神",
+            "appellation": "Vulcan",
+            "skinGroupId": "2025#boc#2",
+            "skinGroupName": "斗争血脉/X",
+            "sortTags": [
+                "Operator",
+                "Rarity_5",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_163_hpsts_boc#10.atlas",
+                ".png": "build_char_163_hpsts_boc#10.png",
+                ".skel": "build_char_163_hpsts_boc#10.skel"
+            }
+        },
         "248_mgllan_kitchen#1": {
             "assetId": "build_char_248_mgllan_kitchen#1",
             "type": "Operator",
@@ -17415,7 +17434,11 @@
                 "Enemy",
                 "EnemyNormal"
             ],
-            "assetList": {}
+            "assetList": {
+                ".atlas": "enemy_10083_hlbird.atlas",
+                ".png": "enemy_10083_hlbird.png",
+                ".skel": "enemy_10083_hlbird.skel"
+            }
         },
         "10083_hlbird_2": {
             "assetId": "enemy_10083_hlbird_2",
@@ -17429,7 +17452,11 @@
                 "Enemy",
                 "EnemyNormal"
             ],
-            "assetList": {}
+            "assetList": {
+                ".atlas": "enemy_10083_hlbird_2.atlas",
+                ".png": "enemy_10083_hlbird_2.png",
+                ".skel": "enemy_10083_hlbird_2.skel"
+            }
         },
         "10084_hlegle": {
             "assetId": "enemy_10084_hlegle",
@@ -17443,7 +17470,11 @@
                 "Enemy",
                 "EnemyNormal"
             ],
-            "assetList": {}
+            "assetList": {
+                ".atlas": "enemy_10084_hlegle.atlas",
+                ".png": "enemy_10084_hlegle.png",
+                ".skel": "enemy_10084_hlegle.skel"
+            }
         },
         "10084_hlegle_2": {
             "assetId": "enemy_10084_hlegle_2",
@@ -17457,7 +17488,11 @@
                 "Enemy",
                 "EnemyNormal"
             ],
-            "assetList": {}
+            "assetList": {
+                ".atlas": "enemy_10084_hlegle_2.atlas",
+                ".png": "enemy_10084_hlegle_2.png",
+                ".skel": "enemy_10084_hlegle_2.skel"
+            }
         },
         "10085_hllevi": {
             "assetId": "enemy_10085_hllevi",
@@ -17471,7 +17506,11 @@
                 "Enemy",
                 "EnemyElite"
             ],
-            "assetList": {}
+            "assetList": {
+                ".atlas": "enemy_10085_hllevi.atlas",
+                ".png": "enemy_10085_hllevi.png",
+                ".skel": "enemy_10085_hllevi.skel"
+            }
         },
         "10085_hllevi_2": {
             "assetId": "enemy_10085_hllevi_2",
@@ -17485,7 +17524,11 @@
                 "Enemy",
                 "EnemyElite"
             ],
-            "assetList": {}
+            "assetList": {
+                ".atlas": "enemy_10085_hllevi_2.atlas",
+                ".png": "enemy_10085_hllevi_2.png",
+                ".skel": "enemy_10085_hllevi_2.skel"
+            }
         },
         "10086_hltigr": {
             "assetId": "enemy_10086_hltigr",
@@ -17499,7 +17542,11 @@
                 "Enemy",
                 "EnemyElite"
             ],
-            "assetList": {}
+            "assetList": {
+                ".atlas": "enemy_10086_hltigr.atlas",
+                ".png": "enemy_10086_hltigr.png",
+                ".skel": "enemy_10086_hltigr.skel"
+            }
         },
         "10086_hltigr_2": {
             "assetId": "enemy_10086_hltigr_2",
@@ -17513,7 +17560,11 @@
                 "Enemy",
                 "EnemyElite"
             ],
-            "assetList": {}
+            "assetList": {
+                ".atlas": "enemy_10086_hltigr_2.atlas",
+                ".png": "enemy_10086_hltigr_2.png",
+                ".skel": "enemy_10086_hltigr_2.skel"
+            }
         },
         "10087_hlchgr": {
             "assetId": "enemy_10087_hlchgr",
@@ -17527,7 +17578,11 @@
                 "Enemy",
                 "EnemyNormal"
             ],
-            "assetList": {}
+            "assetList": {
+                ".atlas": "enemy_10087_hlchgr.atlas",
+                ".png": "enemy_10087_hlchgr.png",
+                ".skel": "enemy_10087_hlchgr.skel"
+            }
         },
         "10087_hlchgr_2": {
             "assetId": "enemy_10087_hlchgr_2",
@@ -17541,7 +17596,11 @@
                 "Enemy",
                 "EnemyNormal"
             ],
-            "assetList": {}
+            "assetList": {
+                ".atlas": "enemy_10087_hlchgr_2.atlas",
+                ".png": "enemy_10087_hlchgr_2.png",
+                ".skel": "enemy_10087_hlchgr_2.skel"
+            }
         },
         "10088_hlsnip": {
             "assetId": "enemy_10088_hlsnip",
@@ -17555,7 +17614,11 @@
                 "Enemy",
                 "EnemyNormal"
             ],
-            "assetList": {}
+            "assetList": {
+                ".atlas": "enemy_10088_hlsnip.atlas",
+                ".png": "enemy_10088_hlsnip.png",
+                ".skel": "enemy_10088_hlsnip.skel"
+            }
         },
         "10088_hlsnip_2": {
             "assetId": "enemy_10088_hlsnip_2",
@@ -17569,7 +17632,11 @@
                 "Enemy",
                 "EnemyNormal"
             ],
-            "assetList": {}
+            "assetList": {
+                ".atlas": "enemy_10088_hlsnip_2.atlas",
+                ".png": "enemy_10088_hlsnip_2.png",
+                ".skel": "enemy_10088_hlsnip_2.skel"
+            }
         },
         "10089_hlsprt": {
             "assetId": "enemy_10089_hlsprt",
@@ -17583,7 +17650,11 @@
                 "Enemy",
                 "EnemyElite"
             ],
-            "assetList": {}
+            "assetList": {
+                ".atlas": "enemy_10089_hlsprt.atlas",
+                ".png": "enemy_10089_hlsprt.png",
+                ".skel": "enemy_10089_hlsprt.skel"
+            }
         },
         "10089_hlsprt_2": {
             "assetId": "enemy_10089_hlsprt_2",
@@ -17597,7 +17668,11 @@
                 "Enemy",
                 "EnemyElite"
             ],
-            "assetList": {}
+            "assetList": {
+                ".atlas": "enemy_10089_hlsprt_2.atlas",
+                ".png": "enemy_10089_hlsprt_2.png",
+                ".skel": "enemy_10089_hlsprt_2.skel"
+            }
         },
         "1008_ghost": {
             "assetId": "enemy_1008_ghost",
@@ -17629,7 +17704,11 @@
                 "Enemy",
                 "EnemyElite"
             ],
-            "assetList": {}
+            "assetList": {
+                ".atlas": "enemy_10090_hlgrd.atlas",
+                ".png": "enemy_10090_hlgrd.png",
+                ".skel": "enemy_10090_hlgrd.skel"
+            }
         },
         "10090_hlgrd_2": {
             "assetId": "enemy_10090_hlgrd_2",
@@ -17643,7 +17722,11 @@
                 "Enemy",
                 "EnemyElite"
             ],
-            "assetList": {}
+            "assetList": {
+                ".atlas": "enemy_10090_hlgrd_2.atlas",
+                ".png": "enemy_10090_hlgrd_2.png",
+                ".skel": "enemy_10090_hlgrd_2.skel"
+            }
         },
         "10091_hlsttu": {
             "assetId": "enemy_10091_hlsttu",
@@ -17657,7 +17740,11 @@
                 "Enemy",
                 "EnemyElite"
             ],
-            "assetList": {}
+            "assetList": {
+                ".atlas": "enemy_10091_hlsttu.atlas",
+                ".png": "enemy_10091_hlsttu.png",
+                ".skel": "enemy_10091_hlsttu.skel"
+            }
         },
         "10091_hlsttu_2": {
             "assetId": "enemy_10091_hlsttu_2",
@@ -17671,7 +17758,11 @@
                 "Enemy",
                 "EnemyElite"
             ],
-            "assetList": {}
+            "assetList": {
+                ".atlas": "enemy_10091_hlsttu_2.atlas",
+                ".png": "enemy_10091_hlsttu_2.png",
+                ".skel": "enemy_10091_hlsttu_2.skel"
+            }
         },
         "10091_hlsttu_3": {
             "assetId": "enemy_10091_hlsttu_3",
@@ -17685,7 +17776,11 @@
                 "Enemy",
                 "EnemyElite"
             ],
-            "assetList": {}
+            "assetList": {
+                ".atlas": "enemy_10091_hlsttu_3.atlas",
+                ".png": "enemy_10091_hlsttu_3.png",
+                ".skel": "enemy_10091_hlsttu_3.skel"
+            }
         },
         "10092_hlslp": {
             "assetId": "enemy_10092_hlslp",
@@ -34648,7 +34743,11 @@
                 "Enemy",
                 "EnemyBoss"
             ],
-            "assetList": {}
+            "assetList": {
+                ".atlas": "enemy_1567_pope.atlas",
+                ".png": "enemy_1567_pope.png",
+                ".skel": "enemy_1567_pope.skel"
+            }
         },
         "2001_duckmi": {
             "assetId": "enemy_2001_duckmi",
@@ -39234,7 +39333,11 @@
                 "Enemy",
                 "EnemyBoss"
             ],
-            "assetList": {}
+            "assetList": {
+                ".atlas": "enemy_6029_solzac.atlas",
+                ".png": "enemy_6029_solzac.png",
+                ".skel": "enemy_6029_solzac.skel"
+            }
         },
         "6030_frgzac": {
             "assetId": "enemy_6030_frgzac",
@@ -39248,7 +39351,11 @@
                 "Enemy",
                 "EnemyNormal"
             ],
-            "assetList": {}
+            "assetList": {
+                ".atlas": "enemy_6030_frgzac.atlas",
+                ".png": "enemy_6030_frgzac.png",
+                ".skel": "enemy_6030_frgzac.skel"
+            }
         },
         "6031_visfrg": {
             "assetId": "enemy_6031_visfrg",
@@ -40942,6 +41049,170 @@
                 ".atlas": "enemy_8009_eltufo.atlas",
                 ".png": "enemy_8009_eltufo.png",
                 ".skel": "enemy_8009_eltufo.skel"
+            }
+        },
+        "8010_mcnist": {
+            "assetId": "enemy_8010_mcnist",
+            "type": "Enemy",
+            "style": null,
+            "name": "“Mechanist”，机械之心",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {
+                ".atlas": "enemy_8010_mcnist.atlas",
+                ".png": "enemy_8010_mcnist.png",
+                ".skel": "enemy_8010_mcnist.skel"
+            }
+        },
+        "8010_mcnist_2": {
+            "assetId": "enemy_8010_mcnist_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "“Mechanist”，机械之心",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {}
+        },
+        "8010_mcnist_3": {
+            "assetId": "enemy_8010_mcnist_3",
+            "type": "Enemy",
+            "style": null,
+            "name": "“Mechanist”，机械之心",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {}
+        },
+        "8011_mcndog": {
+            "assetId": "enemy_8011_mcndog",
+            "type": "Enemy",
+            "style": null,
+            "name": "结构性原理",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {
+                ".atlas": "enemy_8011_mcndog.atlas",
+                ".png": "enemy_8011_mcndog.png",
+                ".skel": "enemy_8011_mcndog.skel"
+            }
+        },
+        "8011_mcndog_2": {
+            "assetId": "enemy_8011_mcndog_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "结构性原理",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {}
+        },
+        "8011_mcndog_3": {
+            "assetId": "enemy_8011_mcndog_3",
+            "type": "Enemy",
+            "style": null,
+            "name": "结构性原理",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {}
+        },
+        "8012_mcnd": {
+            "assetId": "enemy_8012_mcnd",
+            "type": "Enemy",
+            "style": null,
+            "name": "文档",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_8012_mcnd.atlas",
+                ".png": "enemy_8012_mcnd.png",
+                ".skel": "enemy_8012_mcnd.skel"
+            }
+        },
+        "8013_mcnrsh": {
+            "assetId": "enemy_8013_mcnrsh",
+            "type": "Enemy",
+            "style": null,
+            "name": "叶毯",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_8013_mcnrsh.atlas",
+                ".png": "enemy_8013_mcnrsh.png",
+                ".skel": "enemy_8013_mcnrsh.skel"
+            }
+        },
+        "8014_mcnelp": {
+            "assetId": "enemy_8014_mcnelp",
+            "type": "Enemy",
+            "style": null,
+            "name": "秒表",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_8014_mcnelp.atlas",
+                ".png": "enemy_8014_mcnelp.png",
+                ".skel": "enemy_8014_mcnelp.skel"
+            }
+        },
+        "8015_mcnrhd": {
+            "assetId": "enemy_8015_mcnrhd",
+            "type": "Enemy",
+            "style": null,
+            "name": "巨声",
+            "appellation": null,
+            "skinGroupId": "EnemyElite",
+            "skinGroupName": "精英敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyElite"
+            ],
+            "assetList": {
+                ".atlas": "enemy_8015_mcnrhd.atlas",
+                ".png": "enemy_8015_mcnrhd.png",
+                ".skel": "enemy_8015_mcnrhd.skel"
             }
         },
         "9001_ayokai": {

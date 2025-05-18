@@ -1,0 +1,41 @@
+
+enemy_6030_frgzac.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 92
+  size: 70, 77
+  orig: 70, 77
+  offset: 0, 0
+  index: -1
+C_Body_1
+  rotate: false
+  xy: 2, 39
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+C_Ccp
+  rotate: true
+  xy: 47, 7
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+C_Eye
+  rotate: false
+  xy: 58, 39
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 2, 3
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
