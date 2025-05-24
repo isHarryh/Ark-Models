@@ -20,7 +20,7 @@
         "Rarity_5": "五星",
         "Rarity_6": "六星"
     },
-    "gameDataVersionDescription": "Producer: ArkUnpacker 4\nDate: 2025-05-18\n",
+    "gameDataVersionDescription": "Producer: ArkUnpacker 4\nDate: 2025-05-24\n",
     "gameDataServerRegion": "zh_CN",
     "data": {
         "285_medic2": {
@@ -41320,18 +41320,9 @@
                 "DynIllust"
             ],
             "assetList": {
-                ".atlas": [
-                    "dyn_illust_char_003_kalts_boc#6$0.atlas",
-                    "dyn_illust_char_003_kalts_boc#6.atlas"
-                ],
-                ".png": [
-                    "dyn_illust_char_003_kalts_boc#6$0.png",
-                    "dyn_illust_char_003_kalts_boc#6.png"
-                ],
-                ".skel": [
-                    "dyn_illust_char_003_kalts_boc#6$0.skel",
-                    "dyn_illust_char_003_kalts_boc#6.skel"
-                ]
+                ".atlas": "dyn_illust_char_003_kalts_boc#6.atlas",
+                ".png": "dyn_illust_char_003_kalts_boc#6.png",
+                ".skel": "dyn_illust_char_003_kalts_boc#6.skel"
             }
         },
         "dyn_illust_1012_skadi2": {
@@ -41946,18 +41937,9 @@
                 "DynIllust"
             ],
             "assetList": {
-                ".atlas": [
-                    "dyn_illust_char_172_svrash_ambienceSynesthesia#4$0.atlas",
-                    "dyn_illust_char_172_svrash_ambienceSynesthesia#4.atlas"
-                ],
-                ".png": [
-                    "dyn_illust_char_172_svrash_ambienceSynesthesia#4$0.png",
-                    "dyn_illust_char_172_svrash_ambienceSynesthesia#4.png"
-                ],
-                ".skel": [
-                    "dyn_illust_char_172_svrash_ambienceSynesthesia#4$0.skel",
-                    "dyn_illust_char_172_svrash_ambienceSynesthesia#4.skel"
-                ]
+                ".atlas": "dyn_illust_char_172_svrash_ambienceSynesthesia#4.atlas",
+                ".png": "dyn_illust_char_172_svrash_ambienceSynesthesia#4.png",
+                ".skel": "dyn_illust_char_172_svrash_ambienceSynesthesia#4.skel"
             }
         },
         "dyn_illust_179_cgbird_sightseer#1": {
