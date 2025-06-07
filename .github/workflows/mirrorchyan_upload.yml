@@ -17,7 +17,10 @@ jobs:
 
       - name: Create Archive
         run: |
-          zip -r mirrorchyan.zip `ls`
+          mkdir Ark-Models-main
+          shopt -s extglob
+          cp -r !(Ark-Models-main|mirrorchyan.zip|.git) Ark-Models-main/
+          zip -r mirrorchyan.zip Ark-Models-main
 
       - name: Get Version Name
         id: version_name
