@@ -1,0 +1,342 @@
+
+enemy_10101_crgun.png
+size: 300,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Belt
+  rotate: false
+  xy: 157, 25
+  size: 59, 14
+  orig: 59, 14
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: false
+  xy: 154, 217
+  size: 61, 72
+  orig: 61, 72
+  offset: 0, 0
+  index: -1
+C_Camera
+  rotate: false
+  xy: 2, 166
+  size: 95, 123
+  orig: 95, 123
+  offset: 0, 0
+  index: -1
+C_Camera_Key
+  rotate: false
+  xy: 64, 158
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+C_Camera_Key_Rope
+  rotate: false
+  xy: 281, 185
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+C_Camera_L
+  rotate: true
+  xy: 239, 56
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+C_Camera_R
+  rotate: true
+  xy: 281, 113
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+C_Camera_R2
+  rotate: false
+  xy: 66, 90
+  size: 41, 37
+  orig: 42, 37
+  offset: 1, 0
+  index: -1
+C_Camera_Rope
+  rotate: false
+  xy: 251, 90
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+C_Camera_Rope2
+  rotate: true
+  xy: 69, 133
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+C_Camera_Top
+  rotate: false
+  xy: 167, 118
+  size: 71, 25
+  orig: 71, 25
+  offset: 0, 0
+  index: -1
+C_Camera_Top2
+  rotate: false
+  xy: 176, 145
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+C_Chest_Tape
+  rotate: false
+  xy: 215, 86
+  size: 65, 44
+  orig: 65, 44
+  offset: 0, 0
+  index: -1
+C_Face
+  rotate: false
+  xy: 281, 210
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+C_Hat
+  rotate: true
+  xy: 99, 212
+  size: 77, 53
+  orig: 77, 53
+  offset: 0, 0
+  index: -1
+C_Hat_B
+  rotate: false
+  xy: 201, 102
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+C_Hat_Tape
+  rotate: false
+  xy: 281, 100
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 217, 228
+  size: 53, 61
+  orig: 53, 61
+  offset: 0, 0
+  index: -1
+C_Hip
+  rotate: false
+  xy: 2, 125
+  size: 70, 39
+  orig: 70, 39
+  offset: 0, 0
+  index: -1
+C_L_Arm_1
+  rotate: false
+  xy: 253, 131
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+C_L_Arm_2
+  rotate: true
+  xy: 44, 58
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+C_L_BagTape
+  rotate: false
+  xy: 176, 200
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+C_L_Collar
+  rotate: false
+  xy: 230, 6
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+C_L_EarPhone
+  rotate: false
+  xy: 109, 57
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+C_L_EarPhone_B
+  rotate: false
+  xy: 176, 186
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+C_L_EarPhone_Line
+  rotate: true
+  xy: 263, 3
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: false
+  xy: 37, 32
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: false
+  xy: 37, 32
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+C_L_HandHold
+  rotate: false
+  xy: 263, 26
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+C_L_Hand_Camera
+  rotate: false
+  xy: 2, 61
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+C_L_Horn
+  rotate: false
+  xy: 99, 129
+  size: 66, 37
+  orig: 66, 37
+  offset: 0, 0
+  index: -1
+C_L_Leg_1
+  rotate: false
+  xy: 128, 19
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+C_L_Leg_2
+  rotate: true
+  xy: 153, 85
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+C_L_Leg_Bag
+  rotate: false
+  xy: 272, 231
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+C_L_Leg_Sleeve
+  rotate: true
+  xy: 155, 41
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+C_R_Arm_1
+  rotate: true
+  xy: 16, 94
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+C_R_Arm_2
+  rotate: false
+  xy: 186, 54
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+C_R_Collar
+  rotate: true
+  xy: 2, 10
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+C_R_Finger
+  rotate: false
+  xy: 2, 28
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+C_R_Finger_B
+  rotate: false
+  xy: 154, 213
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+C_R_Hand_Camera
+  rotate: false
+  xy: 37, 3
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+C_R_Horn
+  rotate: false
+  xy: 109, 91
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+C_R_Leg_1
+  rotate: false
+  xy: 272, 252
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+C_R_Leg_2
+  rotate: 270
+  xy: 82, 30
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+C_R_Leg_Sleeve
+  rotate: false
+  xy: 222, 25
+  size: 39, 33
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: 180
+  xy: 80, 4
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1
+C_Weapon
+  rotate: false
+  xy: 204, 184
+  size: 75, 42
+  orig: 75, 42
+  offset: 0, 0
+  index: -1
+C_Weapon2
+  rotate: false
+  xy: 99, 168
+  size: 75, 42
+  orig: 75, 42
+  offset: 0, 0
+  index: -1
