@@ -8859,6 +8859,44 @@
                 ".skel": "build_char_4066_highmo_epoque#45.skel"
             }
         },
+        "4137_udflow_epoque#46": {
+            "assetId": "build_char_4137_udflow_epoque#46",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "深巡",
+            "appellation": "Underflow",
+            "skinGroupId": "2025#epoque#8",
+            "skinGroupName": "时代/XLV",
+            "sortTags": [
+                "Operator",
+                "Rarity_5",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_4137_udflow_epoque#46.atlas",
+                ".png": "build_char_4137_udflow_epoque#46.png",
+                ".skel": "build_char_4137_udflow_epoque#46.skel"
+            }
+        },
+        "154_morgan_epoque#47": {
+            "assetId": "build_char_154_morgan_epoque#47",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "摩根",
+            "appellation": "Morgan",
+            "skinGroupId": "2025#epoque#9",
+            "skinGroupName": "时代/XLVI",
+            "sortTags": [
+                "Operator",
+                "Rarity_5",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_154_morgan_epoque#47.atlas",
+                ".png": "build_char_154_morgan_epoque#47.png",
+                ".skel": "build_char_154_morgan_epoque#47.skel"
+            }
+        },
         "120_hibisc_nian#1": {
             "assetId": "build_char_120_hibisc_nian#1",
             "type": "Operator",
@@ -18281,11 +18319,11 @@
             "style": null,
             "name": "报废的胶卷",
             "appellation": null,
-            "skinGroupId": "EnemyElite",
-            "skinGroupName": "精英敌人",
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
             "sortTags": [
                 "Enemy",
-                "EnemyElite"
+                "EnemyNormal"
             ],
             "assetList": {}
         },
@@ -18295,11 +18333,11 @@
             "style": null,
             "name": "彻底报废的胶卷",
             "appellation": null,
-            "skinGroupId": "EnemyElite",
-            "skinGroupName": "精英敌人",
+            "skinGroupId": "EnemyNormal",
+            "skinGroupName": "普通敌人",
             "sortTags": [
                 "Enemy",
-                "EnemyElite"
+                "EnemyNormal"
             ],
             "assetList": {}
         },
