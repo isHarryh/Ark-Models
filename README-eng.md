@@ -15,7 +15,7 @@ This repository collected the Spine models from the game Arknights (CN server), 
 | `models_enemies` | Enemies' battle models |
 | `models_illust`  | Dynamic illustrations (skins included) |
 
-> We will do updates irregularly, you are welcome to send PR to improve the repository. The tool we use to unpack the model files is [ArkUnpacker](https://github.com/isHarryh/Ark-Unpacker) v4.0.
+> We will do updates irregularly, you are welcome to send PR to improve the repository. The tool we use to unpack the model files is [ArkUnpacker](https://github.com/isHarryh/Ark-Unpacker) v4.2.
 
 ## Download
 
