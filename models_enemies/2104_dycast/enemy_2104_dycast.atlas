@@ -1,0 +1,104 @@
+
+enemy_2104_dycast.png
+size: 300,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Arm_L
+  rotate: false
+  xy: 225, 154
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+C_Arm_R
+  rotate: false
+  xy: 262, 114
+  size: 36, 100
+  orig: 36, 100
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: false
+  xy: 120, 137
+  size: 83, 135
+  orig: 83, 135
+  offset: 0, 0
+  index: -1
+C_Clothes_1
+  rotate: false
+  xy: 142, 72
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+C_Cloud_1
+  rotate: false
+  xy: 222, 74
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+C_Cloud_2
+  rotate: false
+  xy: 176, 96
+  size: 84, 51
+  orig: 84, 51
+  offset: 0, 0
+  index: -1
+C_Cloud_3
+  rotate: false
+  xy: 191, 43
+  size: 76, 55
+  orig: 76, 55
+  offset: 0, 0
+  index: -1
+C_Cloud_4
+  rotate: false
+  xy: 123, 3
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+C_Fire_1
+  rotate: false
+  xy: 204, 181
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+C_Fire_2
+  rotate: true
+  xy: 120, 28
+  size: 50, 76
+  orig: 50, 76
+  offset: 0, 0
+  index: -1
+C_Fu
+  rotate: false
+  xy: 270, 47
+  size: 28, 65
+  orig: 28, 65
+  offset: 0, 0
+  index: -1
+C_Hand_L
+  rotate: false
+  xy: 271, 243
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: 180
+  xy: 205, 206
+  size: 65, 66
+  orig: 65, 66
+  offset: 0, 0
+  index: -1
+C_Weapon
+  rotate: false
+  xy: 2, 19
+  size: 117, 252
+  orig: 117, 252
+  offset: 0, 0
+  index: -1

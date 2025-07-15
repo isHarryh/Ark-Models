@@ -1,0 +1,48 @@
+
+enemy_2101_dyspll.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_Base
+  rotate: false
+  xy: 2, 21
+  size: 48, 91
+  orig: 48, 91
+  offset: 0, 0
+  index: -1
+F_Fire_A
+  rotate: 270
+  xy: 81, 10
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+F_Fire_B
+  rotate: false
+  xy: 44, 28
+  size: 58, 80
+  orig: 58, 80
+  offset: 0, 0
+  index: -1
+F_Fire_C
+  rotate: true
+  xy: 40, 4
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+F_Fire_D
+  rotate: 180
+  xy: 94, 80
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+F_Fire_E
+  rotate: false
+  xy: 2, 5
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
