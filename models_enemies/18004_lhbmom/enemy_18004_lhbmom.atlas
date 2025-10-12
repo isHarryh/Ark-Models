@@ -1,0 +1,111 @@
+
+enemy_18004_lhbmom.png
+size: 264,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_Body
+  rotate: 180
+  xy: 202, 3
+  size: 60, 49
+  orig: 60, 49
+  offset: 0, 0
+  index: -1
+B_Leg_A
+  rotate: false
+  xy: 217, 220
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+B_Leg_B
+  rotate: false
+  xy: 227, 191
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+B_Leg_C
+  rotate: true
+  xy: 232, 88
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+B_WingA
+  rotate: true
+  xy: 162, 51
+  size: 57, 67
+  orig: 57, 67
+  offset: 0, 0
+  index: -1
+B_WingB
+  rotate: false
+  xy: 2, 44
+  size: 62, 77
+  orig: 62, 77
+  offset: 0, 0
+  index: -1
+F_Body
+  rotate: false
+  xy: 112, 110
+  size: 121, 70
+  orig: 121, 70
+  offset: 0, 0
+  index: -1
+F_Leg_A
+  rotate: false
+  xy: 64, 3
+  size: 53, 46
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+F_Leg_B
+  rotate: false
+  xy: 215, 144
+  size: 47, 40
+  orig: 48, 40
+  offset: 1, 0
+  index: -1
+F_Leg_C
+  rotate: false
+  xy: 2, 7
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+F_WingA
+  rotate: false
+  xy: 2, 123
+  size: 109, 64
+  orig: 109, 64
+  offset: 0, 0
+  index: -1
+F_WingB
+  rotate: false
+  xy: 2, 188
+  size: 111, 73
+  orig: 111, 73
+  offset: 0, 0
+  index: -1
+Head_A
+  rotate: false
+  xy: 80, 42
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+Head_B
+  rotate: true
+  xy: 114, 182
+  size: 79, 101
+  orig: 79, 101
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 125, 5
+  size: 70, 45
+  orig: 70, 45
+  offset: 0, 0
+  index: -1

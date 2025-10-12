@@ -1,0 +1,223 @@
+
+enemy_18002_lhbetl.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_B_Leg_A
+  rotate: 270
+  xy: 97, 41
+  size: 34, 52
+  orig: 34, 52
+  offset: 0, 0
+  index: -1
+A_B_Leg_B
+  rotate: 270
+  xy: 54, 3
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+A_Body
+  rotate: false
+  xy: 2, 95
+  size: 81, 78
+  orig: 81, 78
+  offset: 0, 0
+  index: -1
+A_F_Leg_A
+  rotate: true
+  xy: 79, 16
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+A_F_Leg_B
+  rotate: true
+  xy: 185, 11
+  size: 27, 28
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+A_F_Leg_C
+  rotate: false
+  xy: 160, 4
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+A_Flower_L
+  rotate: false
+  xy: 2, 109
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+A_Flower_R
+  rotate: false
+  xy: 116, 12
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+A_Head
+  rotate: 180
+  xy: 51, 56
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+A_Horn_L
+  rotate: true
+  xy: 127, 62
+  size: 24, 52
+  orig: 24, 52
+  offset: 0, 0
+  index: -1
+A_Horn_R
+  rotate: false
+  xy: 191, 120
+  size: 20, 53
+  orig: 20, 53
+  offset: 0, 0
+  index: -1
+A_L_Eye_A
+  rotate: false
+  xy: 81, 152
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+A_L_Eye_B
+  rotate: false
+  xy: 179, 144
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+A_R_Eye_A
+  rotate: false
+  xy: 179, 152
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+A_R_Eye_B
+  rotate: false
+  xy: 179, 135
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+A_Tail
+  rotate: 180
+  xy: 177, 29
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+B_B_Leg_A
+  rotate: 180
+  xy: 180, 56
+  size: 34, 52
+  orig: 34, 52
+  offset: 0, 0
+  index: -1
+B_B_Leg_B
+  rotate: false
+  xy: 2, 7
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+B_B_Leg_C
+  rotate: false
+  xy: 2, 7
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+B_Body
+  rotate: true
+  xy: 85, 79
+  size: 94, 51
+  orig: 94, 51
+  offset: 0, 0
+  index: -1
+B_F_Leg_A
+  rotate: true
+  xy: 61, 29
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+B_F_Leg_B
+  rotate: true
+  xy: 144, 20
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+B_F_Leg_C
+  rotate: true
+  xy: 29, 18
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+B_Head
+  rotate: true
+  xy: 2, 64
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+B_Horn_L
+  rotate: true
+  xy: 138, 122
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+B_Horn_R
+  rotate: false
+  xy: 138, 88
+  size: 51, 33
+  orig: 51, 33
+  offset: 0, 0
+  index: -1
+B_L_Eye_A
+  rotate: false
+  xy: 76, 164
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+B_L_Eye_B
+  rotate: false
+  xy: 179, 163
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+B_R_Eye_A
+  rotate: false
+  xy: 88, 162
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+B_R_Eye_B
+  rotate: false
+  xy: 179, 127
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+B_Tail
+  rotate: 180
+  xy: 2, 37
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1

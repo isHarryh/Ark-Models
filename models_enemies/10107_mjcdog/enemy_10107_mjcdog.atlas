@@ -1,0 +1,146 @@
+
+enemy_10107_mjcdog.png
+size: 288,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bag_A
+  rotate: false
+  xy: 2, 35
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+Bag_B
+  rotate: false
+  xy: 2, 160
+  size: 121, 114
+  orig: 121, 114
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 124, 118
+  size: 156, 79
+  orig: 156, 79
+  offset: 0, 0
+  index: -1
+Foot_A
+  rotate: 270
+  xy: 137, 9
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+Foot_Ac
+  rotate: false
+  xy: 164, 38
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+Foot_B
+  rotate: 180
+  xy: 244, 8
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+Foot_Bc
+  rotate: false
+  xy: 200, 207
+  size: 70, 66
+  orig: 70, 66
+  offset: 0, 0
+  index: -1
+Foot_C
+  rotate: true
+  xy: 45, 3
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+Foot_Cc
+  rotate: true
+  xy: 87, 29
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+Foot_D
+  rotate: 270
+  xy: 207, 21
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+Foot_Dc
+  rotate: false
+  xy: 102, 63
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+Head_A
+  rotate: false
+  xy: 205, 173
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+Head_B
+  rotate: false
+  xy: 272, 241
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+Head_C
+  rotate: false
+  xy: 205, 160
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+Head_D
+  rotate: false
+  xy: 255, 254
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+Head_E
+  rotate: false
+  xy: 271, 210
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+Head_F
+  rotate: false
+  xy: 2, 84
+  size: 98, 74
+  orig: 98, 74
+  offset: 0, 0
+  index: -1
+Head_G
+  rotate: false
+  xy: 48, 41
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+Head_H
+  rotate: true
+  xy: 177, 5
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: 270
+  xy: 189, 53
+  size: 116, 97
+  orig: 116, 97
+  offset: 0, 0
+  index: -1

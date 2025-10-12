@@ -1,0 +1,69 @@
+
+enemy_10126_rkbomb.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_A_Fur
+  rotate: 180
+  xy: 89, 3
+  size: 89, 47
+  orig: 89, 47
+  offset: 0, 0
+  index: -1
+C_B_Body
+  rotate: 180
+  xy: 2, 48
+  size: 133, 45
+  orig: 133, 45
+  offset: 0, 0
+  index: -1
+C_B_Demo_A
+  rotate: false
+  xy: 2, 127
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+C_B_Demo_B
+  rotate: false
+  xy: 17, 94
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+C_B_Demo_C
+  rotate: false
+  xy: 31, 106
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+C_B_Ear_A
+  rotate: false
+  xy: 2, 102
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+C_B_Ear_B
+  rotate: false
+  xy: 2, 49
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+C_B_Fur
+  rotate: true
+  xy: 135, 48
+  size: 90, 47
+  orig: 90, 47
+  offset: 0, 0
+  index: -1
+C_B_Ke
+  rotate: false
+  xy: 2, 93
+  size: 141, 86
+  orig: 141, 86
+  offset: 0, 0
+  index: -1

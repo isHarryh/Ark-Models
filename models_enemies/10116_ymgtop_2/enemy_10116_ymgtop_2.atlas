@@ -1,0 +1,335 @@
+
+enemy_10116_ymgtop_2.png
+size: 340,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_Body
+  rotate: false
+  xy: 198, 152
+  size: 83, 56
+  orig: 83, 56
+  offset: 0, 0
+  index: -1
+B_Hat
+  rotate: true
+  xy: 124, 137
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+B_L_Arm
+  rotate: true
+  xy: 41, 39
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+B_L_Hand_A
+  rotate: false
+  xy: 325, 248
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+B_R_Hand_A
+  rotate: false
+  xy: 120, 81
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+B_R_Hand_B
+  rotate: 270
+  xy: 240, 4
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+B_Tail
+  rotate: false
+  xy: 257, 138
+  size: 66, 71
+  orig: 66, 71
+  offset: 0, 0
+  index: -1
+F_Belt
+  rotate: 270
+  xy: 139, 64
+  size: 63, 32
+  orig: 63, 32
+  offset: 0, 0
+  index: -1
+F_Body
+  rotate: false
+  xy: 62, 144
+  size: 65, 56
+  orig: 65, 56
+  offset: 0, 0
+  index: -1
+F_Cloth
+  rotate: true
+  xy: 182, 24
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+F_Face
+  rotate: false
+  xy: 2, 143
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+F_Hat_A
+  rotate: false
+  xy: 59, 68
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+F_Hat_B
+  rotate: 270
+  xy: 270, 20
+  size: 28, 65
+  orig: 28, 65
+  offset: 0, 0
+  index: -1
+F_Hip
+  rotate: false
+  xy: 2, 61
+  size: 56, 34
+  orig: 56, 34
+  offset: 0, 0
+  index: -1
+F_L_Arm
+  rotate: 180
+  xy: 301, 46
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+F_L_Calf
+  rotate: true
+  xy: 227, 25
+  size: 31, 44
+  orig: 31, 48
+  offset: 0, 4
+  index: -1
+F_L_Fans_A
+  rotate: false
+  xy: 288, 91
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+F_L_Fans_Ba
+  rotate: false
+  xy: 2, 17
+  size: 49, 13
+  orig: 49, 13
+  offset: 0, 0
+  index: -1
+F_L_Fans_Bb
+  rotate: false
+  xy: 86, 98
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+F_L_Foot
+  rotate: 180
+  xy: 281, 13
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+F_L_Foot_Rope
+  rotate: false
+  xy: 190, 191
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+F_L_Hand_A
+  rotate: true
+  xy: 223, 129
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+F_L_Hand_B
+  rotate: false
+  xy: 325, 234
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+F_L_Horn_A
+  rotate: true
+  xy: 53, 14
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+F_L_Horn_B
+  rotate: true
+  xy: 248, 136
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+F_L_Leg
+  rotate: false
+  xy: 259, 49
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+F_L_Rope
+  rotate: false
+  xy: 325, 170
+  size: 4, 25
+  orig: 4, 25
+  offset: 0, 0
+  index: -1
+F_L_Sheeves
+  rotate: true
+  xy: 100, 38
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+F_L_Shoulder
+  rotate: false
+  xy: 134, 23
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+F_R_Arm
+  rotate: 270
+  xy: 83, 22
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+F_R_Calf
+  rotate: true
+  xy: 2, 33
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+F_R_Fans_A
+  rotate: true
+  xy: 2, 96
+  size: 45, 48
+  orig: 46, 49
+  offset: 1, 0
+  index: -1
+F_R_Fans_Ba
+  rotate: true
+  xy: 325, 265
+  size: 49, 13
+  orig: 49, 13
+  offset: 0, 0
+  index: -1
+F_R_Fans_Bb
+  rotate: 270
+  xy: 172, 90
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+F_R_Foot
+  rotate: 180
+  xy: 109, 9
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+F_R_Foot_Rope
+  rotate: false
+  xy: 112, 188
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+F_R_Hand_A
+  rotate: false
+  xy: 322, 197
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+F_R_Hand_B
+  rotate: 270
+  xy: 163, 3
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+F_R_Hand_C
+  rotate: false
+  xy: 52, 137
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+F_R_Horn_A
+  rotate: false
+  xy: 201, 4
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+F_R_Horn_B
+  rotate: true
+  xy: 81, 4
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+F_R_Leg
+  rotate: 270
+  xy: 211, 55
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+F_R_Rope
+  rotate: false
+  xy: 62, 192
+  size: 4, 15
+  orig: 4, 15
+  offset: 0, 0
+  index: -1
+F_R_Sheeves
+  rotate: 180
+  xy: 170, 46
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+F_Tail
+  rotate: true
+  xy: 223, 95
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1
+Sha_B
+  rotate: false
+  xy: 2, 209
+  size: 160, 105
+  orig: 160, 105
+  offset: 0, 0
+  index: -1
+Sha_F
+  rotate: false
+  xy: 164, 210
+  size: 159, 104
+  orig: 159, 104
+  offset: 0, 0
+  index: -1

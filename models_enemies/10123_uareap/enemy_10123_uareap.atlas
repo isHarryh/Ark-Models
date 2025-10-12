@@ -1,0 +1,125 @@
+
+enemy_10123_uareap.png
+size: 276,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_Body
+  rotate: 180
+  xy: 147, 175
+  size: 109, 98
+  orig: 109, 98
+  offset: 0, 0
+  index: -1
+F_Head
+  rotate: false
+  xy: 2, 173
+  size: 147, 99
+  orig: 147, 99
+  offset: 0, 0
+  index: -1
+F_L_Arm_A
+  rotate: true
+  xy: 71, 14
+  size: 46, 62
+  orig: 46, 62
+  offset: 0, 0
+  index: -1
+F_L_Arm_B
+  rotate: true
+  xy: 135, 10
+  size: 41, 61
+  orig: 41, 61
+  offset: 0, 0
+  index: -1
+F_L_Calf
+  rotate: true
+  xy: 160, 52
+  size: 43, 80
+  orig: 43, 80
+  offset: 0, 0
+  index: -1
+F_L_Forearm_A
+  rotate: true
+  xy: 107, 105
+  size: 69, 90
+  orig: 69, 90
+  offset: 0, 0
+  index: -1
+F_L_Forearm_B
+  rotate: false
+  xy: 2, 243
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+F_L_Leg
+  rotate: true
+  xy: 2, 16
+  size: 46, 68
+  orig: 46, 68
+  offset: 0, 0
+  index: -1
+F_R_Arm_A
+  rotate: true
+  xy: 199, 97
+  size: 77, 63
+  orig: 77, 63
+  offset: 0, 0
+  index: -1
+F_R_Arm_B
+  rotate: false
+  xy: 198, 3
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+F_R_Calf
+  rotate: true
+  xy: 72, 62
+  size: 40, 86
+  orig: 40, 86
+  offset: 0, 0
+  index: -1
+F_R_Forearm
+  rotate: true
+  xy: 2, 117
+  size: 55, 89
+  orig: 55, 89
+  offset: 0, 0
+  index: -1
+F_R_Gun_A
+  rotate: false
+  xy: 41, 258
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+F_R_Gun_C
+  rotate: false
+  xy: 41, 258
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+F_R_Gun_B
+  rotate: false
+  xy: 2, 226
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+F_R_Gun_D
+  rotate: false
+  xy: 2, 226
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+F_R_Leg
+  rotate: true
+  xy: 2, 63
+  size: 52, 69
+  orig: 52, 69
+  offset: 0, 0
+  index: -1

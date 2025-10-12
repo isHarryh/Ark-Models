@@ -1,0 +1,349 @@
+
+enemy_1571_mirbst.png
+size: 488,488
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body_I
+  rotate: false
+  xy: 2, 186
+  size: 124, 168
+  orig: 124, 168
+  offset: 0, 0
+  index: -1
+C_Body_II
+  rotate: 180
+  xy: 104, 209
+  size: 140, 147
+  orig: 140, 147
+  offset: 0, 0
+  index: -1
+C_Chin_I
+  rotate: false
+  xy: 410, 239
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+C_Head_I
+  rotate: 270
+  xy: 292, 389
+  size: 96, 81
+  orig: 96, 82
+  offset: 0, 1
+  index: -1
+C_Hp_I
+  rotate: true
+  xy: 2, 28
+  size: 159, 131
+  orig: 159, 131
+  offset: 0, 0
+  index: -1
+C_L_Arm_I
+  rotate: false
+  xy: 123, 89
+  size: 101, 109
+  orig: 101, 109
+  offset: 0, 0
+  index: -1
+C_L_C_Hand_I
+  rotate: true
+  xy: 131, 6
+  size: 81, 83
+  orig: 85, 83
+  offset: 2, 0
+  index: -1
+C_L_Calf_I
+  rotate: false
+  xy: 326, 238
+  size: 88, 74
+  orig: 88, 74
+  offset: 0, 0
+  index: -1
+C_L_Finger_I
+  rotate: true
+  xy: 2, 160
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+C_L_Finger_II
+  rotate: false
+  xy: 422, 66
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+C_L_Finger_III
+  rotate: false
+  xy: 422, 9
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+C_L_Finger_IV
+  rotate: false
+  xy: 127, 203
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+C_L_Finger_V
+  rotate: 270
+  xy: 87, 4
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+C_L_Foot_I
+  rotate: false
+  xy: 242, 212
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+C_L_Foot_II
+  rotate: true
+  xy: 445, 423
+  size: 62, 26
+  orig: 62, 26
+  offset: 0, 0
+  index: -1
+C_L_Forearm_I
+  rotate: false
+  xy: 310, 140
+  size: 66, 86
+  orig: 66, 86
+  offset: 0, 0
+  index: -1
+C_L_Hand_I
+  rotate: false
+  xy: 380, 351
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+C_L_Leg_I
+  rotate: false
+  xy: 129, 395
+  size: 84, 90
+  orig: 84, 93
+  offset: 0, 0
+  index: -1
+C_L_Stone_I
+  rotate: true
+  xy: 378, 41
+  size: 97, 42
+  orig: 97, 43
+  offset: 0, 1
+  index: -1
+C_L_Stone_II
+  rotate: true
+  xy: 215, 398
+  size: 87, 75
+  orig: 87, 75
+  offset: 0, 0
+  index: -1
+C_L_Stone_III
+  rotate: false
+  xy: 235, 123
+  size: 73, 87
+  orig: 73, 87
+  offset: 0, 0
+  index: -1
+C_L_Stone_IV
+  rotate: false
+  xy: 380, 326
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+C_L_Stone_V
+  rotate: true
+  xy: 310, 119
+  size: 19, 61
+  orig: 19, 63
+  offset: 0, 1
+  index: -1
+C_L_Stone_VI
+  rotate: false
+  xy: 129, 360
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+C_Mouth_I
+  rotate: false
+  xy: 197, 170
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+C_Neck_I
+  rotate: false
+  xy: 216, 23
+  size: 82, 98
+  orig: 82, 98
+  offset: 0, 0
+  index: -1
+C_Nose_I
+  rotate: false
+  xy: 75, 334
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+C_R_Arm_I
+  rotate: 180
+  xy: 293, 13
+  size: 84, 102
+  orig: 84, 102
+  offset: 0, 0
+  index: -1
+C_R_C_Hand_I
+  rotate: false
+  xy: 308, 314
+  size: 70, 73
+  orig: 70, 73
+  offset: 0, 0
+  index: -1
+C_R_Calf_I
+  rotate: false
+  xy: 367, 408
+  size: 76, 78
+  orig: 76, 78
+  offset: 0, 0
+  index: -1
+C_R_Finger_I
+  rotate: false
+  xy: 441, 356
+  size: 36, 65
+  orig: 36, 65
+  offset: 0, 0
+  index: -1
+C_R_Finger_II
+  rotate: false
+  xy: 433, 218
+  size: 39, 59
+  orig: 39, 59
+  offset: 0, 0
+  index: -1
+C_R_Finger_III
+  rotate: false
+  xy: 409, 119
+  size: 40, 57
+  orig: 40, 57
+  offset: 0, 0
+  index: -1
+C_R_Finger_IV
+  rotate: 270
+  xy: 439, 166
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+C_R_Finger_V
+  rotate: false
+  xy: 354, 6
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+C_R_Foot_I
+  rotate: false
+  xy: 175, 203
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+C_R_Foot_II
+  rotate: false
+  xy: 2, 4
+  size: 63, 22
+  orig: 63, 22
+  offset: 0, 0
+  index: -1
+C_R_Foot_III
+  rotate: false
+  xy: 2, 341
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+C_R_Forearm_I
+  rotate: false
+  xy: 245, 228
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+C_R_Hand_I
+  rotate: false
+  xy: 378, 177
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+C_R_Leg_I
+  rotate: false
+  xy: 232, 310
+  size: 74, 86
+  orig: 74, 87
+  offset: 0, 1
+  index: -1
+C_R_Stone_I
+  rotate: false
+  xy: 414, 279
+  size: 44, 70
+  orig: 44, 70
+  offset: 0, 0
+  index: -1
+C_R_Stone_II
+  rotate: false
+  xy: 184, 354
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+C_Saliva_I
+  rotate: false
+  xy: 15, 336
+  size: 5, 17
+  orig: 5, 17
+  offset: 0, 0
+  index: -1
+C_Stone_A
+  rotate: false
+  xy: 2, 355
+  size: 126, 131
+  orig: 126, 131
+  offset: 0, 0
+  index: -1
+C_Teeth_I
+  rotate: false
+  xy: 2, 315
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+C_Teeth_II
+  rotate: false
+  xy: 90, 320
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+C_Teeth_III
+  rotate: false
+  xy: 164, 382
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+C_Teeth_IV
+  rotate: false
+  xy: 2, 328
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,244 @@
+
+enemy_3010_mcreep.png
+size: 252,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_B_Hat
+  rotate: false
+  xy: 2, 37
+  size: 79, 31
+  orig: 79, 31
+  offset: 0, 0
+  index: -1
+C_Belt
+  rotate: true
+  xy: 123, 56
+  size: 53, 23
+  orig: 53, 23
+  offset: 0, 0
+  index: -1
+C_Belt_s
+  rotate: false
+  xy: 2, 8
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: -1
+C_Body_gs
+  rotate: true
+  xy: 34, 4
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+C_Chest
+  rotate: false
+  xy: 60, 95
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+C_Hat
+  rotate: false
+  xy: 2, 142
+  size: 79, 45
+  orig: 79, 45
+  offset: 0, 0
+  index: -1
+C_Hat_1
+  rotate: true
+  xy: 198, 29
+  size: 23, 22
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 2, 189
+  size: 63, 60
+  orig: 63, 60
+  offset: 0, 0
+  index: -1
+C_Hip
+  rotate: true
+  xy: 116, 196
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: true
+  xy: 159, 6
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+C_L_Belt
+  rotate: false
+  xy: 198, 5
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+C_L_Ears
+  rotate: true
+  xy: 193, 108
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: true
+  xy: 151, 111
+  size: 38, 22
+  orig: 38, 22
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: false
+  xy: 159, 35
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 154, 183
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: false
+  xy: 83, 150
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+C_L_Thigh
+  rotate: true
+  xy: 83, 10
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+C_L_Thigh_s
+  rotate: false
+  xy: 122, 151
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+C_L_Thigh_ss
+  rotate: false
+  xy: 2, 114
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+C_Light
+  rotate: false
+  xy: 154, 154
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+C_LinZi
+  rotate: true
+  xy: 175, 106
+  size: 46, 16
+  orig: 47, 17
+  offset: 0, 1
+  index: -1
+C_Mask
+  rotate: true
+  xy: 147, 67
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: false
+  xy: 150, 215
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+C_R_Belt
+  rotate: false
+  xy: 179, 220
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+C_R_Finger
+  rotate: true
+  xy: 193, 132
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: true
+  xy: 177, 67
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: false
+  xy: 114, 110
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: false
+  xy: 84, 47
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+C_R_Palm
+  rotate: true
+  xy: 187, 159
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+C_R_Thigh
+  rotate: false
+  xy: 126, 16
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+C_R_Thigh_ss
+  rotate: true
+  xy: 184, 187
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+C_Tiao
+  rotate: 180
+  xy: 194, 54
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+C_Waist
+  rotate: true
+  xy: 67, 198
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+C_Weapon
+  rotate: true
+  xy: 2, 70
+  size: 71, 81
+  orig: 78, 95
+  offset: 7, 0
+  index: -1

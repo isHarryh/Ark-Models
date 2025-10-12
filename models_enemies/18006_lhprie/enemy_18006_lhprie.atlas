@@ -1,0 +1,146 @@
+
+enemy_18006_lhprie.png
+size: 328,328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CA_Arm_l
+  rotate: true
+  xy: 123, 29
+  size: 30, 57
+  orig: 30, 57
+  offset: 0, 0
+  index: -1
+CA_Arm_lx
+  rotate: false
+  xy: 2, 217
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+CA_Arm_r
+  rotate: false
+  xy: 2, 25
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+CA_Forearm_l
+  rotate: true
+  xy: 274, 41
+  size: 56, 37
+  orig: 56, 37
+  offset: 0, 0
+  index: -1
+CA_Forearm_lx
+  rotate: 180
+  xy: 137, 84
+  size: 36, 30
+  orig: 38, 53
+  offset: 2, 0
+  index: -1
+CA_Forearm_r
+  rotate: false
+  xy: 216, 20
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+CA_Gs
+  rotate: false
+  xy: 40, 12
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+CA_R_Arm
+  rotate: true
+  xy: 273, 99
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+CA_R_Forearm
+  rotate: false
+  xy: 287, 237
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+CA_R_Hand
+  rotate: false
+  xy: 77, 18
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+CB_B_Skirt
+  rotate: false
+  xy: 2, 105
+  size: 159, 186
+  orig: 159, 186
+  offset: 0, 0
+  index: -1
+CB_Body
+  rotate: 180
+  xy: 158, 152
+  size: 77, 139
+  orig: 77, 139
+  offset: 0, 0
+  index: -1
+CB_Eye
+  rotate: false
+  xy: 64, 275
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+CB_Eye_1
+  rotate: false
+  xy: 2, 46
+  size: 131, 101
+  orig: 131, 101
+  offset: 0, 0
+  index: -1
+CB_Gs
+  rotate: 180
+  xy: 276, 3
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+CB_Head
+  rotate: false
+  xy: 231, 236
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+CB_L_Hand
+  rotate: true
+  xy: 231, 185
+  size: 50, 76
+  orig: 50, 76
+  offset: 0, 0
+  index: -1
+CB_Mouth
+  rotate: true
+  xy: 159, 37
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+CB_R_Hair
+  rotate: false
+  xy: 3, 158
+  size: 28, 60
+  orig: 28, 60
+  offset: 0, 0
+  index: -1
+CB_R_Hand
+  rotate: true
+  xy: 225, 151
+  size: 48, 79
+  orig: 48, 79
+  offset: 0, 0
+  index: -1

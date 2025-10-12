@@ -1,0 +1,300 @@
+
+enemy_10113_ymgung_2.png
+size: 276,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Ball
+  rotate: false
+  xy: 2, 16
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+C_Belt_A
+  rotate: 180
+  xy: 34, 56
+  size: 56, 17
+  orig: 56, 17
+  offset: 0, 0
+  index: -1
+C_Belt_B
+  rotate: false
+  xy: 109, 11
+  size: 58, 20
+  orig: 58, 20
+  offset: 0, 0
+  index: -1
+C_Body_A
+  rotate: false
+  xy: 70, 114
+  size: 69, 58
+  orig: 69, 58
+  offset: 0, 0
+  index: -1
+C_Body_B
+  rotate: true
+  xy: 178, 71
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+C_Body_Belt
+  rotate: 180
+  xy: 61, 3
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+C_Body_Belt_Chain
+  rotate: false
+  xy: 2, 166
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+C_Cloth
+  rotate: true
+  xy: 232, 51
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+C_Face
+  rotate: true
+  xy: 205, 216
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+C_Hat_A
+  rotate: false
+  xy: 118, 63
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+C_Hat_B
+  rotate: false
+  xy: 2, 106
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+C_Hip
+  rotate: false
+  xy: 40, 82
+  size: 60, 36
+  orig: 60, 36
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: true
+  xy: 106, 34
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+C_L_Calf
+  rotate: false
+  xy: 176, 45
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: 180
+  xy: 203, 35
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+C_L_Foot_Down
+  rotate: false
+  xy: 143, 98
+  size: 35, 4
+  orig: 35, 4
+  offset: 0, 0
+  index: -1
+C_R_Foot_Down
+  rotate: false
+  xy: 143, 98
+  size: 35, 4
+  orig: 35, 4
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: 270
+  xy: 143, 33
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 2, 40
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+C_L_Horn
+  rotate: false
+  xy: 260, 182
+  size: 12, 32
+  orig: 12, 32
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: 180
+  xy: 90, 60
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+C_L_Shoe
+  rotate: false
+  xy: 26, 11
+  size: 34, 14
+  orig: 34, 14
+  offset: 0, 0
+  index: -1
+C_R_Shoe
+  rotate: false
+  xy: 26, 11
+  size: 34, 14
+  orig: 34, 14
+  offset: 0, 0
+  index: -1
+C_Line
+  rotate: true
+  xy: 145, 14
+  size: 2, 63
+  orig: 2, 63
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: true
+  xy: 66, 28
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+C_R_Calf
+  rotate: false
+  xy: 2, 70
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+C_R_Fin_A
+  rotate: false
+  xy: 90, 246
+  size: 13, 14
+  orig: 17, 16
+  offset: 3, 1
+  index: -1
+C_R_Fin_B
+  rotate: false
+  xy: 262, 217
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+C_R_Fin_C
+  rotate: false
+  xy: 2, 244
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+C_R_Fin_D
+  rotate: false
+  xy: 266, 167
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+C_R_Fin_E
+  rotate: false
+  xy: 64, 151
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: 180
+  xy: 240, 25
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: true
+  xy: 32, 25
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: false
+  xy: 177, 21
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+C_R_Horn
+  rotate: true
+  xy: 236, 11
+  size: 12, 31
+  orig: 12, 31
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: false
+  xy: 236, 80
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+C_Rope
+  rotate: false
+  xy: 262, 233
+  size: 8, 27
+  orig: 8, 27
+  offset: 0, 0
+  index: -1
+C_Scarf
+  rotate: false
+  xy: 203, 18
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+C_Sha1
+  rotate: false
+  xy: 176, 114
+  size: 98, 100
+  orig: 124, 100
+  offset: 6, 0
+  index: -1
+C_Sha2
+  rotate: false
+  xy: 2, 160
+  size: 111, 100
+  orig: 124, 100
+  offset: 0, 0
+  index: -1
+C_Sha3
+  rotate: 180
+  xy: 96, 160
+  size: 107, 100
+  orig: 124, 100
+  offset: 1, 0
+  index: -1
+C_Weapon
+  rotate: true
+  xy: 140, 104
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,293 @@
+
+enemy_1572_folchr.png
+size: 340,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_B_Hat
+  rotate: 270
+  xy: 228, 302
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+C_B_Skirt
+  rotate: false
+  xy: 2, 192
+  size: 175, 144
+  orig: 175, 146
+  offset: 0, 0
+  index: -1
+C_B_Skirt_H
+  rotate: false
+  xy: 111, 112
+  size: 105, 54
+  orig: 105, 54
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: true
+  xy: 136, 65
+  size: 45, 52
+  orig: 45, 52
+  offset: 0, 0
+  index: -1
+C_Daizi
+  rotate: true
+  xy: 168, 324
+  size: 11, 42
+  orig: 11, 42
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: 180
+  xy: 2, 104
+  size: 107, 94
+  orig: 107, 94
+  offset: 0, 0
+  index: -1
+C_Hip
+  rotate: true
+  xy: 125, 23
+  size: 54, 49
+  orig: 54, 49
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: true
+  xy: 54, 37
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+C_L_Finger_1
+  rotate: false
+  xy: 91, 119
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+C_L_Finger_2
+  rotate: false
+  xy: 175, 175
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+C_L_Finger_3
+  rotate: false
+  xy: 33, 199
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+C_L_Finger_4
+  rotate: false
+  xy: 2, 267
+  size: 10, 27
+  orig: 10, 27
+  offset: 0, 0
+  index: -1
+C_L_Finger_5
+  rotate: true
+  xy: 39, 9
+  size: 26, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: true
+  xy: 219, 24
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: true
+  xy: 295, 297
+  size: 38, 35
+  orig: 39, 36
+  offset: 0, 1
+  index: -1
+C_L_Forearm_b
+  rotate: false
+  xy: 2, 185
+  size: 29, 77
+  orig: 29, 77
+  offset: 0, 0
+  index: -1
+C_L_Forearm_f
+  rotate: false
+  xy: 83, 6
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+C_L_Hair
+  rotate: true
+  xy: 247, 59
+  size: 51, 55
+  orig: 51, 55
+  offset: 0, 0
+  index: -1
+C_L_Hair_2
+  rotate: 180
+  xy: 74, 68
+  size: 60, 51
+  orig: 60, 51
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: false
+  xy: 252, 250
+  size: 41, 62
+  orig: 41, 62
+  offset: 0, 0
+  index: -1
+C_L_Thigh
+  rotate: true
+  xy: 2, 39
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+C_L_TiePian
+  rotate: true
+  xy: 141, 4
+  size: 33, 77
+  orig: 33, 77
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: false
+  xy: 302, 143
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+C_R_Finger_1
+  rotate: false
+  xy: 208, 168
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+C_R_Finger_2
+  rotate: false
+  xy: 235, 279
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+C_R_Finger_3
+  rotate: false
+  xy: 198, 168
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+C_R_Finger_4
+  rotate: true
+  xy: 2, 3
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+C_R_Finger_5
+  rotate: false
+  xy: 67, 82
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: true
+  xy: 294, 26
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: true
+  xy: 297, 95
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+C_R_Forearm_b
+  rotate: false
+  xy: 300, 184
+  size: 27, 67
+  orig: 27, 67
+  offset: 0, 0
+  index: -1
+C_R_Forearm_f
+  rotate: true
+  xy: 264, 215
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+C_R_Hair
+  rotate: false
+  xy: 249, 14
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+C_R_Hair_2
+  rotate: false
+  xy: 295, 251
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: true
+  xy: 2, 70
+  size: 31, 63
+  orig: 31, 63
+  offset: 0, 0
+  index: -1
+C_R_Thigh
+  rotate: false
+  xy: 276, 140
+  size: 24, 50
+  orig: 24, 50
+  offset: 0, 0
+  index: -1
+C_Sheng
+  rotate: true
+  xy: 105, 167
+  size: 9, 79
+  orig: 9, 79
+  offset: 0, 0
+  index: -1
+C_Sheng_1
+  rotate: true
+  xy: 92, 178
+  size: 11, 81
+  orig: 11, 92
+  offset: 0, 0
+  index: -1
+C_Skirt
+  rotate: 180
+  xy: 130, 187
+  size: 165, 134
+  orig: 165, 134
+  offset: 0, 0
+  index: -1
+C_TiePian
+  rotate: 180
+  xy: 213, 78
+  size: 65, 110
+  orig: 65, 110
+  offset: 0, 0
+  index: -1
+C_Xiongjia
+  rotate: true
+  xy: 190, 47
+  size: 59, 27
+  orig: 59, 27
+  offset: 0, 0
+  index: -1
