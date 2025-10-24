@@ -1,0 +1,55 @@
+
+enemy_4046_muobst.png
+size: 240,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_Base
+  rotate: true
+  xy: 104, 75
+  size: 159, 96
+  orig: 159, 96
+  offset: 0, 0
+  index: -1
+F_Body
+  rotate: false
+  xy: 2, 76
+  size: 100, 158
+  orig: 100, 158
+  offset: 0, 0
+  index: -1
+F_Body2
+  rotate: false
+  xy: 218, 161
+  size: 18, 73
+  orig: 18, 73
+  offset: 0, 0
+  index: -1
+F_Lamp
+  rotate: true
+  xy: 122, 31
+  size: 42, 84
+  orig: 42, 84
+  offset: 0, 0
+  index: -1
+F_Light
+  rotate: true
+  xy: 208, 69
+  size: 165, 8
+  orig: 166, 8
+  offset: 0, 0
+  index: -1
+F_Sigh
+  rotate: true
+  xy: 122, 2
+  size: 27, 92
+  orig: 27, 92
+  offset: 0, 0
+  index: -1
+F_Top
+  rotate: false
+  xy: 2, 4
+  size: 118, 69
+  orig: 118, 69
+  offset: 0, 0
+  index: -1

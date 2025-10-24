@@ -1,0 +1,20 @@
+
+enemy_4040_mugoal.png
+size: 416,416
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_Base
+  rotate: false
+  xy: 2, 11
+  size: 211, 403
+  orig: 211, 403
+  offset: 0, 0
+  index: -1
+F_Shine
+  rotate: 270
+  xy: 170, 3
+  size: 103, 77
+  orig: 103, 77
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+enemy_4048_mubarn_2.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_B_Back
+  rotate: false
+  xy: 2, 48
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+F_B_Body
+  rotate: true
+  xy: 132, 62
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+F_B_L_Arm
+  rotate: false
+  xy: 40, 15
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+F_B_L_Eye
+  rotate: false
+  xy: 199, 47
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+F_B_L_Hand1
+  rotate: 180
+  xy: 169, 69
+  size: 34, 60
+  orig: 34, 60
+  offset: 0, 0
+  index: -1
+F_B_L_Hand2
+  rotate: true
+  xy: 106, 4
+  size: 22, 41
+  orig: 22, 41
+  offset: 0, 0
+  index: -1
+F_B_Leg1
+  rotate: true
+  xy: 68, 7
+  size: 19, 38
+  orig: 23, 46
+  offset: 4, 0
+  index: -1
+F_B_Leg2
+  rotate: false
+  xy: 143, 25
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+F_B_Leg3
+  rotate: false
+  xy: 165, 39
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+F_B_Leg4
+  rotate: true
+  xy: 2, 8
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+F_B_Leg5
+  rotate: true
+  xy: 2, 32
+  size: 28, 37
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+F_B_Leg6
+  rotate: false
+  xy: 69, 26
+  size: 28, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+F_B_Mouth
+  rotate: false
+  xy: 2, 63
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+F_B_R_Arm
+  rotate: false
+  xy: 190, 100
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+F_B_R_Eye
+  rotate: false
+  xy: 83, 111
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+F_B_R_Hand
+  rotate: 270
+  xy: 171, 18
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+F_B_Weapon
+  rotate: true
+  xy: 98, 24
+  size: 105, 32
+  orig: 105, 32
+  offset: 0, 0
+  index: -1
