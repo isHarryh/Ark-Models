@@ -1,0 +1,111 @@
+
+enemy_10144_xdelk_2.png
+size: 316,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 132
+  size: 166, 144
+  orig: 166, 144
+  offset: 0, 0
+  index: -1
+C_Cloud_A
+  rotate: 270
+  xy: 2, 26
+  size: 152, 106
+  orig: 152, 106
+  offset: 0, 0
+  index: -1
+C_Cloud_B
+  rotate: 270
+  xy: 2, 8
+  size: 107, 54
+  orig: 107, 54
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: 270
+  xy: 109, 6
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+C_Horn_A
+  rotate: false
+  xy: 170, 161
+  size: 94, 114
+  orig: 94, 114
+  offset: 0, 0
+  index: -1
+C_Horn_B
+  rotate: false
+  xy: 166, 62
+  size: 104, 97
+  orig: 104, 97
+  offset: 0, 0
+  index: -1
+C_Leg_Aa
+  rotate: true
+  xy: 183, 33
+  size: 27, 75
+  orig: 27, 75
+  offset: 0, 0
+  index: -1
+C_Leg_Ab
+  rotate: false
+  xy: 266, 143
+  size: 35, 63
+  orig: 35, 69
+  offset: 0, 3
+  index: -1
+C_Leg_Ba
+  rotate: true
+  xy: 2, 250
+  size: 25, 65
+  orig: 25, 65
+  offset: 0, 0
+  index: -1
+C_Leg_Bb
+  rotate: false
+  xy: 272, 79
+  size: 34, 63
+  orig: 39, 72
+  offset: 2, 4
+  index: -1
+C_Leg_Ca
+  rotate: true
+  xy: 87, 89
+  size: 42, 69
+  orig: 44, 73
+  offset: 1, 2
+  index: -1
+C_Leg_Cb
+  rotate: true
+  xy: 211, 4
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+C_Leg_Da
+  rotate: false
+  xy: 266, 207
+  size: 43, 70
+  orig: 45, 70
+  offset: 1, 0
+  index: -1
+C_Leg_Db
+  rotate: false
+  xy: 272, 22
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: 180
+  xy: 50, 123
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1

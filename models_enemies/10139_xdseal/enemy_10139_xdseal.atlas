@@ -1,0 +1,230 @@
+
+enemy_10139_xdseal.png
+size: 340,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body_I
+  rotate: 180
+  xy: 143, 66
+  size: 125, 113
+  orig: 125, 113
+  offset: 0, 0
+  index: -1
+C_L_C_Eye_III
+  rotate: false
+  xy: 182, 182
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+C_L_Ear_I
+  rotate: false
+  xy: 47, 13
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+C_L_Eye_I
+  rotate: false
+  xy: 273, 305
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+C_L_Eyebrow_I
+  rotate: false
+  xy: 38, 315
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+C_L_Hand_II
+  rotate: false
+  xy: 2, 301
+  size: 23, 21
+  orig: 24, 22
+  offset: 0, 1
+  index: -1
+C_L_Hand_III
+  rotate: false
+  xy: 270, 81
+  size: 47, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+C_L_Leg_I
+  rotate: false
+  xy: 2, 16
+  size: 23, 29
+  orig: 25, 29
+  offset: 1, 0
+  index: -1
+C_L_Leg_II
+  rotate: false
+  xy: 2, 138
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+C_Mouth_I
+  rotate: false
+  xy: 253, 48
+  size: 50, 31
+  orig: 50, 31
+  offset: 0, 0
+  index: -1
+C_R_C_Eye_III
+  rotate: false
+  xy: 27, 312
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+C_R_Eye_I
+  rotate: false
+  xy: 230, 269
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+C_R_Eyebrow_I
+  rotate: false
+  xy: 137, 315
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+C_R_Hand_II
+  rotate: false
+  xy: 163, 301
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+C_R_Hand_III
+  rotate: false
+  xy: 233, 287
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+C_R_Leg_I
+  rotate: false
+  xy: 301, 290
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+C_Ribbon_I
+  rotate: false
+  xy: 268, 4
+  size: 70, 73
+  orig: 70, 73
+  offset: 0, 0
+  index: -1
+C_Ribbon_II
+  rotate: false
+  xy: 2, 24
+  size: 45, 50
+  orig: 49, 73
+  offset: 4, 0
+  index: -1
+C_Ribbon_III
+  rotate: false
+  xy: 240, 260
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+C_Ribbon_IV
+  rotate: 180
+  xy: 190, 19
+  size: 61, 45
+  orig: 61, 45
+  offset: 0, 0
+  index: -1
+C_Ribbon_R_I
+  rotate: 270
+  xy: 79, 10
+  size: 49, 73
+  orig: 49, 73
+  offset: 0, 0
+  index: -1
+C_Ribbon_V
+  rotate: true
+  xy: 257, 156
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+C_Ribbon_VI
+  rotate: false
+  xy: 144, 8
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+C_Ribbon_VII
+  rotate: true
+  xy: 106, 8
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+C_Snow_I
+  rotate: false
+  xy: 2, 44
+  size: 107, 101
+  orig: 107, 101
+  offset: 0, 0
+  index: -1
+C_Snow_III
+  rotate: false
+  xy: 2, 141
+  size: 185, 182
+  orig: 185, 182
+  offset: 0, 0
+  index: -1
+C_Snow_II_I
+  rotate: 270
+  xy: 185, 176
+  size: 147, 141
+  orig: 147, 141
+  offset: 0, 0
+  index: -1
+C_Snow_II_II
+  rotate: true
+  xy: 111, 36
+  size: 71, 110
+  orig: 71, 110
+  offset: 0, 0
+  index: -1
+C_Snow_I_I
+  rotate: false
+  xy: 282, 125
+  size: 56, 91
+  orig: 56, 91
+  offset: 0, 0
+  index: -1
+C_Tail_I
+  rotate: false
+  xy: 82, 90
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+F_R_Ear_I
+  rotate: false
+  xy: 312, 21
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+F_R_Ear_II
+  rotate: false
+  xy: 241, 11
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1

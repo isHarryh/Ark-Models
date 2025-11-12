@@ -1,0 +1,111 @@
+
+enemy_10140_xdbird_2.png
+size: 240,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body_I
+  rotate: false
+  xy: 57, 45
+  size: 54, 61
+  orig: 54, 61
+  offset: 0, 0
+  index: -1
+C_Body_II
+  rotate: true
+  xy: 176, 71
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+C_Effect_I
+  rotate: 270
+  xy: 29, 3
+  size: 63, 100
+  orig: 63, 100
+  offset: 0, 0
+  index: -1
+C_Head_I
+  rotate: true
+  xy: 153, 164
+  size: 51, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+C_L_Ear_I
+  rotate: 270
+  xy: 2, 164
+  size: 52, 71
+  orig: 52, 71
+  offset: 0, 0
+  index: -1
+C_L_Eye_I
+  rotate: false
+  xy: 2, 38
+  size: 25, 21
+  orig: 25, 23
+  offset: 0, 1
+  index: -1
+C_L_Eye_II
+  rotate: false
+  xy: 93, 146
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+C_L_Foot_I
+  rotate: false
+  xy: 2, 18
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+C_L_Leg_I
+  rotate: false
+  xy: 2, 90
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+C_L_Wings_I
+  rotate: false
+  xy: 2, 61
+  size: 109, 155
+  orig: 109, 155
+  offset: 0, 0
+  index: -1
+C_R_Ear_I
+  rotate: true
+  xy: 153, 25
+  size: 44, 73
+  orig: 44, 73
+  offset: 0, 0
+  index: -1
+C_R_Foot_I
+  rotate: false
+  xy: 165, 142
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+C_R_Leg_I
+  rotate: false
+  xy: 2, 120
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+C_R_Wings_I
+  rotate: 180
+  xy: 102, 44
+  size: 77, 171
+  orig: 77, 171
+  offset: 0, 0
+  index: -1
+C_Tail_I
+  rotate: 180
+  xy: 193, 129
+  size: 41, 87
+  orig: 41, 87
+  offset: 0, 0
+  index: -1
