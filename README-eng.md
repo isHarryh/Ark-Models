@@ -9,13 +9,13 @@ Arknights Spine Models (Excerpt)
 
 This repository collected the Spine models from the game Arknights (CN server), including:
 
-| Directory        | Content          |
-| :--------------: | :--------------: |
-| `models`         | Operators' building models (skins included) |
-| `models_enemies` | Enemies' battle models |
-| `models_illust`  | Dynamic illustrations (skins included) |
+|    Directory     |                   Content                   |
+| :--------------: | :-----------------------------------------: |
+|     `models`     | Operators' building models (skins included) |
+| `models_enemies` |           Enemies' battle models            |
+| `models_illust`  |   Dynamic illustrations (skins included)    |
 
-> We will do updates irregularly, you are welcome to send PR to improve the repository. The tool we use to unpack the model files is [ArkUnpacker](https://github.com/isHarryh/Ark-Unpacker) v4.3.
+> We will do updates irregularly, you are welcome to send PR to improve the repository. The tool we use to unpack the model files is [ArkUnpacker](https://github.com/isHarryh/Ark-Unpacker) v4.4.
 
 ## Download
 
