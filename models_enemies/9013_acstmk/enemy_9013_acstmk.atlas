@@ -1,0 +1,111 @@
+
+enemy_9013_acstmk.png
+size: 716,716
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 293, 315
+  size: 240, 325
+  orig: 240, 325
+  offset: 0, 0
+  index: -1
+Cannon
+  rotate: false
+  xy: 2, 314
+  size: 290, 326
+  orig: 290, 326
+  offset: 0, 0
+  index: -1
+ClothA
+  rotate: false
+  xy: 360, 3
+  size: 211, 131
+  orig: 211, 131
+  offset: 0, 0
+  index: -1
+ClothB
+  rotate: false
+  xy: 684, 384
+  size: 29, 116
+  orig: 29, 116
+  offset: 0, 0
+  index: -1
+Ear
+  rotate: false
+  xy: 535, 389
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 213, 26
+  size: 49, 91
+  orig: 49, 91
+  offset: 0, 0
+  index: -1
+EyeB
+  rotate: false
+  xy: 616, 415
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 535, 469
+  size: 155, 170
+  orig: 155, 170
+  offset: 0, 0
+  index: -1
+L_Shoulder
+  rotate: true
+  xy: 408, 151
+  size: 242, 305
+  orig: 242, 305
+  offset: 0, 0
+  index: -1
+L_Shoulder_Dcrt
+  rotate: false
+  xy: 346, 238
+  size: 29, 75
+  orig: 29, 75
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 2, 166
+  size: 224, 146
+  orig: 224, 146
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 228, 227
+  size: 116, 85
+  orig: 116, 85
+  offset: 0, 0
+  index: -1
+R_ShoulderA
+  rotate: true
+  xy: 228, 119
+  size: 105, 213
+  orig: 105, 213
+  offset: 0, 0
+  index: -1
+R_ShoulderB
+  rotate: true
+  xy: 558, 66
+  size: 99, 156
+  orig: 99, 156
+  offset: 0, 0
+  index: -1
+R_Upperarm
+  rotate: true
+  xy: 2, 65
+  size: 99, 210
+  orig: 99, 210
+  offset: 0, 0
+  index: -1

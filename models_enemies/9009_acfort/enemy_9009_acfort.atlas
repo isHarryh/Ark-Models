@@ -1,0 +1,125 @@
+
+enemy_9009_acfort.png
+size: 444,444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Ammo
+  rotate: true
+  xy: 285, 41
+  size: 66, 26
+  orig: 66, 26
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: false
+  xy: 148, 26
+  size: 54, 96
+  orig: 54, 96
+  offset: 0, 0
+  index: -1
+C_Body_Line
+  rotate: false
+  xy: 243, 21
+  size: 40, 87
+  orig: 40, 87
+  offset: 0, 0
+  index: -1
+C_L_Block
+  rotate: false
+  xy: 2, 7
+  size: 80, 115
+  orig: 80, 115
+  offset: 0, 0
+  index: -1
+C_L_Line_1
+  rotate: true
+  xy: 84, 8
+  size: 4, 45
+  orig: 4, 45
+  offset: 0, 0
+  index: -1
+C_L_Line_2
+  rotate: false
+  xy: 319, 41
+  size: 2, 34
+  orig: 2, 34
+  offset: 0, 0
+  index: -1
+C_R_Block
+  rotate: false
+  xy: 84, 13
+  size: 62, 109
+  orig: 62, 109
+  offset: 0, 0
+  index: -1
+C_R_Block_2
+  rotate: true
+  xy: 176, 4
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+C_R_Line_1
+  rotate: true
+  xy: 207, 15
+  size: 5, 34
+  orig: 5, 34
+  offset: 0, 0
+  index: -1
+C_R_Line_2
+  rotate: true
+  xy: 84, 3
+  size: 4, 32
+  orig: 4, 32
+  offset: 0, 0
+  index: -1
+C_R_Line_3
+  rotate: true
+  xy: 207, 4
+  size: 3, 32
+  orig: 3, 32
+  offset: 0, 0
+  index: -1
+C_Square
+  rotate: false
+  xy: 286, 3
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+C_Top_Block
+  rotate: true
+  xy: 204, 21
+  size: 101, 38
+  orig: 101, 38
+  offset: 0, 0
+  index: -1
+C_Top_Block_2
+  rotate: false
+  xy: 148, 2
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+C_Top_Line_1
+  rotate: true
+  xy: 2, 2
+  size: 3, 47
+  orig: 3, 47
+  offset: 0, 0
+  index: -1
+C_Top_Line_2
+  rotate: false
+  xy: 313, 41
+  size: 4, 52
+  orig: 4, 52
+  offset: 0, 0
+  index: -1
+C_Top_Line_3
+  rotate: true
+  xy: 207, 10
+  size: 4, 31
+  orig: 4, 31
+  offset: 0, 0
+  index: -1

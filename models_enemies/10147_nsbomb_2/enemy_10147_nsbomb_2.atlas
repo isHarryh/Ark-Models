@@ -1,0 +1,118 @@
+
+enemy_10147_nsbomb_2.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 43
+  size: 99, 74
+  orig: 100, 74
+  offset: 0, 0
+  index: -1
+C_Body_1
+  rotate: false
+  xy: 19, 2
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+C_Body_2
+  rotate: false
+  xy: 2, 7
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+C_Body_4
+  rotate: false
+  xy: 2, 22
+  size: 54, 19
+  orig: 54, 19
+  offset: 0, 0
+  index: -1
+C_Light
+  rotate: false
+  xy: 19, 14
+  size: 18, 6
+  orig: 18, 6
+  offset: 0, 0
+  index: -1
+C_Shadow
+  rotate: true
+  xy: 189, 55
+  size: 62, 22
+  orig: 62, 23
+  offset: 0, 0
+  index: -1
+C_TanHuang
+  rotate: 270
+  xy: 89, 13
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+C_Tanghuang_r
+  rotate: 270
+  xy: 89, 13
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+C_Woba
+  rotate: false
+  xy: 168, 24
+  size: 28, 29
+  orig: 28, 30
+  offset: 0, 1
+  index: -1
+C_Woba_1
+  rotate: 180
+  xy: 187, 4
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+C_Woba_r
+  rotate: true
+  xy: 58, 13
+  size: 28, 29
+  orig: 28, 30
+  offset: 0, 1
+  index: -1
+C_Woba_r1
+  rotate: true
+  xy: 129, 11
+  size: 22, 24
+  orig: 23, 26
+  offset: 1, 0
+  index: -1
+C_YanCong
+  rotate: true
+  xy: 155, 2
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+C_Zhuan
+  rotate: true
+  xy: 147, 58
+  size: 59, 40
+  orig: 59, 41
+  offset: 0, 1
+  index: -1
+C_Zhuan_1
+  rotate: false
+  xy: 103, 35
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+C_Zhuans
+  rotate: true
+  xy: 103, 55
+  size: 62, 42
+  orig: 62, 42
+  offset: 0, 0
+  index: -1

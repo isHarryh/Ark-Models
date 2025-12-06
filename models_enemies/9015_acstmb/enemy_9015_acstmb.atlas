@@ -1,0 +1,34 @@
+
+enemy_9015_acstmb.png
+size: 576,576
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_Arm_A
+  rotate: false
+  xy: 68, 307
+  size: 220, 258
+  orig: 220, 258
+  offset: 0, 0
+  index: -1
+L_Arm_B
+  rotate: false
+  xy: 156, 143
+  size: 170, 162
+  orig: 170, 162
+  offset: 0, 0
+  index: -1
+L_Arm_MainA
+  rotate: 180
+  xy: 245, 3
+  size: 219, 562
+  orig: 219, 562
+  offset: 0, 0
+  index: -1
+L_Arm_MainB
+  rotate: false
+  xy: 2, 4
+  size: 218, 562
+  orig: 218, 562
+  offset: 0, 0
+  index: -1
