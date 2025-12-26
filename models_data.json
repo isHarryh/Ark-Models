@@ -20,7 +20,7 @@
         "Rarity_5": "五星",
         "Rarity_6": "六星"
     },
-    "gameDataVersionDescription": "Producer: ArkUnpacker 4\nDate: 2025-12-06\n",
+    "gameDataVersionDescription": "Producer: ArkUnpacker 4\nDate: 2025-12-26\n",
     "gameDataServerRegion": "zh_CN",
     "data": {
         "285_medic2": {
@@ -7639,6 +7639,63 @@
                 ".skel": "build_char_1038_whitw2_sale#15.skel"
             }
         },
+        "1001_amiya2_sale#16": {
+            "assetId": "build_char_1001_amiya2_sale#16",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "阿米娅",
+            "appellation": "Amiya",
+            "skinGroupId": "2025#sale#4",
+            "skinGroupName": "忒斯特收藏/XVIII",
+            "sortTags": [
+                "Operator",
+                "Rarity_5",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_1001_amiya2_sale#16.atlas",
+                ".png": "build_char_1001_amiya2_sale#16.png",
+                ".skel": "build_char_1001_amiya2_sale#16.skel"
+            }
+        },
+        "391_rosmon_sale#16": {
+            "assetId": "build_char_391_rosmon_sale#16",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "迷迭香",
+            "appellation": "Rosmontis",
+            "skinGroupId": "2025#sale#4",
+            "skinGroupName": "忒斯特收藏/XVIII",
+            "sortTags": [
+                "Operator",
+                "Rarity_6",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_391_rosmon_sale#16.atlas",
+                ".png": "build_char_391_rosmon_sale#16.png",
+                ".skel": "build_char_391_rosmon_sale#16.skel"
+            }
+        },
+        "4121_zuole_sale#16": {
+            "assetId": "build_char_4121_zuole_sale#16",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "左乐",
+            "appellation": "Zuo Le",
+            "skinGroupId": "2025#sale#4",
+            "skinGroupName": "忒斯特收藏/XVIII",
+            "sortTags": [
+                "Operator",
+                "Rarity_6",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_4121_zuole_sale#16.atlas",
+                ".png": "build_char_4121_zuole_sale#16.png",
+                ".skel": "build_char_4121_zuole_sale#16.skel"
+            }
+        },
         "208_melan_epoque#1": {
             "assetId": "build_char_208_melan_epoque#1",
             "type": "Operator",
@@ -11547,6 +11604,25 @@
                 ".skel": "build_char_491_humus_marthe#10.skel"
             }
         },
+        "381_bubble_marthe#11": {
+            "assetId": "build_char_381_bubble_marthe#11",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "泡泡",
+            "appellation": "Bubble",
+            "skinGroupId": "2025#marthe#4",
+            "skinGroupName": "玛尔特/XI",
+            "sortTags": [
+                "Operator",
+                "Rarity_4",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_381_bubble_marthe#11.atlas",
+                ".png": "build_char_381_bubble_marthe#11.png",
+                ".skel": "build_char_381_bubble_marthe#11.skel"
+            }
+        },
         "179_cgbird_witch#1": {
             "assetId": "build_char_179_cgbird_witch#1",
             "type": "Operator",
@@ -15031,6 +15107,25 @@
                 ".atlas": "build_char_437_mizuki_game#6.atlas",
                 ".png": "build_char_437_mizuki_game#6.png",
                 ".skel": "build_char_437_mizuki_game#6.skel"
+            }
+        },
+        "4163_rosesa_game#7": {
+            "assetId": "build_char_4163_rosesa_game#7",
+            "type": "Operator",
+            "style": "BuildingSkin",
+            "name": "瑰盐",
+            "appellation": "Rose Salt",
+            "skinGroupId": "2025#game#3",
+            "skinGroupName": "成就之星/VII",
+            "sortTags": [
+                "Operator",
+                "Rarity_5",
+                "Skinned"
+            ],
+            "assetList": {
+                ".atlas": "build_char_4163_rosesa_game#7.atlas",
+                ".png": "build_char_4163_rosesa_game#7.png",
+                ".skel": "build_char_4163_rosesa_game#7.skel"
             }
         },
         "4014_lunacu_yun#1": {
@@ -44202,6 +44297,24 @@
                 ".skel": "enemy_6032_fxdjj.skel"
             }
         },
+        "6033_skagod": {
+            "assetId": "enemy_6033_skagod",
+            "type": "Enemy",
+            "style": null,
+            "name": "冰滚兽 ",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {
+                ".atlas": "enemy_6033_skagod.atlas",
+                ".png": "enemy_6033_skagod.png",
+                ".skel": "enemy_6033_skagod.skel"
+            }
+        },
         "7001_blwzad": {
             "assetId": "enemy_7001_blwzad",
             "type": "Enemy",
@@ -44792,6 +44905,20 @@
                 ".skel": "enemy_7027_xbbtl.skel"
             }
         },
+        "7027_xbbtl_2": {
+            "assetId": "enemy_7027_xbbtl_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "晶玲兽",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {}
+        },
         "7028_xbscp": {
             "assetId": "enemy_7028_xbscp",
             "type": "Enemy",
@@ -44809,6 +44936,20 @@
                 ".png": "enemy_7028_xbscp.png",
                 ".skel": "enemy_7028_xbscp.skel"
             }
+        },
+        "7028_xbscp_2": {
+            "assetId": "enemy_7028_xbscp_2",
+            "type": "Enemy",
+            "style": null,
+            "name": "晶珑兽",
+            "appellation": null,
+            "skinGroupId": "EnemyBoss",
+            "skinGroupName": "领袖敌人",
+            "sortTags": [
+                "Enemy",
+                "EnemyBoss"
+            ],
+            "assetList": {}
         },
         "7029_pilot": {
             "assetId": "enemy_7029_pilot",
@@ -46566,6 +46707,26 @@
                 ".skel": "dyn_illust_char_003_kalts_sale#14.skel"
             }
         },
+        "dyn_illust_1001_amiya2_sale#16": {
+            "assetId": "dyn_illust_1001_amiya2_sale#16",
+            "type": "DynIllust",
+            "style": null,
+            "name": "阿米娅",
+            "appellation": "Amiya",
+            "skinGroupId": "2025#sale#4",
+            "skinGroupName": "忒斯特收藏/XVIII",
+            "sortTags": [
+                "Operator",
+                "Rarity_5",
+                "Skinned",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": "dyn_illust_char_1001_amiya2_sale#16.atlas",
+                ".png": "dyn_illust_char_1001_amiya2_sale#16.png",
+                ".skel": "dyn_illust_char_1001_amiya2_sale#16.skel"
+            }
+        },
         "dyn_illust_1012_skadi2": {
             "assetId": "dyn_illust_1012_skadi2",
             "type": "DynIllust",
@@ -47809,6 +47970,26 @@
                 ".atlas": "dyn_illust_char_391_rosmon_epoque#17.atlas",
                 ".png": "dyn_illust_char_391_rosmon_epoque#17.png",
                 ".skel": "dyn_illust_char_391_rosmon_epoque#17.skel"
+            }
+        },
+        "dyn_illust_391_rosmon_sale#16": {
+            "assetId": "dyn_illust_391_rosmon_sale#16",
+            "type": "DynIllust",
+            "style": null,
+            "name": "迷迭香",
+            "appellation": "Rosmontis",
+            "skinGroupId": "2025#sale#4",
+            "skinGroupName": "忒斯特收藏/XVIII",
+            "sortTags": [
+                "Operator",
+                "Rarity_6",
+                "Skinned",
+                "DynIllust"
+            ],
+            "assetList": {
+                ".atlas": "dyn_illust_char_391_rosmon_sale#16.atlas",
+                ".png": "dyn_illust_char_391_rosmon_sale#16.png",
+                ".skel": "dyn_illust_char_391_rosmon_sale#16.skel"
             }
         },
         "dyn_illust_4055_bgsnow_wild#7": {
