@@ -1,0 +1,48 @@
+
+enemy_10154_mnmblx.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 147
+  size: 70, 56
+  orig: 70, 56
+  offset: 0, 0
+  index: -1
+Body_I
+  rotate: false
+  xy: 2, 90
+  size: 70, 56
+  orig: 70, 56
+  offset: 0, 0
+  index: -1
+WingL
+  rotate: true
+  xy: 56, 48
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+WingL_I
+  rotate: true
+  xy: 64, 4
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+WingR
+  rotate: false
+  xy: 2, 51
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+WingR_I
+  rotate: false
+  xy: 20, 17
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1

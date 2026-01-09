@@ -1,0 +1,307 @@
+
+enemy_10155_mntjsd.png
+size: 316,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Belt_I
+  rotate: 270
+  xy: 69, 8
+  size: 19, 43
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+C_Belt_II
+  rotate: true
+  xy: 150, 11
+  size: 19, 43
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+C_Belt_III
+  rotate: false
+  xy: 271, 34
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: false
+  xy: 202, 81
+  size: 44, 44
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+C_Flower_I
+  rotate: false
+  xy: 36, 23
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+C_Flower_II
+  rotate: false
+  xy: 70, 29
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+C_Flower_III
+  rotate: false
+  xy: 295, 12
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+C_Flower_IV
+  rotate: false
+  xy: 239, 11
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+C_Helmet_I
+  rotate: true
+  xy: 90, 53
+  size: 30, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+C_Helmet_II
+  rotate: true
+  xy: 2, 117
+  size: 64, 79
+  orig: 64, 79
+  offset: 0, 0
+  index: -1
+C_Helmet_III
+  rotate: false
+  xy: 83, 128
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+C_Helmet_IV
+  rotate: true
+  xy: 52, 49
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+C_L_Arm_I
+  rotate: true
+  xy: 268, 8
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+C_L_C_Hand_I
+  rotate: false
+  xy: 52, 86
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+C_L_Calf_I
+  rotate: false
+  xy: 217, 126
+  size: 46, 55
+  orig: 46, 55
+  offset: 0, 0
+  index: -1
+C_L_Finger_I
+  rotate: false
+  xy: 120, 18
+  size: 28, 22
+  orig: 29, 22
+  offset: 1, 0
+  index: -1
+C_L_Finger_II
+  rotate: false
+  xy: 25, 7
+  size: 20, 13
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+C_L_Finger_III
+  rotate: true
+  xy: 195, 4
+  size: 19, 20
+  orig: 19, 21
+  offset: 0, 1
+  index: -1
+C_L_Foot_I
+  rotate: 180
+  xy: 168, 31
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+C_L_Forearm_I
+  rotate: false
+  xy: 237, 24
+  size: 29, 24
+  orig: 30, 25
+  offset: 1, 1
+  index: -1
+C_L_Leg_I
+  rotate: true
+  xy: 271, 58
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+C_Neck_I
+  rotate: false
+  xy: 217, 4
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+C_R_Arm_I
+  rotate: true
+  xy: 208, 25
+  size: 26, 27
+  orig: 26, 28
+  offset: 0, 1
+  index: -1
+C_R_C_Hand_I
+  rotate: true
+  xy: 90, 25
+  size: 26, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+C_R_Calf_I
+  rotate: true
+  xy: 149, 106
+  size: 34, 52
+  orig: 34, 52
+  offset: 0, 0
+  index: -1
+C_R_Finger_I
+  rotate: false
+  xy: 47, 5
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+C_R_Finger_II
+  rotate: false
+  xy: 114, 5
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+C_R_Finger_III
+  rotate: false
+  xy: 130, 64
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+C_R_Finger_IV
+  rotate: true
+  xy: 133, 4
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+C_R_Finger_V
+  rotate: false
+  xy: 159, 90
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+C_R_Fingers_I
+  rotate: false
+  xy: 170, 79
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+C_R_Foot_I
+  rotate: 180
+  xy: 128, 42
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+C_R_Forearm_I
+  rotate: false
+  xy: 2, 28
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+C_R_Hand_I
+  rotate: false
+  xy: 2, 6
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+C_R_Leg_I
+  rotate: true
+  xy: 2, 53
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+C_Skirt_I
+  rotate: true
+  xy: 265, 116
+  size: 65, 38
+  orig: 65, 38
+  offset: 0, 0
+  index: -1
+C_Skirt_II
+  rotate: false
+  xy: 245, 83
+  size: 66, 30
+  orig: 66, 30
+  offset: 0, 0
+  index: -1
+C_Tail_I
+  rotate: false
+  xy: 128, 53
+  size: 89, 63
+  orig: 89, 63
+  offset: 0, 0
+  index: -1
+C_Weapon_I
+  rotate: true
+  xy: 149, 142
+  size: 39, 66
+  orig: 39, 66
+  offset: 0, 0
+  index: -1
+C_Weapon_II
+  rotate: false
+  xy: 2, 183
+  size: 299, 66
+  orig: 299, 66
+  offset: 0, 0
+  index: -1
+C_Weapon_III
+  rotate: false
+  xy: 240, 50
+  size: 29, 30
+  orig: 31, 30
+  offset: 1, 0
+  index: -1
+C_Weapon_IV
+  rotate: true
+  xy: 83, 85
+  size: 41, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+C_Weapon_V
+  rotate: true
+  xy: 2, 84
+  size: 31, 48
+  orig: 39, 66
+  offset: 0, 0
+  index: -1

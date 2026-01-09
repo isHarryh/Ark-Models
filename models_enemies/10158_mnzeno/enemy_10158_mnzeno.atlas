@@ -1,0 +1,251 @@
+
+enemy_10158_mnzeno.png
+size: 240,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_arm_L1
+  rotate: false
+  xy: 142, 4
+  size: 25, 26
+  orig: 25, 27
+  offset: 0, 1
+  index: -1
+C_arm_L2
+  rotate: false
+  xy: 73, 4
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+C_arm_L3
+  rotate: false
+  xy: 55, 216
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+C_arm_R1
+  rotate: false
+  xy: 215, 131
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+C_arm_R2
+  rotate: false
+  xy: 32, 107
+  size: 8, 14
+  orig: 8, 16
+  offset: 0, 1
+  index: -1
+C_arm_R3
+  rotate: false
+  xy: 32, 123
+  size: 8, 15
+  orig: 9, 15
+  offset: 1, 0
+  index: -1
+C_arm_R4
+  rotate: false
+  xy: 92, 63
+  size: 9, 18
+  orig: 11, 18
+  offset: 1, 0
+  index: -1
+C_arm_R5
+  rotate: false
+  xy: 23, 6
+  size: 10, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+C_arm_R6
+  rotate: false
+  xy: 94, 207
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+C_arm_R7
+  rotate: false
+  xy: 216, 154
+  size: 22, 35
+  orig: 23, 35
+  offset: 1, 0
+  index: -1
+C_arm_R8
+  rotate: true
+  xy: 2, 186
+  size: 46, 20
+  orig: 46, 20
+  offset: 0, 0
+  index: -1
+C_body1
+  rotate: false
+  xy: 180, 68
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+C_body2
+  rotate: 180
+  xy: 175, 29
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+C_body3
+  rotate: 270
+  xy: 2, 23
+  size: 34, 38
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+C_body_0
+  rotate: false
+  xy: 107, 115
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+C_hair1
+  rotate: true
+  xy: 150, 113
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+C_hair2
+  rotate: false
+  xy: 107, 60
+  size: 71, 51
+  orig: 71, 51
+  offset: 0, 0
+  index: -1
+C_hair3
+  rotate: false
+  xy: 2, 9
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+C_hair4
+  rotate: false
+  xy: 215, 117
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+C_hat1
+  rotate: false
+  xy: 221, 70
+  size: 13, 13
+  orig: 13, 14
+  offset: 0, 1
+  index: -1
+C_hat2
+  rotate: false
+  xy: 40, 2
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+C_hat3
+  rotate: false
+  xy: 221, 102
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+C_hat4
+  rotate: true
+  xy: 119, 176
+  size: 56, 79
+  orig: 57, 79
+  offset: 0, 0
+  index: -1
+C_hat5
+  rotate: false
+  xy: 202, 10
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+C_hat6
+  rotate: false
+  xy: 221, 85
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+C_head1
+  rotate: false
+  xy: 2, 68
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+C_head2
+  rotate: false
+  xy: 42, 83
+  size: 63, 58
+  orig: 63, 59
+  offset: 0, 1
+  index: -1
+C_leg_L1
+  rotate: false
+  xy: 200, 191
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+C_leg_L2
+  rotate: true
+  xy: 108, 5
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+C_leg_L3
+  rotate: true
+  xy: 2, 80
+  size: 58, 28
+  orig: 58, 28
+  offset: 0, 0
+  index: -1
+C_leg_R1
+  rotate: false
+  xy: 122, 32
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+C_leg_R2
+  rotate: false
+  xy: 169, 8
+  size: 31, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+C_leg_R3
+  rotate: true
+  xy: 32, 55
+  size: 26, 58
+  orig: 26, 58
+  offset: 0, 0
+  index: -1
+C_ribbon1
+  rotate: false
+  xy: 47, 32
+  size: 73, 26
+  orig: 73, 26
+  offset: 0, 0
+  index: -1
+C_ribbon2
+  rotate: false
+  xy: 2, 140
+  size: 146, 93
+  orig: 146, 93
+  offset: 0, 0
+  index: -1
