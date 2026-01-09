@@ -8,7 +8,7 @@ Arknights Spine Models (Excerpt)
 ## 状态
 
 当前更新至：
-- 活动 **引航者试炼6** 中新增的干员、时装和敌人模型
+- 活动 **雅塞努斯复仇记** 中新增的干员、时装和敌人模型
 
 本仓库收集了中国服《明日方舟》中的部分Spine模型文件，包括：
 |      文件夹      |         内 容          |
@@ -21,7 +21,7 @@ Arknights Spine Models (Excerpt)
 
 ## 仓库下载
 
-可以通过以下链接来下载本仓库的完整压缩包（压缩包大小为 900+MB）。
+可以通过以下链接来下载本仓库的完整压缩包（压缩包大小为 1GB）。
 
 - [从 GitHub 下载](https://github.com/isHarryh/Ark-Models/archive/refs/heads/main.zip)
 - [从 Cloudflare 代理源下载](https://ghproxy.harryh.cn/?q=https%3A%2F%2Fgithub.com%2FisHarryh%2FArk-Models%2Farchive%2Frefs%2Fheads%2Fmain.zip)
@@ -38,6 +38,7 @@ Arknights Spine Models (Excerpt)
 
 ## 重要变更
 
+- 2026 年 1 月：已经补全了部分缺失的敌人战斗小人的模型（得益于 ArkUnpacker v4.5 提供的新的模型名称解析策略）。
 - 2025 年 4 月：自《明日方舟》v2.5.04 起，所有干员基建小人模型发生了变更。它们不再采用 2 的幂次方的图片尺寸，并且 ATLAS 文件中记录的图片尺寸与真实尺寸不匹配（通常是放大到了 1.5 倍）。作为应对，本仓库已经把这类图片进行了缩放，以保证 ATLAS 与图片尺寸的一致性。同时，对仓库的历史提交进行了重写。
 - 2025 年 3 月：已经对所有的模型纹理图强制启用 Premultiplied Alpha (PMA)。
 - 2024 年 8 月：已经发现中国服官方有个别模型的骨骼文件不是二进制格式，而是 JSON 格式。

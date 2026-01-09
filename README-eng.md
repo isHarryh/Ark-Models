@@ -32,6 +32,7 @@ The dataset file `models_data.json` recorded the detailed information of each mo
 
 ## Breaking Changes
 
+- Jan.2026: Some missing enemies' battle models have been supplemented (thanks to the new model name parsing strategy provided by ArkUnpacker v4.5).
 - Apr.2025: Starting from version 2.5.04 of Arknights, all operators' building models have undergone changes. They no longer use the image size to the power of two, and the image size recorded in the [ATLAS file] does not match the actual size (usually enlarged to 1.5 times). As a response, our repo has scaled these images to ensure consistency between ATLAS and image size. We also rewrote our repo commit history.
 - Mar.2025: Premultiplied Alpha (PMA) was forcibly enabled for all the model textures.
 - Aug.2025: In CN server, we found that there are very few models whose skeleton files are not in binary format but in JSON format.
