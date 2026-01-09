@@ -12,8 +12,8 @@ C_Bag
   offset: 0, 0
   index: -1
 C_Belt
-  rotate: true
-  xy: 133, 123
+  rotate: false
+  xy: 234, 159
   size: 17, 21
   orig: 17, 21
   offset: 0, 0
@@ -41,21 +41,21 @@ C_Head
   index: -1
 C_Hip
   rotate: true
-  xy: 96, 120
+  xy: 97, 120
   size: 49, 35
   orig: 49, 35
   offset: 0, 0
   index: -1
 C_L_Arm
   rotate: false
-  xy: 70, 77
+  xy: 70, 75
   size: 33, 39
   orig: 33, 39
   offset: 0, 0
   index: -1
 C_L_Armor
   rotate: true
-  xy: 51, 2
+  xy: 138, 77
   size: 11, 18
   orig: 11, 18
   offset: 0, 0
@@ -69,7 +69,7 @@ C_L_Calf
   index: -1
 C_L_Foot
   rotate: true
-  xy: 133, 142
+  xy: 134, 142
   size: 37, 30
   orig: 37, 30
   offset: 0, 0
@@ -82,15 +82,15 @@ C_L_Forearm
   offset: 0, 0
   index: -1
 C_L_Hand
-  rotate: false
-  xy: 198, 149
+  rotate: true
+  xy: 138, 90
   size: 31, 30
   orig: 31, 30
   offset: 0, 0
   index: -1
 C_L_Hand_B
-  rotate: false
-  xy: 165, 123
+  rotate: true
+  xy: 170, 92
   size: 31, 30
   orig: 31, 30
   offset: 0, 0
@@ -103,15 +103,15 @@ C_L_Leg
   offset: 0, 0
   index: -1
 C_L_Vervel
-  rotate: true
-  xy: 51, 15
+  rotate: false
+  xy: 134, 123
   size: 32, 17
   orig: 32, 17
   offset: 0, 0
   index: -1
 C_R_Arm
   rotate: true
-  xy: 198, 117
+  xy: 198, 155
   size: 30, 34
   orig: 30, 34
   offset: 0, 0
@@ -131,8 +131,8 @@ C_R_Calf
   offset: 0, 0
   index: -1
 C_R_Foot
-  rotate: true
-  xy: 165, 155
+  rotate: false
+  xy: 198, 187
   size: 36, 31
   orig: 36, 31
   offset: 0, 0
@@ -146,21 +146,21 @@ C_R_Forearm
   index: -1
 C_R_Hand
   rotate: false
-  xy: 138, 94
+  xy: 168, 125
   size: 27, 27
   orig: 27, 27
   offset: 0, 0
   index: -1
 C_R_Leg
   rotate: false
-  xy: 198, 181
+  xy: 166, 154
   size: 30, 37
   orig: 30, 37
   offset: 0, 0
   index: -1
 C_R_Vervel
   rotate: true
-  xy: 230, 182
+  xy: 236, 182
   size: 36, 18
   orig: 36, 18
   offset: 0, 0
@@ -195,8 +195,8 @@ C_Weapon_A
   index: -1
 C_Weapon_B
   rotate: true
-  xy: 64, 118
-  size: 50, 30
-  orig: 50, 30
+  xy: 64, 116
+  size: 52, 31
+  orig: 52, 31
   offset: 0, 0
   index: -1

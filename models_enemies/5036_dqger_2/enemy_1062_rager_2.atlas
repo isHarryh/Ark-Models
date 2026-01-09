@@ -1,0 +1,118 @@
+
+enemy_1062_rager_2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Back
+  rotate: false
+  xy: 91, 169
+  size: 70, 83
+  orig: 70, 83
+  offset: 0, 0
+  index: -1
+C_Chest
+  rotate: false
+  xy: 163, 158
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 2, 149
+  size: 87, 103
+  orig: 87, 103
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: false
+  xy: 151, 113
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+C_L_Calf
+  rotate: true
+  xy: 85, 67
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: true
+  xy: 223, 163
+  size: 52, 23
+  orig: 52, 23
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: true
+  xy: 2, 14
+  size: 54, 69
+  orig: 54, 69
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: false
+  xy: 139, 72
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: false
+  xy: 187, 115
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+C_R_Calf
+  rotate: true
+  xy: 91, 113
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: false
+  xy: 73, 44
+  size: 51, 21
+  orig: 51, 21
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: false
+  xy: 179, 72
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: false
+  xy: 213, 76
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: true
+  xy: 73, 12
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: false
+  xy: 163, 217
+  size: 89, 35
+  orig: 89, 35
+  offset: 0, 0
+  index: -1
+C_Waist
+  rotate: false
+  xy: 2, 70
+  size: 81, 77
+  orig: 81, 77
+  offset: 0, 0
+  index: -1

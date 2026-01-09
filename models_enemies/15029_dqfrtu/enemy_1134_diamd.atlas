@@ -1,0 +1,83 @@
+
+enemy_1134_diamd.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 86
+  size: 92, 104
+  orig: 92, 104
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 192
+  size: 105, 117
+  orig: 105, 117
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: false
+  xy: 314, 359
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+L_Calf
+  rotate: false
+  xy: 252, 333
+  size: 60, 66
+  orig: 60, 66
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: false
+  xy: 109, 205
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: false
+  xy: 358, 367
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+R_Calf
+  rotate: false
+  xy: 109, 247
+  size: 49, 62
+  orig: 49, 62
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: false
+  xy: 160, 270
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+Waepon_a
+  rotate: false
+  xy: 2, 2
+  size: 20, 82
+  orig: 20, 82
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: false
+  xy: 24, 54
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 2, 311
+  size: 248, 88
+  orig: 248, 88
+  offset: 0, 0
+  index: -1

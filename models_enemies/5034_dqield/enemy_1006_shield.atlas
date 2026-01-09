@@ -1,0 +1,111 @@
+
+enemy_1006_shield.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Collar
+  rotate: true
+  xy: 189, 111
+  size: 83, 35
+  orig: 83, 35
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 133, 77
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: false
+  xy: 90, 61
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+L_Armor
+  rotate: false
+  xy: 187, 73
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+L_Finger
+  rotate: false
+  xy: 228, 55
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+L_Foot
+  rotate: true
+  xy: 226, 124
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: true
+  xy: 226, 167
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: true
+  xy: 115, 120
+  size: 61, 72
+  orig: 61, 72
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: false
+  xy: 115, 183
+  size: 66, 71
+  orig: 66, 71
+  offset: 0, 0
+  index: -1
+R_Armor
+  rotate: true
+  xy: 90, 6
+  size: 53, 36
+  orig: 53, 36
+  offset: 0, 0
+  index: -1
+R_Foot
+  rotate: true
+  xy: 228, 81
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 133, 44
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: true
+  xy: 183, 196
+  size: 58, 71
+  orig: 58, 71
+  offset: 0, 0
+  index: -1
+Shield
+  rotate: false
+  xy: 2, 8
+  size: 86, 124
+  orig: 86, 124
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: false
+  xy: 2, 134
+  size: 111, 120
+  orig: 111, 120
+  offset: 0, 0
+  index: -1

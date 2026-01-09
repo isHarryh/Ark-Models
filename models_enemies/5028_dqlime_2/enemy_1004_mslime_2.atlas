@@ -1,0 +1,20 @@
+
+enemy_1004_mslime_2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 113
+  size: 162, 85
+  orig: 162, 85
+  offset: 0, 0
+  index: -1
+Shell
+  rotate: false
+  xy: 2, 2
+  size: 136, 109
+  orig: 136, 109
+  offset: 0, 0
+  index: -1

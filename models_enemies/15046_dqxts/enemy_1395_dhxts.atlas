@@ -1,0 +1,125 @@
+
+enemy_1395_dhxts.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 26
+  size: 88, 57
+  orig: 88, 57
+  offset: 0, 0
+  index: -1
+Ear_L
+  rotate: true
+  xy: 135, 45
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+Ear_R
+  rotate: true
+  xy: 173, 49
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 203, 28
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+Foot_A
+  rotate: false
+  xy: 58, 18
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+Foot_Ab
+  rotate: true
+  xy: 162, 7
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Foot_B
+  rotate: false
+  xy: 131, 18
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+Foot_Bb
+  rotate: false
+  xy: 39, 18
+  size: 17, 6
+  orig: 17, 6
+  offset: 0, 0
+  index: -1
+Foot_Bc
+  rotate: true
+  xy: 22, 11
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+Foot_C
+  rotate: false
+  xy: 40, 11
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+Foot_Cb
+  rotate: true
+  xy: 89, 3
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Foot_D
+  rotate: false
+  xy: 172, 21
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+Foot_Db
+  rotate: false
+  xy: 199, 15
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+Foot_Dc
+  rotate: false
+  xy: 202, 39
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 91, 35
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 2, 6
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: 180
+  xy: 91, 4
+  size: 81, 43
+  orig: 81, 43
+  offset: 0, 0
+  index: -1

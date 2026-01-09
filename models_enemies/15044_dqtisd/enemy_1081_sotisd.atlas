@@ -1,0 +1,125 @@
+
+enemy_1081_sotisd.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Collar
+  rotate: true
+  xy: 114, 249
+  size: 77, 35
+  orig: 77, 35
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 221, 416
+  size: 67, 45
+  orig: 67, 45
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: false
+  xy: 336, 424
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+L_Armor
+  rotate: false
+  xy: 290, 419
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+L_Finger
+  rotate: true
+  xy: 115, 178
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+L_Foot
+  rotate: true
+  xy: 114, 206
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+L_Forearm
+  rotate: false
+  xy: 2, 32
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: false
+  xy: 2, 2
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: false
+  xy: 159, 389
+  size: 60, 72
+  orig: 60, 72
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: false
+  xy: 62, 151
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+R_Armor
+  rotate: false
+  xy: 159, 331
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+R_Foot
+  rotate: false
+  xy: 221, 389
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1
+R_Forearm
+  rotate: false
+  xy: 2, 74
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 214, 355
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: false
+  xy: 2, 133
+  size: 58, 71
+  orig: 58, 71
+  offset: 0, 0
+  index: -1
+Shield
+  rotate: false
+  xy: 2, 328
+  size: 155, 133
+  orig: 155, 133
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: false
+  xy: 2, 206
+  size: 110, 120
+  orig: 110, 120
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+enemy_1232_dssalr.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm
+  rotate: false
+  xy: 225, 477
+  size: 54, 27
+  orig: 54, 27
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 229
+  size: 192, 108
+  orig: 192, 108
+  offset: 0, 0
+  index: -1
+CY
+  rotate: false
+  xy: 312, 405
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+Coral_A
+  rotate: false
+  xy: 117, 339
+  size: 103, 88
+  orig: 103, 88
+  offset: 0, 0
+  index: -1
+Coral_B
+  rotate: false
+  xy: 50, 431
+  size: 83, 50
+  orig: 83, 50
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: true
+  xy: 145, 479
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+L_Calf
+  rotate: false
+  xy: 135, 429
+  size: 107, 46
+  orig: 107, 46
+  offset: 0, 0
+  index: -1
+L_Foot
+  rotate: false
+  xy: 2, 439
+  size: 46, 43
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: false
+  xy: 2, 354
+  size: 113, 75
+  orig: 113, 75
+  offset: 0, 0
+  index: -1
+L_Leg_a
+  rotate: true
+  xy: 2, 491
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+Mouth_A
+  rotate: true
+  xy: 370, 465
+  size: 39, 115
+  orig: 39, 115
+  offset: 0, 0
+  index: -1
+Mouth_B
+  rotate: true
+  xy: 281, 477
+  size: 27, 87
+  orig: 27, 87
+  offset: 0, 0
+  index: -1
+Mouth_C
+  rotate: true
+  xy: 21, 484
+  size: 20, 55
+  orig: 20, 55
+  offset: 0, 0
+  index: -1
+Mouth_D
+  rotate: true
+  xy: 78, 483
+  size: 21, 65
+  orig: 21, 65
+  offset: 0, 0
+  index: -1
+R_Calf
+  rotate: false
+  xy: 244, 420
+  size: 66, 55
+  orig: 66, 55
+  offset: 0, 0
+  index: -1
+R_Foot
+  rotate: false
+  xy: 175, 478
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: false
+  xy: 378, 404
+  size: 86, 59
+  orig: 86, 59
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: true
+  xy: 222, 316
+  size: 86, 282
+  orig: 86, 282
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+enemy_7020_xbtor.png
+size: 288,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Back
+  rotate: false
+  xy: 2, 119
+  size: 206, 155
+  orig: 206, 155
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: 180
+  xy: 2, 26
+  size: 159, 92
+  orig: 160, 92
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 162, 12
+  size: 96, 106
+  orig: 96, 106
+  offset: 0, 0
+  index: -1
+C_Leg_01
+  rotate: false
+  xy: 49, 6
+  size: 46, 19
+  orig: 46, 19
+  offset: 0, 0
+  index: -1
+C_Leg_02
+  rotate: false
+  xy: 242, 184
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+C_Leg_03
+  rotate: true
+  xy: 254, 236
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+C_Leg_06
+  rotate: true
+  xy: 254, 236
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+C_Leg_04
+  rotate: true
+  xy: 267, 87
+  size: 46, 19
+  orig: 46, 19
+  offset: 0, 0
+  index: -1
+C_Leg_05
+  rotate: true
+  xy: 209, 214
+  size: 60, 43
+  orig: 60, 43
+  offset: 0, 0
+  index: -1
+C_Leg_07
+  rotate: false
+  xy: 95, 6
+  size: 46, 19
+  orig: 46, 19
+  offset: 0, 0
+  index: -1
+C_Leg_08
+  rotate: false
+  xy: 209, 153
+  size: 37, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+C_Leg_09
+  rotate: false
+  xy: 210, 121
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+C_Leg_10
+  rotate: true
+  xy: 260, 48
+  size: 45, 18
+  orig: 45, 18
+  offset: 0, 0
+  index: -1
+C_Leg_11
+  rotate: false
+  xy: 248, 135
+  size: 38, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+C_Leg_12
+  rotate: false
+  xy: 144, 13
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+C_Mouth
+  rotate: true
+  xy: 260, 14
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: 180
+  xy: 2, 3
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1

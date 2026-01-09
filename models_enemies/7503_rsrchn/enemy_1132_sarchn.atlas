@@ -1,0 +1,97 @@
+
+enemy_1132_sarchn.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 154
+  size: 169, 100
+  orig: 169, 100
+  offset: 0, 0
+  index: -1
+C_Leg_A_1
+  rotate: false
+  xy: 214, 168
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+C_Leg_A_2
+  rotate: false
+  xy: 173, 194
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1
+C_Leg_B_1
+  rotate: true
+  xy: 219, 188
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+C_Leg_B_2
+  rotate: false
+  xy: 2, 6
+  size: 21, 65
+  orig: 21, 65
+  offset: 0, 0
+  index: -1
+C_Leg_C_1
+  rotate: false
+  xy: 219, 210
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+C_Leg_C_2
+  rotate: false
+  xy: 2, 73
+  size: 29, 79
+  orig: 29, 79
+  offset: 0, 0
+  index: -1
+C_Leg_D_1
+  rotate: false
+  xy: 33, 70
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+C_Leg_D_2
+  rotate: false
+  xy: 173, 158
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+C_Leg_E_1
+  rotate: true
+  xy: 66, 99
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+C_Leg_E_2
+  rotate: true
+  xy: 115, 134
+  size: 18, 51
+  orig: 18, 51
+  offset: 0, 0
+  index: -1
+C_Leg_F_1
+  rotate: false
+  xy: 33, 106
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+C_Leg_F_2
+  rotate: true
+  xy: 66, 124
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1

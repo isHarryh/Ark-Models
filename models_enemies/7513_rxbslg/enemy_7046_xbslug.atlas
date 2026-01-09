@@ -1,0 +1,20 @@
+
+enemy_7046_xbslug.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_Back
+  rotate: false
+  xy: 2, 56
+  size: 160, 128
+  orig: 160, 128
+  offset: 0, 0
+  index: -1
+F_Body
+  rotate: true
+  xy: 86, 2
+  size: 182, 96
+  orig: 182, 96
+  offset: 0, 0
+  index: -1

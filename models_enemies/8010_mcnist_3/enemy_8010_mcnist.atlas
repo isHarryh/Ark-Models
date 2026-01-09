@@ -1,0 +1,552 @@
+
+enemy_8010_mcnist.png
+size: 288,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_Belt
+  rotate: false
+  xy: 236, 216
+  size: 33, 11
+  orig: 33, 11
+  offset: 0, 0
+  index: -1
+F_Chest
+  rotate: false
+  xy: 153, 104
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+F_Chest_Bag
+  rotate: false
+  xy: 244, 54
+  size: 36, 16
+  orig: 36, 16
+  offset: 0, 0
+  index: -1
+F_Chest_Rope
+  rotate: false
+  xy: 185, 161
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+F_Craft_1
+  rotate: false
+  xy: 57, 128
+  size: 63, 38
+  orig: 63, 38
+  offset: 0, 0
+  index: -1
+F_Craft_2
+  rotate: false
+  xy: 149, 133
+  size: 63, 38
+  orig: 63, 38
+  offset: 0, 0
+  index: -1
+F_Craft_3
+  rotate: false
+  xy: 162, 174
+  size: 106, 36
+  orig: 106, 36
+  offset: 0, 0
+  index: -1
+F_Craft_4
+  rotate: 180
+  xy: 2, 104
+  size: 51, 35
+  orig: 51, 35
+  offset: 0, 0
+  index: -1
+F_Craft_5
+  rotate: false
+  xy: 232, 103
+  size: 51, 35
+  orig: 51, 35
+  offset: 0, 0
+  index: -1
+F_Craft_6
+  rotate: false
+  xy: 2, 198
+  size: 95, 80
+  orig: 95, 80
+  offset: 0, 0
+  index: -1
+F_Head
+  rotate: true
+  xy: 99, 197
+  size: 82, 76
+  orig: 82, 76
+  offset: 0, 0
+  index: -1
+F_Head_Button
+  rotate: false
+  xy: 138, 49
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+F_Head_Ear
+  rotate: false
+  xy: 47, 3
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+F_Hip
+  rotate: false
+  xy: 64, 106
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+F_L_Arm_1
+  rotate: true
+  xy: 53, 14
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+F_L_Arm_2
+  rotate: false
+  xy: 262, 72
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+F_L_Bag
+  rotate: false
+  xy: 270, 175
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+F_L_Collar
+  rotate: false
+  xy: 257, 13
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+F_L_Ear
+  rotate: false
+  xy: 160, 17
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+F_L_Finger_A
+  rotate: false
+  xy: 85, 83
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+F_L_Finger_B
+  rotate: false
+  xy: 158, 265
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+F_L_Finger_C
+  rotate: false
+  xy: 2, 11
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+F_L_Finger_D
+  rotate: false
+  xy: 181, 89
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+F_L_Finger_E
+  rotate: false
+  xy: 112, 108
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+F_L_Foot
+  rotate: 180
+  xy: 2, 47
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+F_L_Hand
+  rotate: false
+  xy: 63, 43
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+F_L_HandHold
+  rotate: false
+  xy: 129, 65
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+F_L_HandRing
+  rotate: false
+  xy: 29, 84
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+F_L_Hand_Tape
+  rotate: false
+  xy: 214, 8
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+F_L_Horn
+  rotate: false
+  xy: 209, 145
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+F_L_Leg_1
+  rotate: false
+  xy: 198, 98
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+F_L_Leg_2
+  rotate: 270
+  xy: 234, 133
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+F_L_Leg_Pocket
+  rotate: true
+  xy: 138, 26
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+F_L_Leg_Tape
+  rotate: 180
+  xy: 56, 150
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+F_Pipe_A
+  rotate: false
+  xy: 127, 10
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+F_Pipe_B
+  rotate: true
+  xy: 33, 61
+  size: 18, 71
+  orig: 18, 71
+  offset: 0, 0
+  index: -1
+F_Pipe_B_2
+  rotate: 270
+  xy: 180, 9
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+F_Pipe_C
+  rotate: false
+  xy: 116, 25
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+F_Pipe_Set
+  rotate: true
+  xy: 207, 42
+  size: 17, 51
+  orig: 17, 51
+  offset: 0, 0
+  index: -1
+F_R_Arm_1
+  rotate: false
+  xy: 2, 73
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+F_R_Arm_2
+  rotate: false
+  xy: 54, 77
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+F_R_Collar
+  rotate: false
+  xy: 24, 15
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+F_R_Ear
+  rotate: true
+  xy: 241, 20
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+F_R_Finger_A
+  rotate: false
+  xy: 270, 196
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+F_R_Finger_B
+  rotate: true
+  xy: 159, 4
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+F_R_Finger_C
+  rotate: true
+  xy: 197, 5
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+F_R_Finger_D
+  rotate: false
+  xy: 276, 247
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+F_R_Finger_E
+  rotate: false
+  xy: 2, 134
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+F_R_Foot
+  rotate: 180
+  xy: 102, 48
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+F_R_Hand
+  rotate: false
+  xy: 38, 39
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+F_R_HandHold
+  rotate: false
+  xy: 156, 49
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+F_R_HandHold_Finger
+  rotate: false
+  xy: 259, 31
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+F_R_Horn
+  rotate: true
+  xy: 215, 26
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+F_R_Leg_1
+  rotate: false
+  xy: 222, 68
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+F_R_Leg_2
+  rotate: true
+  xy: 2, 133
+  size: 37, 53
+  orig: 37, 53
+  offset: 0, 0
+  index: -1
+F_R_Leg_Pocket
+  rotate: false
+  xy: 150, 177
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+F_R_Leg_Pocket_2
+  rotate: false
+  xy: 93, 24
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+F_R_Leg_Tape
+  rotate: true
+  xy: 103, 5
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+F_Tail
+  rotate: false
+  xy: 125, 68
+  size: 77, 54
+  orig: 77, 54
+  offset: 0, 0
+  index: -1
+F_Talkie
+  rotate: false
+  xy: 103, 70
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+F_Tool
+  rotate: false
+  xy: 183, 31
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+F_Tool_A
+  rotate: true
+  xy: 81, 13
+  size: 10, 24
+  orig: 10, 24
+  offset: 0, 0
+  index: -1
+F_Tool_B
+  rotate: false
+  xy: 276, 263
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+F_Tool_C
+  rotate: false
+  xy: 279, 133
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+F_Waist
+  rotate: 180
+  xy: 109, 123
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+F_Waist_Rope_Blue
+  rotate: false
+  xy: 48, 114
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+F_Waist_Rope_Red
+  rotate: false
+  xy: 276, 233
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+F_Weapon
+  rotate: true
+  xy: 204, 58
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+F_Weapon_2
+  rotate: true
+  xy: 236, 228
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+F_Weapon_Arm
+  rotate: true
+  xy: 2, 172
+  size: 25, 79
+  orig: 25, 79
+  offset: 0, 0
+  index: -1
+F_Weapon_L
+  rotate: true
+  xy: 2, 28
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+F_Weapon_L_Arm
+  rotate: true
+  xy: 177, 211
+  size: 68, 58
+  orig: 68, 58
+  offset: 0, 0
+  index: -1
+F_Weapon_R_Arm
+  rotate: false
+  xy: 83, 169
+  size: 64, 27
+  orig: 64, 27
+  offset: 0, 0
+  index: -1
+F_Weapon_R_Arm_2
+  rotate: false
+  xy: 122, 156
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+F_Weapon_R_Pipe
+  rotate: true
+  xy: 232, 5
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+F_Weapon_R_Pipe_2
+  rotate: false
+  xy: 153, 134
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+F_Weapon_R_Rope_1
+  rotate: false
+  xy: 214, 136
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+F_Weapon_R_Rope_2
+  rotate: false
+  xy: 271, 218
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1

@@ -6,14 +6,14 @@ filter: Linear,Linear
 repeat: none
 C_Chest
   rotate: false
-  xy: 135, 406
-  size: 73, 62
-  orig: 73, 62
+  xy: 2, 265
+  size: 66, 62
+  orig: 66, 62
   offset: 0, 0
   index: -1
 C_Eye
-  rotate: true
-  xy: 256, 418
+  rotate: false
+  xy: 210, 408
   size: 5, 7
   orig: 5, 7
   offset: 0, 0
@@ -26,64 +26,64 @@ C_Head
   offset: 0, 0
   index: -1
 C_Head_2
-  rotate: false
-  xy: 2, 2
+  rotate: true
+  xy: 303, 450
   size: 22, 17
   orig: 22, 17
   offset: 0, 0
   index: -1
 C_Hip
   rotate: false
-  xy: 325, 485
+  xy: 373, 485
   size: 55, 25
   orig: 55, 25
   offset: 0, 0
   index: -1
 C_Jaw
   rotate: false
-  xy: 2, 266
-  size: 73, 61
-  orig: 73, 61
+  xy: 135, 408
+  size: 73, 60
+  orig: 73, 60
   offset: 0, 0
   index: -1
 C_L_Arm
   rotate: false
-  xy: 2, 21
-  size: 45, 57
-  orig: 45, 57
+  xy: 2, 20
+  size: 44, 57
+  orig: 44, 57
   offset: 0, 0
   index: -1
 C_L_Calf
-  rotate: true
-  xy: 382, 476
-  size: 34, 39
-  orig: 34, 39
+  rotate: false
+  xy: 70, 231
+  size: 34, 40
+  orig: 34, 40
   offset: 0, 0
   index: -1
 C_L_Finger
-  rotate: true
-  xy: 423, 473
+  rotate: false
+  xy: 473, 472
   size: 37, 38
   orig: 37, 38
   offset: 0, 0
   index: -1
 C_L_Foot
   rotate: true
-  xy: 77, 276
+  xy: 54, 212
   size: 51, 14
   orig: 51, 14
   offset: 0, 0
   index: -1
 C_L_Forearm
   rotate: false
-  xy: 256, 425
+  xy: 256, 426
   size: 45, 46
   orig: 45, 46
   offset: 0, 0
   index: -1
 C_L_Hand
   rotate: false
-  xy: 463, 477
+  xy: 136, 373
   size: 36, 33
   orig: 36, 33
   offset: 0, 0
@@ -91,27 +91,27 @@ C_L_Hand
 C_L_Leg
   rotate: false
   xy: 95, 346
-  size: 38, 45
-  orig: 38, 45
+  size: 39, 45
+  orig: 39, 45
   offset: 0, 0
   index: -1
 C_Necklace
   rotate: true
-  xy: 252, 473
-  size: 37, 71
-  orig: 37, 71
+  xy: 252, 474
+  size: 36, 72
+  orig: 36, 72
   offset: 0, 0
   index: -1
 C_Pupil
-  rotate: false
-  xy: 303, 461
+  rotate: true
+  xy: 2, 2
   size: 16, 10
   orig: 16, 10
   offset: 0, 0
   index: -1
 C_R_Arm
   rotate: false
-  xy: 2, 197
+  xy: 2, 196
   size: 50, 67
   orig: 50, 67
   offset: 0, 0
@@ -125,30 +125,30 @@ C_R_Calf
   index: -1
 C_R_Foot
   rotate: true
-  xy: 54, 210
+  xy: 70, 273
   size: 54, 20
   orig: 54, 20
   offset: 0, 0
   index: -1
 C_R_Forearm
   rotate: true
-  xy: 2, 80
-  size: 56, 51
-  orig: 56, 51
+  xy: 2, 79
+  size: 56, 49
+  orig: 56, 49
   offset: 0, 0
   index: -1
 C_R_Hand
-  rotate: true
-  xy: 175, 363
+  rotate: false
+  xy: 430, 474
   size: 41, 36
   orig: 41, 36
   offset: 0, 0
   index: -1
 C_R_Leg
-  rotate: false
-  xy: 135, 359
-  size: 38, 45
-  orig: 38, 45
+  rotate: true
+  xy: 326, 471
+  size: 39, 45
+  orig: 39, 45
   offset: 0, 0
   index: -1
 C_Tail
@@ -160,7 +160,7 @@ C_Tail
   index: -1
 C_Waist
   rotate: false
-  xy: 2, 138
+  xy: 2, 137
   size: 52, 57
   orig: 52, 57
   offset: 0, 0
