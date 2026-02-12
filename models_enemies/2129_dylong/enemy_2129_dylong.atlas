@@ -1,0 +1,83 @@
+
+enemy_2129_dylong.png
+size: 276,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F2_Body_01
+  rotate: true
+  xy: 110, 134
+  size: 97, 145
+  orig: 97, 145
+  offset: 0, 0
+  index: -1
+F2_Body_02
+  rotate: 180
+  xy: 2, 39
+  size: 147, 105
+  orig: 147, 105
+  offset: 0, 0
+  index: -1
+F2_Head_01
+  rotate: false
+  xy: 2, 145
+  size: 106, 85
+  orig: 106, 85
+  offset: 0, 0
+  index: -1
+F2_Head_02
+  rotate: false
+  xy: 150, 64
+  size: 90, 68
+  orig: 109, 70
+  offset: 1, 0
+  index: -1
+F2_L_Claw_01
+  rotate: true
+  xy: 2, 5
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+F2_L_Claw_02
+  rotate: true
+  xy: 93, 9
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+F2_L_Claw_03
+  rotate: true
+  xy: 155, 134
+  size: 35, 46
+  orig: 42, 46
+  offset: 7, 0
+  index: -1
+F2_R_Claw_01
+  rotate: false
+  xy: 46, 3
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+F2_R_Claw_02
+  rotate: false
+  xy: 150, 19
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+F2_R_Claw_03
+  rotate: false
+  xy: 196, 27
+  size: 49, 35
+  orig: 49, 36
+  offset: 0, 1
+  index: -1
+F2_Tail_01
+  rotate: 270
+  xy: 51, 63
+  size: 71, 94
+  orig: 71, 94
+  offset: 0, 0
+  index: -1

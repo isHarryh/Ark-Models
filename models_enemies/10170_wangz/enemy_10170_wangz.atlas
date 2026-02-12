@@ -1,0 +1,174 @@
+
+enemy_10170_wangz.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_Body
+  rotate: false
+  xy: 2, 181
+  size: 118, 65
+  orig: 118, 65
+  offset: 0, 0
+  index: -1
+A_Fire_A
+  rotate: false
+  xy: 119, 28
+  size: 18, 48
+  orig: 18, 48
+  offset: 0, 0
+  index: -1
+A_Fire_B
+  rotate: true
+  xy: 62, 111
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+A_Fire_C
+  rotate: 270
+  xy: 2, 37
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+A_Fire_D
+  rotate: 180
+  xy: 96, 4
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+A_Fire_E
+  rotate: 180
+  xy: 2, 136
+  size: 93, 51
+  orig: 93, 51
+  offset: 0, 0
+  index: -1
+A_L_Face
+  rotate: true
+  xy: 77, 72
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+A_Leg_A1
+  rotate: 270
+  xy: 29, 46
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+A_Leg_A2
+  rotate: 180
+  xy: 2, 101
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+A_Leg_A3
+  rotate: false
+  xy: 30, 186
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+A_Leg_C3
+  rotate: false
+  xy: 30, 186
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+A_Leg_B1
+  rotate: 270
+  xy: 118, 157
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+A_Leg_B2
+  rotate: false
+  xy: 60, 5
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+A_Leg_B3
+  rotate: 270
+  xy: 112, 206
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+A_Leg_B4
+  rotate: false
+  xy: 2, 233
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+A_Leg_C1
+  rotate: true
+  xy: 77, 37
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+A_Leg_C2
+  rotate: true
+  xy: 15, 5
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+A_Leg_D1
+  rotate: true
+  xy: 120, 78
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+A_Leg_D2
+  rotate: true
+  xy: 2, 179
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+A_Leg_D3
+  rotate: true
+  xy: 122, 186
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+A_Leg_D4
+  rotate: true
+  xy: 132, 104
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+A_R_Face
+  rotate: true
+  xy: 69, 22
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+A_Tail_A
+  rotate: 180
+  xy: 15, 25
+  size: 49, 20
+  orig: 49, 20
+  offset: 0, 0
+  index: -1
+A_Tail_B
+  rotate: 180
+  xy: 7, 84
+  size: 67, 60
+  orig: 67, 60
+  offset: 0, 0
+  index: -1

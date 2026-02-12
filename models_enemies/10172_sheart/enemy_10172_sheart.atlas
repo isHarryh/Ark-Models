@@ -1,0 +1,34 @@
+
+enemy_10172_sheart.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_Fire_A
+  rotate: false
+  xy: 2, 96
+  size: 103, 175
+  orig: 103, 175
+  offset: 0, 0
+  index: -1
+F_Fire_B
+  rotate: true
+  xy: 37, 3
+  size: 47, 62
+  orig: 47, 62
+  offset: 0, 0
+  index: -1
+F_Fire_C
+  rotate: true
+  xy: 5, 64
+  size: 65, 97
+  orig: 65, 97
+  offset: 0, 0
+  index: -1
+F_Fire_D
+  rotate: 270
+  xy: 8, 35
+  size: 46, 95
+  orig: 46, 95
+  offset: 0, 0
+  index: -1

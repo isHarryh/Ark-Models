@@ -1,0 +1,118 @@
+
+enemy_1585_suiwei.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Wei_Blade
+  rotate: false
+  xy: 91, 512
+  size: 248, 366
+  orig: 248, 366
+  offset: 0, 0
+  index: -1
+Wei_Blade_a
+  rotate: false
+  xy: 126, 21
+  size: 112, 489
+  orig: 112, 489
+  offset: 0, 0
+  index: -1
+Wei_fire_a
+  rotate: true
+  xy: 403, 786
+  size: 235, 222
+  orig: 235, 222
+  offset: 0, 0
+  index: -1
+Wei_fire_aa
+  rotate: false
+  xy: 330, 3
+  size: 242, 390
+  orig: 242, 399
+  offset: 0, 9
+  index: -1
+Wei_fire_b
+  rotate: true
+  xy: 292, 523
+  size: 397, 290
+  orig: 397, 290
+  offset: 0, 0
+  index: -1
+Wei_fire_bb
+  rotate: false
+  xy: 116, 796
+  size: 139, 123
+  orig: 139, 123
+  offset: 0, 0
+  index: -1
+Wei_fire_c
+  rotate: true
+  xy: 484, 548
+  size: 263, 219
+  orig: 263, 219
+  offset: 0, 0
+  index: -1
+Wei_handle
+  rotate: false
+  xy: 444, 417
+  size: 177, 104
+  orig: 177, 104
+  offset: 0, 0
+  index: -1
+Wei_tail
+  rotate: false
+  xy: 488, 3
+  size: 153, 305
+  orig: 167, 305
+  offset: 14, 0
+  index: -1
+Wei_tq_a
+  rotate: false
+  xy: 574, 346
+  size: 79, 70
+  orig: 79, 70
+  offset: 0, 0
+  index: -1
+Wei_tq_b
+  rotate: false
+  xy: 596, 3
+  size: 79, 70
+  orig: 79, 70
+  offset: 0, 0
+  index: -1
+Wei_tq_c
+  rotate: false
+  xy: 599, 74
+  size: 79, 70
+  orig: 79, 70
+  offset: 0, 0
+  index: -1
+Wei_tq_d
+  rotate: false
+  xy: 315, 635
+  size: 79, 71
+  orig: 79, 71
+  offset: 0, 0
+  index: -1
+suiwei_A
+  rotate: true
+  xy: 98, 921
+  size: 101, 428
+  orig: 101, 428
+  offset: 0, 0
+  index: -1
+suiwei_B
+  rotate: false
+  xy: 240, 227
+  size: 202, 406
+  orig: 202, 406
+  offset: 0, 0
+  index: -1
+suiwei_Tail
+  rotate: false
+  xy: 2, 254
+  size: 122, 769
+  orig: 122, 770
+  offset: 0, 1
+  index: -1

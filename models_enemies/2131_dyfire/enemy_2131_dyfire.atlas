@@ -1,0 +1,55 @@
+
+enemy_2131_dyfire.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_dyfire_wing1
+  rotate: false
+  xy: 78, 11
+  size: 123, 33
+  orig: 123, 33
+  offset: 0, 0
+  index: -1
+C_dyfire_wing2
+  rotate: true
+  xy: 115, 68
+  size: 128, 84
+  orig: 128, 84
+  offset: 0, 0
+  index: -1
+C_dyfire_wing3
+  rotate: false
+  xy: 174, 124
+  size: 27, 72
+  orig: 27, 72
+  offset: 0, 0
+  index: -1
+C_dyfire_wing4
+  rotate: true
+  xy: 142, 3
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+C_dyfire_wing5
+  rotate: false
+  xy: 78, 46
+  size: 117, 37
+  orig: 117, 37
+  offset: 0, 0
+  index: -1
+special effects1
+  rotate: false
+  xy: 2, 27
+  size: 74, 65
+  orig: 76, 67
+  offset: 1, 1
+  index: -1
+special effects2
+  rotate: false
+  xy: 2, 94
+  size: 111, 102
+  orig: 114, 114
+  offset: 2, 4
+  index: -1
