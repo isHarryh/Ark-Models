@@ -15,13 +15,22 @@ This repository collected the Spine models from the game Arknights (CN server), 
 | `models_enemies` |           Enemies' battle models            |
 | `models_illust`  |   Dynamic illustrations (skins included)    |
 
-> We will do updates irregularly, you are welcome to send PR to improve the repository. The tool we use to unpack the model files is [ArkUnpacker](https://github.com/isHarryh/Ark-Unpacker) v4.4.
+> We will do updates irregularly, you are welcome to send PR to improve the repository. The tool we use to unpack the model files is [ArkUnpacker](https://github.com/isHarryh/Ark-Unpacker) v4.6.
 
 ## Download
 
-[Click here to download the ZIP archive file.](https://github.com/isHarryh/Ark-Models/archive/refs/heads/main.zip) However, the size of the entire repository is very large, so downloading the specific files you want may be faster.
+- **Full download**:  
+  [Click here to download the ZIP archive file.](https://github.com/isHarryh/Ark-Models/archive/refs/heads/main.zip)
 
-If you want to clone this repo via Git, it is recommended to use `--depth=1` to prevent massive cloning.
+- **On-demand download**:  
+  The size of the entire repository is very large. So if you just need specific model files, it is recommended to find and download them separately in the repository.
+
+- **Git clone**:  
+  When cloning the repository with Git, it is recommended to use shallow clone to reduce the total download size, for example:
+  ```bash
+  git clone --depth 1 https://github.com/isHarryh/Ark-Models.git
+  ```
+  You can use `git fetch --depth N` to supplement the clone depth later.
 
 ## Formats
 
@@ -32,8 +41,9 @@ The dataset file `models_data.json` recorded the detailed information of each mo
 
 ## Breaking Changes
 
+- Feb.2026: Now the model files are extracted from PC version instead of Android version. As the operators' building models in PC version have no "texture downsampling", these models will be clearer than how they were in Android version.
 - Jan.2026: Some missing enemies' battle models have been supplemented (thanks to the new model name parsing strategy provided by ArkUnpacker v4.5).
-- Apr.2025: Starting from version 2.5.04 of Arknights, all operators' building models have undergone changes. They no longer use the image size to the power of two, and the image size recorded in the [ATLAS file] does not match the actual size (usually enlarged to 1.5 times). As a response, our repo has scaled these images to ensure consistency between ATLAS and image size. We also rewrote our repo commit history.
+- Apr.2025: Starting from version 2.5.04 of Arknights, all operators' building models in Android version have "texture downsampling". They no longer use the image size to the power of two, and the image size recorded in the ATLAS file is enlarged to 1.5 times of the actual image size. As a response, our repo has scaled these images to ensure consistency between ATLAS and image size. We also rewrote our repo commit history.
 - Mar.2025: Premultiplied Alpha (PMA) was forcibly enabled for all the model textures.
 - Aug.2025: In CN server, we found that there are very few models whose skeleton files are not in binary format but in JSON format.
 - Jul.2024: Stopped using the dataset provided by [ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData) since ArkUnpacker v3.0 has implemented the decoding of such data.
