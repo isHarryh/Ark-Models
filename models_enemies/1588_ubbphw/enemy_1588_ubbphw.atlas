@@ -1,0 +1,146 @@
+
+enemy_1588_ubbphw.png
+size: 300,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Chest_I
+  rotate: false
+  xy: 2, 71
+  size: 109, 61
+  orig: 109, 61
+  offset: 0, 0
+  index: -1
+C_Chest_II
+  rotate: true
+  xy: 150, 66
+  size: 72, 89
+  orig: 72, 89
+  offset: 0, 0
+  index: -1
+C_Chest_III
+  rotate: true
+  xy: 102, 39
+  size: 42, 92
+  orig: 42, 92
+  offset: 0, 0
+  index: -1
+C_Head_I
+  rotate: true
+  xy: 157, 196
+  size: 88, 80
+  orig: 88, 80
+  offset: 0, 0
+  index: -1
+C_Hip_I
+  rotate: false
+  xy: 2, 40
+  size: 82, 29
+  orig: 82, 29
+  offset: 0, 0
+  index: -1
+C_L_Arm_I
+  rotate: false
+  xy: 239, 223
+  size: 43, 61
+  orig: 43, 63
+  offset: 0, 1
+  index: -1
+C_L_Calf_I
+  rotate: false
+  xy: 80, 9
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+C_L_Foot_I
+  rotate: false
+  xy: 138, 16
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+C_R_Foot_I
+  rotate: false
+  xy: 138, 16
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+C_L_Forearm_I
+  rotate: false
+  xy: 253, 100
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+C_L_Hand_I
+  rotate: false
+  xy: 2, 3
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+C_L_Leg_IK
+  rotate: false
+  xy: 239, 9
+  size: 52, 45
+  orig: 52, 45
+  offset: 0, 0
+  index: -1
+C_L_Weapon_I
+  rotate: true
+  xy: 93, 128
+  size: 156, 62
+  orig: 156, 62
+  offset: 0, 0
+  index: -1
+C_R_Arm_I
+  rotate: false
+  xy: 261, 172
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1
+C_R_Calf_I
+  rotate: true
+  xy: 112, 81
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+C_R_Forearm_I
+  rotate: false
+  xy: 241, 55
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+C_R_Hand_I
+  rotate: true
+  xy: 39, 11
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+C_R_Leg_I
+  rotate: false
+  xy: 196, 20
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+C_Shield
+  rotate: false
+  xy: 2, 133
+  size: 89, 151
+  orig: 117, 179
+  offset: 14, 14
+  index: -1
+C_Waist_I
+  rotate: false
+  xy: 157, 133
+  size: 103, 62
+  orig: 103, 62
+  offset: 0, 0
+  index: -1
