@@ -47,15 +47,15 @@ repeat: none
   offset: 0, 4
   index: -1
 1_DJ_JZ_logo
-  rotate: 180
-  xy: 1214, 33
+  rotate: true
+  xy: 1466, 35
   size: 38, 43
   orig: 38, 43
   offset: 0, 0
   index: -1
 1_DJ_JZ_logo1
   rotate: true
-  xy: 49, 44
+  xy: 2158, 46
   size: 38, 42
   orig: 40, 45
   offset: 1, 1
@@ -132,7 +132,7 @@ repeat: none
   index: -1
 1_DJ_JZ_mountains_L6
   rotate: false
-  xy: 2151, 42
+  xy: 49, 44
   size: 42, 38
   orig: 43, 38
   offset: 0, 0
@@ -174,7 +174,7 @@ repeat: none
   index: -1
 1_DJ_JZ_yan_B3
   rotate: false
-  xy: 1853, 56
+  xy: 2202, 53
   size: 51, 49
   orig: 54, 50
   offset: 1, 1
@@ -216,7 +216,7 @@ repeat: none
   index: -1
 1_DJ_JZ_yanzw_F2
   rotate: false
-  xy: 1094, 32
+  xy: 2112, 32
   size: 39, 37
   orig: 39, 37
   offset: 0, 0
@@ -398,7 +398,7 @@ BG_C_dragon_L10
   index: -1
 BG_C_dragon_L11
   rotate: false
-  xy: 628, 39
+  xy: 622, 39
   size: 42, 36
   orig: 42, 36
   offset: 0, 0
@@ -488,8 +488,8 @@ BG_C_dragon_L7
   offset: 0, 0
   index: -1
 BG_C_dragon_L8
-  rotate: true
-  xy: 2, 679
+  rotate: false
+  xy: 1770, 60
   size: 59, 43
   orig: 59, 43
   offset: 0, 0
@@ -510,7 +510,7 @@ BG_D_dragon_R1
   index: -1
 BG_D_dragon_R10
   rotate: false
-  xy: 527, 360
+  xy: 1040, 231
   size: 49, 35
   orig: 49, 35
   offset: 0, 0
@@ -608,7 +608,7 @@ BG_D_dragon_R7
   index: -1
 BG_D_dragon_R8
   rotate: false
-  xy: 2195, 55
+  xy: 1325, 52
   size: 58, 43
   orig: 58, 43
   offset: 0, 0
@@ -629,7 +629,7 @@ BG_D_person_R1
   index: -1
 BG_D_person_R10
   rotate: false
-  xy: 1040, 229
+  xy: 122, 47
   size: 45, 37
   orig: 47, 39
   offset: 1, 1
@@ -979,7 +979,7 @@ BG_N1_ling_head18
   index: -1
 BG_N1_ling_head19
   rotate: true
-  xy: 122, 42
+  xy: 854, 46
   size: 42, 43
   orig: 42, 43
   offset: 0, 0
@@ -1070,14 +1070,14 @@ BG_N1_ling_head28
   index: -1
 BG_N1_ling_head3
   rotate: false
-  xy: 494, 50
+  xy: 283, 52
   size: 88, 41
   orig: 88, 41
   offset: 0, 0
   index: -1
 BG_N1_ling_head30
   rotate: false
-  xy: 285, 51
+  xy: 1385, 53
   size: 88, 41
   orig: 88, 41
   offset: 0, 0
@@ -1154,7 +1154,7 @@ BG_N2_ling_arm_R1
   index: -1
 BG_N2_ling_arm_R10
   rotate: false
-  xy: 222, 34
+  xy: 1169, 35
   size: 41, 34
   orig: 41, 34
   offset: 0, 0
@@ -1224,14 +1224,14 @@ BG_N2_ling_arm_R7
   index: -1
 BG_N2_ling_arm_R8
   rotate: false
-  xy: 1088, 315
+  xy: 415, 312
   size: 38, 32
   orig: 38, 32
   offset: 0, 0
   index: -1
 BG_N2_ling_arm_R9
   rotate: true
-  xy: 899, 52
+  xy: 808, 223
   size: 43, 51
   orig: 43, 51
   offset: 0, 0
@@ -1266,7 +1266,7 @@ BG_N2_ling_body12
   index: -1
 BG_N2_ling_body13
   rotate: true
-  xy: 1299, 55
+  xy: 730, 54
   size: 43, 90
   orig: 43, 90
   offset: 0, 0
@@ -1293,8 +1293,8 @@ BG_N2_ling_body16
   offset: 0, 0
   index: -1
 BG_N2_ling_body17
-  rotate: 180
-  xy: 1684, 18
+  rotate: false
+  xy: 1762, 14
   size: 84, 62
   orig: 86, 62
   offset: 0, 0
@@ -1335,15 +1335,15 @@ BG_N2_ling_body21
   offset: 0, 0
   index: -1
 BG_N2_ling_body23
-  rotate: false
-  xy: 225, 70
+  rotate: true
+  xy: 1630, 393
   size: 58, 45
   orig: 58, 45
   offset: 0, 0
   index: -1
 BG_N2_ling_body24
-  rotate: true
-  xy: 808, 223
+  rotate: false
+  xy: 2, 686
   size: 43, 52
   orig: 43, 52
   offset: 0, 0
@@ -1398,8 +1398,8 @@ BG_N2_ling_body30
   offset: 0, 0
   index: -1
 BG_N2_ling_body31
-  rotate: 180
-  xy: 1823, 16
+  rotate: true
+  xy: 1041, 12
   size: 58, 79
   orig: 58, 79
   offset: 0, 0
@@ -1602,7 +1602,7 @@ BG_N3_ling_R4
   index: -1
 BG_N3_ling_R5
   rotate: false
-  xy: 967, 42
+  xy: 713, 33
   size: 88, 36
   orig: 88, 36
   offset: 0, 0
@@ -1784,7 +1784,7 @@ B_ARM_xq_PP
   index: -1
 B_ARM_xq_PP0
   rotate: false
-  xy: 877, 35
+  xy: 538, 27
   size: 64, 44
   orig: 64, 44
   offset: 0, 0
@@ -1924,7 +1924,7 @@ C_ARM_bc98_PP
   index: -1
 C_ARM_bc98_PP0
   rotate: true
-  xy: 685, 49
+  xy: 962, 35
   size: 42, 80
   orig: 42, 80
   offset: 0, 0
@@ -1938,7 +1938,7 @@ C_ARM_bc98_PPH
   index: -1
 C_ARM_bc98_SW
   rotate: false
-  xy: 1895, 21
+  xy: 1893, 21
   size: 51, 46
   orig: 51, 46
   offset: 0, 0
@@ -1973,7 +1973,7 @@ C_HD_D9_Palm1
   index: -1
 C_HD_D9_Palm2
   rotate: false
-  xy: 921, 143
+  xy: 573, 42
   size: 47, 33
   orig: 47, 33
   offset: 0, 0
@@ -2127,7 +2127,7 @@ C_HD_bc98_L5
   index: -1
 C_HD_bc98_L6
   rotate: false
-  xy: 2112, 37
+  xy: 373, 32
   size: 37, 32
   orig: 37, 32
   offset: 0, 0
@@ -2162,7 +2162,7 @@ D_ARM_h1k_PP0
   index: -1
 D_ARM_h1k_SW
   rotate: false
-  xy: 1463, 46
+  xy: 1247, 49
   size: 67, 67
   orig: 67, 67
   offset: 0, 0
@@ -2288,7 +2288,7 @@ D_HD_h1k_L7
   index: -1
 D_HD_h1k_L8
   rotate: false
-  xy: 167, 31
+  xy: 93, 27
   size: 52, 41
   orig: 54, 41
   offset: 2, 0
@@ -2659,7 +2659,7 @@ E_HD_D9_0_L2
   index: -1
 E_HD_D9_0_L3
   rotate: true
-  xy: 1532, 42
+  xy: 666, 39
   size: 33, 45
   orig: 33, 45
   offset: 0, 0
@@ -2686,8 +2686,8 @@ E_HD_D9_0_L6
   offset: 0, 0
   index: -1
 E_HD_D9_1_L1
-  rotate: false
-  xy: 1267, 45
+  rotate: true
+  xy: 482, 365
   size: 30, 58
   orig: 30, 58
   offset: 0, 0
@@ -2700,8 +2700,8 @@ E_HD_D9_1_L2
   offset: 0, 0
   index: -1
 E_HD_D9_1_L3
-  rotate: false
-  xy: 1391, 45
+  rotate: true
+  xy: 1667, 285
   size: 32, 50
   orig: 32, 50
   offset: 0, 0
@@ -2764,7 +2764,7 @@ G_HD_bingo_L2
   index: -1
 G_HD_bingo_L3
   rotate: false
-  xy: 1743, 332
+  xy: 546, 365
   size: 34, 36
   orig: 34, 36
   offset: 0, 0
@@ -2888,6 +2888,13 @@ HAND_A_L8
   orig: 47, 56
   offset: 0, 0
   index: -1
+HAND_A_L8-1
+  rotate: true
+  xy: 225, 68
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1
 HAND_A_L9
   rotate: false
   xy: 849, 1786
@@ -2946,14 +2953,14 @@ HAND_A_R4
   index: -1
 HAND_A_R5
   rotate: false
-  xy: 1138, 127
+  xy: 1743, 337
   size: 35, 31
   orig: 35, 31
   offset: 0, 0
   index: -1
 HAND_A_R6
   rotate: false
-  xy: 1667, 284
+  xy: 920, 143
   size: 48, 33
   orig: 48, 33
   offset: 0, 0
@@ -2967,14 +2974,14 @@ HAND_A_R7
   index: -1
 HAND_A_R8
   rotate: false
-  xy: 1770, 54
+  xy: 899, 46
   size: 51, 49
   orig: 51, 49
   offset: 0, 0
   index: -1
 HAND_A_R9
   rotate: false
-  xy: 2255, 34
+  xy: 265, 31
   size: 37, 30
   orig: 37, 30
   offset: 0, 0
@@ -3072,7 +3079,7 @@ H_HD_ggs_SW
   index: -1
 H_HD_ggs_SW0
   rotate: false
-  xy: 412, 315
+  xy: 222, 37
   size: 41, 29
   orig: 41, 29
   offset: 0, 0
@@ -3324,7 +3331,7 @@ J_HD_fs_R7
   index: -1
 J_HD_fs_R8
   rotate: false
-  xy: 482, 365
+  xy: 1088, 315
   size: 42, 30
   orig: 42, 30
   offset: 0, 0
@@ -3506,7 +3513,7 @@ O_Ling_L_hair_L2
   index: -1
 O_Ling_L_hair_L3
   rotate: true
-  xy: 1425, 22
+  xy: 1212, 22
   size: 45, 63
   orig: 45, 68
   offset: 0, 3
@@ -3961,7 +3968,7 @@ O_Ling_head4
   index: -1
 O_Ling_head5
   rotate: false
-  xy: 375, 36
+  xy: 2255, 36
   size: 40, 28
   orig: 40, 28
   offset: 0, 0
@@ -3975,7 +3982,7 @@ O_Ling_head6
   index: -1
 O_Ling_head7
   rotate: true
-  xy: 584, 37
+  xy: 494, 42
   size: 38, 42
   orig: 38, 42
   offset: 0, 0
@@ -4234,7 +4241,7 @@ O_ling_hair_bu
   index: -1
 O_ling_hair_line
   rotate: false
-  xy: 764, 20
+  xy: 821, 37
   size: 31, 50
   orig: 31, 50
   offset: 0, 0
@@ -4311,7 +4318,7 @@ U_Ling_Dragon_Body
   index: -1
 U_Ling_Dragon_Down1
   rotate: 180
-  xy: 744, 55
+  xy: 1487, 48
   size: 131, 51
   orig: 131, 51
   offset: 0, 0
@@ -4360,7 +4367,7 @@ U_Ling_Dragon_Down15
   index: -1
 U_Ling_Dragon_Down16
   rotate: false
-  xy: 1135, 38
+  xy: 1122, 38
   size: 45, 31
   orig: 45, 31
   offset: 0, 0
@@ -4471,8 +4478,8 @@ U_Ling_Dragon_Down3
   offset: 0, 0
   index: -1
 U_Ling_Dragon_Down30
-  rotate: true
-  xy: 1629, 388
+  rotate: false
+  xy: 1848, 59
   size: 56, 46
   orig: 56, 46
   offset: 0, 0
