@@ -1,0 +1,69 @@
+
+enemy_10203_mumag_2.png
+size: 276,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_Arm_A1
+  rotate: true
+  xy: 2, 37
+  size: 73, 89
+  orig: 73, 89
+  offset: 0, 0
+  index: -1
+B_Arm_A2
+  rotate: false
+  xy: 39, 17
+  size: 73, 41
+  orig: 73, 41
+  offset: 0, 0
+  index: -1
+B_Arm_B1
+  rotate: 270
+  xy: 96, 52
+  size: 71, 84
+  orig: 71, 84
+  offset: 0, 0
+  index: -1
+B_Arm_B2
+  rotate: false
+  xy: 2, 112
+  size: 68, 88
+  orig: 68, 88
+  offset: 0, 0
+  index: -1
+B_Arm_C1
+  rotate: false
+  xy: 129, 116
+  size: 81, 84
+  orig: 81, 84
+  offset: 0, 0
+  index: -1
+B_Arm_C2
+  rotate: false
+  xy: 72, 113
+  size: 56, 88
+  orig: 56, 88
+  offset: 0, 0
+  index: -1
+B_Body
+  rotate: false
+  xy: 167, 26
+  size: 69, 88
+  orig: 69, 88
+  offset: 0, 0
+  index: -1
+B_Chest
+  rotate: true
+  xy: 212, 117
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+B_Head
+  rotate: true
+  xy: 114, 3
+  size: 47, 52
+  orig: 47, 52
+  offset: 0, 0
+  index: -1

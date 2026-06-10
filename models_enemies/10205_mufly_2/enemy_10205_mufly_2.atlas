@@ -1,0 +1,41 @@
+
+enemy_10205_mufly_2.png
+size: 228,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_Body
+  rotate: false
+  xy: 2, 3
+  size: 75, 89
+  orig: 75, 89
+  offset: 0, 0
+  index: -1
+B_Box1
+  rotate: true
+  xy: 126, 45
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+B_Box2
+  rotate: false
+  xy: 78, 39
+  size: 46, 52
+  orig: 46, 52
+  offset: 0, 0
+  index: -1
+B_Chest
+  rotate: true
+  xy: 169, 51
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+B_Hair
+  rotate: 180
+  xy: 126, 6
+  size: 63, 38
+  orig: 63, 38
+  offset: 0, 0
+  index: -1

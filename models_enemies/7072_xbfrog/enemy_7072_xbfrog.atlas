@@ -1,0 +1,258 @@
+
+enemy_7072_xbfrog.png
+size: 240,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_BL_Leg_A
+  rotate: false
+  xy: 2, 203
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+C_BL_Leg_B
+  rotate: false
+  xy: 146, 18
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+C_BL_Leg_C
+  rotate: false
+  xy: 153, 203
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+C_BR_Leg_A
+  rotate: false
+  xy: 2, 90
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+C_BR_Leg_B
+  rotate: false
+  xy: 189, 18
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+C_BR_Leg_C
+  rotate: false
+  xy: 44, 6
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: false
+  xy: 2, 80
+  size: 174, 135
+  orig: 174, 135
+  offset: 0, 0
+  index: -1
+C_Eye_E
+  rotate: false
+  xy: 219, 199
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+C_Eye_F
+  rotate: false
+  xy: 23, 3
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+C_FL_Leg_A
+  rotate: false
+  xy: 2, 23
+  size: 38, 18
+  orig: 38, 18
+  offset: 0, 0
+  index: -1
+C_FL_Leg_B
+  rotate: true
+  xy: 54, 16
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+C_FR_Leg_A
+  rotate: false
+  xy: 93, 17
+  size: 38, 18
+  orig: 38, 18
+  offset: 0, 0
+  index: -1
+C_FR_Leg_B
+  rotate: false
+  xy: 57, 41
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+C_Fish_A_A
+  rotate: false
+  xy: 45, 209
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+C_Fish_A_B
+  rotate: false
+  xy: 144, 209
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+C_Fish_A_C
+  rotate: false
+  xy: 162, 197
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+C_Fish_A_D
+  rotate: false
+  xy: 220, 111
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+C_Fish_A_E
+  rotate: false
+  xy: 2, 44
+  size: 51, 40
+  orig: 51, 40
+  offset: 0, 0
+  index: -1
+C_Fish_A_F
+  rotate: false
+  xy: 187, 5
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+C_Fish_A_G
+  rotate: false
+  xy: 2, 4
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+C_Fish_B_A
+  rotate: false
+  xy: 17, 195
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+C_Fish_B_B
+  rotate: false
+  xy: 171, 195
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+C_Fish_B_C
+  rotate: false
+  xy: 211, 212
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+C_Fish_B_D
+  rotate: false
+  xy: 32, 206
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+C_Fish_B_E
+  rotate: true
+  xy: 210, 70
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+C_Fish_B_F
+  rotate: false
+  xy: 163, 110
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+C_Fish_B_G
+  rotate: false
+  xy: 2, 190
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+C_Head_A
+  rotate: 270
+  xy: 174, 102
+  size: 113, 60
+  orig: 113, 60
+  offset: 0, 0
+  index: -1
+C_L_Eye_A
+  rotate: false
+  xy: 223, 194
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+C_R_Eye_A
+  rotate: false
+  xy: 223, 194
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+C_L_Eye_B
+  rotate: false
+  xy: 2, 109
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+C_R_Eye_B
+  rotate: false
+  xy: 2, 109
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+C_Mouth_A
+  rotate: false
+  xy: 89, 37
+  size: 57, 42
+  orig: 59, 42
+  offset: 1, 0
+  index: -1
+C_Mouth_B
+  rotate: false
+  xy: 132, 4
+  size: 53, 15
+  orig: 53, 15
+  offset: 0, 0
+  index: -1
+C_Nose
+  rotate: false
+  xy: 54, 212
+  size: 10, 4
+  orig: 10, 4
+  offset: 0, 0
+  index: -1
+C_Tail_A
+  rotate: false
+  xy: 146, 57
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1

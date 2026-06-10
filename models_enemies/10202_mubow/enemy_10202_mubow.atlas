@@ -1,0 +1,27 @@
+
+enemy_10202_mubow.png
+size: 316,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 89
+  size: 114, 137
+  orig: 114, 137
+  offset: 0, 0
+  index: -1
+C_Body_2
+  rotate: false
+  xy: 2, 104
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
+C_Weapon
+  rotate: true
+  xy: 2, 3
+  size: 84, 103
+  orig: 84, 103
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,209 @@
+
+enemy_7004_xbdeer_2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 267
+  size: 242, 154
+  orig: 246, 154
+  offset: 4, 0
+  index: -1
+C_BodyFlower
+  rotate: false
+  xy: 238, 241
+  size: 107, 82
+  orig: 107, 82
+  offset: 0, 0
+  index: -1
+C_Ear_L
+  rotate: false
+  xy: 155, 124
+  size: 81, 66
+  orig: 81, 66
+  offset: 0, 0
+  index: -1
+C_Ear_R
+  rotate: false
+  xy: 363, 252
+  size: 51, 61
+  orig: 62, 61
+  offset: 11, 0
+  index: -1
+C_Eye
+  rotate: false
+  xy: 69, 399
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+C_EyeLight
+  rotate: false
+  xy: 30, 378
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+C_Eye_Off
+  rotate: false
+  xy: 2, 370
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+C_Foot_A
+  rotate: true
+  xy: 213, 170
+  size: 68, 110
+  orig: 68, 110
+  offset: 0, 0
+  index: -1
+C_Foot_Ab
+  rotate: false
+  xy: 69, 101
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+C_Foot_Ac
+  rotate: false
+  xy: 208, 234
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+C_Foot_Ad
+  rotate: false
+  xy: 367, 166
+  size: 41, 59
+  orig: 41, 60
+  offset: 0, 1
+  index: -1
+C_Foot_Ae
+  rotate: 180
+  xy: 343, 326
+  size: 73, 95
+  orig: 73, 95
+  offset: 0, 0
+  index: -1
+C_Foot_B
+  rotate: true
+  xy: 109, 185
+  size: 84, 102
+  orig: 84, 102
+  offset: 0, 0
+  index: -1
+C_Foot_Bb
+  rotate: true
+  xy: 196, 375
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+C_Foot_Bc
+  rotate: false
+  xy: 39, 99
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+C_Foot_Bd
+  rotate: true
+  xy: 264, 124
+  size: 52, 74
+  orig: 52, 74
+  offset: 0, 0
+  index: -1
+C_Foot_C
+  rotate: true
+  xy: 77, 125
+  size: 58, 74
+  orig: 67, 114
+  offset: 9, 0
+  index: -1
+C_Foot_Cb
+  rotate: false
+  xy: 2, 98
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+C_Foot_Cc
+  rotate: false
+  xy: 377, 108
+  size: 36, 57
+  orig: 37, 61
+  offset: 1, 0
+  index: -1
+C_Foot_Cd
+  rotate: false
+  xy: 371, 222
+  size: 48, 46
+  orig: 48, 71
+  offset: 0, 0
+  index: -1
+C_Foot_D
+  rotate: 270
+  xy: 313, 181
+  size: 71, 57
+  orig: 73, 105
+  offset: 0, 0
+  index: -1
+C_Foot_Db
+  rotate: 180
+  xy: 139, 99
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+C_Foot_Dc
+  rotate: 270
+  xy: 237, 104
+  size: 54, 61
+  orig: 54, 62
+  offset: 0, 1
+  index: -1
+C_Head
+  rotate: 270
+  xy: 245, 324
+  size: 98, 97
+  orig: 98, 97
+  offset: 0, 0
+  index: -1
+C_Horn
+  rotate: true
+  xy: 2, 203
+  size: 70, 105
+  orig: 70, 105
+  offset: 0, 0
+  index: -1
+C_Horn_B
+  rotate: false
+  xy: 2, 133
+  size: 73, 68
+  orig: 73, 68
+  offset: 0, 0
+  index: -1
+C_Horn_C
+  rotate: true
+  xy: 2, 388
+  size: 33, 65
+  orig: 33, 65
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: false
+  xy: 324, 111
+  size: 50, 74
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+C_Tongue
+  rotate: false
+  xy: 142, 257
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1

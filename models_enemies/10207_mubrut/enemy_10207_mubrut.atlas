@@ -1,0 +1,83 @@
+
+enemy_10207_mubrut.png
+size: 288,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Head
+  rotate: false
+  xy: 209, 84
+  size: 77, 88
+  orig: 77, 88
+  offset: 0, 0
+  index: -1
+L_Forearm
+  rotate: false
+  xy: 138, 147
+  size: 97, 129
+  orig: 97, 129
+  offset: 0, 0
+  index: -1
+L_Forearm_A
+  rotate: 180
+  xy: 107, 3
+  size: 83, 46
+  orig: 83, 46
+  offset: 0, 0
+  index: -1
+L_Upperarm
+  rotate: false
+  xy: 2, 148
+  size: 135, 130
+  orig: 135, 141
+  offset: 0, 11
+  index: -1
+L_Upperarm_A
+  rotate: false
+  xy: 2, 16
+  size: 106, 72
+  orig: 106, 72
+  offset: 0, 0
+  index: -1
+L_Upperarm_B
+  rotate: false
+  xy: 237, 224
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+L_Upperarm_C
+  rotate: false
+  xy: 228, 184
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+R_Forearm
+  rotate: true
+  xy: 174, 23
+  size: 70, 75
+  orig: 70, 75
+  offset: 0, 0
+  index: -1
+R_Forearm_A
+  rotate: false
+  xy: 89, 233
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+R_Upperarm
+  rotate: true
+  xy: 101, 62
+  size: 84, 98
+  orig: 84, 98
+  offset: 0, 0
+  index: -1
+R_Upperarm_A
+  rotate: true
+  xy: 2, 89
+  size: 57, 98
+  orig: 57, 98
+  offset: 0, 0
+  index: -1

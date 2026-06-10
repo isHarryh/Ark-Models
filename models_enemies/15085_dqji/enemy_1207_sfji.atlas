@@ -1,0 +1,209 @@
+
+enemy_1207_sfji.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 242, 234
+  size: 107, 98
+  orig: 107, 98
+  offset: 0, 0
+  index: -1
+C_Cloak
+  rotate: false
+  xy: 444, 397
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+C_CloakBack_A
+  rotate: false
+  xy: 2, 95
+  size: 157, 143
+  orig: 157, 143
+  offset: 0, 0
+  index: -1
+C_CloakBack_B
+  rotate: true
+  xy: 161, 101
+  size: 137, 57
+  orig: 137, 57
+  offset: 0, 0
+  index: -1
+C_Cloak_A
+  rotate: false
+  xy: 351, 279
+  size: 40, 61
+  orig: 40, 61
+  offset: 0, 0
+  index: -1
+C_Cloak_B
+  rotate: false
+  xy: 316, 152
+  size: 22, 80
+  orig: 22, 80
+  offset: 0, 0
+  index: -1
+C_Face
+  rotate: false
+  xy: 220, 140
+  size: 94, 92
+  orig: 94, 92
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: true
+  xy: 173, 29
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+C_L_Calf
+  rotate: false
+  xy: 407, 337
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+C_L_Cloak
+  rotate: true
+  xy: 2, 24
+  size: 69, 128
+  orig: 69, 128
+  offset: 0, 0
+  index: -1
+C_L_Finger
+  rotate: false
+  xy: 213, 34
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+C_L_FingerA
+  rotate: true
+  xy: 213, 2
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: true
+  xy: 381, 179
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: false
+  xy: 351, 231
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 173, 64
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+C_L_ITSONFIRE
+  rotate: false
+  xy: 323, 386
+  size: 119, 124
+  orig: 119, 124
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: true
+  xy: 323, 342
+  size: 42, 82
+  orig: 42, 82
+  offset: 0, 0
+  index: -1
+C_R_Calf
+  rotate: false
+  xy: 132, 40
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+C_R_Cloak
+  rotate: false
+  xy: 220, 69
+  size: 88, 69
+  orig: 88, 69
+  offset: 0, 0
+  index: -1
+C_R_FingerA
+  rotate: true
+  xy: 2, 2
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+C_R_FingerB
+  rotate: false
+  xy: 290, 48
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+C_R_FingerC
+  rotate: true
+  xy: 132, 24
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+C_R_FingerD
+  rotate: false
+  xy: 393, 322
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: false
+  xy: 248, 42
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: false
+  xy: 340, 173
+  size: 39, 56
+  orig: 39, 56
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: true
+  xy: 340, 142
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+C_R_ITSONFIRE
+  rotate: false
+  xy: 242, 334
+  size: 79, 176
+  orig: 79, 176
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: true
+  xy: 444, 458
+  size: 52, 66
+  orig: 52, 66
+  offset: 0, 0
+  index: -1
+C_Weapon
+  rotate: false
+  xy: 2, 240
+  size: 238, 270
+  orig: 238, 270
+  offset: 0, 0
+  index: -1

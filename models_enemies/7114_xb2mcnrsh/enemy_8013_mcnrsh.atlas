@@ -1,0 +1,265 @@
+
+enemy_8013_mcnrsh.png
+size: 252,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_1
+  rotate: false
+  xy: 210, 4
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+C_10
+  rotate: 270
+  xy: 174, 61
+  size: 49, 24
+  orig: 49, 24
+  offset: 0, 0
+  index: -1
+C_11
+  rotate: false
+  xy: 2, 5
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+C_12
+  rotate: false
+  xy: 83, 194
+  size: 7, 3
+  orig: 7, 3
+  offset: 0, 0
+  index: -1
+C_14
+  rotate: false
+  xy: 2, 119
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+C_15
+  rotate: false
+  xy: 213, 48
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+C_16
+  rotate: false
+  xy: 107, 125
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+C_17
+  rotate: false
+  xy: 193, 161
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+C_2
+  rotate: true
+  xy: 198, 73
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+C_21
+  rotate: false
+  xy: 128, 163
+  size: 29, 51
+  orig: 29, 51
+  offset: 0, 0
+  index: -1
+C_22
+  rotate: true
+  xy: 148, 82
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+C_24
+  rotate: true
+  xy: 108, 97
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+C_25
+  rotate: true
+  xy: 92, 55
+  size: 39, 46
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+C_26
+  rotate: false
+  xy: 193, 195
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+C_28
+  rotate: false
+  xy: 148, 123
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+C_29
+  rotate: 180
+  xy: 88, 164
+  size: 38, 50
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+C_3
+  rotate: false
+  xy: 68, 177
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+C_30
+  rotate: true
+  xy: 224, 90
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+C_32
+  rotate: false
+  xy: 188, 8
+  size: 22, 52
+  orig: 23, 52
+  offset: 0, 0
+  index: -1
+C_36
+  rotate: false
+  xy: 152, 212
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+C_37
+  rotate: true
+  xy: 101, 215
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+C_4
+  rotate: false
+  xy: 169, 161
+  size: 22, 55
+  orig: 22, 55
+  offset: 0, 0
+  index: -1
+C_5
+  rotate: false
+  xy: 177, 111
+  size: 24, 51
+  orig: 24, 51
+  offset: 0, 0
+  index: -1
+C_6
+  rotate: false
+  xy: 2, 78
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+C_7
+  rotate: true
+  xy: 67, 198
+  size: 51, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+C_8
+  rotate: 270
+  xy: 26, 31
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+C_9
+  rotate: false
+  xy: 124, 5
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+C_Chest
+  rotate: false
+  xy: 68, 83
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 2, 186
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+C_Hip
+  rotate: true
+  xy: 150, 40
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: false
+  xy: 157, 8
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: false
+  xy: 67, 123
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 211, 224
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: false
+  xy: 186, 215
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: false
+  xy: 85, 15
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: false
+  xy: 219, 169
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+C_Waist
+  rotate: true
+  xy: 204, 125
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1

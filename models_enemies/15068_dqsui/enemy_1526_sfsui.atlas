@@ -1,0 +1,414 @@
+
+enemy_1526_sfsui.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_B_Weapon
+  rotate: false
+  xy: 349, 67
+  size: 97, 443
+  orig: 97, 443
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: false
+  xy: 448, 129
+  size: 62, 172
+  orig: 62, 172
+  offset: 0, 0
+  index: -1
+C_L_Hair_3
+  rotate: true
+  xy: 349, 2
+  size: 63, 90
+  orig: 63, 90
+  offset: 0, 0
+  index: -1
+C_L_String
+  rotate: false
+  xy: 448, 303
+  size: 62, 207
+  orig: 62, 207
+  offset: 0, 0
+  index: -1
+C_L_String_2
+  rotate: false
+  xy: 448, 90
+  size: 62, 37
+  orig: 62, 37
+  offset: 0, 0
+  index: -1
+C_L_Whisker
+  rotate: false
+  xy: 2, 10
+  size: 183, 35
+  orig: 183, 35
+  offset: 0, 0
+  index: -1
+C_R_Claw_4
+  rotate: true
+  xy: 448, 2
+  size: 86, 33
+  orig: 86, 33
+  offset: 0, 0
+  index: -1
+C_R_Claw_5
+  rotate: true
+  xy: 483, 38
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+C_R_String_2
+  rotate: true
+  xy: 187, 5
+  size: 40, 157
+  orig: 40, 157
+  offset: 0, 0
+  index: -1
+C_Ring
+  rotate: false
+  xy: 2, 47
+  size: 345, 463
+  orig: 345, 463
+  offset: 0, 0
+  index: -1
+
+enemy_1526_sfsui2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_A_Copper_2
+  rotate: true
+  xy: 201, 2
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+C_A_Copper_3
+  rotate: false
+  xy: 145, 2
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+C_B_Annex
+  rotate: false
+  xy: 145, 59
+  size: 110, 47
+  orig: 110, 47
+  offset: 0, 0
+  index: -1
+C_B_Copper_2
+  rotate: false
+  xy: 439, 2
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+C_L_Claw_1
+  rotate: true
+  xy: 405, 124
+  size: 38, 105
+  orig: 38, 105
+  offset: 0, 0
+  index: -1
+C_L_Claw_2
+  rotate: false
+  xy: 2, 7
+  size: 73, 99
+  orig: 73, 99
+  offset: 0, 0
+  index: -1
+C_L_Claw_3
+  rotate: false
+  xy: 439, 50
+  size: 69, 72
+  orig: 69, 72
+  offset: 0, 0
+  index: -1
+C_Light
+  rotate: false
+  xy: 263, 164
+  size: 245, 346
+  orig: 245, 346
+  offset: 0, 0
+  index: -1
+C_Neck
+  rotate: true
+  xy: 263, 3
+  size: 159, 140
+  orig: 159, 140
+  offset: 0, 0
+  index: -1
+C_R_Claw_2
+  rotate: true
+  xy: 77, 12
+  size: 94, 66
+  orig: 94, 66
+  offset: 0, 0
+  index: -1
+C_R_Whisker
+  rotate: false
+  xy: 405, 3
+  size: 32, 119
+  orig: 32, 119
+  offset: 0, 0
+  index: -1
+C_Tail_Superlong
+  rotate: false
+  xy: 2, 108
+  size: 259, 402
+  orig: 259, 402
+  offset: 0, 0
+  index: -1
+
+enemy_1526_sfsui3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_A_Annex
+  rotate: false
+  xy: 152, 37
+  size: 92, 73
+  orig: 92, 73
+  offset: 0, 0
+  index: -1
+C_A_Copper_4
+  rotate: true
+  xy: 246, 56
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+C_B_Copper_1
+  rotate: false
+  xy: 246, 7
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+C_Body_2
+  rotate: true
+  xy: 299, 257
+  size: 253, 207
+  orig: 253, 207
+  offset: 0, 0
+  index: -1
+C_L_Claw_4
+  rotate: true
+  xy: 299, 2
+  size: 76, 61
+  orig: 76, 61
+  offset: 0, 0
+  index: -1
+C_L_Hair_1
+  rotate: true
+  xy: 417, 2
+  size: 76, 49
+  orig: 76, 49
+  offset: 0, 0
+  index: -1
+C_L_Hair_2
+  rotate: true
+  xy: 299, 80
+  size: 175, 200
+  orig: 175, 200
+  offset: 0, 0
+  index: -1
+C_R_Claw_3
+  rotate: false
+  xy: 362, 2
+  size: 53, 76
+  orig: 53, 76
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: true
+  xy: 2, 2
+  size: 108, 148
+  orig: 108, 148
+  offset: 0, 0
+  index: -1
+C_R_String
+  rotate: true
+  xy: 152, 4
+  size: 31, 67
+  orig: 31, 67
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: false
+  xy: 2, 112
+  size: 295, 398
+  orig: 295, 398
+  offset: 0, 0
+  index: -1
+C_Upper teeth
+  rotate: true
+  xy: 468, 23
+  size: 55, 35
+  orig: 55, 35
+  offset: 0, 0
+  index: -1
+
+enemy_1526_sfsui4.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_A_Copper_1
+  rotate: false
+  xy: 178, 52
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+C_A_Hair
+  rotate: true
+  xy: 263, 17
+  size: 120, 229
+  orig: 120, 229
+  offset: 0, 0
+  index: -1
+C_B_Copper_3
+  rotate: false
+  xy: 143, 3
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+C_B_Copper_4
+  rotate: false
+  xy: 194, 2
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: false
+  xy: 263, 139
+  size: 233, 369
+  orig: 233, 369
+  offset: 0, 0
+  index: -1
+C_L_Claw_5
+  rotate: false
+  xy: 88, 21
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+C_L_Hair_4
+  rotate: false
+  xy: 2, 28
+  size: 84, 77
+  orig: 84, 77
+  offset: 0, 0
+  index: -1
+C_R_Claw_1
+  rotate: true
+  xy: 88, 52
+  size: 53, 88
+  orig: 53, 88
+  offset: 0, 0
+  index: -1
+C_Tail_Superlong_2
+  rotate: false
+  xy: 2, 107
+  size: 259, 401
+  orig: 259, 401
+  offset: 0, 0
+  index: -1
+
+enemy_1526_sfsui5.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body_3
+  rotate: false
+  xy: 350, 273
+  size: 155, 232
+  orig: 155, 232
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 2, 206
+  size: 346, 299
+  orig: 346, 299
+  offset: 0, 0
+  index: -1
+C_L_Smoke
+  rotate: true
+  xy: 350, 90
+  size: 181, 143
+  orig: 181, 143
+  offset: 0, 0
+  index: -1
+C_Lower jaw_Close
+  rotate: true
+  xy: 2, 26
+  size: 178, 138
+  orig: 178, 138
+  offset: 0, 0
+  index: -1
+C_Lower jaw_Open
+  rotate: true
+  xy: 142, 58
+  size: 146, 156
+  orig: 146, 156
+  offset: 0, 0
+  index: -1
+
+enemy_1526_sfsui6.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_A_Neck
+  rotate: false
+  xy: 2, 188
+  size: 230, 310
+  orig: 230, 310
+  offset: 0, 0
+  index: -1
+C_A_Weapon
+  rotate: false
+  xy: 234, 266
+  size: 255, 232
+  orig: 255, 232
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: false
+  xy: 234, 147
+  size: 174, 117
+  orig: 174, 117
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: false
+  xy: 213, 9
+  size: 147, 136
+  orig: 147, 136
+  offset: 0, 0
+  index: -1
+C_R_Hair
+  rotate: true
+  xy: 2, 75
+  size: 111, 209
+  orig: 111, 209
+  offset: 0, 0
+  index: -1
+C_Tail_A
+  rotate: false
+  xy: 362, 2
+  size: 128, 143
+  orig: 128, 143
+  offset: 0, 0
+  index: -1

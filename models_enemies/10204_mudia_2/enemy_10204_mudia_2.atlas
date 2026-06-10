@@ -1,0 +1,76 @@
+
+enemy_10204_mudia_2.png
+size: 264,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 109, 49
+  size: 57, 64
+  orig: 57, 80
+  offset: 0, 16
+  index: -1
+C_L_Leg
+  rotate: false
+  xy: 2, 18
+  size: 48, 33
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+C_L_Stone
+  rotate: true
+  xy: 220, 34
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: false
+  xy: 210, 3
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+C_R_Stone
+  rotate: false
+  xy: 164, 13
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+C_Stone_A
+  rotate: true
+  xy: 168, 58
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+C_Stone_B
+  rotate: true
+  xy: 96, 9
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+C_Stone_L_Foot
+  rotate: false
+  xy: 51, 14
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+C_Stone_R_Foot
+  rotate: false
+  xy: 221, 87
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+C_Stones
+  rotate: false
+  xy: 2, 38
+  size: 106, 74
+  orig: 106, 74
+  offset: 0, 0
+  index: -1

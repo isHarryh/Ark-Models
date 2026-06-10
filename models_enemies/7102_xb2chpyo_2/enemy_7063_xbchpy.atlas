@@ -1,0 +1,69 @@
+
+enemy_7063_xbchpy.png
+size: 328,328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_Body
+  rotate: false
+  xy: 2, 10
+  size: 76, 69
+  orig: 76, 69
+  offset: 0, 0
+  index: -1
+F_EX
+  rotate: false
+  xy: 2, 11
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+F_L_Ear
+  rotate: true
+  xy: 143, 37
+  size: 41, 22
+  orig: 41, 22
+  offset: 0, 0
+  index: -1
+F_L_Eye
+  rotate: false
+  xy: 16, 5
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+F_L_Foot
+  rotate: false
+  xy: 71, 7
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+F_R_Ear
+  rotate: false
+  xy: 133, 12
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+F_R_Eye
+  rotate: true
+  xy: 122, 3
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+F_R_Foot
+  rotate: false
+  xy: 157, 7
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+F_Tail
+  rotate: false
+  xy: 80, 11
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1

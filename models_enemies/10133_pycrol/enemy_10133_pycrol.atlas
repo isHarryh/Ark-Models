@@ -1,0 +1,125 @@
+
+enemy_10133_pycrol.png
+size: 352,352
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 265, 141
+  size: 104, 82
+  orig: 104, 82
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 183, 48
+  size: 94, 87
+  orig: 94, 87
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 164, 136
+  size: 99, 86
+  orig: 99, 86
+  offset: 0, 0
+  index: -1
+C_B_Head
+  rotate: true
+  xy: 279, 41
+  size: 48, 62
+  orig: 48, 62
+  offset: 0, 0
+  index: -1
+C_B_Shell
+  rotate: false
+  xy: 2, 229
+  size: 160, 91
+  orig: 165, 92
+  offset: 2, 1
+  index: -1
+C_F_Head
+  rotate: 270
+  xy: 119, 24
+  size: 48, 62
+  orig: 48, 62
+  offset: 0, 0
+  index: -1
+C_F_Shell_B
+  rotate: 180
+  xy: 48, 69
+  size: 134, 85
+  orig: 134, 85
+  offset: 0, 0
+  index: -1
+C_F_Tail
+  rotate: 270
+  xy: 251, 3
+  size: 44, 82
+  orig: 44, 82
+  offset: 0, 0
+  index: -1
+C_S_Eye_A
+  rotate: false
+  xy: 22, 306
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+C_S_Eye_B
+  rotate: false
+  xy: 2, 299
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+C_S_Eye_C
+  rotate: false
+  xy: 2, 24
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+C_S_Foot_A
+  rotate: false
+  xy: 283, 280
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+C_S_Foot_B
+  rotate: false
+  xy: 279, 90
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+C_S_Head_A
+  rotate: 180
+  xy: 2, 36
+  size: 96, 68
+  orig: 96, 69
+  offset: 0, 1
+  index: -1
+C_S_Head_B
+  rotate: false
+  xy: 2, 109
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+C_S_Shell_A
+  rotate: false
+  xy: 2, 144
+  size: 161, 94
+  orig: 161, 94
+  offset: 0, 0
+  index: -1
+C_S_Shell_B
+  rotate: false
+  xy: 145, 224
+  size: 137, 95
+  orig: 137, 95
+  offset: 0, 0
+  index: -1

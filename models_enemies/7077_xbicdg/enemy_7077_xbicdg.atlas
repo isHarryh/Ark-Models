@@ -1,0 +1,419 @@
+
+enemy_7077_xbicdg.png
+size: 576,576
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Fly_R_wing1
+  rotate: false
+  xy: 2, 27
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+C_Fly_R_wing2
+  rotate: true
+  xy: 441, 26
+  size: 25, 65
+  orig: 25, 65
+  offset: 0, 0
+  index: -1
+C_Fly_R_wing3
+  rotate: false
+  xy: 508, 41
+  size: 60, 36
+  orig: 60, 36
+  offset: 0, 0
+  index: -1
+C_Fly_R_wing4
+  rotate: true
+  xy: 178, 116
+  size: 77, 112
+  orig: 77, 112
+  offset: 0, 0
+  index: -1
+C_Fly_R_wing5
+  rotate: false
+  xy: 2, 372
+  size: 80, 101
+  orig: 80, 101
+  offset: 0, 0
+  index: -1
+C_Fly_R_wing6
+  rotate: true
+  xy: 38, 72
+  size: 71, 158
+  orig: 71, 158
+  offset: 0, 0
+  index: -1
+C_Fly_arm_L
+  rotate: false
+  xy: 342, 36
+  size: 60, 36
+  orig: 60, 36
+  offset: 0, 0
+  index: -1
+C_Fly_arm_L1
+  rotate: false
+  xy: 51, 27
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+C_Fly_arm_L2
+  rotate: true
+  xy: 441, 531
+  size: 22, 62
+  orig: 22, 62
+  offset: 0, 0
+  index: -1
+C_Fly_body
+  rotate: 180
+  xy: 393, 134
+  size: 107, 110
+  orig: 107, 110
+  offset: 0, 0
+  index: -1
+C_Fly_decorat1
+  rotate: true
+  xy: 456, 232
+  size: 81, 100
+  orig: 81, 100
+  offset: 0, 0
+  index: -1
+C_Fly_decorat2
+  rotate: false
+  xy: 2, 316
+  size: 30, 53
+  orig: 30, 53
+  offset: 0, 0
+  index: -1
+C_S_decorat2
+  rotate: false
+  xy: 2, 316
+  size: 30, 53
+  orig: 30, 53
+  offset: 0, 0
+  index: -1
+C_Fly_head1
+  rotate: false
+  xy: 478, 315
+  size: 96, 104
+  orig: 96, 104
+  offset: 0, 0
+  index: -1
+C_Fly_head2
+  rotate: false
+  xy: 49, 4
+  size: 45, 22
+  orig: 45, 22
+  offset: 0, 0
+  index: -1
+C_Fly_head3
+  rotate: false
+  xy: 342, 534
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+C_Fly_head4
+  rotate: false
+  xy: 496, 425
+  size: 79, 59
+  orig: 79, 59
+  offset: 0, 0
+  index: -1
+C_Fly_head5
+  rotate: false
+  xy: 502, 124
+  size: 66, 106
+  orig: 66, 106
+  offset: 0, 0
+  index: -1
+C_Fly_leg_L1
+  rotate: true
+  xy: 404, 8
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+C_Fly_leg_L2
+  rotate: false
+  xy: 156, 25
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+C_Fly_leg_L3
+  rotate: 180
+  xy: 288, 116
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+C_Fly_leg_L4
+  rotate: false
+  xy: 198, 60
+  size: 77, 49
+  orig: 77, 49
+  offset: 0, 0
+  index: -1
+C_Fly_leg_R1
+  rotate: 270
+  xy: 269, 12
+  size: 31, 72
+  orig: 31, 72
+  offset: 0, 0
+  index: -1
+C_Fly_leg_R2
+  rotate: false
+  xy: 93, 141
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+C_Fly_leg_R3
+  rotate: false
+  xy: 425, 52
+  size: 81, 43
+  orig: 81, 43
+  offset: 0, 0
+  index: -1
+C_Fly_neck
+  rotate: 270
+  xy: 345, 280
+  size: 103, 130
+  orig: 103, 130
+  offset: 0, 0
+  index: -1
+C_Fly_tail
+  rotate: true
+  xy: 221, 245
+  size: 49, 65
+  orig: 49, 65
+  offset: 0, 0
+  index: -1
+C_Fly_wing1
+  rotate: 270
+  xy: 10, 231
+  size: 128, 173
+  orig: 129, 173
+  offset: 0, 0
+  index: -1
+C_Fly_wing2
+  rotate: true
+  xy: 374, 391
+  size: 162, 133
+  orig: 162, 133
+  offset: 0, 0
+  index: -1
+C_Fly_wing3
+  rotate: 180
+  xy: 329, 78
+  size: 95, 124
+  orig: 95, 124
+  offset: 0, 0
+  index: -1
+C_S_arm_L1
+  rotate: 270
+  xy: 73, 239
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+C_S_arm_L2
+  rotate: true
+  xy: 100, 42
+  size: 41, 54
+  orig: 41, 54
+  offset: 0, 0
+  index: -1
+C_S_arm_L3
+  rotate: false
+  xy: 342, 12
+  size: 52, 22
+  orig: 52, 22
+  offset: 0, 0
+  index: -1
+C_S_arm_R1
+  rotate: false
+  xy: 505, 533
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+C_S_arm_R2
+  rotate: true
+  xy: 203, 27
+  size: 37, 66
+  orig: 37, 66
+  offset: 0, 0
+  index: -1
+C_S_arm_R3
+  rotate: false
+  xy: 2, 81
+  size: 53, 22
+  orig: 53, 22
+  offset: 0, 0
+  index: -1
+C_S_body
+  rotate: false
+  xy: 2, 428
+  size: 198, 125
+  orig: 198, 125
+  offset: 0, 0
+  index: -1
+C_S_decorat1
+  rotate: true
+  xy: 291, 214
+  size: 81, 100
+  orig: 81, 100
+  offset: 0, 0
+  index: -1
+C_S_hair
+  rotate: 180
+  xy: 37, 327
+  size: 204, 108
+  orig: 204, 108
+  offset: 0, 0
+  index: -1
+C_S_head1
+  rotate: false
+  xy: 184, 295
+  size: 105, 91
+  orig: 105, 91
+  offset: 0, 0
+  index: -1
+C_S_head3
+  rotate: false
+  xy: 2, 3
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+C_S_head4
+  rotate: true
+  xy: 291, 299
+  size: 82, 53
+  orig: 82, 53
+  offset: 0, 0
+  index: -1
+C_S_head5
+  rotate: true
+  xy: 2, 105
+  size: 84, 89
+  orig: 84, 89
+  offset: 0, 0
+  index: -1
+C_S_leg_L1
+  rotate: false
+  xy: 509, 482
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+C_S_leg_L2
+  rotate: false
+  xy: 312, 189
+  size: 52, 24
+  orig: 52, 24
+  offset: 0, 0
+  index: -1
+C_S_leg_L3
+  rotate: true
+  xy: 508, 6
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+C_S_leg_L4
+  rotate: false
+  xy: 203, 3
+  size: 52, 22
+  orig: 52, 22
+  offset: 0, 0
+  index: -1
+C_S_leg_R1
+  rotate: true
+  xy: 274, 42
+  size: 43, 67
+  orig: 43, 67
+  offset: 0, 0
+  index: -1
+C_S_leg_R2
+  rotate: false
+  xy: 145, 210
+  size: 31, 56
+  orig: 31, 56
+  offset: 0, 0
+  index: -1
+C_S_leg_R3
+  rotate: false
+  xy: 393, 251
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+C_S_leg_R4
+  rotate: false
+  xy: 100, 17
+  size: 52, 23
+  orig: 52, 23
+  offset: 0, 0
+  index: -1
+C_S_ribbon1
+  rotate: 180
+  xy: 68, 433
+  size: 57, 33
+  orig: 57, 33
+  offset: 0, 0
+  index: -1
+C_S_ribbon2
+  rotate: false
+  xy: 392, 537
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+C_S_wing1
+  rotate: true
+  xy: 212, 382
+  size: 171, 229
+  orig: 171, 229
+  offset: 0, 0
+  index: -1
+C_S_wing2
+  rotate: true
+  xy: 166, 158
+  size: 135, 184
+  orig: 135, 184
+  offset: 0, 0
+  index: -1
+C_S_wing3
+  rotate: 270
+  xy: 252, 74
+  size: 54, 140
+  orig: 54, 140
+  offset: 0, 0
+  index: -1
+C_S_wing4
+  rotate: 270
+  xy: 156, 382
+  size: 171, 229
+  orig: 171, 229
+  offset: 0, 0
+  index: -1
+C_S_wing5
+  rotate: true
+  xy: 2, 164
+  size: 135, 184
+  orig: 135, 184
+  offset: 0, 0
+  index: -1
+C_S_wing6
+  rotate: true
+  xy: 416, 79
+  size: 54, 140
+  orig: 54, 140
+  offset: 0, 0
+  index: -1

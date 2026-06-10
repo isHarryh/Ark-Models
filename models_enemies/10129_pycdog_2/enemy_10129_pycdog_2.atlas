@@ -1,0 +1,104 @@
+
+enemy_10129_pycdog_2.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Arm_L
+  rotate: 180
+  xy: 95, 67
+  size: 25, 38
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+C_Arm_R
+  rotate: false
+  xy: 2, 81
+  size: 24, 38
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: false
+  xy: 2, 96
+  size: 113, 47
+  orig: 113, 47
+  offset: 0, 0
+  index: -1
+C_Eye_1
+  rotate: false
+  xy: 111, 4
+  size: 6, 16
+  orig: 6, 16
+  offset: 0, 0
+  index: -1
+C_Eye_2
+  rotate: false
+  xy: 67, 6
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+C_Hand_L_1
+  rotate: false
+  xy: 2, 27
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+C_Hand_L_2
+  rotate: false
+  xy: 95, 13
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+C_Hand_L_3
+  rotate: false
+  xy: 111, 22
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+C_Hand_R_1
+  rotate: false
+  xy: 52, 42
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+C_Hand_R_2
+  rotate: false
+  xy: 95, 24
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+C_Hand_R_3
+  rotate: false
+  xy: 2, 15
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: true
+  xy: 2, 39
+  size: 66, 94
+  orig: 66, 94
+  offset: 0, 0
+  index: -1
+C_Leg_L
+  rotate: true
+  xy: 65, 29
+  size: 37, 50
+  orig: 37, 50
+  offset: 0, 0
+  index: -1
+C_Leg_R
+  rotate: true
+  xy: 15, 4
+  size: 37, 50
+  orig: 37, 50
+  offset: 0, 0
+  index: -1

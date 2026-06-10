@@ -1,0 +1,174 @@
+
+enemy_7004_xbdeer.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 273
+  size: 242, 128
+  orig: 242, 128
+  offset: 0, 0
+  index: -1
+C_BodyFlower
+  rotate: false
+  xy: 2, 2
+  size: 51, 79
+  orig: 51, 79
+  offset: 0, 0
+  index: -1
+C_Ear_L
+  rotate: true
+  xy: 2, 83
+  size: 81, 66
+  orig: 81, 66
+  offset: 0, 0
+  index: -1
+C_Ear_R
+  rotate: false
+  xy: 149, 210
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+C_Eye
+  rotate: true
+  xy: 236, 105
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+C_EyeLight
+  rotate: false
+  xy: 213, 202
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+C_Eye_Off
+  rotate: true
+  xy: 126, 110
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+C_Foot_A
+  rotate: false
+  xy: 77, 161
+  size: 70, 110
+  orig: 70, 110
+  offset: 0, 0
+  index: -1
+C_Foot_Ab
+  rotate: false
+  xy: 325, 269
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+C_Foot_Ac
+  rotate: false
+  xy: 213, 240
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+C_Foot_Ad
+  rotate: false
+  xy: 99, 35
+  size: 41, 60
+  orig: 41, 60
+  offset: 0, 0
+  index: -1
+C_Foot_B
+  rotate: false
+  xy: 246, 200
+  size: 77, 101
+  orig: 77, 101
+  offset: 0, 0
+  index: -1
+C_Foot_Bb
+  rotate: true
+  xy: 55, 35
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+C_Foot_Bc
+  rotate: false
+  xy: 213, 212
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+C_Foot_Bd
+  rotate: false
+  xy: 265, 124
+  size: 52, 74
+  orig: 52, 74
+  offset: 0, 0
+  index: -1
+C_Foot_C
+  rotate: true
+  xy: 149, 133
+  size: 65, 114
+  orig: 65, 114
+  offset: 0, 0
+  index: -1
+C_Foot_Cb
+  rotate: true
+  xy: 304, 87
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+C_Foot_Cc
+  rotate: false
+  xy: 197, 70
+  size: 37, 61
+  orig: 37, 61
+  offset: 0, 0
+  index: -1
+C_Foot_D
+  rotate: false
+  xy: 2, 166
+  size: 73, 105
+  orig: 73, 105
+  offset: 0, 0
+  index: -1
+C_Foot_Db
+  rotate: false
+  xy: 260, 85
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+C_Foot_Dc
+  rotate: false
+  xy: 70, 97
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: true
+  xy: 246, 303
+  size: 98, 97
+  orig: 98, 97
+  offset: 0, 0
+  index: -1
+C_Horn
+  rotate: false
+  xy: 144, 48
+  size: 51, 83
+  orig: 51, 83
+  offset: 0, 0
+  index: -1
+C_Tongue
+  rotate: false
+  xy: 126, 138
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1

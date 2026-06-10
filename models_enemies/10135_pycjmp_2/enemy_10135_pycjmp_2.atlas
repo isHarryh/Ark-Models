@@ -1,0 +1,146 @@
+
+enemy_10135_pycjmp_2.png
+size: 300,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_B_L_Leg_A
+  rotate: true
+  xy: 226, 65
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+F_B_L_Leg_B
+  rotate: false
+  xy: 246, 202
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+F_B_L_Leg_C
+  rotate: true
+  xy: 32, 10
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+F_B_R_Leg_A
+  rotate: false
+  xy: 118, 10
+  size: 58, 74
+  orig: 58, 74
+  offset: 0, 0
+  index: -1
+F_B_R_Leg_B
+  rotate: false
+  xy: 2, 172
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+F_B_R_Leg_C
+  rotate: 270
+  xy: 177, 11
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+F_Body
+  rotate: 180
+  xy: 2, 83
+  size: 193, 105
+  orig: 193, 105
+  offset: 0, 0
+  index: -1
+F_F_L_Leg_A
+  rotate: false
+  xy: 256, 10
+  size: 42, 54
+  orig: 42, 54
+  offset: 0, 0
+  index: -1
+F_F_L_Leg_B
+  rotate: true
+  xy: 170, 232
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+F_F_L_Leg_C
+  rotate: 270
+  xy: 32, 29
+  size: 68, 72
+  orig: 68, 72
+  offset: 0, 0
+  index: -1
+F_F_R_Leg_A
+  rotate: false
+  xy: 253, 222
+  size: 44, 57
+  orig: 44, 57
+  offset: 0, 0
+  index: -1
+F_F_R_Leg_B
+  rotate: true
+  xy: 196, 96
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+F_F_R_Leg_C
+  rotate: true
+  xy: 164, 27
+  size: 65, 73
+  orig: 65, 73
+  offset: 0, 0
+  index: -1
+F_Head_A
+  rotate: true
+  xy: 96, 20
+  size: 38, 31
+  orig: 38, 32
+  offset: 0, 1
+  index: -1
+F_Head_Ba
+  rotate: false
+  xy: 170, 214
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+F_Head_Bb
+  rotate: true
+  xy: 2, 15
+  size: 80, 29
+  orig: 80, 29
+  offset: 0, 0
+  index: -1
+F_Head_C
+  rotate: false
+  xy: 201, 124
+  size: 97, 72
+  orig: 97, 72
+  offset: 0, 0
+  index: -1
+F_Head_D
+  rotate: true
+  xy: 219, 3
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+F_Tail
+  rotate: true
+  xy: 159, 158
+  size: 122, 92
+  orig: 130, 92
+  offset: 8, 0
+  index: -1
+jump
+  rotate: false
+  xy: 2, 189
+  size: 167, 91
+  orig: 167, 91
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+enemy_10206_muveg_2.png
+size: 228,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: 270
+  xy: 79, 38
+  size: 147, 68
+  orig: 147, 68
+  offset: 0, 0
+  index: -1
+B_Arm
+  rotate: true
+  xy: 79, 13
+  size: 23, 69
+  orig: 23, 69
+  offset: 0, 0
+  index: -1
+B_Hand
+  rotate: true
+  xy: 139, 58
+  size: 105, 83
+  orig: 105, 83
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 86
+  size: 126, 123
+  orig: 126, 123
+  offset: 0, 0
+  index: -1
+C
+  rotate: 180
+  xy: 2, 4
+  size: 81, 103
+  orig: 81, 103
+  offset: 0, 0
+  index: -1
+D_Arm
+  rotate: false
+  xy: 2, 117
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+D_Hand
+  rotate: false
+  xy: 139, 170
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+enemy_10209_mubag.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: 270
+  xy: 11, 55
+  size: 44, 99
+  orig: 44, 99
+  offset: 0, 0
+  index: -1
+B
+  rotate: 180
+  xy: 68, 3
+  size: 84, 77
+  orig: 84, 77
+  offset: 0, 0
+  index: -1
+BodyA
+  rotate: false
+  xy: 80, 101
+  size: 46, 97
+  orig: 46, 97
+  offset: 0, 0
+  index: -1
+BodyB
+  rotate: false
+  xy: 128, 129
+  size: 58, 68
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+BodyC
+  rotate: false
+  xy: 2, 82
+  size: 77, 115
+  orig: 77, 115
+  offset: 0, 0
+  index: -1
+C
+  rotate: true
+  xy: 2, 12
+  size: 44, 88
+  orig: 44, 88
+  offset: 0, 0
+  index: -1
+D
+  rotate: false
+  xy: 127, 52
+  size: 65, 78
+  orig: 65, 78
+  offset: 0, 0
+  index: -1

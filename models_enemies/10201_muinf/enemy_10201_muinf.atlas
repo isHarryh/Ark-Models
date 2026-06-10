@@ -1,0 +1,90 @@
+
+enemy_10201_muinf.png
+size: 228,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_A_Calf
+  rotate: true
+  xy: 158, 3
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+C_A_Foot
+  rotate: true
+  xy: 61, 8
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+C_A_Leg
+  rotate: true
+  xy: 147, 25
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+C_B_Calf
+  rotate: true
+  xy: 2, 97
+  size: 18, 37
+  orig: 18, 37
+  offset: 0, 0
+  index: -1
+C_B_Foot
+  rotate: false
+  xy: 40, 5
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+C_B_Leg
+  rotate: 270
+  xy: 76, 10
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: false
+  xy: 2, 24
+  size: 114, 91
+  orig: 114, 91
+  offset: 0, 0
+  index: -1
+C_C_Calf
+  rotate: true
+  xy: 2, 7
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+C_C_Foot
+  rotate: false
+  xy: 37, 90
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+C_C_Leg
+  rotate: false
+  xy: 165, 69
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+C_Mech
+  rotate: 270
+  xy: 107, 38
+  size: 72, 52
+  orig: 72, 52
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: true
+  xy: 118, 4
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
