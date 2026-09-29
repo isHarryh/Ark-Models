@@ -1,0 +1,258 @@
+
+enemy_8021_tsilas.png
+size: 300,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_B_Bag
+  rotate: true
+  xy: 204, 222
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+C_Chest
+  rotate: true
+  xy: 121, 157
+  size: 62, 59
+  orig: 62, 59
+  offset: 0, 0
+  index: -1
+C_Collar
+  rotate: true
+  xy: 149, 203
+  size: 93, 57
+  orig: 93, 57
+  offset: 0, 0
+  index: -1
+C_Ear
+  rotate: true
+  xy: 65, 5
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+C_Facemask
+  rotate: true
+  xy: 270, 49
+  size: 70, 27
+  orig: 70, 27
+  offset: 0, 0
+  index: -1
+C_Glasses
+  rotate: 270
+  xy: 202, 43
+  size: 81, 24
+  orig: 81, 24
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 14, 74
+  size: 84, 74
+  orig: 84, 74
+  offset: 0, 0
+  index: -1
+C_Hip
+  rotate: false
+  xy: 228, 95
+  size: 51, 28
+  orig: 52, 28
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: true
+  xy: 173, 7
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+C_L_Bag
+  rotate: true
+  xy: 41, 7
+  size: 23, 22
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+C_L_Calf
+  rotate: false
+  xy: 126, 221
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+C_L_Ear
+  rotate: 270
+  xy: 120, 9
+  size: 31, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+C_L_Finger
+  rotate: false
+  xy: 2, 91
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: false
+  xy: 202, 273
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: false
+  xy: 255, 216
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 241, 9
+  size: 33, 35
+  orig: 39, 35
+  offset: 6, 0
+  index: -1
+C_L_Leg
+  rotate: 180
+  xy: 241, 246
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+C_Light
+  rotate: false
+  xy: 225, 160
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+C_Peluis
+  rotate: false
+  xy: 228, 125
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: false
+  xy: 75, 35
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+C_R_Bag
+  rotate: false
+  xy: 275, 133
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+C_R_Calf
+  rotate: false
+  xy: 263, 159
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: true
+  xy: 218, 4
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: true
+  xy: 225, 178
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: false
+  xy: 2, 6
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: false
+  xy: 228, 43
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+C_Ring
+  rotate: true
+  xy: 275, 9
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+C_Scissors_01
+  rotate: false
+  xy: 2, 224
+  size: 122, 71
+  orig: 123, 71
+  offset: 1, 0
+  index: -1
+C_Scissors_02
+  rotate: true
+  xy: 191, 125
+  size: 76, 32
+  orig: 76, 32
+  offset: 0, 0
+  index: -1
+C_Scissors_03
+  rotate: true
+  xy: 100, 74
+  size: 81, 44
+  orig: 81, 45
+  offset: 0, 0
+  index: -1
+C_Scissors_04
+  rotate: false
+  xy: 126, 278
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+C_Scissors_05
+  rotate: false
+  xy: 98, 209
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+C_Shield
+  rotate: true
+  xy: 2, 145
+  size: 77, 118
+  orig: 77, 118
+  offset: 0, 0
+  index: -1
+C_Skirt
+  rotate: 180
+  xy: 129, 41
+  size: 77, 44
+  orig: 77, 44
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: false
+  xy: 2, 32
+  size: 71, 44
+  orig: 71, 51
+  offset: 0, 7
+  index: -1
+C_Waist
+  rotate: true
+  xy: 146, 86
+  size: 70, 45
+  orig: 70, 47
+  offset: 0, 2
+  index: -1

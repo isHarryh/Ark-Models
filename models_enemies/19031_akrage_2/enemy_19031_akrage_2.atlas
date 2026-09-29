@@ -1,0 +1,265 @@
+
+enemy_19031_akrage_2.png
+size: 840,840
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_B_Body
+  rotate: false
+  xy: 400, 556
+  size: 287, 268
+  orig: 287, 268
+  offset: 0, 0
+  index: -1
+C_B_Leaves
+  rotate: 180
+  xy: 2, 198
+  size: 273, 142
+  orig: 273, 142
+  offset: 0, 0
+  index: -1
+C_B_Sha
+  rotate: true
+  xy: 704, 415
+  size: 139, 131
+  orig: 139, 131
+  offset: 0, 0
+  index: -1
+C_B_Spike_A
+  rotate: true
+  xy: 568, 63
+  size: 65, 151
+  orig: 67, 152
+  offset: 1, 1
+  index: -1
+C_B_Spike_A_Sha
+  rotate: false
+  xy: 2, 342
+  size: 229, 228
+  orig: 229, 228
+  offset: 0, 0
+  index: -1
+C_B_Spike_B
+  rotate: false
+  xy: 466, 253
+  size: 135, 116
+  orig: 137, 118
+  offset: 1, 1
+  index: -1
+C_B_Spike_C
+  rotate: false
+  xy: 2, 84
+  size: 149, 72
+  orig: 151, 74
+  offset: 1, 1
+  index: -1
+C_B_Spike_D
+  rotate: false
+  xy: 719, 130
+  size: 115, 95
+  orig: 117, 97
+  offset: 1, 1
+  index: -1
+C_B_Spike_E
+  rotate: true
+  xy: 153, 58
+  size: 83, 105
+  orig: 85, 107
+  offset: 1, 1
+  index: -1
+C_B_Spike_F
+  rotate: true
+  xy: 79, 158
+  size: 111, 121
+  orig: 113, 123
+  offset: 1, 1
+  index: -1
+C_B_Spike_G
+  rotate: false
+  xy: 473, 120
+  size: 93, 131
+  orig: 95, 133
+  offset: 1, 1
+  index: -1
+C_B_Spikes_Sha1
+  rotate: false
+  xy: 233, 382
+  size: 225, 172
+  orig: 225, 172
+  offset: 0, 0
+  index: -1
+C_B_Spikes_Sha2
+  rotate: false
+  xy: 304, 79
+  size: 152, 65
+  orig: 152, 65
+  offset: 0, 0
+  index: -1
+C_Back_Spike_A
+  rotate: false
+  xy: 303, 20
+  size: 43, 57
+  orig: 45, 58
+  offset: 1, 1
+  index: -1
+C_Back_Spike_B
+  rotate: true
+  xy: 373, 337
+  size: 43, 84
+  orig: 45, 86
+  offset: 1, 1
+  index: -1
+C_Back_Spike_C
+  rotate: false
+  xy: 260, 57
+  size: 41, 84
+  orig: 43, 85
+  offset: 1, 1
+  index: -1
+C_Back_Spike_D
+  rotate: true
+  xy: 137, 20
+  size: 36, 83
+  orig: 38, 85
+  offset: 1, 1
+  index: -1
+C_Body
+  rotate: false
+  xy: 2, 572
+  size: 396, 252
+  orig: 396, 252
+  offset: 0, 0
+  index: -1
+C_Fur
+  rotate: 180
+  xy: 202, 143
+  size: 137, 117
+  orig: 137, 117
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: true
+  xy: 689, 556
+  size: 159, 124
+  orig: 161, 126
+  offset: 1, 1
+  index: -1
+C_L_Arm
+  rotate: 270
+  xy: 689, 723
+  size: 101, 123
+  orig: 101, 123
+  offset: 0, 0
+  index: -1
+C_L_Ear
+  rotate: false
+  xy: 67, 24
+  size: 68, 58
+  orig: 68, 58
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: true
+  xy: 581, 146
+  size: 117, 136
+  orig: 117, 136
+  offset: 0, 0
+  index: -1
+C_Leaf_A
+  rotate: false
+  xy: 233, 243
+  size: 231, 137
+  orig: 231, 137
+  offset: 0, 0
+  index: -1
+C_Leaf_B
+  rotate: false
+  xy: 603, 227
+  size: 228, 142
+  orig: 228, 142
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: true
+  xy: 457, 3
+  size: 101, 116
+  orig: 101, 116
+  offset: 0, 0
+  index: -1
+C_R_Ear
+  rotate: false
+  xy: 16, 158
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: false
+  xy: 721, 29
+  size: 90, 99
+  orig: 90, 99
+  offset: 0, 0
+  index: -1
+C_Spike_A
+  rotate: false
+  xy: 222, 4
+  size: 39, 51
+  orig: 41, 52
+  offset: 1, 1
+  index: -1
+C_Spike_B
+  rotate: true
+  xy: 460, 462
+  size: 92, 242
+  orig: 94, 243
+  offset: 1, 1
+  index: -1
+C_Spike_C
+  rotate: true
+  xy: 460, 371
+  size: 89, 221
+  orig: 89, 221
+  offset: 0, 0
+  index: -1
+C_Spike_D
+  rotate: true
+  xy: 341, 146
+  size: 95, 130
+  orig: 97, 132
+  offset: 1, 1
+  index: -1
+C_Spike_E
+  rotate: true
+  xy: 703, 310
+  size: 103, 84
+  orig: 105, 86
+  offset: 1, 1
+  index: -1
+C_Spike_Tail_A
+  rotate: false
+  xy: 2, 581
+  size: 27, 51
+  orig: 29, 52
+  offset: 1, 1
+  index: -1
+C_Spike_Tail_B
+  rotate: false
+  xy: 31, 574
+  size: 50, 15
+  orig: 52, 17
+  offset: 1, 1
+  index: -1
+C_Spike_Tail_C
+  rotate: false
+  xy: 359, 556
+  size: 27, 40
+  orig: 29, 42
+  offset: 1, 1
+  index: -1
+C_Tail
+  rotate: false
+  xy: 2, 15
+  size: 63, 67
+  orig: 65, 69
+  offset: 1, 1
+  index: -1

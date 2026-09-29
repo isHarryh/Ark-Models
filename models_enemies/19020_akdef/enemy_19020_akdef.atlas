@@ -1,0 +1,216 @@
+
+enemy_19020_akdef.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_B_L_Leg
+  rotate: false
+  xy: 137, 33
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: false
+  xy: 137, 33
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+C_B_L_Leg_B
+  rotate: true
+  xy: 186, 36
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+C_L_Leg_B
+  rotate: true
+  xy: 186, 36
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+C_B_R_Leg
+  rotate: true
+  xy: 30, 10
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: true
+  xy: 30, 10
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+C_B_R_Leg_B
+  rotate: true
+  xy: 59, 28
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+C_R_Leg_B
+  rotate: true
+  xy: 59, 28
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+C_B_R_Leg_C
+  rotate: true
+  xy: 30, 29
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+C_R_Leg_C
+  rotate: true
+  xy: 30, 29
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+C_Coconut
+  rotate: false
+  xy: 2, 51
+  size: 93, 87
+  orig: 93, 88
+  offset: 0, 1
+  index: -1
+C_Coconut_Light
+  rotate: false
+  xy: 124, 39
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+C_Coconut_Tatoo
+  rotate: true
+  xy: 97, 27
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+C_Flower
+  rotate: true
+  xy: 97, 82
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: true
+  xy: 146, 89
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+C_L_Arm_A
+  rotate: true
+  xy: 124, 13
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+C_L_Arm_B
+  rotate: false
+  xy: 146, 58
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+C_L_Eye
+  rotate: false
+  xy: 189, 13
+  size: 21, 21
+  orig: 21, 22
+  offset: 0, 1
+  index: -1
+C_L_Eye_IN
+  rotate: false
+  xy: 146, 23
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: true
+  xy: 179, 102
+  size: 36, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+C_L_Hand_B
+  rotate: false
+  xy: 165, 37
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+C_L_IN_Tentacles
+  rotate: true
+  xy: 54, 18
+  size: 11, 33
+  orig: 17, 38
+  offset: 6, 5
+  index: -1
+C_L_Tentacles
+  rotate: false
+  xy: 88, 4
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: false
+  xy: 97, 52
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+C_R_Eye
+  rotate: false
+  xy: 165, 13
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+C_R_Eye_IN
+  rotate: false
+  xy: 2, 18
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: true
+  xy: 186, 64
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+C_R_Hand_B
+  rotate: false
+  xy: 2, 28
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+C_R_IN_Tentacles
+  rotate: true
+  xy: 131, 3
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+C_R_Tentacles
+  rotate: false
+  xy: 84, 14
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1

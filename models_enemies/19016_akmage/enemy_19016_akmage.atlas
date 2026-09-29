@@ -1,0 +1,76 @@
+
+enemy_19016_akmage.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 10
+  size: 113, 100
+  orig: 113, 100
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: 180
+  xy: 157, 3
+  size: 57, 22
+  orig: 57, 22
+  offset: 0, 0
+  index: -1
+C_L_Eye
+  rotate: false
+  xy: 110, 101
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: false
+  xy: 154, 57
+  size: 43, 54
+  orig: 43, 54
+  offset: 0, 0
+  index: -1
+C_L_Hand2
+  rotate: true
+  xy: 103, 9
+  size: 39, 46
+  orig: 40, 54
+  offset: 0, 0
+  index: -1
+C_Mouth
+  rotate: false
+  xy: 192, 100
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+C_R_Eye
+  rotate: false
+  xy: 194, 89
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: true
+  xy: 151, 23
+  size: 42, 54
+  orig: 42, 54
+  offset: 0, 0
+  index: -1
+C_R_Hand2
+  rotate: 180
+  xy: 2, 6
+  size: 40, 45
+  orig: 42, 53
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: true
+  xy: 116, 46
+  size: 65, 38
+  orig: 65, 38
+  offset: 0, 0
+  index: -1

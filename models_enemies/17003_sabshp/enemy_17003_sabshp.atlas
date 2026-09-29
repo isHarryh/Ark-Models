@@ -1,0 +1,111 @@
+
+enemy_17003_sabshp.png
+size: 228,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Eye_1
+  rotate: true
+  xy: 185, 53
+  size: 56, 27
+  orig: 56, 27
+  offset: 0, 0
+  index: -1
+C_Eye_2
+  rotate: true
+  xy: 192, 116
+  size: 56, 27
+  orig: 56, 27
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: true
+  xy: 151, 173
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1
+C_HeadFur
+  rotate: 270
+  xy: 151, 94
+  size: 76, 40
+  orig: 76, 40
+  offset: 0, 0
+  index: -1
+C_Item_A
+  rotate: true
+  xy: 185, 30
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+C_Item_B
+  rotate: false
+  xy: 2, 28
+  size: 182, 65
+  orig: 182, 65
+  offset: 0, 0
+  index: -1
+C_L_B_Leg
+  rotate: true
+  xy: 106, 9
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+C_L_Corn
+  rotate: false
+  xy: 83, 7
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+C_L_Ears
+  rotate: false
+  xy: 2, 3
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+C_L_F_Leg
+  rotate: true
+  xy: 182, 10
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1
+C_R_B_Leg
+  rotate: true
+  xy: 134, 9
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+C_R_Corn
+  rotate: false
+  xy: 29, 8
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+C_R_Ears
+  rotate: true
+  xy: 132, 196
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+C_R_F_Leg
+  rotate: true
+  xy: 54, 9
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+F_Body
+  rotate: false
+  xy: 2, 94
+  size: 148, 120
+  orig: 148, 120
+  offset: 0, 0
+  index: -1

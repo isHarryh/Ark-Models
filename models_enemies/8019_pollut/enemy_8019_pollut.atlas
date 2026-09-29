@@ -1,0 +1,132 @@
+
+enemy_8019_pollut.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: 270
+  xy: 9, 11
+  size: 80, 86
+  orig: 80, 86
+  offset: 0, 0
+  index: -1
+C_Fanblade_01
+  rotate: false
+  xy: 55, 93
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+C_Fanblade_02
+  rotate: false
+  xy: 2, 103
+  size: 47, 58
+  orig: 47, 58
+  offset: 0, 0
+  index: -1
+C_Fanblade_03
+  rotate: false
+  xy: 2, 48
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1
+C_Liquid_01
+  rotate: true
+  xy: 76, 21
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+C_Liquid_02
+  rotate: false
+  xy: 50, 75
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+C_Liquid_03
+  rotate: true
+  xy: 76, 7
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+C_Motor_01
+  rotate: true
+  xy: 36, 7
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+C_Motor_02
+  rotate: false
+  xy: 50, 139
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+C_Prick_01
+  rotate: false
+  xy: 53, 13
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+C_Prick_02
+  rotate: false
+  xy: 75, 140
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+C_Volume_01
+  rotate: 270
+  xy: 85, 46
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+C_Volume_02
+  rotate: false
+  xy: 2, 29
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+C_Volume_03
+  rotate: true
+  xy: 53, 5
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+C_Volume_04
+  rotate: 180
+  xy: 24, 6
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+C_Volume_05
+  rotate: true
+  xy: 64, 4
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+C_Volume_06
+  rotate: false
+  xy: 2, 17
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+C_Volume_07
+  rotate: false
+  xy: 2, 6
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1

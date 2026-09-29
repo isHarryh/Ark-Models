@@ -1,0 +1,230 @@
+
+enemy_19017_akrang.png
+size: 252,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_B_Ball
+  rotate: false
+  xy: 57, 46
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+C_Ball
+  rotate: false
+  xy: 57, 46
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+C_B_Ball_Light
+  rotate: false
+  xy: 197, 8
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+C_Ball_Light
+  rotate: false
+  xy: 197, 8
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+C_B_Ban_Aa
+  rotate: false
+  xy: 113, 58
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+C_B_Ban_Ab
+  rotate: false
+  xy: 104, 129
+  size: 68, 35
+  orig: 68, 35
+  offset: 0, 0
+  index: -1
+C_B_Ban_Ac
+  rotate: 270
+  xy: 174, 3
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+C_B_Ban_Ba
+  rotate: false
+  xy: 213, 169
+  size: 36, 62
+  orig: 36, 62
+  offset: 0, 0
+  index: -1
+C_B_Ban_Bb
+  rotate: 270
+  xy: 107, 14
+  size: 46, 88
+  orig: 46, 88
+  offset: 0, 0
+  index: -1
+C_B_Ban_Bc
+  rotate: 180
+  xy: 67, 19
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+C_B_Ban_Bd
+  rotate: false
+  xy: 45, 62
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+C_B_Ban_C
+  rotate: true
+  xy: 152, 51
+  size: 74, 75
+  orig: 74, 75
+  offset: 0, 0
+  index: -1
+C_B_Ban_D
+  rotate: false
+  xy: 70, 110
+  size: 43, 120
+  orig: 43, 120
+  offset: 0, 0
+  index: -1
+C_B_Leg_Aa
+  rotate: true
+  xy: 149, 72
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+C_B_Leg_Ab
+  rotate: false
+  xy: 85, 8
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+C_B_Leg_B
+  rotate: true
+  xy: 227, 11
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+C_Ban_A
+  rotate: false
+  xy: 172, 113
+  size: 78, 93
+  orig: 78, 93
+  offset: 0, 0
+  index: -1
+C_Ban_B
+  rotate: 180
+  xy: 2, 82
+  size: 53, 93
+  orig: 53, 93
+  offset: 0, 0
+  index: -1
+C_Ban_C
+  rotate: true
+  xy: 92, 91
+  size: 54, 96
+  orig: 54, 96
+  offset: 0, 0
+  index: -1
+C_Ban_D
+  rotate: false
+  xy: 2, 117
+  size: 74, 114
+  orig: 74, 114
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: true
+  xy: 114, 162
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+C_Eye
+  rotate: false
+  xy: 56, 101
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+C_F_Leg_Aa
+  rotate: false
+  xy: 231, 144
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+C_F_Leg_Ab
+  rotate: false
+  xy: 31, 7
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+C_F_Leg_B
+  rotate: false
+  xy: 33, 124
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: 180
+  xy: 195, 25
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: false
+  xy: 217, 73
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: false
+  xy: 106, 10
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: true
+  xy: 228, 89
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+C_L_Wing
+  rotate: 180
+  xy: 2, 21
+  size: 67, 61
+  orig: 67, 61
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: false
+  xy: 2, 15
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: false
+  xy: 175, 211
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1

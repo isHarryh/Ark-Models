@@ -1,0 +1,139 @@
+
+enemy_17002_flgshp.png
+size: 228,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 80
+  size: 139, 120
+  orig: 139, 120
+  offset: 0, 0
+  index: -1
+C_DaiZi
+  rotate: false
+  xy: 202, 152
+  size: 19, 48
+  orig: 20, 48
+  offset: 0, 0
+  index: -1
+C_Hat
+  rotate: false
+  xy: 2, 36
+  size: 68, 44
+  orig: 68, 44
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 143, 134
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+C_L_B_Leg
+  rotate: true
+  xy: 175, 111
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+C_L_Corn
+  rotate: false
+  xy: 143, 103
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+C_L_Ears
+  rotate: true
+  xy: 203, 3
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+C_L_F_Leg
+  rotate: true
+  xy: 176, 20
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+C_LaBa
+  rotate: 180
+  xy: 128, 58
+  size: 98, 51
+  orig: 98, 51
+  offset: 0, 0
+  index: -1
+C_LaBa_Q1
+  rotate: true
+  xy: 155, 22
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+C_LaBa_Q2
+  rotate: true
+  xy: 2, 12
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+C_LaBa_Q3
+  rotate: 270
+  xy: 104, 21
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+C_LaBa_Q4
+  rotate: true
+  xy: 74, 8
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+C_Qi
+  rotate: 180
+  xy: 68, 32
+  size: 85, 47
+  orig: 85, 47
+  offset: 0, 0
+  index: -1
+C_R_B_Leg
+  rotate: true
+  xy: 146, 5
+  size: 18, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+C_R_Corn
+  rotate: false
+  xy: 202, 125
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+C_R_F_Leg
+  rotate: true
+  xy: 19, 7
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+C_R_Hat
+  rotate: 270
+  xy: 51, 20
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+C_Tail
+  rotate: false
+  xy: 96, 33
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1

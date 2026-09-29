@@ -1,0 +1,188 @@
+
+enemy_7015_xbcrab2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: true
+  xy: 322, 340
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 111, 334
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 215, 401
+  size: 138, 93
+  orig: 138, 93
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: true
+  xy: 354, 381
+  size: 49, 40
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 444, 353
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 354, 432
+  size: 62, 47
+  orig: 62, 47
+  offset: 0, 0
+  index: -1
+Leg_B1
+  rotate: false
+  xy: 396, 399
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+Leg_B2
+  rotate: 270
+  xy: 376, 359
+  size: 39, 66
+  orig: 39, 66
+  offset: 0, 0
+  index: -1
+Leg_L1
+  rotate: false
+  xy: 63, 345
+  size: 46, 27
+  orig: 46, 27
+  offset: 0, 0
+  index: -1
+Leg_L2
+  rotate: true
+  xy: 278, 361
+  size: 39, 66
+  orig: 39, 66
+  offset: 0, 0
+  index: -1
+Leg_R1
+  rotate: true
+  xy: 452, 386
+  size: 52, 39
+  orig: 53, 40
+  offset: 0, 1
+  index: -1
+Leg_R2
+  rotate: true
+  xy: 215, 369
+  size: 30, 62
+  orig: 31, 67
+  offset: 1, 5
+  index: -1
+Leg_RB1
+  rotate: true
+  xy: 2, 347
+  size: 26, 60
+  orig: 26, 60
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 249, 349
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+Rock
+  rotate: false
+  xy: 2, 374
+  size: 211, 119
+  orig: 211, 119
+  offset: 0, 0
+  index: -1
+SL_Body
+  rotate: true
+  xy: 450, 440
+  size: 53, 42
+  orig: 54, 42
+  offset: 0, 0
+  index: -1
+SL_Hand_L
+  rotate: false
+  xy: 228, 344
+  size: 19, 23
+  orig: 21, 24
+  offset: 1, 1
+  index: -1
+SL_Hand_R
+  rotate: false
+  xy: 302, 346
+  size: 18, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+SL_Leg_1
+  rotate: true
+  xy: 417, 346
+  size: 13, 25
+  orig: 15, 26
+  offset: 1, 0
+  index: -1
+SL_Leg_2
+  rotate: true
+  xy: 272, 346
+  size: 13, 21
+  orig: 14, 21
+  offset: 1, 0
+  index: -1
+SR_Body
+  rotate: true
+  xy: 403, 441
+  size: 52, 45
+  orig: 52, 45
+  offset: 0, 0
+  index: -1
+SR_Hand_L
+  rotate: false
+  xy: 207, 340
+  size: 19, 27
+  orig: 20, 28
+  offset: 1, 1
+  index: -1
+SR_Hand_R
+  rotate: false
+  xy: 154, 349
+  size: 24, 23
+  orig: 24, 25
+  offset: 0, 1
+  index: -1
+SR_Head
+  rotate: false
+  xy: 180, 348
+  size: 26, 25
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+SR_Leg_1
+  rotate: true
+  xy: 398, 346
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+SR_Leg_2
+  rotate: false
+  xy: 370, 344
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1

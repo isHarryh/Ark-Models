@@ -1,0 +1,97 @@
+
+enemy_19015_akftr.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: true
+  xy: 109, 3
+  size: 42, 59
+  orig: 42, 59
+  offset: 0, 0
+  index: -1
+C_F_Leg
+  rotate: false
+  xy: 100, 70
+  size: 35, 14
+  orig: 35, 14
+  offset: 0, 0
+  index: -1
+C_Huaxin
+  rotate: false
+  xy: 40, 8
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+C_L_Head
+  rotate: 270
+  xy: 65, 29
+  size: 45, 101
+  orig: 45, 101
+  offset: 0, 0
+  index: -1
+C_L_Head_1
+  rotate: false
+  xy: 2, 87
+  size: 77, 104
+  orig: 77, 104
+  offset: 0, 0
+  index: -1
+C_L_Heads
+  rotate: false
+  xy: 135, 66
+  size: 37, 85
+  orig: 37, 85
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: false
+  xy: 65, 167
+  size: 20, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+C_L_Legs
+  rotate: 180
+  xy: 31, 58
+  size: 81, 49
+  orig: 81, 49
+  offset: 0, 0
+  index: -1
+C_RT_Ye
+  rotate: 180
+  xy: 2, 75
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+C_R_Head
+  rotate: 180
+  xy: 78, 89
+  size: 59, 99
+  orig: 70, 99
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: 270
+  xy: 2, 22
+  size: 55, 40
+  orig: 55, 40
+  offset: 0, 0
+  index: -1
+C_R_Leg_1
+  rotate: false
+  xy: 123, 164
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+C_R_Ye
+  rotate: true
+  xy: 74, 9
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
