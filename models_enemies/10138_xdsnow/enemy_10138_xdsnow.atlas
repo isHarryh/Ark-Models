@@ -1,132 +1,132 @@
 
 enemy_10138_xdsnow.png
-size: 216,216
+size: 316,316
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 F_Body_I
   rotate: true
-  xy: 85, 56
-  size: 60, 53
-  orig: 60, 53
+  xy: 167, 177
+  size: 119, 105
+  orig: 119, 105
   offset: 0, 0
   index: -1
 F_Body_II
-  rotate: 270
-  xy: 134, 56
-  size: 60, 46
-  orig: 60, 53
-  offset: 0, 7
+  rotate: 180
+  xy: 113, 98
+  size: 119, 91
+  orig: 119, 105
+  offset: 0, 14
   index: -1
 F_Head_I
-  rotate: true
-  xy: 2, 9
-  size: 22, 19
-  orig: 22, 19
-  offset: 0, 0
+  rotate: false
+  xy: 132, 74
+  size: 44, 36
+  orig: 44, 37
+  offset: 0, 1
   index: -1
 F_Head_IO
   rotate: false
-  xy: 2, 55
-  size: 82, 60
-  orig: 82, 60
+  xy: 2, 176
+  size: 163, 120
+  orig: 163, 120
   offset: 0, 0
   index: -1
 F_L_Arm_I
-  rotate: 180
-  xy: 178, 70
-  size: 35, 45
-  orig: 35, 45
+  rotate: false
+  xy: 2, 103
+  size: 69, 90
+  orig: 69, 90
   offset: 0, 0
   index: -1
 F_L_Ear_I
-  rotate: false
-  xy: 2, 33
-  size: 31, 29
-  orig: 31, 29
+  rotate: 180
+  xy: 67, 54
+  size: 62, 58
+  orig: 62, 58
   offset: 0, 0
   index: -1
 F_L_Eye_I
   rotate: false
-  xy: 143, 18
-  size: 17, 15
-  orig: 18, 15
-  offset: 0, 0
+  xy: 67, 146
+  size: 33, 28
+  orig: 35, 30
+  offset: 1, 1
   index: -1
 F_L_Eye_II
   rotate: false
-  xy: 108, 42
-  size: 12, 12
-  orig: 12, 12
-  offset: 0, 0
+  xy: 73, 121
+  size: 21, 23
+  orig: 23, 24
+  offset: 1, 1
   index: -1
 F_L_Foot_I
   rotate: false
-  xy: 166, 17
-  size: 34, 17
-  orig: 34, 17
-  offset: 0, 0
+  xy: 87, 14
+  size: 66, 31
+  orig: 67, 33
+  offset: 0, 1
   index: -1
 F_R_Arm_I
-  rotate: 270
-  xy: 170, 36
-  size: 29, 44
-  orig: 29, 45
+  rotate: 180
+  xy: 234, 104
+  size: 58, 88
+  orig: 58, 89
   offset: 0, 0
   index: -1
 F_R_Ear_I
-  rotate: 180
-  xy: 71, 33
-  size: 35, 30
-  orig: 35, 30
+  rotate: false
+  xy: 179, 54
+  size: 69, 60
+  orig: 69, 60
   offset: 0, 0
   index: -1
 F_R_Eye_I
   rotate: false
-  xy: 46, 42
-  size: 10, 11
-  orig: 10, 12
-  offset: 0, 1
+  xy: 152, 275
+  size: 18, 21
+  orig: 20, 24
+  offset: 1, 3
   index: -1
 F_R_Eye_II
   rotate: false
-  xy: 48, 5
-  size: 12, 12
-  orig: 12, 12
-  offset: 0, 0
+  xy: 2, 90
+  size: 21, 22
+  orig: 23, 24
+  offset: 1, 1
   index: -1
 F_R_Foot_I
   rotate: false
-  xy: 101, 17
-  size: 32, 16
-  orig: 32, 16
-  offset: 0, 0
+  xy: 2, 3
+  size: 63, 31
+  orig: 64, 32
+  offset: 0, 1
   index: -1
 F_Ribbon_I
-  rotate: 180
-  xy: 35, 19
-  size: 64, 29
-  orig: 64, 29
+  rotate: false
+  xy: 130, 15
+  size: 127, 57
+  orig: 127, 57
   offset: 0, 0
   index: -1
 F_Ribbon_II
-  rotate: 180
-  xy: 20, 7
-  size: 45, 25
-  orig: 45, 25
+  rotate: 270
+  xy: 249, 206
+  size: 90, 49
+  orig: 90, 49
   offset: 0, 0
   index: -1
 F_Ribbon_III
-  rotate: false
-  xy: 62, 3
-  size: 38, 17
-  orig: 38, 17
+  rotate: true
+  xy: 248, 27
+  size: 75, 33
+  orig: 75, 33
   offset: 0, 0
   index: -1
 F_Ribbon_IV
   rotate: false
-  xy: 123, 35
-  size: 42, 25
-  orig: 42, 25
+  xy: 2, 36
+  size: 83, 50
+  orig: 83, 50
   offset: 0, 0
   index: -1

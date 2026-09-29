@@ -1,174 +1,174 @@
 
 enemy_10104_mjcbln.png
-size: 316,316
+size: 616,616
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 C_Arm_L_Open
   rotate: false
-  xy: 111, 20
-  size: 49, 30
-  orig: 49, 30
+  xy: 250, 156
+  size: 98, 60
+  orig: 98, 60
   offset: 0, 0
   index: -1
 C_Ball
   rotate: false
-  xy: 2, 103
-  size: 197, 197
-  orig: 197, 197
+  xy: 2, 218
+  size: 394, 394
+  orig: 394, 394
   offset: 0, 0
   index: -1
 C_Ball_1
   rotate: false
-  xy: 201, 276
-  size: 12, 12
-  orig: 12, 12
+  xy: 46, 169
+  size: 23, 23
+  orig: 23, 23
   offset: 0, 0
   index: -1
 C_Ball_2
   rotate: false
-  xy: 201, 140
-  size: 12, 12
-  orig: 12, 12
+  xy: 398, 427
+  size: 23, 23
+  orig: 23, 23
   offset: 0, 0
   index: -1
 C_Ball_3
-  rotate: 180
-  xy: 203, 4
-  size: 22, 25
-  orig: 22, 25
+  rotate: false
+  xy: 553, 500
+  size: 43, 49
+  orig: 43, 49
   offset: 0, 0
   index: -1
 C_Ball_6
-  rotate: 180
-  xy: 203, 4
-  size: 22, 25
-  orig: 22, 25
+  rotate: false
+  xy: 553, 500
+  size: 43, 49
+  orig: 43, 49
   offset: 0, 0
   index: -1
 C_Ball_4
-  rotate: true
-  xy: 149, 7
-  size: 18, 29
-  orig: 18, 29
+  rotate: false
+  xy: 523, 32
+  size: 35, 57
+  orig: 35, 57
   offset: 0, 0
   index: -1
 C_Ball_5
-  rotate: true
-  xy: 283, 7
-  size: 18, 28
-  orig: 18, 28
+  rotate: false
+  xy: 398, 283
+  size: 35, 55
+  orig: 35, 55
   offset: 0, 0
   index: -1
 C_Balloon
-  rotate: true
-  xy: 201, 46
-  size: 136, 107
-  orig: 136, 107
+  rotate: false
+  xy: 2, 2
+  size: 271, 214
+  orig: 271, 214
   offset: 0, 0
   index: -1
 C_Body
   rotate: false
-  xy: 79, 52
-  size: 88, 50
-  orig: 88, 50
+  xy: 398, 416
+  size: 176, 100
+  orig: 176, 100
   offset: 0, 0
   index: -1
 C_Clothes_1
-  rotate: 180
-  xy: 31, 8
-  size: 68, 49
-  orig: 68, 49
+  rotate: false
+  xy: 388, 8
+  size: 135, 98
+  orig: 135, 98
   offset: 0, 0
   index: -1
 C_Clothes_2
   rotate: false
-  xy: 2, 52
-  size: 76, 50
-  orig: 76, 50
+  xy: 398, 513
+  size: 152, 99
+  orig: 152, 99
   offset: 0, 0
   index: -1
 C_Clothes_Open
   rotate: false
-  xy: 209, 21
-  size: 37, 27
-  orig: 37, 27
-  offset: 0, 0
+  xy: 535, 416
+  size: 73, 53
+  orig: 73, 54
+  offset: 0, 1
   index: -1
 C_Face_1
   rotate: false
-  xy: 297, 291
-  size: 16, 9
-  orig: 16, 9
+  xy: 398, 452
+  size: 32, 18
+  orig: 32, 18
   offset: 0, 0
   index: -1
 C_Face_2
   rotate: false
-  xy: 201, 211
-  size: 10, 11
-  orig: 10, 11
+  xy: 398, 363
+  size: 20, 22
+  orig: 20, 22
   offset: 0, 0
   index: -1
 C_Face_3
   rotate: false
-  xy: 250, 289
-  size: 20, 11
-  orig: 20, 11
+  xy: 44, 194
+  size: 40, 22
+  orig: 40, 22
   offset: 0, 0
   index: -1
 C_Hand_L
-  rotate: 270
-  xy: 2, 14
-  size: 42, 24
-  orig: 42, 24
+  rotate: false
+  xy: 335, 125
+  size: 83, 48
+  orig: 83, 48
   offset: 0, 0
   index: -1
 C_Hand_R
   rotate: false
-  xy: 247, 14
-  size: 34, 27
-  orig: 34, 27
+  xy: 420, 133
+  size: 67, 54
+  orig: 67, 54
   offset: 0, 0
   index: -1
 C_Head
-  rotate: true
-  xy: 155, 26
-  size: 58, 53
-  orig: 58, 53
+  rotate: false
+  xy: 275, 17
+  size: 115, 106
+  orig: 115, 106
   offset: 0, 0
   index: -1
 C_Hip
   rotate: true
-  xy: 201, 224
-  size: 46, 21
-  orig: 46, 21
+  xy: 2, 125
+  size: 91, 42
+  orig: 91, 42
   offset: 0, 0
   index: -1
 C_Leg_L
   rotate: false
-  xy: 201, 152
-  size: 34, 31
-  orig: 34, 31
-  offset: 0, 0
+  xy: 546, 551
+  size: 67, 61
+  orig: 68, 61
+  offset: 1, 0
   index: -1
 C_Leg_Open
-  rotate: false
-  xy: 279, 26
-  size: 35, 22
-  orig: 35, 22
+  rotate: true
+  xy: 2, 4
+  size: 69, 44
+  orig: 69, 44
   offset: 0, 0
   index: -1
 C_Leg_R
   rotate: false
-  xy: 280, 147
-  size: 34, 23
-  orig: 34, 23
+  xy: 492, 91
+  size: 67, 46
+  orig: 67, 46
   offset: 0, 0
   index: -1
 C_Star
   rotate: true
-  xy: 201, 159
-  size: 142, 113
-  orig: 142, 113
+  xy: 388, 140
+  size: 284, 225
+  orig: 284, 225
   offset: 0, 0
   index: -1
