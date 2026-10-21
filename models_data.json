@@ -7783,6 +7783,60 @@
                 ".skel": "build_char_263_skadi.skel"
             }
         },
+        "4231_clemnt": {
+            "assetId": "build_char_4231_clemnt",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "克莱门莎",
+            "appellation": "Clementia",
+            "skinGroupId": "DEFAULT",
+            "skinGroupName": "默认服装",
+            "sortTags": [
+                "Operator",
+                "Rarity_6"
+            ],
+            "assetList": {
+                ".atlas": "build_char_4231_clemnt.atlas",
+                ".png": "build_char_4231_clemnt.png",
+                ".skel": "build_char_4231_clemnt.skel"
+            }
+        },
+        "4232_hbound": {
+            "assetId": "build_char_4232_hbound",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "旅骨",
+            "appellation": "Homebound",
+            "skinGroupId": "DEFAULT",
+            "skinGroupName": "默认服装",
+            "sortTags": [
+                "Operator",
+                "Rarity_5"
+            ],
+            "assetList": {
+                ".atlas": "build_char_4232_hbound.atlas",
+                ".png": "build_char_4232_hbound.png",
+                ".skel": "build_char_4232_hbound.skel"
+            }
+        },
+        "393_toledo": {
+            "assetId": "build_char_393_toledo",
+            "type": "Operator",
+            "style": "BuildingDefault",
+            "name": "德·托莱多",
+            "appellation": "de Toledo",
+            "skinGroupId": "DEFAULT",
+            "skinGroupName": "默认服装",
+            "sortTags": [
+                "Operator",
+                "Rarity_5"
+            ],
+            "assetList": {
+                ".atlas": "build_char_393_toledo.atlas",
+                ".png": "build_char_393_toledo.png",
+                ".skel": "build_char_393_toledo.skel"
+            }
+        },
         "002_amiya_winter#1": {
             "assetId": "build_char_002_amiya_winter#1",
             "type": "Operator",
