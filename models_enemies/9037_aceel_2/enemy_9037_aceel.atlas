@@ -1,0 +1,111 @@
+
+enemy_9037_aceel.png
+size: 288,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_A
+  rotate: 180
+  xy: 2, 49
+  size: 166, 81
+  orig: 166, 81
+  offset: 0, 0
+  index: -1
+Arm_B
+  rotate: 180
+  xy: 2, 9
+  size: 116, 58
+  orig: 116, 58
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 93
+  size: 238, 181
+  orig: 238, 181
+  offset: 0, 0
+  index: -1
+Ctrl_A
+  rotate: false
+  xy: 276, 203
+  size: 9, 23
+  orig: 9, 23
+  offset: 0, 0
+  index: -1
+Ctrl_B
+  rotate: false
+  xy: 2, 168
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+EYe
+  rotate: true
+  xy: 232, 149
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 233, 228
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+Halo
+  rotate: false
+  xy: 170, 23
+  size: 104, 36
+  orig: 104, 36
+  offset: 0, 0
+  index: -1
+Hand_A
+  rotate: 180
+  xy: 239, 4
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+Hand_B
+  rotate: false
+  xy: 2, 250
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+HighLight
+  rotate: false
+  xy: 32, 265
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 201, 261
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+Pipul
+  rotate: false
+  xy: 2, 135
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 191, 61
+  size: 95, 89
+  orig: 95, 89
+  offset: 0, 0
+  index: -1
+Tail_B
+  rotate: false
+  xy: 119, 12
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1

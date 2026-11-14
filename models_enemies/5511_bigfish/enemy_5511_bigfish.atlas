@@ -1,0 +1,139 @@
+
+enemy_5511_bigfish.png
+size: 400,400
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body_I
+  rotate: false
+  xy: 2, 60
+  size: 246, 110
+  orig: 246, 110
+  offset: 0, 0
+  index: -1
+C_Head_A_I
+  rotate: 270
+  xy: 215, 47
+  size: 104, 141
+  orig: 104, 141
+  offset: 0, 0
+  index: -1
+C_Head_A_II
+  rotate: 270
+  xy: 2, 4
+  size: 101, 88
+  orig: 101, 88
+  offset: 0, 0
+  index: -1
+C_Head_A_III
+  rotate: true
+  xy: 92, 9
+  size: 50, 99
+  orig: 50, 99
+  offset: 0, 0
+  index: -1
+C_Head_I
+  rotate: false
+  xy: 199, 173
+  size: 105, 169
+  orig: 105, 169
+  offset: 0, 0
+  index: -1
+C_L_Eye_A_I
+  rotate: false
+  xy: 266, 8
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+C_R_Eye_A_I
+  rotate: false
+  xy: 266, 8
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+C_L_Eye_B_I
+  rotate: false
+  xy: 2, 321
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+C_R_Eye_B_I
+  rotate: false
+  xy: 2, 321
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+C_L_Eye_B_II
+  rotate: false
+  xy: 238, 160
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+C_L_Eye_B_III
+  rotate: false
+  xy: 2, 333
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+C_Mouth_B_I
+  rotate: false
+  xy: 263, 161
+  size: 59, 11
+  orig: 59, 11
+  offset: 0, 0
+  index: -1
+C_Mouth_B_II
+  rotate: false
+  xy: 292, 181
+  size: 43, 11
+  orig: 43, 11
+  offset: 0, 0
+  index: -1
+C_R_Eye_B_II
+  rotate: false
+  xy: 292, 14
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+C_Shell_I
+  rotate: false
+  xy: 230, 11
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+C_Shell_II
+  rotate: false
+  xy: 193, 11
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+C_Shell_III
+  rotate: false
+  xy: 155, 314
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+C_Shell_IV
+  rotate: false
+  xy: 181, 172
+  size: 27, 53
+  orig: 27, 53
+  offset: 0, 0
+  index: -1
+C_Shell_V
+  rotate: false
+  xy: 2, 172
+  size: 195, 170
+  orig: 195, 170
+  offset: 0, 0
+  index: -1

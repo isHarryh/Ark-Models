@@ -1,0 +1,139 @@
+
+enemy_10254_dsjarc.png
+size: 240,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body_I
+  rotate: true
+  xy: 123, 102
+  size: 64, 87
+  orig: 64, 87
+  offset: 0, 0
+  index: -1
+C_Coat_I
+  rotate: true
+  xy: 2, 60
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+C_Head_I
+  rotate: false
+  xy: 2, 94
+  size: 119, 71
+  orig: 119, 71
+  offset: 0, 0
+  index: -1
+C_L_Arm_I
+  rotate: true
+  xy: 32, 4
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+C_L_Calf_I
+  rotate: false
+  xy: 170, 59
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+C_L_Coat_I
+  rotate: true
+  xy: 58, 61
+  size: 41, 110
+  orig: 41, 110
+  offset: 0, 0
+  index: -1
+C_L_Coat_II
+  rotate: false
+  xy: 210, 9
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+C_L_Foot_I
+  rotate: false
+  xy: 61, 7
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+C_L_Forearm_I
+  rotate: false
+  xy: 43, 28
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+C_L_Hand_I
+  rotate: false
+  xy: 2, 3
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+C_L_Leg_I
+  rotate: true
+  xy: 128, 30
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+C_R_Arm_I
+  rotate: true
+  xy: 170, 33
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+C_R_Calf_I
+  rotate: true
+  xy: 2, 30
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+C_R_Coat_I
+  rotate: 180
+  xy: 206, 58
+  size: 27, 108
+  orig: 27, 108
+  offset: 0, 0
+  index: -1
+C_R_Foot_I
+  rotate: false
+  xy: 95, 6
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+C_R_Forearm_I
+  rotate: false
+  xy: 170, 3
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+C_R_Hand_I
+  rotate: false
+  xy: 128, 10
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+C_R_Leg_I
+  rotate: true
+  xy: 82, 32
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+C_Weapon_I
+  rotate: false
+  xy: 2, 167
+  size: 225, 64
+  orig: 225, 64
+  offset: 0, 0
+  index: -1

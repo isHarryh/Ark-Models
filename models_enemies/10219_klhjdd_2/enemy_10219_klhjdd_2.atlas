@@ -1,0 +1,356 @@
+
+enemy_10219_klhjdd_2.png
+size: 416,416
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Belt
+  rotate: 180
+  xy: 343, 36
+  size: 71, 24
+  orig: 71, 24
+  offset: 0, 0
+  index: -1
+C_Belt_a
+  rotate: false
+  xy: 392, 345
+  size: 16, 55
+  orig: 16, 55
+  offset: 0, 0
+  index: -1
+C_Belt_b
+  rotate: false
+  xy: 2, 320
+  size: 15, 55
+  orig: 15, 55
+  offset: 0, 0
+  index: -1
+C_Belt_c
+  rotate: false
+  xy: 142, 150
+  size: 15, 54
+  orig: 15, 54
+  offset: 0, 0
+  index: -1
+C_Chest
+  rotate: true
+  xy: 260, 318
+  size: 82, 75
+  orig: 82, 75
+  offset: 0, 0
+  index: -1
+C_Head_a
+  rotate: true
+  xy: 215, 110
+  size: 46, 55
+  orig: 46, 55
+  offset: 0, 0
+  index: -1
+C_Head_aa
+  rotate: 180
+  xy: 98, 197
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+C_Head_aaa
+  rotate: 270
+  xy: 191, 207
+  size: 72, 79
+  orig: 72, 79
+  offset: 0, 0
+  index: -1
+C_Head_aaaa
+  rotate: 270
+  xy: 264, 247
+  size: 72, 91
+  orig: 72, 91
+  offset: 0, 0
+  index: -1
+C_Head_aaaaa
+  rotate: false
+  xy: 368, 119
+  size: 46, 55
+  orig: 46, 55
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: false
+  xy: 65, 160
+  size: 66, 51
+  orig: 66, 51
+  offset: 0, 0
+  index: -1
+C_L_Arm_a
+  rotate: 180
+  xy: 243, 156
+  size: 58, 58
+  orig: 58, 63
+  offset: 0, 0
+  index: -1
+C_L_Calf
+  rotate: true
+  xy: 175, 89
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: false
+  xy: 52, 19
+  size: 50, 33
+  orig: 50, 33
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: 270
+  xy: 111, 3
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+C_L_Forearm_a
+  rotate: true
+  xy: 308, 99
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: -1
+C_L_Forearm_aa
+  rotate: 270
+  xy: 2, 354
+  size: 47, 77
+  orig: 47, 77
+  offset: 0, 0
+  index: -1
+C_L_Forearm_aaa
+  rotate: true
+  xy: 7, 207
+  size: 49, 89
+  orig: 49, 89
+  offset: 0, 0
+  index: -1
+C_L_Forearm_aaaa
+  rotate: 270
+  xy: 271, 196
+  size: 49, 95
+  orig: 49, 95
+  offset: 0, 0
+  index: -1
+C_L_Forearm_aaaaa
+  rotate: true
+  xy: 28, 88
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: true
+  xy: 2, 15
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+C_L_Leg
+  rotate: true
+  xy: 142, 54
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: false
+  xy: 205, 47
+  size: 46, 52
+  orig: 46, 52
+  offset: 0, 0
+  index: -1
+C_R_Arm_a
+  rotate: false
+  xy: 153, 373
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+C_R_Calf
+  rotate: true
+  xy: 77, 117
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+C_R_Finger
+  rotate: false
+  xy: 189, 16
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: 180
+  xy: 221, 21
+  size: 50, 33
+  orig: 50, 33
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: true
+  xy: 262, 50
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+C_R_Forearm_a
+  rotate: true
+  xy: 106, 35
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+C_R_Forearm_aa
+  rotate: false
+  xy: 296, 19
+  size: 49, 34
+  orig: 49, 34
+  offset: 0, 0
+  index: -1
+C_R_Forearm_aaa
+  rotate: false
+  xy: 2, 48
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+C_R_Forearm_aaaa
+  rotate: 180
+  xy: 308, 57
+  size: 51, 41
+  orig: 51, 41
+  offset: 0, 0
+  index: -1
+C_R_Forearm_aaaaa
+  rotate: false
+  xy: 140, 19
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: false
+  xy: 135, 295
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+C_R_Leg
+  rotate: true
+  xy: 54, 55
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+C_Waist
+  rotate: true
+  xy: 334, 307
+  size: 94, 59
+  orig: 94, 59
+  offset: 0, 0
+  index: -1
+C_Weapon_Handle
+  rotate: false
+  xy: 2, 167
+  size: 62, 39
+  orig: 62, 39
+  offset: 0, 0
+  index: -1
+C_Weapon_L
+  rotate: 180
+  xy: 125, 323
+  size: 133, 77
+  orig: 133, 77
+  offset: 0, 0
+  index: -1
+C_Weapon_La
+  rotate: false
+  xy: 13, 119
+  size: 62, 47
+  orig: 62, 47
+  offset: 0, 0
+  index: -1
+C_Weapon_Laa
+  rotate: 180
+  xy: 348, 175
+  size: 66, 50
+  orig: 66, 50
+  offset: 0, 0
+  index: -1
+C_Weapon_Laaa
+  rotate: 180
+  xy: 26, 254
+  size: 108, 69
+  orig: 108, 69
+  offset: 0, 0
+  index: -1
+C_Weapon_Laaaa
+  rotate: 180
+  xy: 142, 263
+  size: 124, 75
+  orig: 124, 75
+  offset: 0, 0
+  index: -1
+C_Weapon_Laaaaa
+  rotate: 180
+  xy: 154, 129
+  size: 62, 47
+  orig: 62, 47
+  offset: 0, 0
+  index: -1
+C_Weapon_R
+  rotate: false
+  xy: 2, 287
+  size: 150, 114
+  orig: 150, 114
+  offset: 0, 0
+  index: -1
+C_Weapon_R_Handle
+  rotate: true
+  xy: 357, 247
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+C_Weapon_Ra
+  rotate: false
+  xy: 252, 81
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+C_Weapon_Raa
+  rotate: false
+  xy: 361, 70
+  size: 52, 54
+  orig: 52, 54
+  offset: 0, 0
+  index: -1
+C_Weapon_Raaa
+  rotate: true
+  xy: 303, 130
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+C_Weapon_Raaaa
+  rotate: true
+  xy: 161, 169
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+C_Weapon_Raaaaa
+  rotate: false
+  xy: 107, 78
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+enemy_9039_acrefm.png
+size: 300,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 196, 203
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+C_Body2
+  rotate: false
+  xy: 2, 188
+  size: 174, 86
+  orig: 174, 86
+  offset: 0, 0
+  index: -1
+C_Head_1
+  rotate: 180
+  xy: 132, 69
+  size: 111, 134
+  orig: 111, 134
+  offset: 0, 0
+  index: -1
+C_Head_2
+  rotate: false
+  xy: 2, 53
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+C_Line_1
+  rotate: true
+  xy: 170, 3
+  size: 49, 101
+  orig: 49, 101
+  offset: 0, 0
+  index: -1
+C_Line_2
+  rotate: false
+  xy: 78, 18
+  size: 19, 50
+  orig: 19, 50
+  offset: 0, 0
+  index: -1
+C_Line_3
+  rotate: false
+  xy: 2, 29
+  size: 35, 68
+  orig: 38, 68
+  offset: 3, 0
+  index: -1
+C_Line_4
+  rotate: false
+  xy: 215, 145
+  size: 53, 58
+  orig: 53, 58
+  offset: 0, 0
+  index: -1
+C_T
+  rotate: false
+  xy: 13, 4
+  size: 68, 33
+  orig: 68, 41
+  offset: 0, 8
+  index: -1
+C_W_1
+  rotate: false
+  xy: 59, 24
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+C_W_2
+  rotate: false
+  xy: 110, 153
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+C_W_3
+  rotate: false
+  xy: 2, 165
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+C_W_4
+  rotate: true
+  xy: 102, 17
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+C_W_5
+  rotate: true
+  xy: 232, 46
+  size: 75, 66
+  orig: 75, 66
+  offset: 0, 0
+  index: -1

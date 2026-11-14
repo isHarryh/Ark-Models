@@ -1,0 +1,181 @@
+
+enemy_9024_acsgnt.png
+size: 416,416
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 194
+  size: 255, 198
+  orig: 255, 198
+  offset: 0, 0
+  index: -1
+Dust
+  rotate: true
+  xy: 259, 285
+  size: 107, 99
+  orig: 107, 99
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 323, 61
+  size: 90, 63
+  orig: 90, 63
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: false
+  xy: 2, 139
+  size: 93, 87
+  orig: 93, 87
+  offset: 0, 0
+  index: -1
+L_FingerA
+  rotate: false
+  xy: 360, 348
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+L_FingerB
+  rotate: false
+  xy: 360, 300
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+L_FingerC
+  rotate: false
+  xy: 165, 19
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+L_FingerT
+  rotate: false
+  xy: 69, 26
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+L_Foot
+  rotate: true
+  xy: 84, 61
+  size: 87, 79
+  orig: 102, 79
+  offset: 15, 0
+  index: -1
+L_Hand
+  rotate: false
+  xy: 322, 13
+  size: 60, 47
+  orig: 60, 47
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: false
+  xy: 165, 61
+  size: 57, 73
+  orig: 57, 73
+  offset: 0, 0
+  index: -1
+L_Toe
+  rotate: false
+  xy: 322, 258
+  size: 78, 25
+  orig: 78, 25
+  offset: 0, 0
+  index: -1
+Pipul
+  rotate: false
+  xy: 2, 314
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: false
+  xy: 165, 135
+  size: 89, 76
+  orig: 89, 76
+  offset: 0, 0
+  index: -1
+R_FingerA
+  rotate: false
+  xy: 2, 259
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+R_FingerB
+  rotate: false
+  xy: 375, 213
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+R_FingerC
+  rotate: false
+  xy: 136, 160
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+R_FingerT
+  rotate: false
+  xy: 96, 158
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+R_Foot
+  rotate: false
+  xy: 2, 66
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 255, 102
+  size: 66, 94
+  orig: 66, 94
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: true
+  xy: 2, 3
+  size: 62, 65
+  orig: 62, 65
+  offset: 0, 0
+  index: -1
+R_Toe
+  rotate: false
+  xy: 2, 233
+  size: 59, 24
+  orig: 59, 24
+  offset: 0, 0
+  index: -1
+RibbonL
+  rotate: 270
+  xy: 220, 197
+  size: 100, 153
+  orig: 100, 153
+  offset: 0, 0
+  index: -1
+RibbonR
+  rotate: 270
+  xy: 221, 26
+  size: 70, 101
+  orig: 70, 101
+  offset: 0, 0
+  index: -1
+Stone
+  rotate: false
+  xy: 329, 125
+  size: 85, 76
+  orig: 85, 76
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+enemy_9025_aclts.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ChipA
+  rotate: false
+  xy: 90, 10
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+ChipB
+  rotate: false
+  xy: 2, 46
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+ChipC
+  rotate: false
+  xy: 39, 4
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+LineA
+  rotate: 180
+  xy: 2, 5
+  size: 119, 74
+  orig: 119, 74
+  offset: 0, 0
+  index: -1
+LineB
+  rotate: true
+  xy: 87, 75
+  size: 76, 41
+  orig: 76, 41
+  offset: 0, 0
+  index: -1
+NoteA
+  rotate: false
+  xy: 64, 6
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+NoteB
+  rotate: false
+  xy: 2, 126
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+Paper
+  rotate: false
+  xy: 2, 56
+  size: 101, 96
+  orig: 101, 96
+  offset: 0, 0
+  index: -1

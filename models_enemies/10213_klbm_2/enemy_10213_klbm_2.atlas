@@ -1,0 +1,69 @@
+
+enemy_10213_klbm_2.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: 270
+  xy: 78, 44
+  size: 59, 42
+  orig: 59, 42
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 57, 91
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 37
+  size: 81, 67
+  orig: 81, 67
+  offset: 0, 0
+  index: -1
+Leg_A
+  rotate: false
+  xy: 2, 3
+  size: 81, 42
+  orig: 81, 42
+  offset: 0, 0
+  index: -1
+Leg_B
+  rotate: false
+  xy: 63, 20
+  size: 84, 31
+  orig: 84, 31
+  offset: 0, 0
+  index: -1
+Leg_C
+  rotate: true
+  xy: 106, 6
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+Leg_D
+  rotate: false
+  xy: 115, 50
+  size: 96, 53
+  orig: 96, 53
+  offset: 0, 0
+  index: -1
+Leg_E
+  rotate: 180
+  xy: 147, 3
+  size: 67, 83
+  orig: 67, 83
+  offset: 0, 0
+  index: -1
+Pipul
+  rotate: false
+  xy: 2, 99
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1

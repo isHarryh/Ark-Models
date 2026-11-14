@@ -1,0 +1,62 @@
+
+enemy_10263_dsjblk.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_Body
+  rotate: true
+  xy: 44, 21
+  size: 47, 24
+  orig: 47, 24
+  offset: 0, 0
+  index: -1
+F_Eff_Dust_A
+  rotate: false
+  xy: 44, 8
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+F_Eff_Dust_B
+  rotate: false
+  xy: 2, 58
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+F_Eff_Dust_E
+  rotate: true
+  xy: 46, 59
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+F_Eff_Dust_F
+  rotate: false
+  xy: 46, 52
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+F_Eff_Light
+  rotate: true
+  xy: 62, 3
+  size: 38, 9
+  orig: 38, 9
+  offset: 0, 0
+  index: -1
+F_L_Wing
+  rotate: true
+  xy: 2, 8
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+F_R_Wing
+  rotate: 180
+  xy: 2, 29
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
