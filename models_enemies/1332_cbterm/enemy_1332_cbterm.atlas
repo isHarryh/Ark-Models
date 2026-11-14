@@ -1,209 +1,209 @@
 
 enemy_1332_cbterm.png
-size: 512,512
+size: 576,576
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 C_Chest
   rotate: 180
-  xy: 100, 444
-  size: 88, 59
-  orig: 88, 59
+  xy: 196, 436
+  size: 176, 117
+  orig: 176, 117
   offset: 0, 0
   index: -1
 C_Chest_Borken
   rotate: false
-  xy: 2, 444
-  size: 98, 59
-  orig: 98, 59
+  xy: 2, 436
+  size: 196, 117
+  orig: 196, 117
   offset: 0, 0
   index: -1
 C_Chest_L
   rotate: false
-  xy: 214, 368
-  size: 51, 36
-  orig: 51, 36
+  xy: 2, 85
+  size: 101, 72
+  orig: 101, 72
   offset: 0, 0
   index: -1
 C_Chest_R
   rotate: false
-  xy: 218, 330
-  size: 36, 34
-  orig: 36, 34
+  xy: 194, 7
+  size: 72, 68
+  orig: 72, 68
   offset: 0, 0
   index: -1
 C_Crack
   rotate: true
-  xy: 338, 402
-  size: 46, 52
-  orig: 61, 63
-  offset: 8, 4
+  xy: 2, 244
+  size: 91, 104
+  orig: 122, 125
+  offset: 16, 8
   index: -1
 C_Head
   rotate: false
-  xy: 264, 444
-  size: 97, 58
-  orig: 97, 58
+  xy: 61, 328
+  size: 194, 116
+  orig: 194, 116
   offset: 0, 0
   index: -1
 C_L_Arm
   rotate: true
-  xy: 363, 450
-  size: 53, 68
-  orig: 53, 68
+  xy: 257, 328
+  size: 105, 135
+  orig: 105, 135
   offset: 0, 0
   index: -1
 C_L_Calf
-  rotate: true
-  xy: 346, 351
-  size: 50, 41
-  orig: 50, 41
+  rotate: false
+  xy: 384, 14
+  size: 99, 82
+  orig: 99, 82
   offset: 0, 0
   index: -1
 C_L_Calf_A
-  rotate: true
-  xy: 2, 328
-  size: 45, 40
-  orig: 45, 40
+  rotate: false
+  xy: 2, 3
+  size: 89, 80
+  orig: 89, 80
   offset: 0, 0
   index: -1
 C_L_Foot
   rotate: false
-  xy: 44, 337
-  size: 58, 22
-  orig: 58, 22
+  xy: 268, 12
+  size: 115, 43
+  orig: 115, 43
   offset: 0, 0
   index: -1
 C_L_Forearm
   rotate: false
-  xy: 36, 360
-  size: 52, 36
-  orig: 52, 36
+  xy: 105, 84
+  size: 103, 71
+  orig: 103, 71
   offset: 0, 0
   index: -1
 C_L_Hand
   rotate: false
-  xy: 432, 409
-  size: 66, 45
-  orig: 66, 45
+  xy: 394, 247
+  size: 132, 89
+  orig: 132, 89
   offset: 0, 0
   index: -1
 C_L_Knee
-  rotate: false
-  xy: 381, 330
-  size: 32, 27
-  orig: 32, 27
+  rotate: true
+  xy: 2, 371
+  size: 63, 53
+  orig: 63, 53
   offset: 0, 0
   index: -1
 C_L_Leg
   rotate: 270
-  xy: 48, 398
-  size: 51, 53
-  orig: 51, 53
+  xy: 149, 235
+  size: 101, 106
+  orig: 101, 106
   offset: 0, 0
   index: -1
 C_L_Shoulder
   rotate: false
-  xy: 158, 400
-  size: 67, 42
-  orig: 67, 42
+  xy: 2, 159
+  size: 133, 83
+  orig: 133, 83
   offset: 0, 0
   index: -1
 C_Light
   rotate: false
-  xy: 415, 335
-  size: 22, 29
-  orig: 22, 29
+  xy: 528, 279
+  size: 43, 57
+  orig: 43, 57
   offset: 0, 0
   index: -1
 C_Pelvic
-  rotate: false
-  xy: 141, 354
-  size: 75, 29
-  orig: 75, 29
+  rotate: 180
+  xy: 405, 95
+  size: 150, 58
+  orig: 150, 58
   offset: 0, 0
   index: -1
 C_R_Arm
   rotate: true
-  xy: 432, 455
-  size: 48, 69
-  orig: 48, 69
+  xy: 394, 338
+  size: 95, 138
+  orig: 95, 138
   offset: 0, 0
   index: -1
 C_R_Calf
-  rotate: false
-  xy: 258, 329
-  size: 47, 39
-  orig: 47, 39
+  rotate: 180
+  xy: 99, 7
+  size: 93, 77
+  orig: 93, 77
   offset: 0, 0
   index: -1
 C_R_Calf_A
   rotate: true
-  xy: 303, 359
-  size: 44, 44
-  orig: 44, 44
+  xy: 319, 82
+  size: 88, 88
+  orig: 88, 88
   offset: 0, 0
   index: -1
 C_R_Foot
-  rotate: false
-  xy: 103, 331
-  size: 59, 22
-  orig: 59, 22
+  rotate: true
+  xy: 522, 437
+  size: 117, 43
+  orig: 117, 43
   offset: 0, 0
   index: -1
 C_R_Forearm
   rotate: false
-  xy: 88, 363
-  size: 51, 36
-  orig: 51, 36
+  xy: 207, 84
+  size: 102, 71
+  orig: 102, 71
   offset: 0, 0
   index: -1
 C_R_Hand
   rotate: false
-  xy: 103, 400
-  size: 53, 42
-  orig: 53, 42
+  xy: 257, 242
+  size: 106, 84
+  orig: 106, 84
   offset: 0, 0
   index: -1
 C_R_Knee
   rotate: false
-  xy: 306, 330
-  size: 32, 27
-  orig: 32, 27
+  xy: 483, 39
+  size: 64, 54
+  orig: 64, 54
   offset: 0, 0
   index: -1
 C_R_Leg
   rotate: true
-  xy: 255, 400
-  size: 46, 53
-  orig: 46, 53
+  xy: 365, 155
+  size: 92, 106
+  orig: 92, 106
   offset: 0, 0
   index: -1
 C_R_Shoulder
-  rotate: true
-  xy: 2, 392
-  size: 50, 38
-  orig: 50, 38
+  rotate: false
+  xy: 137, 157
+  size: 100, 76
+  orig: 100, 76
   offset: 0, 0
   index: -1
 C_Skirt_L
   rotate: true
-  xy: 392, 365
-  size: 42, 45
-  orig: 42, 45
+  xy: 239, 157
+  size: 83, 90
+  orig: 83, 90
   offset: 0, 0
   index: -1
 C_Skirt_R
-  rotate: true
-  xy: 439, 365
-  size: 42, 45
-  orig: 42, 45
+  rotate: false
+  xy: 473, 155
+  size: 83, 90
+  orig: 83, 90
   offset: 0, 0
   index: -1
 C_Waist
   rotate: 180
-  xy: 190, 443
-  size: 73, 59
-  orig: 73, 59
+  xy: 374, 435
+  size: 146, 118
+  orig: 146, 118
   offset: 0, 0
   index: -1
