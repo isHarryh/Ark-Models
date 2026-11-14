@@ -15,7 +15,7 @@ This repository collected the Spine models from the game Arknights (CN server), 
 | `models_enemies` |           Enemies' battle models            |
 | `models_illust`  |   Dynamic illustrations (skins included)    |
 
-> We will do updates irregularly, you are welcome to send PR to improve the repository. The tool we use to unpack the model files is [ArkUnpacker](https://github.com/isHarryh/Ark-Unpacker) v5.0.
+> We will do updates irregularly, you are welcome to send PR to improve the repository. The tool we use to unpack the model files is [ArkUnpacker](https://github.com/isHarryh/Ark-Unpacker) v5.2.
 
 ## Download
 
@@ -34,7 +34,7 @@ This repository collected the Spine models from the game Arknights (CN server), 
 
 ## Formats
 
-The models depends on [Spine Runtime](https://github.com/EsotericSoftware/spine-runtimes) v3.8. A Spine model is usually composed of one `.atlas` file, one `.skel` file and one `.png` image file.
+The models depends on [Spine Runtime](https://github.com/EsotericSoftware/spine-runtimes) v3.8. A Spine model is *usually* composed of one `.atlas` file, one `.skel` file and one `.png` image file.
 
 In this repo, Spine models will be stored into their directories respectively.
 The dataset file `models_data.json` recorded the detailed information of each model.

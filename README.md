@@ -8,7 +8,7 @@ Arknights Spine Models (Excerpt)
 ## 状态
 
 当前更新至：
-- 活动 **矢量突破：拟生态** 中新增的干员、时装和敌人模型
+- 活动 **时间啊，向前！** 中新增的干员、时装和敌人模型
 
 本仓库收集了中国服《明日方舟》中的部分Spine模型文件，包括：
 |      文件夹      |         内 容          |
@@ -17,7 +17,7 @@ Arknights Spine Models (Excerpt)
 | `models_enemies` |      敌人战斗小人      |
 | `models_illust`  | 干员动态立绘（含时装） |
 
-> 本仓库为不定期更新，欢迎提交 PR 来完善仓库。本仓库使用的提取模型文件的工具是 [ArkUnpacker](https://github.com/isHarryh/Ark-Unpacker) v5.0。
+> 本仓库为不定期更新，欢迎提交 PR 来完善仓库。本仓库使用的提取模型文件的工具是 [ArkUnpacker](https://github.com/isHarryh/Ark-Unpacker) v5.2。
 
 ## 仓库下载
 
@@ -38,7 +38,7 @@ Arknights Spine Models (Excerpt)
 
 ## 格式说明
 
-《明日方舟》的 Spine 模型需要 [Spine Runtime](https://github.com/EsotericSoftware/spine-runtimes) v3.8 才能运行。一套 Spine 模型通常由 `.atlas` 文件、`.skel` 文件和 `.png` 图片组成。
+《明日方舟》的 Spine 模型需要 [Spine Runtime](https://github.com/EsotericSoftware/spine-runtimes) v3.8 才能运行。一套 Spine 模型*通常*由 `.atlas` 文件、`.skel` 文件和 `.png` 图片组成。
 
 本仓库中，每个 Spine 模型会被分别存放到不同的子目录中。根目录的 `models_data.json` 数据集文件中记录了每个模型的具体信息。
 
